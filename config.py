@@ -41,7 +41,7 @@ GITHUB_REPO: str = _require("GITHUB_REPO")          # "owner/repo"
 # Paths within the repo
 GITHUB_PATH_PRIORITY: str = "feeds/priority.json"
 GITHUB_PATH_HIGH_SIGNAL: str = "feeds/high_signal.json"
-GITHUB_PATH_STANDING_VIEW: str = "standing-view/standing_view"
+GITHUB_PATH_STANDING_VIEW: str = "standing-view/standing_view.md"
 GITHUB_OUTPUT_DIR: str = "output"
 
 # ── Gmail ──────────────────────────────────────────────────────────────────────
