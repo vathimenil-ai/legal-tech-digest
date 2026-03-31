@@ -18,31 +18,30 @@ import config
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.inoreader.com"
-TOKEN_URL = f"{BASE_URL}/oauth2/token"
+CLIENT_LOGIN_URL = f"{BASE_URL}/accounts/ClientLogin"
 STREAM_URL = f"{BASE_URL}/reader/api/0/stream/contents"
 
 
 # ── Token management ──────────────────────────────────────────────────────────
 
-def refresh_access_token(refresh_token: str) -> dict[str, str]:
-    """Exchange a refresh token for a new access token."""
-    resp = requests.post(TOKEN_URL, data={
-        "grant_type": "refresh_token",
-        "refresh_token": refresh_token,
-        "client_id": config.INOREADER_APP_ID,
-        "client_secret": config.INOREADER_APP_KEY,
-    }, timeout=30)
+def get_token_via_clientlogin(username: str, password: str) -> str:
+    """Authenticate via ClientLogin and return the Auth token."""
+    resp = requests.post(
+        CLIENT_LOGIN_URL,
+        data={"Email": username, "Passwd": password},
+        headers={"AppId": config.INOREADER_APP_ID, "AppKey": config.INOREADER_APP_KEY},
+        timeout=30,
+    )
     resp.raise_for_status()
-    data = resp.json()
-    return {
-        "access_token": data["access_token"],
-        "refresh_token": data.get("refresh_token", refresh_token),
-    }
+    for line in resp.text.splitlines():
+        if line.startswith("Auth="):
+            return line.split("=", 1)[1].strip()
+    raise ValueError(f"Auth token not found in ClientLogin response: {resp.text}")
 
 
-def _auth_headers(access_token: str) -> dict[str, str]:
+def _auth_headers(token: str) -> dict[str, str]:
     return {
-        "Authorization": f"Bearer {access_token}",
+        "Authorization": f"GoogleLogin auth={token}",
         "AppId": config.INOREADER_APP_ID,
         "AppKey": config.INOREADER_APP_KEY,
     }

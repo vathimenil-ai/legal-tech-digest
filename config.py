@@ -4,9 +4,10 @@ All other modules import from here rather than reading os.environ directly.
 """
 import os
 import sys
+from pathlib import Path
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(Path(__file__).parent / "legaltech_weeklydigest.env", override=True)
 
 
 def _require(key: str) -> str:
@@ -27,12 +28,13 @@ ANTHROPIC_API_KEY: str = _require("ANTHROPIC_API_KEY")
 # ── InnoReader ─────────────────────────────────────────────────────────────────
 INOREADER_APP_ID: str = _require("INOREADER_APP_ID")
 INOREADER_APP_KEY: str = _require("INOREADER_APP_KEY")
-INOREADER_ACCESS_TOKEN: str = _optional("INOREADER_ACCESS_TOKEN")
-INOREADER_REFRESH_TOKEN: str = _optional("INOREADER_REFRESH_TOKEN")
+INOREADER_TOKEN: str = _optional("INOREADER_TOKEN")           # from ClientLogin
+INOREADER_USERNAME: str = _optional("INOREADER_USERNAME")     # fallback auth
+INOREADER_PASSWORD: str = _optional("INOREADER_PASSWORD")     # fallback auth
 
 # Label names exactly as they appear in InnoReader
-INOREADER_LABEL_PRIORITY: str = _optional("INOREADER_LABEL_PRIORITY", "priority")
-INOREADER_LABEL_HIGH_SIGNAL: str = _optional("INOREADER_LABEL_HIGH_SIGNAL", "high_signal")
+INOREADER_LABEL_PRIORITY: str = _optional("INOREADER_LABEL_PRIORITY", "Priority")
+INOREADER_LABEL_HIGH_SIGNAL: str = _optional("INOREADER_LABEL_HIGH_SIGNAL", "High-Signal")
 
 # ── GitHub ─────────────────────────────────────────────────────────────────────
 GITHUB_TOKEN: str = _require("GITHUB_TOKEN")

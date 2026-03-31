@@ -84,28 +84,27 @@ def markdown_to_html(md_text: str, title: str = "Legal Tech Intelligence Brief")
 
 def _get_inoreader_token() -> str:
     """
-    Return a valid InnoReader access token, refreshing if INOREADER_REFRESH_TOKEN
-    is set but INOREADER_ACCESS_TOKEN is missing or stale.
+    Return a valid InnoReader auth token.
+    Uses INOREADER_TOKEN if set; otherwise authenticates via ClientLogin
+    using INOREADER_USERNAME + INOREADER_PASSWORD.
     """
-    access_token = config.INOREADER_ACCESS_TOKEN
-    refresh_token = config.INOREADER_REFRESH_TOKEN
+    token = config._optional("INOREADER_TOKEN")
+    if token:
+        return token
 
-    if not access_token and not refresh_token:
-        logger.error(
-            "No InnoReader tokens found. Run `python setup_inoreader.py` first."
-        )
-        sys.exit(1)
+    username = config._optional("INOREADER_USERNAME")
+    password = config._optional("INOREADER_PASSWORD")
+    if username and password:
+        logger.info("INOREADER_TOKEN not set — authenticating via ClientLogin…")
+        token = inoreader_client.get_token_via_clientlogin(username, password)
+        logger.info("ClientLogin successful.")
+        return token
 
-    if not access_token and refresh_token:
-        logger.info("Refreshing InnoReader access token…")
-        tokens = inoreader_client.refresh_access_token(refresh_token)
-        access_token = tokens["access_token"]
-        logger.info(
-            "Token refreshed. Update INOREADER_ACCESS_TOKEN in your .env:\n  %s",
-            access_token,
-        )
-
-    return access_token
+    logger.error(
+        "No InnoReader credentials found. Set INOREADER_TOKEN or "
+        "INOREADER_USERNAME + INOREADER_PASSWORD in your .env file."
+    )
+    sys.exit(1)
 
 
 # ── Pipeline steps ─────────────────────────────────────────────────────────────
