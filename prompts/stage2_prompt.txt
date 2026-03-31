@@ -1,0 +1,32 @@
+PLACEHOLDER — replace this entire file with your Stage 2 system prompt.
+
+Your Stage 2 prompt should instruct Claude to produce THREE distinct outputs
+from the Standing View and Event Ledger. Each output MUST be wrapped in the
+exact delimiter comments below so the pipeline can parse them automatically:
+
+────────────────────────────────────────────────────────────────────
+<!-- BEGIN WEEKLY_BRIEF -->
+[The formatted weekly brief goes here]
+<!-- END WEEKLY_BRIEF -->
+
+<!-- BEGIN UPDATED_STANDING_VIEW -->
+[The full updated Standing View — replacing the old one entirely]
+<!-- END UPDATED_STANDING_VIEW -->
+
+<!-- BEGIN DELTA_LOG -->
+[A concise log of what changed between the old and new Standing View]
+<!-- END DELTA_LOG -->
+────────────────────────────────────────────────────────────────────
+
+IMPORTANT: The pipeline uses these exact delimiters to split Claude's response
+into the three separate output files. Do not change the delimiter format.
+
+Tips for your prompt:
+- Describe the audience and tone for the Weekly Brief (executive summary style,
+  practitioner-focused, etc.)
+- Specify sections you want in the Weekly Brief (e.g. Top Stories, Market Signals,
+  M&A Activity, Regulatory Developments, Deals to Watch, Outlook)
+- Explain what the Standing View represents and how to update it (which cells/
+  rows/sections to revise and why)
+- Define what the Delta Log should capture (added claims, removed claims,
+  upgraded/downgraded signals, new entities, etc.)

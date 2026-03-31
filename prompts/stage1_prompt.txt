@@ -1,0 +1,15 @@
+PLACEHOLDER — replace this entire file with your Stage 1 system prompt.
+
+Your Stage 1 prompt should instruct Claude how to analyse the Standing View
+and the two article feeds (priority + high_signal) to produce an Event Ledger.
+
+The Event Ledger is the structured intermediate output that will be passed to
+Stage 2 alongside the Standing View to produce the final Weekly Brief.
+
+Tips for your prompt:
+- Define what counts as a significant "event" or "trend" worth logging
+- Specify the format of the Event Ledger entries (e.g. date, source, summary,
+  signal strength, implications for your Standing View)
+- Explain how to distinguish priority articles from high_signal ones in the ledger
+- State how much analysis depth you want per event (brief vs. detailed)
+- Describe any categories or tags the ledger should use
