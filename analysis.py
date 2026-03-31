@@ -17,6 +17,7 @@ Replace the placeholder text in those files with your actual prompts.
 import json
 import logging
 import re
+import time
 from pathlib import Path
 from typing import Any
 
@@ -26,7 +27,7 @@ import config
 
 logger = logging.getLogger(__name__)
 
-_client = anthropic.Anthropic(api_key=config.ANTHROPIC_API_KEY)
+_client = anthropic.Anthropic(api_key=config.ANTHROPIC_API_KEY, max_retries=5)
 _PROMPTS_DIR = Path(__file__).parent / "prompts"
 
 
@@ -50,12 +51,19 @@ def _load_prompt(filename: str) -> str:
 
 # ── Claude helper ──────────────────────────────────────────────────────────────
 
-def _call_claude(system_prompt: str, user_message: str, label: str = "") -> str:
-    """Send a single-turn message to Claude and return the text response."""
+def _call_claude(system_prompt: str, user_message: str, label: str = "", inter_stage_delay: int = 65) -> str:
+    """Send a single-turn message to Claude and return the text response.
+
+    inter_stage_delay: seconds to wait before this call (used between stages to
+    avoid hitting the tokens-per-minute rate limit).
+    """
+    if inter_stage_delay > 0:
+        logger.info("Waiting %ds for rate limit window to reset before '%s'…", inter_stage_delay, label or "call")
+        time.sleep(inter_stage_delay)
     logger.info("Calling Claude for: %s (model=%s)", label or "analysis", config.CLAUDE_MODEL)
     response = _client.messages.create(
         model=config.CLAUDE_MODEL,
-        max_tokens=8096,
+        max_tokens=16000,
         system=system_prompt,
         messages=[{"role": "user", "content": user_message}],
     )
@@ -100,7 +108,7 @@ def run_stage1(
 {high_signal_json}
 ```
 """
-    return _call_claude(system_prompt, user_message, label="Stage 1 — Event Ledger")
+    return _call_claude(system_prompt, user_message, label="Stage 1 — Event Ledger", inter_stage_delay=0)
 
 
 # ── Stage 2: Weekly Brief + Updated Standing View + Delta Log ──────────────────
@@ -170,5 +178,5 @@ def run_stage2(standing_view: str, event_ledger: str) -> Stage2Output:
 
 {event_ledger}
 """
-    raw = _call_claude(system_prompt, user_message, label="Stage 2 — Weekly Brief")
+    raw = _call_claude(system_prompt, user_message, label="Stage 2 — Weekly Brief", inter_stage_delay=0)
     return Stage2Output(raw)

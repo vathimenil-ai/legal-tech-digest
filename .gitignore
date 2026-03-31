@@ -11,8 +11,9 @@ venv/
 dist/
 build/
 
-# Local output previews
+# Local output previews and caches
 output_preview.html
+event_ledger_cache.md
 
 # OS
 .DS_Store

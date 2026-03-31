@@ -21,6 +21,7 @@ import json
 import logging
 import sys
 from datetime import date, datetime, timezone
+from pathlib import Path
 
 import markdown as md
 
@@ -155,11 +156,64 @@ def step_fetch_standing_view() -> str:
     return content
 
 
+_LEDGER_CACHE = Path("event_ledger_cache.md")
+
+# Max chars for summary text per article sent to Claude
+_SUMMARY_MAX_CHARS = 400
+
+
+def _trim_feed(feed: dict) -> dict:
+    """
+    Strip full HTML content and truncate summaries before sending to Claude.
+    Keeps only the fields the Stage 1 prompt needs: title, source, url,
+    published_at, and a short summary. This keeps token usage well under limits.
+    """
+    import re
+
+    def strip_html(text: str) -> str:
+        return re.sub(r"<[^>]+>", " ", text or "").strip()
+
+    trimmed_items = []
+    for item in feed.get("items", []):
+        summary_clean = strip_html(item.get("summary", "") or item.get("content", ""))
+        trimmed_items.append({
+            "title": item.get("title", ""),
+            "source": item.get("source", ""),
+            "url": item.get("url", ""),
+            "published_at": item.get("published_at", ""),
+            "summary": summary_clean[:_SUMMARY_MAX_CHARS],
+        })
+
+    return {
+        "feed_type": feed.get("feed_type", ""),
+        "fetched_at": feed.get("fetched_at", ""),
+        "item_count": len(trimmed_items),
+        "items": trimmed_items,
+    }
+
+
 def step_stage1(standing_view: str, priority_feed: dict, high_signal_feed: dict) -> str:
-    """Run Stage 1: Event Ledger generation."""
+    """Run Stage 1: Event Ledger generation. Saves result to disk as a cache."""
     logger.info("=== STEP 3: Stage 1 — Event Ledger ===")
-    event_ledger = analysis.run_stage1(standing_view, priority_feed, high_signal_feed)
-    logger.info("Event Ledger: %d chars", len(event_ledger))
+    trimmed_priority = _trim_feed(priority_feed)
+    trimmed_high_signal = _trim_feed(high_signal_feed)
+    logger.info(
+        "Feeds trimmed for prompt: priority=%d items, high_signal=%d items",
+        trimmed_priority["item_count"], trimmed_high_signal["item_count"],
+    )
+    event_ledger = analysis.run_stage1(standing_view, trimmed_priority, trimmed_high_signal)
+    _LEDGER_CACHE.write_text(event_ledger, encoding="utf-8")
+    logger.info("Event Ledger: %d chars (cached to %s)", len(event_ledger), _LEDGER_CACHE)
+    return event_ledger
+
+
+def step_stage1_from_cache() -> str:
+    """Load a previously generated Event Ledger from disk cache."""
+    if not _LEDGER_CACHE.exists():
+        logger.error("No cached Event Ledger found at '%s'. Run without --resume first.", _LEDGER_CACHE)
+        sys.exit(1)
+    event_ledger = _LEDGER_CACHE.read_text(encoding="utf-8")
+    logger.info("=== STEP 3 (resumed): Loaded Event Ledger from cache (%d chars) ===", len(event_ledger))
     return event_ledger
 
 
@@ -218,7 +272,7 @@ def step_email_draft(result: analysis.Stage2Output, dry_run: bool) -> None:
     """Convert Weekly Brief to HTML and create a Gmail draft."""
     logger.info("=== STEP 6: Create Gmail draft ===")
 
-    week_str = date.today().strftime("%B %-d, %Y")
+    week_str = date.today().strftime("%B %#d, %Y") if sys.platform == "win32" else date.today().strftime("%B %-d, %Y")
     subject = f"Legal Tech Intelligence Brief — Week of {week_str}"
 
     html_body = markdown_to_html(result.weekly_brief, title=subject)
@@ -241,14 +295,16 @@ def step_email_draft(result: analysis.Stage2Output, dry_run: bool) -> None:
 
 # ── Entry point ────────────────────────────────────────────────────────────────
 
-def run(dry_run: bool = False, skip_fetch: bool = False) -> None:
+def run(dry_run: bool = False, skip_fetch: bool = False, resume: bool = False) -> None:
     start = datetime.now(tz=timezone.utc)
     logger.info("Legal Tech Intelligence Pipeline starting at %s", start.isoformat())
-    logger.info("Repo: %s  |  Model: %s  |  dry-run=%s  skip-fetch=%s",
-                config.GITHUB_REPO, config.CLAUDE_MODEL, dry_run, skip_fetch)
+    logger.info("Repo: %s  |  Model: %s  |  dry-run=%s  skip-fetch=%s  resume=%s",
+                config.GITHUB_REPO, config.CLAUDE_MODEL, dry_run, skip_fetch, resume)
 
-    # 1. Feeds
-    if skip_fetch:
+    # 1. Feeds (skip if resuming from cached Event Ledger)
+    if resume:
+        priority_feed, high_signal_feed = {}, {}
+    elif skip_fetch:
         priority_feed, high_signal_feed = step_load_existing_feeds()
     else:
         priority_feed, high_signal_feed = step_fetch_feeds(dry_run)
@@ -256,8 +312,11 @@ def run(dry_run: bool = False, skip_fetch: bool = False) -> None:
     # 2. Standing View
     standing_view = step_fetch_standing_view()
 
-    # 3. Stage 1 — Event Ledger
-    event_ledger = step_stage1(standing_view, priority_feed, high_signal_feed)
+    # 3. Stage 1 — Event Ledger (or load from cache)
+    if resume:
+        event_ledger = step_stage1_from_cache()
+    else:
+        event_ledger = step_stage1(standing_view, priority_feed, high_signal_feed)
 
     # 4. Stage 2 — Weekly Brief
     result = step_stage2(standing_view, event_ledger)
@@ -284,8 +343,13 @@ def main() -> None:
         action="store_true",
         help="Re-use feeds already in GitHub instead of calling InnoReader",
     )
+    parser.add_argument(
+        "--resume",
+        action="store_true",
+        help="Skip Stage 1 and resume from cached event_ledger_cache.md (useful after rate limit failures)",
+    )
     args = parser.parse_args()
-    run(dry_run=args.dry_run, skip_fetch=args.skip_fetch)
+    run(dry_run=args.dry_run, skip_fetch=args.skip_fetch, resume=args.resume)
 
 
 if __name__ == "__main__":
