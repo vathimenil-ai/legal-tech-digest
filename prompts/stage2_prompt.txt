@@ -145,10 +145,28 @@ Bad bottom line bullets sound like:
 3-5 developments maximum. Only Tier 1 developments.
 
 For each:
-- **What happened:** factual description
-- **What's new:** why this is meaningfully different from prior state
-- **Why it matters:** specific implication for LSP margin structure, competitive position, platform risk, or recurring revenue opportunity
-- **Competitive read:** (include only when a named competitor or platform is directly involved) one sentence on the implication for competitive positioning
+- **What happened:** ONE sentence maximum. This is an orientation line only —
+  just enough to identify the development. Do not recap the news.
+- **What's new:** Why this is meaningfully different from prior state.
+  This should be analytical, not descriptive.
+- **Why it matters:** Specific implication for LSP margin structure,
+  competitive position, platform risk, or recurring revenue opportunity.
+  Must pass the Monday morning test. Cannot be generic market commentary.
+- **Competitive read:** (include only when a named competitor or platform
+  is directly involved) One sentence on the implication for competitive
+  positioning — must name a specific actor and a specific consequence,
+  not a general observation about the market.
+
+Before writing each item, ask: "Could a general legal tech newsletter
+write this identically without knowing anything about our reader's
+strategic situation?" If yes, rewrite until the answer is no.
+
+When two developments serve the same strategic point, collapse them into
+a single combined item with a title that captures the unified thesis
+(e.g., "Dual-Front Disintermediation Threat Materializes" rather than
+two separate items on Harvey and Anthropic). This is preferred over
+treating them as separate items that will require repetition across
+the brief.
 
 ### 4) Hypothesis Check
 This is a required section. For each of the five standing hypotheses, state in one sentence whether this week's evidence confirms, challenges, complicates, or has no bearing. Only skip a hypothesis if there is genuinely zero relevant evidence.
