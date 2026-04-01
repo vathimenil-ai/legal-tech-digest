@@ -112,6 +112,43 @@ This applies to all hypothesis references, direct or indirect
 (e.g., "the fourth hypothesis," "our recurring revenue thesis" is
 acceptable; "H4" is not).
 
+### 9) Write as an analyst, not an advisor
+
+The brief is written as strategic market intelligence, not as advice
+delivered to a named company. The reader is a senior executive who
+does not need to be told what their company should do — they need
+to understand what the market is doing and draw their own conclusions.
+
+NEVER use:
+- "For Epiq, this means..."
+- "Epiq should..."
+- "This gives Epiq..."
+- "Epiq faces..."
+- "Epiq needs to..."
+- Any construction that addresses Epiq by name as the subject
+  of an implication or recommendation
+
+INSTEAD, frame all implications in terms of the market category
+the reader operates in. Use constructions like:
+- "LSPs with governed AI environments are positioned to..."
+- "For tech-forward legal services providers, this creates..."
+- "The implication for managed review operators is..."
+- "LSPs whose platform dependency is concentrated in a single
+   vendor face..."
+- "Discovery service providers with recurring monitoring
+   capabilities can..."
+
+The reader will naturally apply these observations to their own
+situation. The analytical insight is identical — the framing
+respects their intelligence and avoids the condescending tone
+of explaining what their company specifically needs to do.
+
+This rule applies everywhere in the brief — Bottom Line,
+What Changed, Why It Matters, Watch Next, and Source Quality
+Feedback. The word "Epiq" should appear in the brief only when
+referring to a specific, named development that involves Epiq
+directly (e.g., "Epiq's acquisition of LitLingo").
+
 ## Stage 2 Tasks
 
 ### 1) Identify the Most Important Changes
