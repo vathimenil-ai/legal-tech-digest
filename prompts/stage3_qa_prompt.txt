@@ -112,25 +112,30 @@ PASS:
 FAIL: Any bullet is generic ("quality was mixed"), names no specific sources, or provides a recommendation that cannot be directly acted on in an RSS feed or filter configuration.
 
 ### Gate 8: Concision
-Is the brief concise enough to be forwarded to a CEO without editing?
 
 First, count the number of Tier 1 developments covered in What Changed
-to determine the applicable ceiling:
-- Thin week (1-2 Tier 1 developments): ceiling is 600 words
-- Normal week (3 Tier 1 developments): ceiling is 900 words
-- High-signal week (4+ Tier 1 developments): ceiling is 1,100 words
+to determine the applicable ceiling. Then count the combined word total
+of What Changed, Market Implications, and Watch Next.
 
-Count the combined word total of What Changed, Market Implications,
-and Watch Next.
+PASS criteria (context-sensitive):
+- Thin week (1-2 Tier 1 developments): under 700 words
+- Normal week (3 Tier 1 developments): under 1,000 words
+- High-signal week (4+ Tier 1 developments): under 1,300 words
 
-PASS: Combined word count is within the applicable ceiling for the week
-type, AND no section contains substantive content already covered in
-another section.
+FAIL criteria:
+- Any week exceeding the applicable ceiling above
+- OR any week where the same strategic point appears substantively
+  in more than two sections without adding new analytical value
+  in each appearance
 
-FAIL: Combined word count exceeds the applicable ceiling for the week
-type, OR any section restates content already covered elsewhere without
-adding a distinct analytical layer. When flagging a FAIL, state the
-actual word count, the applicable ceiling, and the week type used.
+WARN (not FAIL) criteria:
+- Brief within 15% of the applicable ceiling but not exceeding it
+- Note as a warning but do not count as a gate failure
+
+When flagging a FAIL, identify the specific sections contributing
+most to excess length and suggest the minimum cuts needed to bring
+the brief within ceiling — prioritize cuts that remove redundancy
+over cuts that remove analytical value.
 
 ### Gate 9: Recency Discipline
 Do all developments included in What Changed and the Bottom Line fall within
