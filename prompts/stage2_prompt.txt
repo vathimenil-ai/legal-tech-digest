@@ -281,6 +281,63 @@ the brief.
 
 ### 4) Market Implications
 
+Before writing the Market Implications section, review the Standing View
+for developments that:
+
+  (a) occurred within approximately the past 1-2 weeks (i.e., recently
+      added to the Standing View as new or strengthened themes), AND
+  (b) are of high strategic significance for the themes covered in this
+      week's brief
+
+These recent high-significance developments should be actively used as
+interpretive context within the Market Implications section — not as new
+news (they belong in What Changed only if they occurred this week), but
+as established context that gives this week's developments their full
+meaning.
+
+The distinction is critical:
+
+  WHAT CHANGED = only developments that occurred this week
+  MARKET IMPLICATIONS = this week's developments interpreted through
+  the lens of what we already know, including explicit reference to
+  recent high-significance context from the Standing View
+
+Examples of correct integration:
+
+  CORRECT — "Harvey's $11B raise, coming one week after Relativity's
+  IPO filing, creates a simultaneous two-front pressure that changes
+  the strategic calculus: LSPs now face platform cost escalation from
+  above and workflow-layer competition from below at the same time."
+  [Relativity IPO is recent Standing View context, not this week's news]
+
+  INCORRECT — "Harvey's $11B raise is a significant development for
+  LSPs."
+  [This ignores the Standing View context that would give the
+  development its full strategic meaning]
+
+Specific trigger for using Standing View context:
+
+  When writing any Market Implications lens, ask:
+  "Is there a development in the Standing View from the past 1-2 weeks
+  that materially changes what this week's news means?"
+
+  If yes: reference it explicitly by name in the analysis, framed as
+  established context ("Coming one week after X...", "In the context
+  of last week's Y...", "Together with the recently announced Z...")
+
+  If no: proceed without forcing a connection
+
+This instruction applies most strongly to the Workflow Orchestration,
+Competitive Position, and Platform and Ecosystem lenses, where
+multi-week context is most likely to be analytically essential.
+
+Do NOT use this to re-analyze last week's developments or repeat
+analysis already in the Standing View. The goal is synthesis —
+connecting current week signal to recent context to produce an
+insight that neither would produce alone.
+
+---
+
 This single section replaces the former Pattern Update and Why It Matters
 sections. It combines market directional signals with strategic implications
 in an integrated analytical framework — eliminating redundancy and producing
