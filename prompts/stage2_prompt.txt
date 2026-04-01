@@ -53,12 +53,32 @@ Clearly distinguish:
 - Be conservative with upgrades and downgrades
 - Require meaningful evidence before changing core themes or hypotheses
 
-### 5) Avoid repetition
+### 5) Avoid repetition — strictly
+
 - Do NOT restate prior Standing View unless it changed
-- Each section must add new value
-- Pattern Update = interpretation
-- Standing View Changes = concise reader-facing summary
-- Delta Log = structured record
+- Each section must add new value that no other section provides
+- A specific fact, implication, or strategic point must not appear
+  substantively in more than two sections of the brief
+- If the same point is needed in multiple sections, state it fully
+  once (in the most appropriate section) and reference it briefly
+  elsewhere if necessary — do not restate it in full
+- The Why It Matters section must not summarize or restate points
+  already made in Bottom Line or What Changed — it must add a
+  distinct analytical layer using the five Epiq-specific lenses
+- If two Why It Matters lenses are making the same point from
+  slightly different angles, collapse them into one combined lens
+  paragraph for that week
+
+Target word counts for core sections combined
+(What Changed + Pattern Update + Why It Matters + Watch Next):
+- Normal week: 500-700 words
+- High-density week: 700-900 words maximum
+- Never exceed 900 words across these four sections
+
+If you find yourself exceeding 900 words, cut in this order:
+1. Remove the weakest What Changed item
+2. Collapse overlapping Why It Matters lenses
+3. Trim Pattern Update to single-sentence bullets
 
 ### 6) Weight Tier 1 and Tier 2 correctly
 - Only Tier 1 developments appear in Bottom Line and What Changed
