@@ -71,14 +71,20 @@ Clearly distinguish:
 
 Target word counts for core sections combined
 (What Changed + Pattern Update + Why It Matters + Watch Next):
-- Normal week: 500-700 words
-- High-density week: 700-900 words maximum
-- Never exceed 900 words across these four sections
+- Thin week (1-2 Tier 1 developments): 400-600 words
+- Normal week (3 Tier 1 developments): 600-900 words
+- High-signal week (4+ Tier 1 developments): 900-1,100 words maximum
 
-If you find yourself exceeding 900 words, cut in this order:
-1. Remove the weakest What Changed item
-2. Collapse overlapping Why It Matters lenses
+A high-signal week must be explicitly flagged as such at the top of your
+internal reasoning before you apply the higher ceiling. The default
+assumption is a normal week. Justify any brief exceeding 900 words by
+counting Tier 1 developments. The ceiling of 1,100 words is absolute —
+even in a high-signal week, exceeding this means something must be cut.
+Cut in this order:
+1. Merge What Changed items that serve the same strategic point
+2. Collapse overlapping Why It Matters lenses into one paragraph
 3. Trim Pattern Update to single-sentence bullets
+4. Remove the weakest Watch Next item
 
 ### 6) Weight Tier 1 and Tier 2 correctly
 - Only Tier 1 developments appear in Bottom Line and What Changed
