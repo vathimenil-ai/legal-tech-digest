@@ -287,13 +287,37 @@ in an RSS feed or filter configuration.
   - "Consider adjusting filters"
 
 ### 9) Standing View Changes
-Short delta bullets only:
-- Strengthened:
-- Added:
-- Weakened:
-- Removed:
-- Hypothesis shifts:
-- Watchlist:
+
+This section must be a compact delta record only — 5 lines maximum.
+It must NOT restate or summarize content already covered in Hypothesis
+Check or Pattern Update.
+
+Format: one line per change, using the following shorthand only:
+- Strengthened: [theme name]
+- Added: [theme or watchlist item name]
+- Weakened: [theme name]
+- Removed: [theme name]
+- H[number]: [old confidence] → [new confidence]
+- Watchlist: [item added / elevated / removed]
+
+Example of correct format:
+- Strengthened: Relativity Dependency
+- H2: Medium → Medium-High
+- H4: Low → Medium
+- H5: Low → Medium
+- Watchlist added: Relativity S-1 content
+- Watchlist added: LitLingo integration roadmap
+- Watchlist elevated: Judicial AI governance rulings
+
+Example of incorrect format (do not do this):
+- Strengthened: Relativity Dependency — the IPO filing converts bilateral
+  negotiation to public-market-driven structural pressure, accelerating the
+  margin compression timeline...
+  [This restates content from Pattern Update and adds word count without
+  adding value.]
+
+The reader has already seen the full analysis above. This section
+exists only as a scannable reference log, not as a summary.
 
 ## Standing View — Output Requirements
 
