@@ -11,9 +11,9 @@
 |---|-----------|---------------|------------|
 | H1 | Value in legal AI is shifting from model capability to workflow orchestration and defensibility | Strengthening | Medium-High |
 | H2 | RelativityOne migration represents a structural margin reset for LSPs, not a temporary headwind | Forming | Medium |
-| H3 | AI will compress revenue per unit of discovery work without reducing overall demand | Strengthening — demand-side validation | High |
-| H4 | The path to recurring revenue runs through investigation readiness and AI-ready data governance | Forming — demand-side support emerging | Medium |
-| H5 | The primary disintermediation risk comes from frontier AI vendors moving up the stack, not from LSP competitors | Strengthening | Medium-High |
+| H3 | AI will compress revenue per unit of discovery work without reducing overall demand | Strengthening — demand-side validation; adoption timeline assumption under mild pressure | High |
+| H4 | The path to recurring revenue runs through investigation readiness and AI-ready data governance | Forming — demand-side and regulatory support emerging | Medium |
+| H5 | The primary disintermediation risk comes from frontier AI vendors moving up the stack, not from LSP competitors | Strengthening — IPO timeline firming | Medium-High |
 
 ---
 
@@ -23,7 +23,7 @@
 - **Status:** Core
 - **Claim:** LSP margins are being compressed simultaneously by AI (reducing billable review hours) and platform economics (RelativityOne migration reducing hosting margins). These are separate vectors with additive impact. Demand-side pressure is now confirmed as active, not theoretical.
 - **Why we believe it:** Expert testimony confirms hosting margins collapsing from 50-70% historically toward 30-50% under RelOne. AI-driven first-pass review is reducing human review hours, shrinking the highest-revenue service line. Enterprise buyers are now actively restructuring engagement and pricing models.
-- **Latest evidence:** DHL CLO publicly stated AI efficiency demands new pricing models and performance metrics for outside counsel (March 2026), shifting from aspiration to procurement intent. Meta AGC framed legal tech as shifting outsourcing from transactional to partnership models, implying embedded service relationships over episodic price competition. These demand-side signals validate that buyers are actively restructuring how they engage and pay LSPs. Both signals arrived in the same week, reinforcing each other.
+- **Latest evidence:** DHL CLO publicly stated AI efficiency demands new pricing models and performance metrics for outside counsel (March 2026), shifting from aspiration to procurement intent. Meta AGC framed legal tech as shifting outsourcing from transactional to partnership models, implying embedded service relationships over episodic price competition. These demand-side signals validate that buyers are actively restructuring how they engage and pay LSPs. Both signals arrived in the same week, reinforcing each other. No new margin data this week.
 - **Counter-evidence:** Data volumes growing 20-25% annually, partially offsetting per-unit revenue decline. Demand for discovery services remains stable. Partnership models may sustain total contract value even at lower per-unit rates.
 - **Confidence:** High
 - **What to watch:** Pricing model innovations (outcome-based, managed service) emerging from LSPs; whether AI-driven margin compression accelerates beyond 3-5 year horizon; whether DHL/Meta-style demands appear in actual RFPs within 2026; Epiq's own margin disclosures; whether partnership-model contracts show higher or lower total contract value vs. episodic engagements.
@@ -41,19 +41,19 @@
 - **Status:** Core
 - **Claim:** As AI models commoditize, the durable source of competitive advantage for LSPs is not AI capability per se, but the ability to orchestrate AI within defensible, governed, end-to-end workflows.
 - **Why we believe it:** Model capabilities are converging rapidly. OpenAI's $852B valuation (March 2026) makes the capital asymmetry between frontier AI vendors and legal-domain AI companies categorically unbridgeable — model differentiation is no longer a viable competitive strategy. Differentiation is shifting toward data control, governance, auditability, and integration. Enterprise buyers care more about defensibility than model benchmarks.
-- **Latest evidence:** Court ruling on AI work product protection (March 2026) extends governance requirements beyond disclosure to questions of legal privilege and confidentiality — creating hard compliance constraints that only governed AI environments can satisfy. This is the second distinct governance domain addressed by courts (after disclosure requirements), suggesting systematic doctrine development. DHL and Meta buyer signals reinforce that enterprise buyers value governance and embedded partnerships over raw AI capability. OpenAI's $852B valuation (confirmed with $122B single round) makes the capital asymmetry not just large but categorically unbridgeable.
+- **Latest evidence:** Multi-firm analytical convergence on AI work product/protective order ruling (week of March 30, 2026): three independent law firm analyses published in a single week, indicating the ruling is being incorporated into practice guidance — not just noted as case law. This moves governance requirements from case-level signal to profession-level compliance expectation. Two distinct governance domains (disclosure, privilege/work product) now addressed by courts and actively translated into practice advisory. AAA's AI Arbitrator launch (March 31, 2026) — AI issuing binding legal decisions implies governance frameworks will need to account for AI decision-makers, expanding the surface area that orchestration layers must cover. DHL and Meta buyer signals reinforce that enterprise buyers value governance and embedded partnerships over raw AI capability. OpenAI's $852B valuation (confirmed with $122B single round, retail tranche included) makes the capital asymmetry not just large but categorically unbridgeable.
 - **Counter-evidence:** Harvey's $11B valuation still suggests some market pricing of AI capability as a differentiator, though that valuation is now ~1.3% of OpenAI's — the gap between "legal AI" and "frontier AI" is widening, not narrowing.
 - **Confidence:** Medium-High
-- **What to watch:** Whether LSPs begin winning or losing mandates based on governance capabilities; whether buyers begin specifying workflow requirements in RFPs; Harvey and peers moving toward service delivery vs. staying pure software; whether frontier AI vendors build orchestration layers that bypass LSPs; additional court rulings expanding governance surface area.
+- **What to watch:** Whether LSPs begin winning or losing mandates based on governance capabilities; whether buyers begin specifying workflow requirements in RFPs; Harvey and peers moving toward service delivery vs. staying pure software; whether frontier AI vendors build orchestration layers that bypass LSPs; additional court rulings expanding governance surface area; whether the AAA AI Arbitrator model expands to other dispute types, creating additional governance requirements.
 
 ### Enterprise AI Adoption: Behind the Hype, Ahead of Comfort
 - **Status:** Core
 - **Claim:** Large law firms and corporate legal departments are adopting AI for discrete, lower-risk workflows (privilege logging, document summarization, first-pass review) but remain cautious on high-stakes, complex matters. Full adoption in large matters is 3-5 years away.
 - **Why we believe it:** Expert testimony consistent: firms treat AI output as first draft, not final work product. Accuracy rates on first-pass review still sub-70%, below human reviewer benchmarks. Legal profession structurally slow to adopt.
-- **Latest evidence:** Array/Relativity webinar and Legalweek recaps (March 2026) confirm cautious adoption patterns and workflow integration as the dominant near-term use case. No material acceleration observed. DHL and Meta signals suggest enterprise buyers are moving faster on procurement restructuring than on full AI deployment — a potential leading indicator that pricing pressure will arrive before AI capability fully matures.
-- **Counter-evidence:** Adoption pace is accelerating. New use cases (photo summarization for construction litigation) emerging faster than expected. DHL and Meta signals suggest enterprise buyers are moving faster on procurement restructuring than on full AI deployment — a potential leading indicator.
-- **Confidence:** High
-- **What to watch:** Accuracy rate improvements in AI-assisted review; first major firm announcing AI-first review protocol for a large matter; pricing model shifts that signal confidence in AI accuracy.
+- **Latest evidence:** Array/Relativity webinar and Legalweek recaps (March 2026) confirm cautious adoption patterns and workflow integration as the dominant near-term use case. No material acceleration observed. DHL and Meta signals suggest enterprise buyers are moving faster on procurement restructuring than on full AI deployment — a potential leading indicator that pricing pressure will arrive before AI capability fully matures. AAA's AI Arbitrator launch (March 31, 2026) introduces a complicating signal: AI is now issuing binding legal decisions in a narrow domain (construction disputes), which is faster capability deployment than the cautious consensus anticipated. This does not yet challenge the 3-5 year timeline for complex discovery, but it establishes precedent that could compress it. Northwestern survey (date unverified) suggests federal judges are adopting AI faster than expected, even without formal training — a more AI-literate bench could accelerate acceptance of AI-assisted submissions.
+- **Counter-evidence:** Adoption pace is accelerating. New use cases (photo summarization for construction litigation) emerging faster than expected. DHL and Meta signals suggest enterprise buyers are moving faster on procurement restructuring than on full AI deployment — a potential leading indicator. AAA AI Arbitrator demonstrates AI capability advancing into adjudication, faster than consensus expected.
+- **Confidence:** High (with mild downward pressure on the 3-5 year timeline assumption from frontier signals)
+- **What to watch:** Accuracy rate improvements in AI-assisted review; first major firm announcing AI-first review protocol for a large matter; pricing model shifts that signal confidence in AI accuracy; whether AAA AI Arbitrator faces legal challenge or expands to other dispute types; judicial AI adoption surveys with verified dates.
 
 ---
 
@@ -63,7 +63,7 @@
 - **Status:** Emerging
 - **Signal:** Enterprise AI adoption requires clean, governed data. LSPs with strong information governance capabilities may be positioned to capture recurring revenue as enterprises prepare their data estates for AI.
 - **Why it may matter:** This converts episodic discovery revenue into recurring managed services revenue — a fundamental business model improvement. It also increases client embedding and switching costs.
-- **Early evidence:** Epiq's expansion into cybersecurity and information governance cited by experts as a strategic differentiator. Microsoft Purview adoption limited by training and implementation gaps — a potential service opportunity. Meta AGC signal (March 2026) on partnership models supports embedded, recurring relationships. Connecticut SB 117 (March 2026) proposes mandatory forensic investigation for large-scale breaches, potentially creating regulatory demand for standing investigation readiness services.
+- **Early evidence:** Epiq's expansion into cybersecurity and information governance cited by experts as a strategic differentiator. Microsoft Purview adoption limited by training and implementation gaps — a potential service opportunity. Meta AGC signal (March 2026) on partnership models supports embedded, recurring relationships. Connecticut SB 117 (March 2026) proposes mandatory forensic investigation for large-scale breaches, potentially creating regulatory demand for standing investigation readiness services. Detailed legal analysis of SB 117 (week of March 30, 2026) confirms the bill's scope matches the recurring engagement model: large-scale breach response requires pre-positioned capability.
 - **What would confirm it:** Epiq or peer LSPs announcing recurring information governance contracts; buyer RFPs bundling discovery with ongoing data governance; pricing that reflects recurring vs. project-based structure; SB 117 or similar legislation passing.
 - **Confidence:** Medium
 
@@ -71,9 +71,9 @@
 - **Status:** Emerging — approaching core
 - **Signal:** Anthropic, OpenAI, and Harvey are building domain-specific legal tools. If they move toward workflow delivery rather than pure software, they could displace LSPs in the analysis and review layer. OpenAI's imminent IPO creates public-market growth pressure that makes vertical expansion into legal services a natural revenue target.
 - **Why it may matter:** LSPs' AI differentiation may be perceived as less unique as frontier models become easier to deploy. The question is whether AI vendors stay in the software layer or move into service delivery. A public OpenAI with quarterly earnings pressure has structural incentives to pursue vertical revenue in professional services.
-- **Early evidence:** Harvey's $11B valuation and agentic AI roadmap signal ambition beyond lawyer productivity into broader legal workflow automation. Frontier model providers building legal plugins. OpenAI's $852B valuation and imminent IPO (March 2026) dramatically widen the capital asymmetry — the resource gap between frontier AI and legal-domain AI is now categorically different (OpenAI ~77x Harvey's valuation). A public OpenAI will need vertical revenue growth; legal services are a natural target. The $122B single-round raise (confirmed March 31) included Amazon, Nvidia, and SoftBank — strategic investors with enterprise distribution capabilities.
+- **Early evidence:** Harvey's $11B valuation and agentic AI roadmap signal ambition beyond lawyer productivity into broader legal workflow automation. Frontier model providers building legal plugins. OpenAI's $852B valuation and confirmed IPO readiness (retail tranche in $122B round, week of March 30, 2026) — the IPO trajectory is now near-certain, creating a firm timeline for public-market growth pressure within 12-18 months of listing. The $122B round included Amazon, Nvidia, and SoftBank — strategic investors with enterprise distribution capabilities. Mistral AI's $830M raise for GPU procurement (March 31, 2026) confirms frontier AI capital accumulation is a multi-vendor pattern, not OpenAI-specific. The resource gap between frontier AI and legal-domain AI is categorically different (OpenAI ~77x Harvey's valuation).
 - **What would confirm it:** Harvey or a frontier AI vendor announcing a managed review or discovery service offering; a major law firm or corporate legal department replacing an LSP with a direct AI vendor relationship; OpenAI's IPO filing referencing legal or professional services as a target vertical.
-- **Confidence:** Medium-High (upgraded from Medium — the confirmed $852B valuation, $122B single round with strategic investors, and imminent IPO create both the capability, the capital, and the market incentive for frontier vendors to enter legal workflows)
+- **Confidence:** Medium-High
 
 ### Microsoft Purview: Unfulfilled Threat or Slow-Burn Disruptor
 - **Status:** Emerging
@@ -84,12 +84,20 @@
 - **Confidence:** Medium
 
 ### AI Governance Doctrine Emerging in Courts
-- **Status:** Emerging — strengthening
-- **Signal:** U.S. courts are building a body of case law that creates hard governance requirements for AI use in litigation, moving beyond disclosure requirements to questions of work product protection, privilege, and confidentiality.
-- **Why it may matter:** Each ruling that creates a compliance requirement for AI in litigation raises the value of auditable, governed workflow environments and creates a structural moat for LSPs that can demonstrate defensibility. This converts workflow governance from a best practice into a legal necessity.
-- **Early evidence:** Court ruling on AI work product and protective order obligations (March 2026) — extends governance surface area into privilege and confidentiality, beyond prior disclosure-focused rulings. Prior court rulings establishing AI disclosure requirements. Two distinct governance domains (disclosure, privilege/work product) now addressed by courts.
-- **What would confirm it:** Additional rulings creating specific governance requirements; bar associations issuing compliance guidance; malpractice claims arising from ungoverned AI use in litigation; a ruling that creates an enforceable standard (not just a disclosure obligation).
-- **Confidence:** Medium (upgraded from Low-Medium — second distinct governance domain addressed, directional pattern becoming clearer though still based on limited case law)
+- **Status:** Emerging — strengthening toward core
+- **Signal:** U.S. courts are building a body of case law that creates hard governance requirements for AI use in litigation, moving beyond disclosure requirements to questions of work product protection, privilege, and confidentiality. The legal profession is now actively translating these rulings into practice guidance.
+- **Why it may matter:** Each ruling that creates a compliance requirement for AI in litigation raises the value of auditable, governed workflow environments and creates a structural moat for LSPs that can demonstrate defensibility. This converts workflow governance from a best practice into a legal necessity. The translation into practice guidance means these requirements will influence buyer engagement decisions, not just courtroom procedures.
+- **Early evidence:** Court ruling on AI work product and protective order obligations (March 2026) — extends governance surface area into privilege and confidentiality, beyond prior disclosure-focused rulings. Multi-firm analytical convergence (week of March 30, 2026): three independent law firm analyses published simultaneously, indicating the ruling is being incorporated into practice-level guidance — a qualitative shift from case law signal to profession-level compliance expectation. Two distinct governance domains (disclosure, privilege/work product) now addressed by courts. Federal AI legislative framework (March 20, 2026) introduces potential federal preemption of state AI regulations — could simplify or complicate the governance landscape depending on final form. IAPP Global Summit (March 30-31, 2026) — privacy professionals positioning as AI governance overseers, suggesting governance requirements will be absorbed into existing compliance frameworks.
+- **What would confirm it:** Additional rulings creating specific governance requirements; bar associations issuing compliance guidance; malpractice claims arising from ungoverned AI use in litigation; a ruling that creates an enforceable standard (not just a disclosure obligation); practice guidance referencing specific technical requirements (audit logs, access controls) that only governed AI environments satisfy.
+- **Confidence:** Medium (approaching Medium-High — multi-firm analytical convergence is a meaningful signal that the profession is internalizing requirements, though the underlying case law base remains limited)
+
+### AI Adjudication as a Frontier Signal
+- **Status:** Emerging — new this week
+- **Signal:** AI systems are beginning to issue binding legal decisions, not just assist human decision-makers. The AAA's AI Arbitrator for construction disputes is the first known instance of AI rendering court-enforceable awards.
+- **Why it may matter:** If AI-adjudicated outcomes gain legal acceptance, it could compress the timeline for AI adoption across higher-stakes legal work. For LSPs, it implies that AI capability is advancing faster than the cautious consensus, that governance frameworks will need to cover AI decision-makers (not just AI assistants), and that case preparation workflows may need to optimize for AI adjudicators.
+- **Early evidence:** AAA launched AI Arbitrator for binding, document-only construction disputes between two parties (March 31, 2026). Currently limited in scope: construction sector, document-only, two-party disputes.
+- **What would confirm it:** AAA AI Arbitrator surviving legal challenge on enforceability; expansion to additional dispute types; other ADR providers launching similar AI adjudication tools; a court ruling on the enforceability of AI-rendered awards.
+- **Confidence:** Low-Medium (single instance in narrow domain; genuinely novel but unproven at scale)
 
 ---
 
@@ -99,7 +107,7 @@
 - **Status:** Weakening
 - **Prior view:** LSPs could differentiate meaningfully on proprietary technology platforms.
 - **Why confidence is falling:** Expert testimony consistently describes the LSP market as commoditized and relationship-driven. Proprietary platforms (Epiq Discovery, Sightline, Spectra) are not meaningfully differentiated from each other and are not competitive with Relativity at scale. OpenAI's $852B valuation further undercuts the premise — the capital required to compete on AI model capability is now completely out of reach for LSPs.
-- **Evidence:** "100% commoditised and relationship-driven" — direct expert quote. Proprietary LSP tools described as low-cost alternatives for smaller matters, not genuine differentiators. OpenAI's resource asymmetry makes model-level differentiation structurally impossible. The $122B single round (March 31, 2026) confirmed this is not a one-time event but a sustained capital trajectory.
+- **Evidence:** "100% commoditised and relationship-driven" — direct expert quote. Proprietary LSP tools described as low-cost alternatives for smaller matters, not genuine differentiators. OpenAI's resource asymmetry makes model-level differentiation structurally impossible. The $122B single round with retail tranche (week of March 30, 2026) confirmed this is not a one-time event but a sustained capital trajectory approaching IPO.
 - **What would revive it:** An LSP platform winning a major mandate on technical merits vs. Relativity; meaningful AI integration into a proprietary platform that demonstrably outperforms.
 - **Confidence:** High that this theme is weakening.
 
@@ -116,9 +124,7 @@
   - **Pricing restructuring demand now active:** Named Fortune 500 buyers (DHL, Meta) have moved from exploring AI impact to articulating specific procurement restructuring intent — new pricing models, performance metrics, and partnership structures (March 2026)
 
 - **Changes this week:**
-  - **Pricing restructuring demand crystallizing — now with named buyers:** DHL CLO publicly stated AI efficiency requires new pricing models and performance metrics — the first named Fortune 500 buyer articulating this as a procurement requirement rather than an aspiration (March 2026). This moved from "watching for" to "confirmed" status.
-  - **Partnership model preference explicit:** Meta AGC stated legal tech is "fundamentally shifting the outsourcing paradigm" from transactional to partnership, signaling that the largest legal spenders are moving toward embedded, recurring service relationships (March 2026)
-  - **Key tension identified:** DHL demands lower per-unit pricing; Meta demands deeper partnerships. Whether these are complementary or contradictory will determine the economic viability of the recurring revenue model.
+  - No new buyer behavior changes this week. Prior signals (DHL, Meta) confirmed with primary source detail but not new.
 
 - **Open questions:**
   - At what accuracy threshold does enterprise buyer comfort with AI-first review cross from small/test matters to large/complex matters?
@@ -138,11 +144,11 @@
   - Relativity using cloud migration mandate to reassert pricing power over channel partners
   - Smaller LSPs positioning for acquisition by larger players
   - Frontier AI vendors accumulating capital at a pace that dwarfs the entire legal tech sector — OpenAI's $852B valuation creates a category boundary, not just a competitive gap
+  - Frontier AI capital accumulation is a multi-vendor pattern: Mistral AI raised $830M for GPU procurement (March 31, 2026) in addition to OpenAI's round closure
 
 - **Changes this week:**
-  - **Frontier AI capital asymmetry confirmed at structural level:** OpenAI's $122B raise at $852B valuation (with strategic investors Amazon, Nvidia, SoftBank) confirms the resource gap as permanent and widening. Harvey ($11B) is ~1.3% of OpenAI's valuation. This is no longer a competitive asymmetry but a category boundary. (March 31, 2026)
-  - **Epiq positioning on defensibility:** Epiq published a defensibility framework for AI in eDiscovery, signaling internal alignment with the workflow orchestration thesis (March 2026)
-  - **Litigation services adjacent capital:** Steno raised $49M Series C for litigation services expansion, indicating continued investment flow into litigation infrastructure adjacent to eDiscovery (March 2026)
+  - **OpenAI IPO trajectory confirmed:** Retail tranche in $122B round closure moves IPO from inference to near-certainty. Timeline for public-market earnings pressure driving vertical expansion firms to 12-18 months post-listing. (Week of March 30, 2026)
+  - **AAA enters AI adjudication:** AAA launched AI Arbitrator for binding construction dispute awards — the first vendor deploying AI as a legal decision-maker rather than an assistant. (March 31, 2026)
 
 - **Open questions:**
   - Will any major LSP publicly commit to a Relativity-independent technology strategy?
@@ -150,6 +156,7 @@
   - Will outcome-based or managed service pricing models emerge from any major LSP?
   - Will OpenAI's IPO filing reveal legal services as a target vertical?
   - How will strategic investors (Amazon, Nvidia, SoftBank) in OpenAI's round leverage their enterprise distribution for legal vertical penetration?
+  - Will other ADR providers follow AAA's AI Arbitrator with competing AI adjudication tools?
 
 ---
 
@@ -180,6 +187,13 @@
 - **Evidence strengthened this week:** Both signals reconfirmed with primary source detail (DHL CLO quote, Meta AGC quote). The tension is now grounded in named buyer positions, not inference.
 - **What to watch:** Whether early partnership-model contracts show higher or lower total contract value vs. episodic engagements; whether buyers distinguish between partnership pricing and commodity pricing in their procurement.
 
+### Cautious Adoption Timeline vs. Frontier Capability Signals
+- **Tension:** The consensus view is that full AI adoption in complex legal matters is 3-5 years away. But frontier signals (AAA AI Arbitrator issuing binding decisions, judicial AI adoption, expanding use cases) suggest capability is advancing faster than comfort.
+- **Why unresolved:** The AAA AI Arbitrator is limited in scope and untested. Judicial adoption is anecdotal. But the principle — AI as adjudicator, not just assistant — represents a category shift that the cautious timeline does not account for.
+- **Evidence for caution:** Sub-70% accuracy on first-pass review; legal profession structurally slow; firms treat AI as draft, not final.
+- **Evidence for acceleration:** AAA AI Arbitrator (binding decisions, March 2026); Northwestern survey on judicial adoption; expanding use cases beyond review.
+- **What to watch:** Legal challenges to AAA AI Arbitrator enforceability; expansion of AI adjudication to other dispute types; accuracy improvements in AI-assisted review.
+
 ---
 
 ## 7. Watchlist
@@ -192,10 +206,13 @@
 | Outcome-based pricing emergence | Any LSP announcing per-outcome or managed service AI pricing | Would validate new revenue model thesis | Monitor |
 | Microsoft Purview managed service | Any LSP announcing Purview implementation/managed service offering | Would validate information governance adjacency | Monitor |
 | Epiq Discovery adoption rate | Any public signal on Epiq Discovery client migration rate | Leading indicator of Relativity dependency reduction | Monitor |
-| OpenAI IPO vertical targeting | OpenAI IPO filing referencing legal, compliance, or professional services as target vertical | Would confirm frontier AI disintermediation timeline | Elevated — Monitor |
+| OpenAI IPO vertical targeting | OpenAI IPO filing referencing legal, compliance, or professional services as target vertical | Would confirm frontier AI disintermediation timeline | Elevated — IPO trajectory now near-certain with retail tranche |
 | Fortune 500 AI pricing demands in RFPs | DHL, Meta, or similar buyers issuing RFPs with explicit AI-adjusted pricing or partnership requirements | Converts buyer demand signals into actionable procurement shifts | Elevated — Active signal received, watching for RFP confirmation |
-| AI governance court rulings | Additional court rulings creating specific governance requirements for AI in litigation | Pattern would accelerate compliance moat for governed AI environments | Elevated — second governance domain now addressed |
+| AI governance court rulings | Additional court rulings creating specific governance requirements for AI in litigation | Pattern would accelerate compliance moat for governed AI environments | Elevated — multi-firm practice guidance now emerging |
 | Connecticut SB 117 progress | Committee vote or floor action on mandatory forensic investigation for large breaches | Would create regulatory driver for investigation readiness services | Monitor |
+| AAA AI Arbitrator enforceability | Legal challenge to or court ruling on enforceability of AI-rendered binding arbitration awards | Would validate or undermine AI adjudication precedent; affects adoption timeline | New — Monitor |
+| AI adjudication expansion | Other ADR providers or dispute resolution bodies launching AI adjudication tools | Would confirm AI adjudication as a trend, not an isolated experiment | New — Monitor |
+| Federal AI legislative framework | Congressional action on TRUMP AMERICA AI Act or competing federal AI legislation | Federal preemption of state AI regulations could simplify or complicate compliance landscape | New — Monitor |
 
 ---
 
@@ -205,11 +222,12 @@
 |------|-----------|-----------------|
 | LSP margin compression | High confidence — directional clarity strong, demand-side now active with named buyers | Strong (expert testimony, structural logic, named buyer signals with primary source quotes) |
 | Relativity dependency risk | High confidence | Strong (expert testimony) |
-| AI adoption pace in legal | High confidence — slow, measured, 3-5 year horizon | Strong (consistent expert views, webinar confirmation) |
-| Workflow orchestration as moat | Medium-High confidence — converging signals from capital markets, courts, and buyer demand | Moderate-Strong (multiple signal types reinforcing) |
-| Information governance adjacency | Medium confidence | Moderate (buyer demand signals, early regulatory drivers) |
-| Frontier AI disintermediation | Medium-High confidence — resource asymmetry now structural and widening, IPO creates market incentive | Moderate-Strong (capital data confirmed; strategic investor composition adds distribution capability signal; intent data still speculative) |
-| AI governance doctrine in courts | Medium confidence (upgraded) — two distinct governance domains now addressed | Moderate (two rulings across different domains; directional pattern emerging) |
+| AI adoption pace in legal | High confidence — slow, measured, 3-5 year horizon; mild downward pressure from frontier signals | Strong (consistent expert views, webinar confirmation); frontier signals (AAA AI Arbitrator) are narrow and untested |
+| Workflow orchestration as moat | Medium-High confidence — converging signals from capital markets, courts, buyer demand, and now practice guidance | Moderate-Strong (multi-firm analytical convergence adds profession-level validation) |
+| Information governance adjacency | Medium confidence | Moderate (buyer demand signals, early regulatory drivers, SB 117 analysis) |
+| Frontier AI disintermediation | Medium-High confidence — resource asymmetry structural, IPO trajectory near-certain | Moderate-Strong (capital data confirmed; retail tranche firms IPO timeline; intent data still speculative) |
+| AI governance doctrine in courts | Medium (approaching Medium-High) — two distinct governance domains addressed, now being translated into practice guidance | Moderate-Strong (multi-firm convergence elevates evidence quality; underlying case law base still limited) |
+| AI adjudication precedent | Low-Medium — single instance in narrow domain | Weak-Moderate (novel but unproven; no legal challenge or expansion data yet) |
 
 ---
 
@@ -219,9 +237,10 @@
 |-------|-------------|---------------------|
 | AI compresses LSP revenue per unit | AI reduces per-matter revenue without reducing demand | Major LSP reporting revenue growth driven by AI-enabled volume increase with stable pricing |
 | Relativity dependency is structural | LSPs cannot credibly threaten departure | Multiple large LSPs announcing accelerated Epiq Discovery / alternative platform migration |
-| Enterprise AI adoption is 3-5 years from maturity on large matters | Legal profession will move slowly | Major Am Law 50 firm announcing AI-primary review protocol on a significant matter |
+| Enterprise AI adoption is 3-5 years from maturity on large matters | Legal profession will move slowly | Major Am Law 50 firm announcing AI-primary review protocol on a significant matter; or AI adjudication expanding beyond narrow domains without legal challenge |
 | Workflow orchestration will be the durable moat | Value shifts from model to orchestration | Harvey or peer announcing a full-service managed review offering with superior unit economics |
 | Information governance is the adjacency | Recurring revenue opportunity through data governance | LSP attempting information governance expansion and failing to achieve recurring contract structures |
 | Frontier AI vendors will move up-stack | OpenAI/Anthropic will enter legal workflows | OpenAI IPO filing explicitly excluding professional services or legal as a target market |
 | Buyers demand new pricing models | Procurement restructuring is imminent | Multiple Fortune 500 renewals proceeding on traditional pricing without AI-adjusted terms |
 | Buyer pricing and partnership demands are complementary | Partnership models can sustain margin at lower per-unit rates | Early partnership contracts showing lower total contract value than episodic equivalents |
+| AI adjudication will remain narrow | AAA AI Arbitrator is a frontier experiment | Rapid expansion of AI adjudication to multiple dispute types or jurisdictions within 12 months |
