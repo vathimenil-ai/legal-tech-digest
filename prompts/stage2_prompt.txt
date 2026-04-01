@@ -172,10 +172,20 @@ For each:
 - **Why it matters:** Specific implication for LSP margin structure,
   competitive position, platform risk, or recurring revenue opportunity.
   Must pass the Monday morning test. Cannot be generic market commentary.
-- **Competitive read:** (include only when a named competitor or platform
-  is directly involved) One sentence on the implication for competitive
-  positioning — must name a specific actor and a specific consequence,
-  not a general observation about the market.
+- **Competitive read:** (include ONLY when the development directly involves
+  a named competitor or platform AND the competitive implication is not already
+  covered in the Why It Matters — Competitive Position lens)
+
+  One sentence naming a specific actor and a specific consequence for Epiq.
+  This is NOT a place for general market observations.
+
+  Ask before including: "Does this say something about Epiq's specific
+  competitive situation that the Why It Matters section will not cover?"
+  If no — omit the Competitive read entirely for this item.
+
+  Ask before writing each sentence: "Could a general legal tech newsletter
+  write this without knowing anything about our reader's strategic situation?"
+  If yes — rewrite until the answer is no.
 
 Before writing each item, ask: "Could a general legal tech newsletter
 write this identically without knowing anything about our reader's
