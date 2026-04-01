@@ -32,11 +32,11 @@ Does every Bottom Line bullet answer the question: "If I were the President of a
 PASS: All bullets are directional, specific, and consequential for LSP leadership.
 FAIL: Any bullet describes what happened without stating why it matters for this specific audience, or reads like content a general legal tech newsletter would publish identically.
 
-### Gate 2: Hypothesis Check Completeness
-Does the brief include a Hypothesis Check section that addresses all five standing hypotheses (H1-H5)?
+### Gate 2: Hypothesis Depth in Pattern Update
+Does the Pattern Update section surface insights from the five standing hypotheses (H1–H5) without naming them explicitly?
 
-PASS: All five hypotheses addressed with a specific, evidence-based one-sentence verdict.
-FAIL: Any hypothesis is missing, addressed with "no bearing" without explanation, or stated in vague terms that do not connect to actual evidence from the brief.
+PASS: Each Pattern Update bullet reflects genuine analytical depth informed by the hypothesis framework — the reader can feel the strategic reasoning even without seeing the hypothesis labels.
+FAIL: Pattern Update bullets are surface-level event summaries with no visible connection to the underlying strategic hypotheses, OR any bullet reads as if it could have been written without knowledge of H1–H5.
 
 ### Gate 3: Epiq-Specific Lenses
 Does the Why It Matters section use the five Epiq-specific lenses (Margin and Pricing / Platform and Ecosystem / Workflow Orchestration / Recurring Revenue / Competitive Position)?
@@ -111,7 +111,7 @@ Return your QA evaluation in this exact structure:
 | Gate | Verdict | Notes |
 |------|---------|-------|
 | Gate 1: Monday Morning Test | PASS / FAIL | One sentence |
-| Gate 2: Hypothesis Check | PASS / FAIL | One sentence |
+| Gate 2: Hypothesis Depth | PASS / FAIL | One sentence |
 | Gate 3: Epiq-Specific Lenses | PASS / FAIL | One sentence |
 | Gate 4: Newsletter Test | PASS / FAIL | One sentence |
 | Gate 5: Watch Next Specificity | PASS / FAIL | One sentence |

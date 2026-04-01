@@ -217,25 +217,37 @@ two separate items on Harvey and Anthropic). This is preferred over
 treating them as separate items that will require repetition across
 the brief.
 
-### 4) Hypothesis Check
-This is a required section. For each of the five standing hypotheses, state in one sentence whether this week's evidence confirms, challenges, complicates, or has no bearing. Only skip a hypothesis if there is genuinely zero relevant evidence.
+### 4) Pattern Update
 
-- H1 (Workflow orchestration as moat): [one sentence]
-- H2 (RelOne as structural margin reset): [one sentence]
-- H3 (AI compresses revenue per unit, not total demand): [one sentence]
-- H4 (Recurring revenue via investigation readiness / data governance): [one sentence]
-- H5 (Frontier AI vendors as primary disintermediation risk): [one sentence]
+Four bullets only — one per category. Each must be a delta, not a restatement.
+- **Strengthened:** Which existing theme gained the clearest support this week,
+  and what specifically shifted?
+- **Emerging:** What new pattern is forming that did not exist or was not visible
+  last week?
+- **Weakening:** Which prior assumption or theme now looks less certain, and why?
+- **Tensions:** What contradiction did this week make more visible or harder to
+  resolve?
 
-### 5) Pattern Update
-Four bullets only:
-- **Strengthened:** existing theme(s) that gained support this week
-- **Emerging:** new or early pattern worth noting
-- **Weakening:** theme or narrative that now looks less convincing
-- **Tensions:** any unresolved contradiction the week made more visible
+The five standing strategic hypotheses (H1–H5) must inform every bullet here,
+but must never be named or cited explicitly. The reader should feel the analytical
+depth without seeing the scaffolding.
 
-Only include deltas. Do not restate unchanged themes.
+Specifically:
+- If H1 (orchestration as moat) is confirmed or challenged this week, that
+  insight should surface in Strengthened or Weakening — framed as a market
+  observation, not a hypothesis verdict
+- If H2 (RelativityOne as structural reset) gains evidence, surface it in
+  Strengthened — framed as what is now clearer about the platform dynamic
+- If H4 (recurring revenue via governance adjacencies) advances, surface it
+  in Emerging or Strengthened — framed as a business model shift becoming
+  more visible
+- If H5 (frontier AI disintermediation) intensifies, surface it in Tensions
+  or Emerging — framed as a competitive dynamic, not a hypothesis score
 
-### 6) Why It Matters
+Write for a reader who has never seen a hypothesis framework.
+Write as a trusted advisor who has internalized the strategic context deeply.
+
+### 5) Why It Matters
 Use these five Epiq-specific lenses. Make implications concrete and specific — avoid generic "this could be important" language.
 
 - **Margin and pricing:** Does this accelerate or slow revenue/margin compression? Does it open new pricing models?
@@ -257,7 +269,7 @@ Use these five Epiq-specific lenses. Make implications concrete and specific —
 
 Skip a lens only if there is genuinely nothing to say.
 
-### 7) Watch Next
+### 6) Watch Next
 2-4 items. Each must be trigger-based and specific.
 
 Good watch items:
@@ -268,7 +280,7 @@ Bad watch items:
 - "More AI developments in legal tech"
 - "Watch the market"
 
-### 8) Source Quality Feedback
+### 7) Source Quality Feedback
 This is a required section in every brief. It must contain exactly
 three bullets and must be specific enough to be acted on directly
 in an RSS feed or filter configuration.
@@ -286,11 +298,10 @@ in an RSS feed or filter configuration.
   - "Review feed composition periodically"
   - "Consider adjusting filters"
 
-### 9) Standing View Changes
+### 8) Standing View Changes
 
 This section must be a compact delta record only — 5 lines maximum.
-It must NOT restate or summarize content already covered in Hypothesis
-Check or Pattern Update.
+It must NOT restate or summarize content already covered in Pattern Update.
 
 Format: one line per change, using the following shorthand only:
 - Strengthened: [theme name]
@@ -360,7 +371,7 @@ Only include meaningful changes.
 
 Before finalizing, check:
 - Does every Bottom Line bullet pass the Monday morning test?
-- Does the Hypothesis Check move at least one hypothesis, even incrementally?
+- Does the Pattern Update surface at least one hypothesis insight without naming the hypothesis explicitly?
 - Does the Why It Matters section use the five Epiq-specific lenses, not generic ones?
 - Are we describing change, not just events?
 - Are conclusions tied to real evidence?
