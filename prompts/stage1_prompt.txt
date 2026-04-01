@@ -122,6 +122,20 @@ When in doubt about a development's date:
 - Note in the analyst_note field if a development is being included despite
   an uncertain date, so the Stage 3 QA can flag it if needed
 
+Date verification requirement:
+For every development you retain as Tier 1 or Tier 2, you must record
+the specific date of the primary event in the 'date' field of the
+Event Ledger — not the date of the article referencing it.
+
+If you cannot identify a specific event date from the article content:
+- Set the date field to "unverified"
+- Set the signal_tier to Tier 2 maximum (never Tier 1 for unverified dates)
+- Note in the analyst_note: "Event date unverified — requires recency check"
+
+This ensures the Stage 3 QA agent can identify and flag any development
+whose primary event date falls outside the coverage window, even if it
+was referenced in a current article.
+
 ### 5) Define the Development
 
 For each retained development, produce:
