@@ -78,6 +78,28 @@ Is the brief concise enough to be forwarded to a CEO without editing?
 PASS: Brief is within the 500-900 word target for What Changed, Pattern Update, Why It Matters, and Watch Next combined. No section contains redundant content already covered elsewhere.
 FAIL: Brief exceeds reasonable length, contains repetition across sections, or includes content that adds no new value beyond what is already stated.
 
+### Gate 9: Recency Discipline
+Do all developments included in What Changed and the Bottom Line fall within
+the stated coverage period?
+
+PASS: Every development in What Changed and Bottom Line either:
+  (a) occurred within the stated coverage period, OR
+  (b) is a prior development with a material new update explicitly dated
+      within the coverage period, with the new element clearly identified
+
+FAIL: Any development in What Changed or Bottom Line where:
+  - the primary event date falls outside the coverage period
+  - the development is included because a newer article referenced it,
+    not because something genuinely new happened this week
+  - the change_statement describes what happened previously rather than
+    what is new this week
+
+When flagging a FAIL on this gate, identify:
+  - the specific development that failed the recency test
+  - the approximate date of the original event
+  - whether it should be removed entirely or moved to Pattern Update
+    as background context only
+
 ---
 
 ## Output Format
@@ -96,6 +118,7 @@ Return your QA evaluation in this exact structure:
 | Gate 6: Change Discipline | PASS / FAIL | One sentence |
 | Gate 7: Source Quality Feedback | PASS / FAIL | One sentence |
 | Gate 8: Concision | PASS / FAIL | One sentence |
+| Gate 9: Recency Discipline | PASS / FAIL | One sentence |
 
 ### Overall Verdict
 APPROVED / NEEDS REVISION

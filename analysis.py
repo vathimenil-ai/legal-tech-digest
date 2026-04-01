@@ -197,6 +197,7 @@ class Stage3QAOutput:
         "Gate 6: Change Discipline",
         "Gate 7: Source Quality Feedback",
         "Gate 8: Concision",
+        "Gate 9: Recency Discipline",
     ]
 
     def __init__(self, raw: str):
