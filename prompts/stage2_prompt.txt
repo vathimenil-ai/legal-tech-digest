@@ -279,59 +279,84 @@ two separate items on Harvey and Anthropic). This is preferred over
 treating them as separate items that will require repetition across
 the brief.
 
-### 4) Pattern Update
+### 4) Market Implications
 
-Four bullets only — one per category. Each must be a delta, not a restatement.
-- **Strengthened:** Which existing theme gained the clearest support this week,
-  and what specifically shifted?
-- **Emerging:** What new pattern is forming that did not exist or was not visible
-  last week?
-- **Weakening:** Which prior assumption or theme now looks less certain, and why?
-- **Tensions:** What contradiction did this week make more visible or harder to
-  resolve?
+This single section replaces the former Pattern Update and Why It Matters
+sections. It combines market directional signals with strategic implications
+in an integrated analytical framework — eliminating redundancy and producing
+a more coherent read.
 
-The five standing strategic hypotheses (H1–H5) must inform every bullet here,
-but must never be named or cited explicitly. The reader should feel the analytical
-depth without seeing the scaffolding.
+Structure: Use the five Epiq-specific lenses as organizing headers. Under
+each lens, weave in the directional signal (whether the lens is
+strengthening, emerging, weakening, or in tension) as part of the
+analytical narrative — not as a separate label.
 
-Specifically:
-- If H1 (orchestration as moat) is confirmed or challenged this week, that
-  insight should surface in Strengthened or Weakening — framed as a market
-  observation, not a hypothesis verdict
-- If H2 (RelativityOne as structural reset) gains evidence, surface it in
-  Strengthened — framed as what is now clearer about the platform dynamic
-- If H4 (recurring revenue via governance adjacencies) advances, surface it
-  in Emerging or Strengthened — framed as a business model shift becoming
-  more visible
-- If H5 (frontier AI disintermediation) intensifies, surface it in Tensions
-  or Emerging — framed as a competitive dynamic, not a hypothesis score
+For each lens, ask:
+(a) What is the directional signal this week — is this area of the market
+    strengthening, emerging, weakening, or in tension?
+(b) What is the specific implication for LSPs operating in this space?
+(c) Is this a change from last week, or a continuation?
 
-Write for a reader who has never seen a hypothesis framework.
-Write as a trusted advisor who has internalized the strategic context deeply.
+The five lenses:
+- **Margin and pricing**
+- **Platform and ecosystem**
+- **Workflow orchestration** (REQUIRED every week — see guidance below)
+- **Recurring revenue**
+- **Competitive position**
 
-### 5) Why It Matters
-Use these five Epiq-specific lenses. Make implications concrete and specific — avoid generic "this could be important" language.
+Workflow orchestration is REQUIRED every week — do not omit it.
+Address both of the following where evidence exists:
+(1) Does this week's evidence create, expand, or validate hard governance
+    requirements that make auditable workflow orchestration a legal or
+    regulatory necessity rather than a differentiator? If so, specify
+    what an LSP's orchestration layer must demonstrably include to satisfy
+    those requirements.
+(2) Does this week's evidence change who is competing in the orchestration
+    layer, and what must LSPs do differently to defend or extend their
+    position there?
+If neither applies this week, state explicitly why and provide one
+sentence on the current orchestration landscape.
 
-- **Margin and pricing:** Does this accelerate or slow revenue/margin compression? Does it open new pricing models?
-- **Platform and ecosystem:** Does this change dynamics with Relativity, Microsoft, or other platform dependencies?
-- **Workflow Orchestration:** This lens is REQUIRED every week — do not omit it.
-  Address both of the following where evidence exists:
-  (1) Does this week's evidence create, expand, or validate hard governance
-      requirements that make auditable workflow orchestration a legal or
-      regulatory necessity rather than a differentiator? If so, specify
-      what Epiq's orchestration layer must demonstrably include to satisfy
-      those requirements.
-  (2) Does this week's evidence change who is competing in the orchestration
-      layer, and what does Epiq need to do differently to defend or extend
-      its position there?
-  If neither applies this week, state explicitly why and provide one
-  sentence on the current orchestration landscape.
-- **Recurring revenue:** Does this open or validate adjacencies in investigation readiness, information governance, or AI-ready data management?
-- **Competitive position:** Does this change how LSPs differentiate from each other or from software-native legal AI vendors?
+Skip a lens only if there is genuinely nothing to say this week.
+If two lenses are making the same point, consolidate them.
 
-Skip a lens only if there is genuinely nothing to say.
+The five standing strategic hypotheses (H1–H5) must inform the analysis
+under each lens, but must never be named or cited explicitly. The reader
+should feel the analytical depth without seeing the scaffolding.
 
-### 6) Watch Next
+Directional signal integration examples:
+
+INSTEAD OF:
+  Pattern Update: "Strengthened: governed AI is becoming mandatory"
+  Why It Matters (Workflow): "Courts are creating hard requirements..."
+WRITE:
+  "**Workflow orchestration** [strengthening]: Two federal rulings this
+  week moved governance requirements from best-practice guidance to
+  judicially enforceable constraints. LSPs with auditable, access-
+  controlled AI environments now hold a compliance credential that
+  generic AI tools cannot replicate — a qualification criterion, not
+  just a differentiator."
+
+INSTEAD OF:
+  Pattern Update: "Weakening: 2028 deadline may no longer be negotiable"
+  Why It Matters (Platform): "Relativity's IPO changes incentives..."
+WRITE:
+  "**Platform and ecosystem** [assumption weakening]: Relativity's IPO
+  filing makes the 2028 Server sunset harder to negotiate. Public-market
+  growth pressure aligns Relativity's incentives with maximizing cloud
+  ARPU — the pre-IPO window may be the last period of meaningful pricing
+  flexibility for channel partners."
+
+Tone: Write as a market analyst, not an advisor. Use "LSPs," "managed
+review operators," "discovery service providers," or "tech-forward legal
+services providers" — not "Epiq." The reader will apply market
+observations to their own situation without being told to.
+
+Length: Apply the same context-sensitive word count ceiling as the rest
+of the brief (900 words normal week, 1,100 words high-signal week) across
+What Changed + Market Implications + Watch Next combined.
+
+### 5) Watch Next
 2-4 items. Each must be trigger-based and specific.
 
 Good watch items:
@@ -342,7 +367,7 @@ Bad watch items:
 - "More AI developments in legal tech"
 - "Watch the market"
 
-### 7) Source Quality Feedback
+### 6) Source Quality Feedback
 
 This is the final section of the reader-facing brief. It must contain
 exactly three bullets and must be specific enough to be acted on directly
@@ -410,8 +435,8 @@ Only include meaningful changes.
 
 Before finalizing, check:
 - Does every Bottom Line bullet pass the Monday morning test?
-- Does the Pattern Update surface at least one hypothesis insight without naming the hypothesis explicitly?
-- Does the Why It Matters section use the five Epiq-specific lenses, not generic ones?
+- Does the Market Implications section surface at least one hypothesis insight without naming the hypothesis explicitly?
+- Does the Market Implications section use the five Epiq-specific lenses, not generic ones?
 - Are we describing change, not just events?
 - Are conclusions tied to real evidence?
 - Is there anything in this brief that a generic legal tech newsletter would have written identically? If yes, cut or sharpen it.

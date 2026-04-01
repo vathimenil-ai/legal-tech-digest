@@ -41,28 +41,28 @@ The hypotheses are internal scaffolding only. They must never appear
 in the reader-facing brief. But the analysis must be demonstrably
 informed by them.
 
-PASS: The Pattern Update and Why It Matters sections contain analysis
-that clearly reflects awareness of at least three of the five hypotheses,
-expressed as market observations or strategic judgments — not as
-hypothesis verdicts. A reader unfamiliar with the hypotheses would
-experience this as sharp, well-informed strategic analysis. A reader
-who knows the hypotheses would recognize them embedded in the framing.
+PASS: The Market Implications section contains analysis that clearly
+reflects awareness of at least three of the five hypotheses, expressed
+as market observations or strategic judgments — not as hypothesis verdicts.
+A reader unfamiliar with the hypotheses would experience this as sharp,
+well-informed strategic analysis. A reader who knows the hypotheses would
+recognize them embedded in the framing.
 
 FAIL: The brief either (a) explicitly names or cites H1–H5, or
-(b) contains Pattern Update and Why It Matters sections that could
-have been written without any knowledge of the five strategic hypotheses
-— generic observations that lack the specific LSP strategic lens that
-the hypotheses are designed to enforce.
+(b) contains a Market Implications section that could have been written
+without any knowledge of the five strategic hypotheses — generic
+observations that lack the specific LSP strategic lens that the hypotheses
+are designed to enforce.
 
 When flagging a FAIL on criterion (b), identify which hypothesis is
 most conspicuously absent from the analysis and where its implications
 should have surfaced.
 
 ### Gate 3: Epiq-Specific Lenses
-Does the Why It Matters section use the five Epiq-specific lenses (Margin and Pricing / Platform and Ecosystem / Workflow Orchestration / Recurring Revenue / Competitive Position)?
+Does the Market Implications section use the five Epiq-specific lenses (Margin and Pricing / Platform and Ecosystem / Workflow Orchestration / Recurring Revenue / Competitive Position)?
 
-PASS: At least four of the five lenses addressed with concrete, specific implications — not generic observations.
-FAIL: Generic lenses used (Buyers / Vendors / Workflow / Regulation) instead of Epiq-specific ones, or fewer than three lenses addressed, or implications are vague rather than specific.
+PASS: At least four of the five lenses addressed with concrete, specific implications — not generic observations. Workflow Orchestration must be present every week.
+FAIL: Generic lenses used instead of the five Epiq-specific ones, or fewer than three lenses addressed, or Workflow Orchestration is absent, or implications are vague rather than specific.
 
 ### Gate 4: Newsletter Test
 Is there any section, bullet, or paragraph in the brief that a general legal tech newsletter would have written identically — without knowledge of the reader's specific strategic context?
@@ -79,8 +79,8 @@ FAIL: Any item is phrased as a general area of interest ("watch AI developments"
 ### Gate 6: Change Discipline
 Does the brief clearly distinguish what is new this week versus what is merely restated from prior weeks?
 
-PASS: What Changed section contains only genuinely new developments; Pattern Update contains only deltas, not restatements.
-FAIL: Any development in What Changed is a continuation of a prior theme without a clear "what's new" statement; or Pattern Update restates prior Standing View content without identifying a change.
+PASS: What Changed section contains only genuinely new developments; Market Implications reflects directional changes from last week, not restatements of standing themes.
+FAIL: Any development in What Changed is a continuation of a prior theme without a clear "what's new" statement; or Market Implications restates prior Standing View content without identifying a directional shift.
 
 ### Gate 7: Source Quality Feedback
 Does the brief include a Source Quality Feedback section with exactly three actionable bullets?
@@ -101,8 +101,8 @@ to determine the applicable ceiling:
 - Normal week (3 Tier 1 developments): ceiling is 900 words
 - High-signal week (4+ Tier 1 developments): ceiling is 1,100 words
 
-Count the combined word total of What Changed, Pattern Update, Why It
-Matters, and Watch Next.
+Count the combined word total of What Changed, Market Implications,
+and Watch Next.
 
 PASS: Combined word count is within the applicable ceiling for the week
 type, AND no section contains substantive content already covered in
