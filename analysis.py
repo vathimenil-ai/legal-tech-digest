@@ -231,7 +231,7 @@ def _parse_qa_verdicts(text: str) -> dict[str, str]:
     """Extract PASS/FAIL verdicts from the QA table."""
     verdicts: dict[str, str] = {}
     # Match table rows: | Gate N: Name | PASS / FAIL | ... |
-    pattern = r"\|\s*(Gate\s+\d+:[^|]+?)\s*\|\s*(PASS|FAIL)\s*\|"
+    pattern = r"\|\s*(Gate\s+\d+:[^|]+?)\s*\|\s*\*{0,2}(PASS|FAIL)\*{0,2}\s*\|"
     for match in re.finditer(pattern, text, re.IGNORECASE):
         gate_name = match.group(1).strip()
         verdict = match.group(2).strip().upper()
@@ -241,7 +241,7 @@ def _parse_qa_verdicts(text: str) -> dict[str, str]:
 
 def _parse_overall_verdict(text: str) -> str:
     """Extract the overall APPROVED / NEEDS REVISION verdict."""
-    match = re.search(r"###\s*Overall Verdict\s*\n+\s*(APPROVED|NEEDS REVISION)", text, re.IGNORECASE)
+    match = re.search(r"###\s*Overall Verdict\s*\n+\s*\*{0,2}(APPROVED|NEEDS REVISION)\*{0,2}", text, re.IGNORECASE)
     if match:
         return match.group(1).strip().upper()
     # Fallback: scan for standalone verdict
