@@ -12,10 +12,14 @@ Flow:
     3. Fetch Standing View from GitHub
     4. Run Stage 1 → Event Ledger
     5. Run Stage 2 → Weekly Brief + Updated Standing View + Delta Log
-    6. Save Weekly Brief to GitHub  /output/YYYYMMDD_WeeklyBrief.md
-    7. Push Updated Standing View back to GitHub
-    8. Run Stage 3 QA evaluation → save /output/YYYYMMDD_QA_Report.md
-    9. Convert brief to HTML and create Gmail draft
+    6. Save two brief versions to GitHub:
+          /output/YYYYMMDD_WeeklyBrief_Operator.md    (all sections)
+          /output/YYYYMMDD_WeeklyBrief_Stakeholder.md (Source Quality Feedback stripped)
+    7. Push Updated Standing View + Delta Log back to GitHub
+    8. Run Stage 3 QA evaluation (Operator version) → save /output/YYYYMMDD_QA_Report.md
+    9. Create two Gmail drafts:
+          Stakeholder — "Legal Tech Intelligence Brief — Week of [DATE]"
+          Operator    — "Legal Tech Intelligence Brief — Week of [DATE] [OPERATOR VERSION]"
 """
 import argparse
 import json
@@ -235,22 +239,56 @@ def step_stage2(standing_view: str, event_ledger: str) -> analysis.Stage2Output:
     return result
 
 
-def step_save_outputs(result: analysis.Stage2Output, dry_run: bool) -> str:
-    """Save Weekly Brief and Updated Standing View to GitHub. Returns dated filename."""
+def _make_stakeholder_brief(brief: str) -> str:
+    """
+    Strip the Source Quality Feedback section from the brief to produce
+    the stakeholder-facing version (Version A).  The section is always
+    last, so we remove from its heading to end-of-string.
+    """
+    import re
+    stripped = re.sub(
+        r'\n#{1,4}\s+(?:\d+\)\s+)?Source Quality Feedback\b.*',
+        '',
+        brief,
+        flags=re.DOTALL | re.IGNORECASE,
+    )
+    return stripped.rstrip()
+
+
+def step_save_outputs(result: analysis.Stage2Output, dry_run: bool) -> tuple[str, str]:
+    """
+    Save both brief versions and supporting outputs to GitHub.
+
+    Returns (operator_path, stakeholder_path).
+    """
     today = date.today()
     date_str = today.strftime("%Y%m%d")
-    brief_path = f"{config.GITHUB_OUTPUT_DIR}/{date_str}_WeeklyBrief.md"
     commit_date = today.isoformat()
 
+    operator_path = f"{config.GITHUB_OUTPUT_DIR}/{date_str}_WeeklyBrief_Operator.md"
+    stakeholder_path = f"{config.GITHUB_OUTPUT_DIR}/{date_str}_WeeklyBrief_Stakeholder.md"
+    stakeholder_brief = _make_stakeholder_brief(result.weekly_brief)
+
     logger.info("=== STEP 5: Save outputs to GitHub ===")
+    logger.info(
+        "Stakeholder brief: %d chars (Source Quality Feedback stripped from %d chars)",
+        len(stakeholder_brief), len(result.weekly_brief),
+    )
 
     if not dry_run:
         gh.upsert_file(
-            brief_path,
+            operator_path,
             result.weekly_brief,
-            f"feat: add weekly brief [{commit_date}]",
+            f"feat: add operator brief [{commit_date}]",
         )
-        logger.info("Brief saved: %s", brief_path)
+        logger.info("Operator brief saved: %s", operator_path)
+
+        gh.upsert_file(
+            stakeholder_path,
+            stakeholder_brief,
+            f"feat: add stakeholder brief [{commit_date}]",
+        )
+        logger.info("Stakeholder brief saved: %s", stakeholder_path)
 
         if result.updated_standing_view:
             gh.upsert_file(
@@ -273,12 +311,16 @@ def step_save_outputs(result: analysis.Stage2Output, dry_run: bool) -> str:
     else:
         logger.info("[dry-run] Skipping GitHub output writes.")
 
-    return brief_path
+    return operator_path, stakeholder_path
 
 
 def step_stage3_qa(result: analysis.Stage2Output, dry_run: bool) -> analysis.Stage3QAOutput:
-    """Run Stage 3 QA evaluation on the Weekly Brief and save the report."""
-    logger.info("=== STEP 6: Stage 3 — QA Evaluation ===")
+    """
+    Run Stage 3 QA evaluation on the Operator brief (full, all sections).
+    The QA report covers Source Quality Feedback even though that section
+    is excluded from the Stakeholder version.
+    """
+    logger.info("=== STEP 6: Stage 3 — QA Evaluation (evaluating Operator version) ===")
 
     qa = analysis.run_stage3_qa(result.weekly_brief)
 
@@ -314,28 +356,52 @@ def step_stage3_qa(result: analysis.Stage2Output, dry_run: bool) -> analysis.Sta
 
 
 def step_email_draft(result: analysis.Stage2Output, dry_run: bool) -> None:
-    """Convert Weekly Brief to HTML and create a Gmail draft."""
-    logger.info("=== STEP 6: Create Gmail draft ===")
+    """
+    Create two Gmail drafts:
+      Version A — Stakeholder: Bottom Line, What Changed, Market Implications,
+                  Watch Next. Subject: "Legal Tech Intelligence Brief — Week of [DATE]"
+      Version B — Operator:    All sections including Source Quality Feedback.
+                  Subject: "Legal Tech Intelligence Brief — Week of [DATE] [OPERATOR VERSION]"
+    """
+    logger.info("=== STEP 7: Create Gmail drafts (Stakeholder + Operator) ===")
 
-    week_str = date.today().strftime("%B %#d, %Y") if sys.platform == "win32" else date.today().strftime("%B %-d, %Y")
-    subject = f"Legal Tech Intelligence Brief — Week of {week_str}"
+    week_str = (
+        date.today().strftime("%B %#d, %Y")
+        if sys.platform == "win32"
+        else date.today().strftime("%B %-d, %Y")
+    )
+    subject_stakeholder = f"Legal Tech Intelligence Brief — Week of {week_str}"
+    subject_operator = f"Legal Tech Intelligence Brief — Week of {week_str} [OPERATOR VERSION]"
 
-    html_body = markdown_to_html(result.weekly_brief, title=subject)
+    stakeholder_brief = _make_stakeholder_brief(result.weekly_brief)
+
+    html_stakeholder = markdown_to_html(stakeholder_brief, title=subject_stakeholder)
+    html_operator = markdown_to_html(result.weekly_brief, title=subject_operator)
 
     if not dry_run:
-        draft_id = gmail_client.create_draft(
-            subject=subject,
-            html_body=html_body,
+        draft_a = gmail_client.create_draft(
+            subject=subject_stakeholder,
+            html_body=html_stakeholder,
+            plain_body=stakeholder_brief,
+        )
+        logger.info("Stakeholder draft created: id=%s", draft_a)
+
+        draft_b = gmail_client.create_draft(
+            subject=subject_operator,
+            html_body=html_operator,
             plain_body=result.weekly_brief,
         )
-        logger.info("Gmail draft created: id=%s  to=%s", draft_id, config.GMAIL_USER)
+        logger.info("Operator draft created: id=%s", draft_b)
     else:
         logger.info("[dry-run] Skipping Gmail draft creation.")
-        # Still show a snippet so you can inspect the HTML locally
-        preview_path = "output_preview.html"
-        with open(preview_path, "w", encoding="utf-8") as f:
-            f.write(html_body)
-        logger.info("[dry-run] HTML preview written to: %s", preview_path)
+        for name, html in (
+            ("stakeholder", html_stakeholder),
+            ("operator", html_operator),
+        ):
+            preview_path = f"output_preview_{name}.html"
+            with open(preview_path, "w", encoding="utf-8") as f:
+                f.write(html)
+            logger.info("[dry-run] HTML preview written to: %s", preview_path)
 
 
 # ── Entry point ────────────────────────────────────────────────────────────────
@@ -366,17 +432,20 @@ def run(dry_run: bool = False, skip_fetch: bool = False, resume: bool = False) -
     # 4. Stage 2 — Weekly Brief
     result = step_stage2(standing_view, event_ledger)
 
-    # 5. Save to GitHub
-    brief_path = step_save_outputs(result, dry_run)
+    # 5. Save to GitHub (Operator + Stakeholder versions)
+    operator_path, stakeholder_path = step_save_outputs(result, dry_run)
 
-    # 6. Stage 3 — QA Evaluation (non-blocking)
+    # 6. Stage 3 — QA Evaluation on Operator version (non-blocking)
     step_stage3_qa(result, dry_run)
 
-    # 7. Gmail draft
+    # 7. Gmail drafts (Stakeholder + Operator)
     step_email_draft(result, dry_run)
 
     elapsed = (datetime.now(tz=timezone.utc) - start).total_seconds()
-    logger.info("Pipeline complete in %.1fs. Brief saved to: %s", elapsed, brief_path)
+    logger.info(
+        "Pipeline complete in %.1fs. Operator: %s  Stakeholder: %s",
+        elapsed, operator_path, stakeholder_path,
+    )
 
 
 def main() -> None:
