@@ -90,6 +90,38 @@ DOWNGRADE or DISCARD developments that:
 - duplicate coverage of the same event
 - are opinion pieces without market signal
 
+### 4b) Apply Recency Rules (Critical)
+
+This is a weekly digest. The coverage period is the 7 days prior to the run date.
+All feeds have been pre-filtered to exclude articles older than 7 days.
+However, newer articles may reference or summarize older developments.
+You must distinguish between the article date and the development date.
+
+Apply the following recency rules strictly:
+
+INCLUDE as a current development:
+- A development that occurred within the current 7-day coverage period
+- A development from outside the coverage period that has a material NEW update,
+  ruling, announcement, or signal THIS week (e.g., a company announces Q4 results
+  referencing a product launched 3 weeks ago — the results are current, the launch is not)
+
+DOWNGRADE to Tier 2 or discard:
+- A development that occurred outside the 7-day coverage period, even if referenced
+  in a current article as context or background
+- A development where the only "new" element is that a newer article mentioned it
+
+NEVER include in Tier 1 or What Changed:
+- Any development whose primary event date falls outside the coverage period,
+  regardless of how significant it was at the time
+- Any development framed as "earlier this month" or "last month" or "recently"
+  without a specific date within the coverage window
+
+When in doubt about a development's date:
+- Check the change_statement: if you cannot state what is NEW this week
+  (as distinct from what happened previously), default to Tier 2 or discard
+- Note in the analyst_note field if a development is being included despite
+  an uncertain date, so the Stage 3 QA can flag it if needed
+
 ### 5) Define the Development
 
 For each retained development, produce:
