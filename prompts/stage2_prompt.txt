@@ -87,6 +87,25 @@ If you find yourself exceeding 900 words, cut in this order:
 ### 7) Always ask the Monday morning test
 Before including any item, ask: "If the President of a large LSP read this on Monday morning, would it change what they prioritize this week?" If no, cut it.
 
+### 8) Never expose the hypothesis framework in the brief
+
+The labels H1, H2, H3, H4, and H5 must never appear anywhere in the
+reader-facing Weekly Brief — not in Bottom Line, What Changed, Pattern
+Update, Why It Matters, Watch Next, or Source Quality Feedback.
+
+These labels are internal scaffolding only. The reader should experience
+the strategic depth that the hypotheses enforce, not see the framework
+itself.
+
+If you find yourself writing "H4" or "tests H1" or any similar reference,
+stop and rewrite the sentence as a market observation or strategic
+judgment without the label. The meaning must be preserved; the label
+must be removed.
+
+This applies to all hypothesis references, direct or indirect
+(e.g., "the fourth hypothesis," "our recurring revenue thesis" is
+acceptable; "H4" is not).
+
 ## Stage 2 Tasks
 
 ### 1) Identify the Most Important Changes
