@@ -58,17 +58,36 @@ When flagging a FAIL on criterion (b), identify which hypothesis is
 most conspicuously absent from the analysis and where its implications
 should have surfaced.
 
-### Gate 3: Epiq-Specific Lenses
-Does the Market Implications section use the five Epiq-specific lenses (Margin and Pricing / Platform and Ecosystem / Workflow Orchestration / Recurring Revenue / Competitive Position)?
+### Gate 3: Market Implications Coverage
+Does the Market Implications section address at least four of the five
+strategic lenses (Margin and Pricing, Platform and Ecosystem, Workflow
+Orchestration, Recurring Revenue, Competitive Position) with concrete,
+specific implications?
 
-PASS: At least four of the five lenses addressed with concrete, specific implications — not generic observations. Workflow Orchestration must be present every week.
-FAIL: Generic lenses used instead of the five Epiq-specific ones, or fewer than three lenses addressed, or Workflow Orchestration is absent, or implications are vague rather than specific.
+PASS: At least four lenses addressed with specific, non-generic
+implications. Each addressed lens integrates a directional signal
+(strengthening, emerging, weakening, or tension) into the analytical
+narrative rather than stating it as a separate label. Implications
+are framed in terms of LSPs or the market category, not Epiq by name.
+
+FAIL: Fewer than four lenses addressed, or implications are generic
+enough that any legal tech newsletter could have written them, or the
+section explicitly labels directional signals separately rather than
+weaving them into the analysis.
 
 ### Gate 4: Newsletter Test
 Is there any section, bullet, or paragraph in the brief that a general legal tech newsletter would have written identically — without knowledge of the reader's specific strategic context?
 
 PASS: Every substantive claim is filtered through the LSP strategic lens.
-FAIL: Identify the specific passage(s) that read as generic legal tech commentary, and flag them for removal or sharpening.
+FAIL: Identify the specific passage(s) that read as generic legal tech
+commentary, and flag them for removal or sharpening.
+
+Additional fail condition: Any implication framed as "For Epiq,
+this means..." or "Epiq should..." or any construction that
+addresses Epiq directly as the subject of an implication or
+recommendation (as distinct from naming Epiq when describing
+a specific development that involves Epiq). Implications must
+be framed in terms of LSPs or the market category.
 
 ### Gate 5: Watch Next Specificity
 Are the Watch Next items trigger-based and specific?
@@ -147,7 +166,7 @@ Return your QA evaluation in this exact structure:
 |------|---------|-------|
 | Gate 1: Monday Morning Test | PASS / FAIL | One sentence |
 | Gate 2: Strategic Depth | PASS / FAIL | One sentence |
-| Gate 3: Epiq-Specific Lenses | PASS / FAIL | One sentence |
+| Gate 3: Market Implications Coverage | PASS / FAIL | One sentence |
 | Gate 4: Newsletter Test | PASS / FAIL | One sentence |
 | Gate 5: Watch Next Specificity | PASS / FAIL | One sentence |
 | Gate 6: Change Discipline | PASS / FAIL | One sentence |

@@ -197,7 +197,7 @@ class Stage3QAOutput:
     GATE_NAMES = [
         "Gate 1: Monday Morning Test",
         "Gate 2: Strategic Depth",
-        "Gate 3: Epiq-Specific Lenses",
+        "Gate 3: Market Implications Coverage",
         "Gate 4: Newsletter Test",
         "Gate 5: Watch Next Specificity",
         "Gate 6: Change Discipline",
