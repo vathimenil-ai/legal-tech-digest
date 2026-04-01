@@ -21,7 +21,7 @@ import argparse
 import json
 import logging
 import sys
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import markdown as md
@@ -221,7 +221,14 @@ def step_stage1_from_cache() -> str:
 def step_stage2(standing_view: str, event_ledger: str) -> analysis.Stage2Output:
     """Run Stage 2: Weekly Brief + Updated Standing View + Delta Log."""
     logger.info("=== STEP 4: Stage 2 — Weekly Brief ===")
-    result = analysis.run_stage2(standing_view, event_ledger)
+
+    today = date.today()
+    week_start = today - timedelta(days=today.weekday())  # most recent Monday
+    fmt = "%B %#d, %Y" if sys.platform == "win32" else "%B %-d, %Y"
+    coverage_period = f"Week of {week_start.strftime(fmt)} to {today.strftime(fmt)}"
+    logger.info("Coverage period: %s", coverage_period)
+
+    result = analysis.run_stage2(standing_view, event_ledger, coverage_period=coverage_period)
     logger.info("Weekly Brief: %d chars", len(result.weekly_brief))
     logger.info("Updated Standing View: %d chars", len(result.updated_standing_view))
     logger.info("Delta Log: %d chars", len(result.delta_log))

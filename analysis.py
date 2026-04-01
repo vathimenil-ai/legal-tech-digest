@@ -156,10 +156,14 @@ def _extract_section(text: str, section_name: str) -> str:
     return ""
 
 
-def run_stage2(standing_view: str, event_ledger: str) -> Stage2Output:
+def run_stage2(standing_view: str, event_ledger: str, coverage_period: str = "") -> Stage2Output:
     """
     Generate the Weekly Brief, Updated Standing View, and Delta Log.
     Returns a Stage2Output with all three sections parsed.
+
+    coverage_period: explicit date range string injected into the prompt header,
+    e.g. "Week of March 24, 2026 to March 31, 2026". When provided, Claude uses
+    this as the authoritative coverage period rather than deriving it from article dates.
 
     Your stage2_prompt.txt should instruct Claude to wrap each output in:
       <!-- BEGIN WEEKLY_BRIEF --> ... <!-- END WEEKLY_BRIEF -->
@@ -168,7 +172,9 @@ def run_stage2(standing_view: str, event_ledger: str) -> Stage2Output:
     """
     system_prompt = _load_prompt("stage2_prompt.txt")
 
-    user_message = f"""## Current Standing View
+    coverage_line = f"**Coverage period:** {coverage_period}\n\n---\n\n" if coverage_period else ""
+
+    user_message = f"""{coverage_line}## Current Standing View
 
 {standing_view}
 
