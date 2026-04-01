@@ -8,7 +8,7 @@ Label stream ID format:   user/-/label/{label_name}
 import json
 import time
 import logging
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from typing import Any
 
 import requests
@@ -49,9 +49,18 @@ def _auth_headers(token: str) -> dict[str, str]:
 
 # ── Fetch articles ─────────────────────────────────────────────────────────────
 
-def fetch_label(label: str, access_token: str, max_items: int = 100) -> list[dict[str, Any]]:
+def fetch_label(
+    label: str,
+    access_token: str,
+    max_items: int = 100,
+    ot: int | None = None,
+) -> list[dict[str, Any]]:
     """
     Fetch all articles for an InnoReader label, handling pagination automatically.
+
+    ot: optional Unix timestamp for the Layer 1 API-level date filter.
+        InnoReader will only return articles crawled after this timestamp.
+
     Returns raw InnoReader item dicts.
     """
     stream_id = f"user/-/label/{label}"
@@ -66,6 +75,8 @@ def fetch_label(label: str, access_token: str, max_items: int = 100) -> list[dic
             "n": min(50, max_items - len(items)),  # page size (max 50 per InnoReader)
             "output": "json",
         }
+        if ot is not None:
+            params["ot"] = ot
         if continuation:
             params["c"] = continuation
 
@@ -84,6 +95,57 @@ def fetch_label(label: str, access_token: str, max_items: int = 100) -> list[dic
             break
 
     return items
+
+
+def _filter_by_published_date(
+    items: list[dict[str, Any]],
+    cutoff_dt: datetime,
+    label: str,
+) -> list[dict[str, Any]]:
+    """
+    Layer 2 pipeline-level date filter: discard articles published before cutoff_dt.
+
+    For each article:
+    - Uses the `published` Unix timestamp as the primary date signal.
+    - Falls back to `crawlTimeMsec` (ms → s) if `published` is missing or zero.
+    - If neither is available, keeps the article (do not discard on missing data).
+
+    Logs a per-article line for every discarded item so the operator can see
+    exactly what was filtered and why.
+    """
+    kept: list[dict[str, Any]] = []
+    discarded: list[tuple[str, str]] = []
+
+    for item in items:
+        published_ts = item.get("published") or 0
+
+        if not published_ts:
+            # Fall back to crawlTimeMsec (string or int, in milliseconds)
+            crawl_ms = item.get("crawlTimeMsec", 0)
+            if crawl_ms:
+                published_ts = int(str(crawl_ms)) // 1000
+
+        if not published_ts:
+            # No date at all — keep to avoid silently discarding valid content
+            kept.append(item)
+            continue
+
+        pub_dt = datetime.fromtimestamp(published_ts, tz=timezone.utc)
+        if pub_dt >= cutoff_dt:
+            kept.append(item)
+        else:
+            raw_title = item.get("title", "")
+            title = raw_title.get("content", "") if isinstance(raw_title, dict) else str(raw_title)
+            discarded.append((title[:100], pub_dt.strftime("%Y-%m-%d")))
+
+    # Summary log
+    logger.info(
+        "Date filter [%s]: %d fetched from API → %d kept, %d discarded (7-day cutoff: %s)",
+        label, len(items), len(kept), len(discarded), cutoff_dt.date().isoformat(),
+    )
+    # Per-article discard log
+    for title, pub_date in discarded:
+        logger.info("  DISCARDED: [%s] '%s'", pub_date, title)
 
 
 # ── Schema transformation ──────────────────────────────────────────────────────
@@ -168,11 +230,29 @@ def transform_items(raw_items: list[dict[str, Any]], feed_type: str) -> dict[str
 # ── Public API ─────────────────────────────────────────────────────────────────
 
 def fetch_and_transform(label: str, feed_type: str, access_token: str) -> dict[str, Any]:
-    """Fetch articles for a label and return the transformed pipeline schema dict."""
+    """
+    Fetch articles for a label and return the transformed pipeline schema dict.
+
+    Applies a two-layer date filter:
+      Layer 1 (API): `ot` param limits InnoReader to articles crawled in the
+                     last 10 days, reducing payload before any data is transferred.
+      Layer 2 (pipeline): discard any article whose publication date (or crawl
+                          date as fallback) is older than 7 days from run date.
+    """
+    now = datetime.now(tz=timezone.utc)
+
+    # Layer 1: API-level crawl-date filter (10-day window)
+    ot = int((now - timedelta(days=10)).timestamp())
+
+    # Layer 2: pipeline-level publication-date cutoff (7-day window)
+    cutoff_7d = now - timedelta(days=7)
+
     logger.info("Fetching InnoReader label '%s' (feed_type=%s)…", label, feed_type)
-    raw = fetch_label(label, access_token)
-    logger.info("Fetched %d raw items for '%s'.", len(raw), label)
-    return transform_items(raw, feed_type)
+    raw = fetch_label(label, access_token, ot=ot)
+    logger.info("Fetched %d raw items for '%s' (API filter: last 10 days).", len(raw), label)
+
+    filtered = _filter_by_published_date(raw, cutoff_7d, label)
+    return transform_items(filtered, feed_type)
 
 
 def get_both_feeds(access_token: str) -> tuple[dict[str, Any], dict[str, Any]]:
