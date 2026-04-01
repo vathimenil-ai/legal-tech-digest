@@ -281,9 +281,18 @@ Bad watch items:
 - "Watch the market"
 
 ### 7) Source Quality Feedback
-This is a required section in every brief. It must contain exactly
-three bullets and must be specific enough to be acted on directly
+
+This is the final section of the reader-facing brief. It must contain
+exactly three bullets and must be specific enough to be acted on directly
 in an RSS feed or filter configuration.
+
+NOTE: The Standing View Changes delta log is NO LONGER included in the
+reader-facing Weekly Brief. It is captured separately in the Delta Log
+output only. Do not include a Standing View Changes section in the brief.
+
+After this section, produce the full Updated Standing View and Delta Log
+as separate outputs per the Standing View and Delta Log output requirements
+below.
 
 - **Highest-value sources this week:** Name 1-3 specific publications or feeds by name. Explain in one sentence why they provided high-signal content this week (e.g., broke original news, provided primary source data, surfaced a development not covered elsewhere).
 - **Lowest-value or most repetitive sources this week:** Name 1-3 specific publications or feeds by name. Explain in one sentence why they were low-value (e.g., republished wire content without analysis, repeated a development already covered by higher-quality sources, produced generic commentary without concrete developments).
@@ -297,38 +306,6 @@ in an RSS feed or filter configuration.
   - "Continue monitoring sources for quality"
   - "Review feed composition periodically"
   - "Consider adjusting filters"
-
-### 8) Standing View Changes
-
-This section must be a compact delta record only — 5 lines maximum.
-It must NOT restate or summarize content already covered in Pattern Update.
-
-Format: one line per change, using the following shorthand only:
-- Strengthened: [theme name]
-- Added: [theme or watchlist item name]
-- Weakened: [theme name]
-- Removed: [theme name]
-- H[number]: [old confidence] → [new confidence]
-- Watchlist: [item added / elevated / removed]
-
-Example of correct format:
-- Strengthened: Relativity Dependency
-- H2: Medium → Medium-High
-- H4: Low → Medium
-- H5: Low → Medium
-- Watchlist added: Relativity S-1 content
-- Watchlist added: LitLingo integration roadmap
-- Watchlist elevated: Judicial AI governance rulings
-
-Example of incorrect format (do not do this):
-- Strengthened: Relativity Dependency — the IPO filing converts bilateral
-  negotiation to public-market-driven structural pressure, accelerating the
-  margin compression timeline...
-  [This restates content from Pattern Update and adds word count without
-  adding value.]
-
-The reader has already seen the full analysis above. This section
-exists only as a scannable reference log, not as a summary.
 
 ## Standing View — Output Requirements
 
