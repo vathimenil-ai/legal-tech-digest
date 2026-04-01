@@ -54,3 +54,11 @@ GMAIL_REFRESH_TOKEN: str = _optional("GMAIL_REFRESH_TOKEN")
 
 # ── Claude model to use for analysis ──────────────────────────────────────────
 CLAUDE_MODEL: str = _optional("CLAUDE_MODEL", "claude-opus-4-6")
+
+# ── Deduplication ──────────────────────────────────────────────────────────────
+# Title similarity threshold for cross-feed deduplication (0.0–1.0).
+# 0.80 means 80% similar titles are treated as the same development.
+# Raise this if distinct articles are being incorrectly collapsed.
+# Set DEDUP_ENABLED=False to bypass deduplication entirely for debugging.
+DEDUP_TITLE_SIMILARITY_THRESHOLD: float = float(_optional("DEDUP_TITLE_SIMILARITY_THRESHOLD", "0.80"))
+DEDUP_ENABLED: bool = _optional("DEDUP_ENABLED", "true").lower() not in ("false", "0", "no")

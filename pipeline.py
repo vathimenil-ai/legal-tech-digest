@@ -22,11 +22,14 @@ Flow:
           Operator    — "Legal Tech Intelligence Brief — Week of [DATE] [OPERATOR VERSION]"
 """
 import argparse
+import difflib
 import json
 import logging
+import string
 import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urlparse, urlunparse
 
 import markdown as md
 
@@ -165,6 +168,185 @@ _LEDGER_CACHE = Path("event_ledger_cache.md")
 
 # Max chars for summary text per article sent to Claude
 _SUMMARY_MAX_CHARS = 400
+
+# ── Deduplication helpers ──────────────────────────────────────────────────────
+
+_DEDUP_NOISE_WORDS = frozenset({
+    "the", "a", "an", "in", "on", "at", "to", "for", "of", "and", "or",
+    "is", "are", "was", "were", "has", "have", "with", "from", "that",
+    "this", "how", "why", "what", "will", "can", "new", "says", "report",
+})
+_PUNCT_TABLE = str.maketrans("", "", string.punctuation)
+
+
+def _normalize_url(url: str) -> str:
+    """Strip query parameters and trailing slash for exact-match comparison."""
+    try:
+        p = urlparse(url)
+        return urlunparse((p.scheme, p.netloc, p.path.rstrip("/"), "", "", "")).lower()
+    except Exception:
+        return url.lower().rstrip("/")
+
+
+def _normalize_title(title: str) -> str:
+    """Lowercase, strip punctuation, remove noise words."""
+    t = title.lower().translate(_PUNCT_TABLE)
+    return " ".join(w for w in t.split() if w not in _DEDUP_NOISE_WORDS)
+
+
+def _dedup_by_url(
+    p_items: list[dict],
+    h_items: list[dict],
+) -> tuple[list[dict], list[dict], int]:
+    """
+    Pass 1 — exact URL deduplication.
+    Within each feed: keep first occurrence of each normalized URL.
+    Across feeds: priority URL beats high_signal URL.
+    Returns (deduped_priority, deduped_high_signal, n_removed).
+    """
+    removed = 0
+
+    # Within priority
+    seen: set[str] = set()
+    deduped_p: list[dict] = []
+    for item in p_items:
+        norm = _normalize_url(item.get("url", ""))
+        if norm and norm in seen:
+            removed += 1
+        else:
+            seen.add(norm)
+            deduped_p.append(item)
+
+    # Within high_signal
+    seen_h: set[str] = set()
+    deduped_h: list[dict] = []
+    for item in h_items:
+        norm = _normalize_url(item.get("url", ""))
+        if norm and norm in seen_h:
+            removed += 1
+        else:
+            seen_h.add(norm)
+            deduped_h.append(item)
+
+    # Cross-feed: drop high_signal items whose URL already appears in priority
+    priority_urls = {_normalize_url(item.get("url", "")) for item in deduped_p}
+    final_h: list[dict] = []
+    for item in deduped_h:
+        norm = _normalize_url(item.get("url", ""))
+        if norm and norm in priority_urls:
+            removed += 1
+        else:
+            final_h.append(item)
+
+    return deduped_p, final_h, removed
+
+
+def _dedup_by_title(
+    p_items: list[dict],
+    h_items: list[dict],
+) -> tuple[list[dict], list[dict], int]:
+    """
+    Pass 2 — title similarity deduplication using difflib.SequenceMatcher.
+    Greedy clustering: once an article is absorbed into a cluster, skip it.
+    Priority feed wins over high_signal; within same feed, keep longer summary.
+    Returns (deduped_priority, deduped_high_signal, n_removed).
+    """
+    threshold = config.DEDUP_TITLE_SIMILARITY_THRESHOLD
+
+    # Tag each item with its feed source
+    tagged: list[tuple[dict, str]] = (
+        [(item, "priority") for item in p_items] +
+        [(item, "high_signal") for item in h_items]
+    )
+    n = len(tagged)
+    keep = [True] * n
+    removed = 0
+
+    for i in range(n):
+        if not keep[i]:
+            continue
+        item_i, feed_i = tagged[i]
+        norm_i = _normalize_title(item_i.get("title", ""))
+
+        for j in range(i + 1, n):
+            if not keep[j]:
+                continue
+            item_j, feed_j = tagged[j]
+            norm_j = _normalize_title(item_j.get("title", ""))
+
+            ratio = difflib.SequenceMatcher(None, norm_i, norm_j).ratio()
+            if ratio < threshold:
+                continue
+
+            # Determine winner
+            if feed_i == "priority" and feed_j == "high_signal":
+                loser_idx, winner, winner_feed, loser, loser_feed = j, item_i, feed_i, item_j, feed_j
+            elif feed_j == "priority" and feed_i == "high_signal":
+                loser_idx, winner, winner_feed, loser, loser_feed = i, item_j, feed_j, item_i, feed_i
+            else:
+                # Same feed — keep the one with the longer summary
+                len_i = len(item_i.get("summary", "") or item_i.get("content", ""))
+                len_j = len(item_j.get("summary", "") or item_j.get("content", ""))
+                if len_j > len_i:
+                    loser_idx, winner, winner_feed, loser, loser_feed = i, item_j, feed_j, item_i, feed_i
+                else:
+                    loser_idx, winner, winner_feed, loser, loser_feed = j, item_i, feed_i, item_j, feed_j
+
+            keep[loser_idx] = False
+            removed += 1
+            logger.debug(
+                "Duplicate removed: \"%s\" (kept, %s) vs \"%s\" (removed, %s, similarity=%.2f)",
+                winner.get("title", "")[:80], winner_feed,
+                loser.get("title", "")[:80], loser_feed,
+                ratio,
+            )
+
+            if loser_idx == i:
+                break  # item_i was removed; stop its outward comparisons
+
+    final_p = [item for (item, feed), k in zip(tagged, keep) if k and feed == "priority"]
+    final_h = [item for (item, feed), k in zip(tagged, keep) if k and feed == "high_signal"]
+    return final_p, final_h, removed
+
+
+def _dedup_feeds(
+    priority_feed: dict,
+    high_signal_feed: dict,
+) -> tuple[dict, dict]:
+    """
+    Apply URL and title-similarity deduplication across both feeds.
+    Preserves feed_type on each article (items stay in their original feed dict).
+    No-ops if config.DEDUP_ENABLED is False.
+    """
+    if not config.DEDUP_ENABLED:
+        logger.info("Deduplication disabled (DEDUP_ENABLED=False) — skipping.")
+        return priority_feed, high_signal_feed
+
+    p_items = list(priority_feed.get("items", []))
+    h_items = list(high_signal_feed.get("items", []))
+    before_p, before_h = len(p_items), len(h_items)
+
+    # Pass 1: URL exact match
+    p_items, h_items, url_removed = _dedup_by_url(p_items, h_items)
+
+    # Pass 2: title similarity
+    p_items, h_items, title_removed = _dedup_by_title(p_items, h_items)
+
+    after_p, after_h = len(p_items), len(h_items)
+    total_removed = url_removed + title_removed
+
+    logger.info("Deduplication complete:")
+    logger.info("  Priority feed:    %d articles before → %d after", before_p, after_p)
+    logger.info("  High-signal feed: %d articles before → %d after", before_h, after_h)
+    logger.info("  Combined:         %d articles before → %d after",
+                before_p + before_h, after_p + after_h)
+    logger.info("  Duplicates removed: %d (URL: %d, title similarity: %d)",
+                total_removed, url_removed, title_removed)
+
+    return (
+        {**priority_feed,    "items": p_items, "item_count": len(p_items)},
+        {**high_signal_feed, "items": h_items, "item_count": len(h_items)},
+    )
 
 
 def _trim_feed(feed: dict) -> dict:
@@ -428,8 +610,10 @@ def run(dry_run: bool = False, skip_fetch: bool = False, resume: bool = False) -
         priority_feed, high_signal_feed = {}, {}
     elif skip_fetch:
         priority_feed, high_signal_feed = step_load_existing_feeds()
+        priority_feed, high_signal_feed = _dedup_feeds(priority_feed, high_signal_feed)
     else:
         priority_feed, high_signal_feed = step_fetch_feeds(dry_run)
+        priority_feed, high_signal_feed = _dedup_feeds(priority_feed, high_signal_feed)
 
     # 2. Standing View
     standing_view = step_fetch_standing_view()
