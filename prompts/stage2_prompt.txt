@@ -191,6 +191,25 @@ Before writing each item, ask: "Could a general legal tech newsletter
 write this identically without knowing anything about our reader's
 strategic situation?" If yes, rewrite until the answer is no.
 
+Apply this test to every sentence in What Changed — not just every item:
+
+  "Could a general legal tech journalist write this sentence without
+  knowing anything about our reader's specific strategic situation,
+  competitive pressures, or the four strategic priorities?"
+
+If yes, rewrite the sentence to:
+  (a) name a specific consequence for an LSP operating in Epiq's position, OR
+  (b) specify what must change operationally or strategically as a result, OR
+  (c) remove it entirely if it adds no Epiq-specific value
+
+In particular:
+  - Do not restate a competitor's own press release language as analysis
+  - Do not make market-level observations without connecting them to a
+    specific Epiq action, risk, or opportunity
+  - "This validates..." and "This widens the gap between..." constructions
+    are high-risk for generic commentary — always follow them with a
+    specific Epiq implication
+
 When two developments serve the same strategic point, collapse them into
 a single combined item with a title that captures the unified thesis
 (e.g., "Dual-Front Disintermediation Threat Materializes" rather than
