@@ -282,59 +282,112 @@ the brief.
 ### 4) Market Implications
 
 Before writing the Market Implications section, review the Standing View
-for developments that:
+for developments that should be actively used as interpretive context
+this week.
 
-  (a) occurred within approximately the past 1-2 weeks (i.e., recently
-      added to the Standing View as new or strengthened themes), AND
-  (b) are of high strategic significance for the themes covered in this
-      week's brief
+The key principle: the more recent a prior development AND the more
+important it is to this week's themes, the more explicitly it should
+be referenced in the analysis. These two factors — recency and
+importance — work together. A very recent minor development may not
+warrant explicit reference. A highly important development from several
+weeks ago may warrant a brief mention. A recent AND highly important
+development should almost always be surfaced explicitly.
 
-These recent high-significance developments should be actively used as
-interpretive context within the Market Implications section — not as new
-news (they belong in What Changed only if they occurred this week), but
-as established context that gives this week's developments their full
-meaning.
+Apply the following tiered guidance:
 
-The distinction is critical:
+---
+
+TIER 1 — Days 8-14 (recent past):
+Reference explicitly by name in Market Implications if the development
+is of moderate or high importance to this week's themes.
+
+Behavioral instruction: When writing any Market Implications lens, ask
+"Did anything significant happen in the past 8-14 days that materially
+changes what this week's news means?" If yes, name it and connect it
+explicitly. Use framing like:
+  - "Coming one week after X..."
+  - "In the context of last week's Y..."
+  - "Together with the recently announced Z..."
+
+Importance threshold for Tier 1: moderate or above — i.e., any
+development that strengthened or added a core or emerging theme in
+the Standing View.
+
+---
+
+TIER 2 — Days 15-30 (established recent context):
+Reference explicitly only if the development was a major theme change
+in the Standing View AND this week's developments directly and
+materially bear on it.
+
+Behavioral instruction: Do not reference Tier 2 developments routinely.
+Only surface them when there is a direct analytical connection that
+would be lost without the reference — e.g., a development this week
+that confirms, challenges, or accelerates a theme that was just
+established 3 weeks ago. Use framing like:
+  - "This accelerates a pattern established three weeks ago when..."
+  - "This challenges the view formed last month that..."
+
+Importance threshold for Tier 2: high only — i.e., a development
+that created a new core theme or caused a major confidence shift in
+the Standing View.
+
+---
+
+TIER 3 — Beyond 30 days (background context):
+Do not reference explicitly by date or event name. The Standing View
+passively carries this context into the analysis through its established
+themes and confidence levels. Trust the Standing View to do this work
+— do not add explicit historical references.
+
+---
+
+WHAT CHANGED vs MARKET IMPLICATIONS — the critical distinction:
 
   WHAT CHANGED = only developments that occurred this week
+  (within the 7-day coverage period)
+
   MARKET IMPLICATIONS = this week's developments interpreted through
-  the lens of what we already know, including explicit reference to
-  recent high-significance context from the Standing View
+  the lens of what we already know, including explicit Tier 1 and
+  selective Tier 2 references where analytically essential
 
-Examples of correct integration:
+The goal is synthesis — connecting current-week signal to recent
+context to produce an insight that neither would produce alone.
 
-  CORRECT — "Harvey's $11B raise, coming one week after Relativity's
-  IPO filing, creates a simultaneous two-front pressure that changes
-  the strategic calculus: LSPs now face platform cost escalation from
-  above and workflow-layer competition from below at the same time."
-  [Relativity IPO is recent Standing View context, not this week's news]
+Do NOT use this to re-analyze prior developments or repeat analysis
+already in the Standing View. One sentence of connection is usually
+sufficient. The reference should illuminate this week's news, not
+shift focus away from it.
 
-  INCORRECT — "Harvey's $11B raise is a significant development for
-  LSPs."
-  [This ignores the Standing View context that would give the
-  development its full strategic meaning]
+---
 
-Specific trigger for using Standing View context:
+Example of correct Tier 1 integration:
 
-  When writing any Market Implications lens, ask:
-  "Is there a development in the Standing View from the past 1-2 weeks
-  that materially changes what this week's news means?"
+  "Harvey's $11B raise, coming one week after Relativity's IPO filing,
+  creates a simultaneous two-front pressure that changes the strategic
+  calculus for LSPs: platform cost escalation from above and
+  workflow-layer competition from below are now advancing in parallel,
+  not sequentially."
 
-  If yes: reference it explicitly by name in the analysis, framed as
-  established context ("Coming one week after X...", "In the context
-  of last week's Y...", "Together with the recently announced Z...")
+  [Relativity IPO is Tier 1 context — 8 days ago, high importance,
+  directly relevant to interpreting Harvey's move]
 
-  If no: proceed without forcing a connection
+Example of correct Tier 2 integration:
 
-This instruction applies most strongly to the Workflow Orchestration,
-Competitive Position, and Platform and Ecosystem lenses, where
-multi-week context is most likely to be analytically essential.
+  "This ruling accelerates a pattern established three weeks ago with
+  the Jeffries v. Harcros decision — courts are systematically building
+  AI governance doctrine in discovery, not issuing isolated opinions."
 
-Do NOT use this to re-analyze last week's developments or repeat
-analysis already in the Standing View. The goal is synthesis —
-connecting current week signal to recent context to produce an
-insight that neither would produce alone.
+  [Jeffries is Tier 2 — 22 days ago, high importance, directly
+  relevant to interpreting a new court ruling this week]
+
+Example of incorrect integration (avoid):
+
+  "As we have seen repeatedly over the past several months, AI
+  governance is becoming increasingly important in the legal sector."
+
+  [Vague historical reference that adds no analytical value — use
+  the Standing View's established themes implicitly instead]
 
 ---
 
