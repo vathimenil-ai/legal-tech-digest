@@ -32,11 +32,31 @@ Does every Bottom Line bullet answer the question: "If I were the President of a
 PASS: All bullets are directional, specific, and consequential for LSP leadership.
 FAIL: Any bullet describes what happened without stating why it matters for this specific audience, or reads like content a general legal tech newsletter would publish identically.
 
-### Gate 2: Hypothesis Depth in Pattern Update
-Does the Pattern Update section surface insights from the five standing hypotheses (H1–H5) without naming them explicitly?
+### Gate 2: Strategic Depth (formerly Hypothesis Check)
 
-PASS: Each Pattern Update bullet reflects genuine analytical depth informed by the hypothesis framework — the reader can feel the strategic reasoning even without seeing the hypothesis labels.
-FAIL: Pattern Update bullets are surface-level event summaries with no visible connection to the underlying strategic hypotheses, OR any bullet reads as if it could have been written without knowledge of H1–H5.
+Does the brief reflect deep awareness of the five standing strategic
+hypotheses (H1–H5) without explicitly naming or citing them?
+
+The hypotheses are internal scaffolding only. They must never appear
+in the reader-facing brief. But the analysis must be demonstrably
+informed by them.
+
+PASS: The Pattern Update and Why It Matters sections contain analysis
+that clearly reflects awareness of at least three of the five hypotheses,
+expressed as market observations or strategic judgments — not as
+hypothesis verdicts. A reader unfamiliar with the hypotheses would
+experience this as sharp, well-informed strategic analysis. A reader
+who knows the hypotheses would recognize them embedded in the framing.
+
+FAIL: The brief either (a) explicitly names or cites H1–H5, or
+(b) contains Pattern Update and Why It Matters sections that could
+have been written without any knowledge of the five strategic hypotheses
+— generic observations that lack the specific LSP strategic lens that
+the hypotheses are designed to enforce.
+
+When flagging a FAIL on criterion (b), identify which hypothesis is
+most conspicuously absent from the analysis and where its implications
+should have surfaced.
 
 ### Gate 3: Epiq-Specific Lenses
 Does the Why It Matters section use the five Epiq-specific lenses (Margin and Pricing / Platform and Ecosystem / Workflow Orchestration / Recurring Revenue / Competitive Position)?
@@ -111,7 +131,7 @@ Return your QA evaluation in this exact structure:
 | Gate | Verdict | Notes |
 |------|---------|-------|
 | Gate 1: Monday Morning Test | PASS / FAIL | One sentence |
-| Gate 2: Hypothesis Depth | PASS / FAIL | One sentence |
+| Gate 2: Strategic Depth | PASS / FAIL | One sentence |
 | Gate 3: Epiq-Specific Lenses | PASS / FAIL | One sentence |
 | Gate 4: Newsletter Test | PASS / FAIL | One sentence |
 | Gate 5: Watch Next Specificity | PASS / FAIL | One sentence |

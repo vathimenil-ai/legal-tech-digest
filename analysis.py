@@ -196,7 +196,7 @@ class Stage3QAOutput:
     # Gates in display order
     GATE_NAMES = [
         "Gate 1: Monday Morning Test",
-        "Gate 2: Hypothesis Depth",
+        "Gate 2: Strategic Depth",
         "Gate 3: Epiq-Specific Lenses",
         "Gate 4: Newsletter Test",
         "Gate 5: Watch Next Specificity",
