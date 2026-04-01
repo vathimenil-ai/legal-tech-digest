@@ -1,8 +1,25 @@
 {
   "feed_type": "priority",
-  "fetched_at": "2026-04-01T16:36:42.560070+00:00",
+  "fetched_at": "2026-04-01T17:13:11.036769+00:00",
   "item_count": 50,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b59d3ccb5",
+      "title": "AI in M&A: The Shift from Competitive Advantage to Governance Imperative",
+      "url": "https://www.jdsupra.com/legalnews/ai-in-m-a-the-shift-from-competitive-4417717/",
+      "author": "Morgan Lewis",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-01T17:00:02+00:00",
+      "updated_at": "",
+      "summary": "Artificial intelligence is no longer a fringe capability or experimental tool. It is rapidly becoming a core pillar of corporate strategy, with its influence now extending across the entire deal lifecycle, from sourcing opportunities and shaping valuations to conducting diligence and driving post-transaction integration....<br>By: <a href=\"https://www.jdsupra.com/profile/morgan-lewis/\">Morgan Lewis</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal",
+        "Priority"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b59be604f",
       "title": "The AI Appropriator: A New Species of Credit Thief Is Reshaping the Corporate Workplace",
@@ -463,24 +480,6 @@
       "content": "",
       "categories": [
         "reading-list",
-        "Legal Tech Core",
-        "High-Signal",
-        "Priority"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b54dc22d2",
-      "title": "AI on LP led secondaries – is the market ready?",
-      "url": "https://www.jdsupra.com/legalnews/ai-on-lp-led-secondaries-is-the-market-9602800/",
-      "author": "Hogan Lovells",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-03-25T16:53:06+00:00",
-      "updated_at": "",
-      "summary": "Artificial intelligence (‘AI’) is poised to become a powerful force in limited partner (‘LP’) trading, but its adoption raises a series of legal and governance questions. Limited partnership agreements (‘LPAs’), confidentiality provisions, fiduciary duties, and regulatory expectations were all drafted in a pre‑AI environment. As AI becomes embedded in pricing, diligence, and compliance workflows, market participants will need to consider how existing legal frameworks apply, and where they may...<br>By: <a href=\"https://www.jdsupra.com/profile/Hogan_Lovells/\">Hogan Lovells</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "read",
         "Legal Tech Core",
         "High-Signal",
         "Priority"
