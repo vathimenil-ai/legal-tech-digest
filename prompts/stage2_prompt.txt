@@ -209,13 +209,22 @@ Bad watch items:
 - "Watch the market"
 
 ### 8) Source Quality Feedback
-This is a required section. Provide exactly three bullets.
+This is a required section in every brief. It must contain exactly
+three bullets and must be specific enough to be acted on directly
+in an RSS feed or filter configuration.
 
-- **Highest-value sources this week:** Name the specific publications or feeds that provided the strongest signal, and explain briefly why (e.g., broke a primary story, provided data not available elsewhere, directly relevant to LSP priorities).
-- **Lowest-value or most repetitive sources this week:** Name the specific publications or feeds that contributed the least signal — duplicate coverage, generic commentary, or content consistently irrelevant to this audience.
-- **One actionable intake recommendation:** A concrete change to the feed configuration that would improve signal quality next week (e.g., "Demote [source] from priority to high-signal feed", "Add [publication] to priority feed", "Add a filter to exclude [content type] from [feed]").
+- **Highest-value sources this week:** Name 1-3 specific publications or feeds by name. Explain in one sentence why they provided high-signal content this week (e.g., broke original news, provided primary source data, surfaced a development not covered elsewhere).
+- **Lowest-value or most repetitive sources this week:** Name 1-3 specific publications or feeds by name. Explain in one sentence why they were low-value (e.g., republished wire content without analysis, repeated a development already covered by higher-quality sources, produced generic commentary without concrete developments).
+- **One intake recommendation:** Provide exactly one concrete, actionable recommendation for improving the feed configuration. Examples of acceptable recommendations:
+  - "Demote [source] from priority to high-signal feed"
+  - "Add [source] to priority feed — provided two Tier 1 items this week"
+  - "Add a filter rule excluding content tagged [topic] from [feed]"
+  - "Remove [source] entirely — consistently low-signal over multiple weeks"
 
-Be specific. Name sources by publication name or feed label. Generic feedback ("quality was mixed") is not acceptable.
+  Unacceptable recommendations:
+  - "Continue monitoring sources for quality"
+  - "Review feed composition periodically"
+  - "Consider adjusting filters"
 
 ### 9) Standing View Changes
 Short delta bullets only:
