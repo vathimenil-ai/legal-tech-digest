@@ -79,15 +79,31 @@ weaving them into the analysis.
 Is there any section, bullet, or paragraph in the brief that a general legal tech newsletter would have written identically — without knowledge of the reader's specific strategic context?
 
 PASS: Every substantive claim is filtered through the LSP strategic lens.
-FAIL: Identify the specific passage(s) that read as generic legal tech
-commentary, and flag them for removal or sharpening.
 
-Additional fail condition: Any implication framed as "For Epiq,
-this means..." or "Epiq should..." or any construction that
-addresses Epiq directly as the subject of an implication or
-recommendation (as distinct from naming Epiq when describing
-a specific development that involves Epiq). Implications must
-be framed in terms of LSPs or the market category.
+Important distinction for Gate 4:
+Naming Epiq (or any other company) as the factual actor in a
+development is ALWAYS acceptable and must never be flagged as a
+newsletter test failure. For example:
+- "Epiq acquired LitLingo" — correct factual attribution, PASS
+- "Harvey raised $200M at $11B" — correct factual attribution, PASS
+The newsletter test applies ONLY to implications and analysis —
+not to factual descriptions of who did what.
+
+The gate should flag as FAIL only when:
+- Implications are framed as "For Epiq, this means..." or "Epiq
+  should..." (addressing the reader's company prescriptively)
+- Analysis is generic enough that any legal tech newsletter could
+  have written it without knowing the reader's strategic context
+- Internal system labels (Tier 1, Tier 2, H1-H5) appear in the
+  reader-facing brief
+
+Do NOT flag as FAIL:
+- Accurate factual attribution naming any company as an actor
+- Analysis of a named company's development that draws LSP-relevant
+  implications without prescribing action to the reader
+
+FAIL: Identify the specific passage(s) that meet the FAIL criteria
+above and flag them for removal or sharpening.
 
 ### Gate 5: Watch Next Specificity
 Are the Watch Next items trigger-based and specific?
