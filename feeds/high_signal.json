@@ -1,8 +1,124 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-04-01T15:12:24.960931+00:00",
+  "fetched_at": "2026-04-01T16:36:45.031506+00:00",
   "item_count": 100,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b59c9b7c5",
+      "title": "Celebrities Are Turning to Trademark Law to Protect Their Images and Voices From AI",
+      "url": "https://www.jdsupra.com/legalnews/celebrities-are-turning-to-trademark-1842003/",
+      "author": "Vondran Legal",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-01T15:58:50+00:00",
+      "updated_at": "",
+      "summary": "Artificial intelligence is rapidly transforming the entertainment industry. While AI offers powerful creative tools, it also presents serious legal risks for celebrities, influencers, and public figures. From deepfake videos to AI-generated voice replicas, individuals are increasingly finding their identity used without permission in commercial and promotional contexts....<br>By: <a href=\"https://www.jdsupra.com/profile/vondran_legal/\">Vondran Legal</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b59c9b7c4",
+      "title": "White House Releases National AI Legislative Framework, as Competing Congressional Proposals Sharpen the Federal-State Divide — AI: The Washington Report",
+      "url": "https://www.jdsupra.com/legalnews/white-house-releases-national-ai-1088171/",
+      "author": "Mintz - Antitrust Viewpoints",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-01T15:58:50+00:00",
+      "updated_at": "",
+      "summary": "On March 20, the White House released the National AI Legislative Framework, offering a nonbinding legislative roadmap of President Trump’s policy priorities in shaping a federal framework for AI legislation. The latest framework was issued pursuant to President Trump’s December EO to establish a coordinated federal effort to block or override burdensome state AI regulations. By outlining policy goals for Congress, the framework seeks to operationalize the Trump administration’s goal of creating...<br>By: <a href=\"https://www.jdsupra.com/profile/mintz_antitrust_viewpoints/\">Mintz - Antitrust Viewpoints</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b59c6ae8f",
+      "title": "Pharma Data Privacy and Cybersecurity under the Trump Administration",
+      "url": "https://www.jdsupra.com/legalnews/pharma-data-privacy-and-cybersecurity-3844901/",
+      "author": "Foley &amp; Lardner LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-01T15:32:55+00:00",
+      "updated_at": "",
+      "summary": "At first glance, the Trump administration’s approach to the pharmaceutical industry appears largely deregulatory. From a data privacy and security perspective, however, the reality is more complex. Rather than eliminating compliance obligations, current policy trends suggest a reshuffling of them....<br>By: <a href=\"https://www.jdsupra.com/profile/foley_lardner/\">Foley &amp; Lardner LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b59c52a8d",
+      "title": "France – Proposal for a bill transposing the EU Sanctions Directive and amending the French Customs Code",
+      "url": "https://www.jdsupra.com/legalnews/france-proposal-for-a-bill-transposing-7647265/",
+      "author": "Hogan Lovells",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-01T15:31:50+00:00",
+      "updated_at": "",
+      "summary": "A bill transposing Directive (EU) 2024/1226 of 24 April 2024 on “the definition of criminal offences and penalties for the violation of Union restrictive measures and amending Directive (EU) 2018/1673” (the “Sanctions Directive”) was filed with the French National Assembly on 3 March 2026 (the \"Bill\").  The Bill seeks to strengthen France’s enforcement framework for non-compliance with EU restrictive measures and to substantially enhance the penalties, while also introducing a new...<br>By: <a href=\"https://www.jdsupra.com/profile/Hogan_Lovells/\">Hogan Lovells</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b59c52a88",
+      "title": "The Deal Can Die in the Deck",
+      "url": "https://www.jdsupra.com/legalnews/the-deal-can-die-in-the-deck-4916961/",
+      "author": "Husch Blackwell LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-01T15:31:50+00:00",
+      "updated_at": "",
+      "summary": "This is the third in a six-part series on incentive design, deal structure, and how these issues surface in transactions and enforcement. Other relevant topics will be discussed in our upcoming presentation, Physician Owner Mindset, Compliance Guardrails: Growth Without the Gotchas, to be given at the American Alliance of Orthopaedic Executives on Tuesday, April 21....<br>By: <a href=\"https://www.jdsupra.com/profile/husch_blackwell/\">Husch Blackwell LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b59c4975e",
+      "title": "[Webinar] What Breaks First When Law Firms Move Faster With AI - April 15th, 12:00 pm - 1:00 pm ET",
+      "url": "https://www.jdsupra.com/legalnews/webinar-what-breaks-first-when-law-5153875/",
+      "author": "9Sail",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-01T15:28:29+00:00",
+      "updated_at": "",
+      "summary": "Your website is one of your firm’s most powerful business development tools—but when AI is layered in without the right structure, things can quickly start to break.    In this session, Robyn Addis (9Sail) and Garrett Goldman (StateWP) walk through what really happens when law firms move faster than their processes, governance, and systems can support. From unclear ownership and risky integrations to undocumented AI-driven changes, we’ll highlight the common pitfalls firms are already facing—and...<br>By: <a href=\"https://www.jdsupra.com/profile/9sail/\">9Sail</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Legal Tech Core",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b59c3cb9c",
+      "title": "Kerr250’s Evolution Car Show: Celebrating America’s 250th Birthday and Community Resilience",
+      "url": "https://www.youtube.com/watch?v=BdmO5QdAuRQ",
+      "author": "Compliance Podcast Network",
+      "source": "Compliance Podcast Network",
+      "published_at": "2026-04-01T15:13:14+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=BdmO5QdAuRQ\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Welcome to the award-winning The Hill Country Podcast. The Texas Hill Country is one of the most beautiful places on earth. In this podcast, Hill Country resident Tom Fox visits with the people and organizations that make this one of the most unique areas of Texas. In this episode, host Tom Fox speaks with Doug Hetzler about Kerr250, a community effort to celebrate the United States’ 250th anniversary leading up to July 4, 2026.<br> \n<br> \nThey discuss the “Evolution Car Show” envisioned as 250 cars displayed in chronological order to show the evolution of American auto manufacturing. The event will be a free show at Louise Hays Park, featuring food trucks and vendors, with the aim of rebuilding positive community memories after the flood. Doug describes other Kerr250 initiatives, including DAR-supported flag displays on Sydney Baker Street, commemorative tree sales with medallions, and a Fourth on the River program split into a memorial and a celebration. He emphasizes broad community participation, provides the website (kerr250.com) and contact (<a href=\"mailto:info@kerr250.com\">info@kerr250.com</a>), and encourages inclusion of everyday vehicles, not just high-end classics.<br> \n<br> \nHighlights include:<br> \n<br> \n• Vision for Evolution Car Show<br> \n• What Is Kerr250<br> \n• How to Join and Website<br> \n• Why 250 Years Matter<br> \n• Car Show Open to All Cars<br> \n<br> \nResources:<br> \n<br> \n• Kerr250 Website: <a href=\"http://kerr250.com/\">http://kerr250.com/</a><br> \n• Evolution Car Show: <a href=\"https://kerr250.com/evolution-car-show-may-16-2026/\">https://kerr250.com/evolution-car-show-may-16-2026/</a><br> \n<br> \nOther Hill Country Focused Podcasts<br> \n<br> \n• Hill Country Authors Podcast: <a href=\"https://cms.megaphone.fm/channel/hillcountryauthors\">https://cms.megaphone.fm/channel/hillcountryauthors</a><br> \n• Hill Country Artists Podcast: <a href=\"https://cms.megaphone.fm/channel/ACS2211176852\">https://cms.megaphone.fm/channel/ACS2211176852</a><br> \n• Texas Hill Country Podcast Network: <a href=\"https://www.texashillcountrypodcastnetwork.com/\">https://www.texashillcountrypodcastnetwork.com/</a><br> \n<br> \nCover Art<br> \n<br> \n• Nancy Huffman: <a href=\"https://www.nancyhuffman.com/\">https://www.nancyhuffman.com/</a><br> \n<br> \nConnect with the Compliance Podcast Network at:<br> \n<br> \nLinkedIn: <a href=\"https://www.linkedin.com/company/compliance-podcast-network/\">https://www.linkedin.com/company/compliance-podcast-network/</a><br> \nFacebook: <a href=\"https://www.facebook.com/compliancepodcastnetwork/\">https://www.facebook.com/compliancepodcastnetwork/</a><br> \nYouTube: <a href=\"https://www.youtube.com/@CompliancePodcastNetwork\">https://www.youtube.com/@CompliancePodcastNetwork</a><br> \nTwitter: <a href=\"https://twitter.com/tfoxlaw\">https://twitter.com/tfoxlaw</a><br> \nInstagram: <a href=\"https://www.instagram.com/voiceofcompliance/\">https://www.instagram.com/voiceofcompliance/</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Compliance",
+        "High-Signal",
+        "Noise"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b59c0431d",
       "title": "&quot;We're Not Writing Code by Hand Anymore. That's Over.&quot; | Owen Jennings & David Haber - The a16z Show",
@@ -297,8 +413,8 @@
       "author": "Caroline Hill - Editor-in-Chief",
       "source": "Legal IT Insider",
       "published_at": "2026-04-01T10:02:47+00:00",
-      "updated_at": "",
-      "summary": "<p>In an unprecedented moment of unity, the world’s top global law firms have jointly announced they will standardise on a single, self-built legal tech platform, called Esperantogix.</p> \n<p>After years of overlapping tools for practice management, document management, case management, and email, firms confirmed in a survey that lawyers were spending 73% of their time just logging into things.</p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://2fejjq.share-eu1.hsforms.com/2ZBJSwn18RuOdd2tdGuTVew?__hstc=182832185.24f72c119e316018296d6a7b16d7a172.1764150430686.1773237359247.1773239846029.294&amp;__hssc=182832185.1.1773239846029&amp;__hsfp=118fab8bbb132f2f126ac668ff51d247\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-9.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div> \n<p>The chosen platform — described as “intuitive-ish” — will reportedly:</p> \n<ol> \n<li>Replace 14 existing systems</li> \n<li>Sync seamlessly with nothing</li> \n<li>And require just three separate passwords per user</li> \n</ol> \n<p>Implementation is expected to take 18 months and six consultancies are involved.</p> \n<p>Early reactions have been mixed. One partner commented: “I’m excited to finally ignore just one system instead of twelve.”</p> \n<p>Meanwhile, IT teams have raised concerns after discovering the new platform still requires maintenance of legacy platforms “we can’t turn off for reasons no one understands.”</p> \n<p>Legal tech vendors have responded swiftly, launching 27 new products designed to “integrate with the one platform,” effectively restoring the original level of complexity within hours.</p> \n<p>Analysts predict the market will stabilise shortly after everyone gives up and goes back to email.</p> \n<p>The post <a href=\"https://legaltechnology.com/2026/04/01/global-law-firms-standardise-around-esperantogix-a-single-platform-for-dms-pms-cms-email-etc/\">Global law firms standardise around Esperantogix, a single platform for DMS, PMS, CMS, email, etc</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "updated_at": "2026-04-01T15:57:17+00:00",
+      "summary": "<p>In an unprecedented moment of unity, the world’s top global law firms have jointly announced they will standardise on a single, self-built legal tech platform, called Esperantogix.</p> \n<p>After years of overlapping tools for practice management, document management, case management, and email, firms confirmed in a survey that lawyers were spending 73% of their time just logging into things.</p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://open.spotify.com/episode/2oWcJsvvuYHFF84AwLSbzH\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-11.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div> \n<p>The chosen platform — described as “intuitive-ish” — will reportedly:</p> \n<ol> \n<li>Replace 14 existing systems</li> \n<li>Sync seamlessly with nothing</li> \n<li>And require just three separate passwords per user</li> \n</ol> \n<p>Implementation is expected to take 18 months and six consultancies are involved.</p> \n<p>Early reactions have been mixed. One partner commented: “I’m excited to finally ignore just one system instead of twelve.”</p> \n<p>Meanwhile, IT teams have raised concerns after discovering the new platform still requires maintenance of legacy platforms “we can’t turn off for reasons no one understands.”</p> \n<p>Legal tech vendors have responded swiftly, launching 27 new products designed to “integrate with the one platform,” effectively restoring the original level of complexity within hours.</p> \n<p>Analysts predict the market will stabilise shortly after everyone gives up and goes back to email.</p> \n<p>The post <a href=\"https://legaltechnology.com/2026/04/01/global-law-firms-standardise-around-esperantogix-a-single-platform-for-dms-pms-cms-email-etc/\">Global law firms standardise around Esperantogix, a single platform for DMS, PMS, CMS, email, etc</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
       "content": "",
       "categories": [
         "reading-list",
@@ -315,8 +431,8 @@
       "author": "Caroline Hill - Editor-in-Chief",
       "source": "Legal IT Insider",
       "published_at": "2026-04-01T10:44:10+00:00",
-      "updated_at": "",
-      "summary": "<div> \n\t\t\t\t\t\t \n\t\t\t\t\t\t<div> \n\t\t\t\t\t<div> \n\t\t\t<div> \n\t\t\t\t\t\t<div> \n\t\t\t\t<div> \n\t\t\t\t\t\t\t\t\t<p>In the latest episode of Legal IT Insider’s Inside View podcast, we sit down with <a href=\"https://www.linkedin.com/in/aaliam/\">Aalia Manie</a>, director of <a href=\"https://www.webberwentzel.com/Pages/default.aspx\">Webber Wentzel’s</a> innovation arm, Fusion, to discuss Fusion’s spin-off into an independent subsidiary and its evolution into a full-service product development and advisory business. We also discuss the logistics around developments such as the Anthropic Claude legal plug-in release, and why the advantage of building your own GenAI offering rarely outweigh the practicalities of buying in this fast-paced world.</p><p>Fusion’s spin-off is the latest evolution for Webber Wentzel’s alternative legal services offering, which started as an internally incubated centre, before being rebranded and expanded as Webber Wentzel Fusion in January 2024. In 2025 Fusion, launched a Legal Innovation Lab that co-develops client-focused technology solutions, working with partners such as Legora.</p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://2fejjq.share-eu1.hsforms.com/2ZBJSwn18RuOdd2tdGuTVew?__hstc=182832185.24f72c119e316018296d6a7b16d7a172.1764150430686.1773237359247.1773239846029.294&amp;__hssc=182832185.1.1773239846029&amp;__hsfp=118fab8bbb132f2f126ac668ff51d247\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-9.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div><p>Speaking to Legal IT Insider about the creation of the independent subsidiary, Manie said that the new structure will give Fusion complete agility. Fusion’s clients now include legal technology vendors and the subsidiary is working not just in a legal advisory capacity, but testing products and working as an implementation partner. Manie and her team are also acting as a technology consultant to in-house legal departments.</p><p>When Claude released its new plugin, Fusion gave advice on what that actually means and how you can benchmark that against legal AI tools. The team is helping clients with procurement and benchmarking; how they test ROI; how they take projects to the board; and what feedback to the board should look like a year in.</p><p>Manie shares her takeaways here on the things to consider before deciding your own strategy.</p><p>A really insightful conversation for anyone planning their own IT delivery strategy, you can listen to it below:</p>\t\t\t\t\t\t\t\t</div> \n\t\t\t\t</div> \n\t\t\t\t<div> \n\t\t\t\t<div> \n\t\t\t\t\t<iframe allowfullscreen=\"allowfullscreen\" src=\"https://open.spotify.com/embed/episode/2oWcJsvvuYHFF84AwLSbzH?utm_source=generator\" width=\"100%\" height=\"152\" frameborder=\"0\"></iframe> \t\t\t\t</div> \n\t\t\t\t</div> \n\t\t\t\t<div> \n\t\t\t\t<div> \n\t\t\t\t\t\t\t<div> \n\t\t\t<div></div>\t\t</div> \n\t\t\t\t\t\t</div> \n\t\t\t\t</div> \n\t\t\t\t\t</div> \n\t\t</div> \n\t\t\t\t\t</div> \n\t\t \n\t\t\t\t</div> \n\t\t<p>The post <a href=\"https://legaltechnology.com/2026/04/01/inside-view-podcast-fusions-spin-off-from-webber-wentzel-and-some-ai-home-truths/\">Inside View podcast: Fusion’s spin‑off from Webber Wentzel and some AI home truths</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "updated_at": "2026-04-01T15:57:17+00:00",
+      "summary": "<div> \n\t\t\t\t\t\t \n\t\t\t\t\t\t<div> \n\t\t\t\t\t<div> \n\t\t\t<div> \n\t\t\t\t\t\t<div> \n\t\t\t\t<div> \n\t\t\t\t\t\t\t\t\t<p>In the latest episode of Legal IT Insider’s Inside View podcast, we sit down with <a href=\"https://www.linkedin.com/in/aaliam/\">Aalia Manie</a>, director of <a href=\"https://www.webberwentzel.com/Pages/default.aspx\">Webber Wentzel’s</a> innovation arm, Fusion, to discuss Fusion’s spin-off into an independent subsidiary and its evolution into a full-service product development and advisory business. We also discuss the logistics around developments such as the Anthropic Claude legal plug-in release, and why the advantage of building your own GenAI offering rarely outweigh the practicalities of buying in this fast-paced world.</p><p>Fusion’s spin-off is the latest evolution for Webber Wentzel’s alternative legal services offering, which started as an internally incubated centre, before being rebranded and expanded as Webber Wentzel Fusion in January 2024. In 2025 Fusion, launched a Legal Innovation Lab that co-develops client-focused technology solutions, working with partners such as Legora.</p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://open.spotify.com/episode/2oWcJsvvuYHFF84AwLSbzH\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-11.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div><p>Speaking to Legal IT Insider about the creation of the independent subsidiary, Manie said that the new structure will give Fusion complete agility. Fusion’s clients now include legal technology vendors and the subsidiary is working not just in a legal advisory capacity, but testing products and working as an implementation partner. Manie and her team are also acting as a technology consultant to in-house legal departments.</p><p>When Claude released its new plugin, Fusion gave advice on what that actually means and how you can benchmark that against legal AI tools. The team is helping clients with procurement and benchmarking; how they test ROI; how they take projects to the board; and what feedback to the board should look like a year in.</p><p>Manie shares her takeaways here on the things to consider before deciding your own strategy.</p><p>A really insightful conversation for anyone planning their own IT delivery strategy, you can listen to it below:</p>\t\t\t\t\t\t\t\t</div> \n\t\t\t\t</div> \n\t\t\t\t<div> \n\t\t\t\t<div> \n\t\t\t\t\t<iframe allowfullscreen=\"allowfullscreen\" src=\"https://open.spotify.com/embed/episode/2oWcJsvvuYHFF84AwLSbzH?utm_source=generator\" width=\"100%\" height=\"152\" frameborder=\"0\"></iframe> \t\t\t\t</div> \n\t\t\t\t</div> \n\t\t\t\t<div> \n\t\t\t\t<div> \n\t\t\t\t\t\t\t<div> \n\t\t\t<div></div>\t\t</div> \n\t\t\t\t\t\t</div> \n\t\t\t\t</div> \n\t\t\t\t\t</div> \n\t\t</div> \n\t\t\t\t\t</div> \n\t\t \n\t\t\t\t</div> \n\t\t<p>The post <a href=\"https://legaltechnology.com/2026/04/01/inside-view-podcast-fusions-spin-off-from-webber-wentzel-and-some-ai-home-truths/\">Inside View podcast: Fusion’s spin‑off from Webber Wentzel and some AI home truths</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
       "content": "",
       "categories": [
         "reading-list",
@@ -382,8 +498,8 @@
       "author": "Caroline Hill - Editor-in-Chief",
       "source": "Legal IT Insider",
       "published_at": "2026-04-01T07:00:39+00:00",
-      "updated_at": "",
-      "summary": "<p><span>Legal technology provider Draftable has announced the launch of <a href=\"https://www.draftable.com/draftable-clean?utm_source=legal-it-insider&amp;utm_medium=paid&amp;utm_campaign=discovery-legal-it-insider-clean-launch\">Draftable Clean</a>, a metadata cleaning solution developed in response to demand from law firm customers and prospects. This is Draftable’s first move outside of the document comparison space.</span><span> </span></p> \n<p><span>Draftable Legal was launched by Draftable in 2023 in response to demand from the legal market for more choice of document comparison solutions. Headquartered in Melbourne, Australia, it now has teams across the US, EMEA and APAC, with around 1,000 law firm customers globally. Speaking to Legal IT Insider, general manager Dr Caspar Roxburgh said that the most consistent request from its customers was for metadata cleaning to be available alongside Draftable Compare.</span><span> </span></p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://2fejjq.share-eu1.hsforms.com/2ZBJSwn18RuOdd2tdGuTVew?__hstc=182832185.24f72c119e316018296d6a7b16d7a172.1764150430686.1773237359247.1773239846029.294&amp;__hssc=182832185.1.1773239846029&amp;__hsfp=118fab8bbb132f2f126ac668ff51d247\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-9.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div> \n<p><span>Inadvertent metadata disclosure is an ongoing, industry-wide risk. Sensitive information, such as comments, author details and revision history are regularly sent from a firm unintentionally, often at the moment a document is attached to an email and sent. </span><span> </span></p> \n<p><span>Roxburgh told us: “Draftable’s been in market with a legal comparison solution since 2023 and it’s had an incredible run with enormous uptake. People love it. But speaking to some law firms, they said, ‘We love what you’re doing with comparison, but for our firm to make a switch to Draftable for Compare we need metadata cleaning, because these are products that have historically been sold together. There’s a workflow connection between the two.</span><span> </span></p> \n<p><span>“Firms are working on documents and want to send them out. Clean is synced into your e-mail. It checks for sensitive data. It clears it out automatically.”</span><span> </span></p> \n<p><img src=\"https://legaltechnology.com/wp-content/uploads/2026/04/Screenshot-2026-04-01-at-07.42.56.png\" alt=\"\" width=\"987\" height=\"553\"></p> \n<p><span>Last year Draftable launched Redline in Email for live redlining, plus the ability to create a Departures Table of clauses that have been amended. Roxburgh said that those changes came as a result of law firm request. Metadata cleaning “was the number one product that we were asked to build next.”</span><span> </span></p> \n<p><span>Metadata cleaning is already provided by numerous vendors and Roxburgh says: “I was really skeptical that this was actually the product we should build. I looked at the market and I thought ‘It’s a busy space. There are a lot of players.’” Vendors including Adobe, Litera and Novaplex have metadata cleaning capability but Roxburgh says: “Honestly, the signal from the market was overwhelming.”</span><span> </span></p> \n<p>Document comparison and metadata cleaning is an area that many assume will be impacted by the availability of generative AI tools but Roxburgh says: “You’re paying for a tool that is protecting you from a downside risk and you want to know that it’s always going to perform reliably.”</p> \n<p><span>Draftable Clean is available now as a desktop application and Microsoft Outlook add-in for Windows, and integrates with iManage, NetDocuments and SharePoint.</span><span> </span><span>Alongside automatic metadata cleaning, users can reorder and rename attachments and generate formatted attachment lists in the email body, with notes and annotations.</span><span> </span></p> \n<p><span>Roxburgh told us: “If you’re a lawyer, like you don’t really want to know that your document’s being cleaned. You certainly don’t want your emails being interrupted and you can’t send them because there’s some piece of software that’s stopping you because of some policy. That’s a frustration. That’s a bad experience. So we designed it in a way to avoid disrupting the end user that also meets the need of the administrator.”</span><span> </span></p> \n<p>For more information, see Draftable’s new feature page <a href=\"https://www.draftable.com/draftable-clean?utm_source=legal-it-insider&amp;utm_medium=paid&amp;utm_campaign=discovery-legal-it-insider-clean-launch\">HERE</a>.</p> \n<p>The post <a href=\"https://legaltechnology.com/2026/04/01/exclusive-draftable-makes-first-move-outside-of-comparison-with-draftable-clean/\">Exclusive: Draftable makes first move outside of comparison with Draftable Clean</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "updated_at": "2026-04-01T15:57:17+00:00",
+      "summary": "<p><span>Legal technology provider Draftable has announced the launch of <a href=\"https://www.draftable.com/draftable-clean?utm_source=legal-it-insider&amp;utm_medium=paid&amp;utm_campaign=discovery-legal-it-insider-clean-launch\">Draftable Clean</a>, a metadata cleaning solution developed in response to demand from law firm customers and prospects. This is Draftable’s first move outside of the document comparison space.</span><span> </span></p> \n<p><span>Draftable Legal was launched by Draftable in 2023 in response to demand from the legal market for more choice of document comparison solutions. Headquartered in Melbourne, Australia, it now has teams across the US, EMEA and APAC, with around 1,000 law firm customers globally. Speaking to Legal IT Insider, general manager Dr Caspar Roxburgh said that the most consistent request from its customers was for metadata cleaning to be available alongside Draftable Compare.</span><span> </span></p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://open.spotify.com/episode/2oWcJsvvuYHFF84AwLSbzH\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-11.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div> \n<p><span>Inadvertent metadata disclosure is an ongoing, industry-wide risk. Sensitive information, such as comments, author details and revision history are regularly sent from a firm unintentionally, often at the moment a document is attached to an email and sent. </span><span> </span></p> \n<p><span>Roxburgh told us: “Draftable’s been in market with a legal comparison solution since 2023 and it’s had an incredible run with enormous uptake. People love it. But speaking to some law firms, they said, ‘We love what you’re doing with comparison, but for our firm to make a switch to Draftable for Compare we need metadata cleaning, because these are products that have historically been sold together. There’s a workflow connection between the two.</span><span> </span></p> \n<p><span>“Firms are working on documents and want to send them out. Clean is synced into your e-mail. It checks for sensitive data. It clears it out automatically.”</span><span> </span></p> \n<p><img src=\"https://legaltechnology.com/wp-content/uploads/2026/04/Screenshot-2026-04-01-at-07.42.56.png\" alt=\"\" width=\"987\" height=\"553\"></p> \n<p><span>Last year Draftable launched Redline in Email for live redlining, plus the ability to create a Departures Table of clauses that have been amended. Roxburgh said that those changes came as a result of law firm request. Metadata cleaning “was the number one product that we were asked to build next.”</span><span> </span></p> \n<p><span>Metadata cleaning is already provided by numerous vendors and Roxburgh says: “I was really skeptical that this was actually the product we should build. I looked at the market and I thought ‘It’s a busy space. There are a lot of players.’” Vendors including Adobe, Litera and Novaplex have metadata cleaning capability but Roxburgh says: “Honestly, the signal from the market was overwhelming.”</span><span> </span></p> \n<p>Document comparison and metadata cleaning is an area that many assume will be impacted by the availability of generative AI tools but Roxburgh says: “You’re paying for a tool that is protecting you from a downside risk and you want to know that it’s always going to perform reliably.”</p> \n<p><span>Draftable Clean is available now as a desktop application and Microsoft Outlook add-in for Windows, and integrates with iManage, NetDocuments and SharePoint.</span><span> </span><span>Alongside automatic metadata cleaning, users can reorder and rename attachments and generate formatted attachment lists in the email body, with notes and annotations.</span><span> </span></p> \n<p><span>Roxburgh told us: “If you’re a lawyer, like you don’t really want to know that your document’s being cleaned. You certainly don’t want your emails being interrupted and you can’t send them because there’s some piece of software that’s stopping you because of some policy. That’s a frustration. That’s a bad experience. So we designed it in a way to avoid disrupting the end user that also meets the need of the administrator.”</span><span> </span></p> \n<p>For more information, see Draftable’s new feature page <a href=\"https://www.draftable.com/draftable-clean?utm_source=legal-it-insider&amp;utm_medium=paid&amp;utm_campaign=discovery-legal-it-insider-clean-launch\">HERE</a>.</p> \n<p>The post <a href=\"https://legaltechnology.com/2026/04/01/exclusive-draftable-makes-first-move-outside-of-comparison-with-draftable-clean/\">Exclusive: Draftable makes first move outside of comparison with Draftable Clean</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
       "content": "",
       "categories": [
         "reading-list",
@@ -485,7 +601,7 @@
       "author": "Dennis Kennedy",
       "source": "Legal Tech Monitor",
       "published_at": "2026-03-31T15:01:58+00:00",
-      "updated_at": "2026-04-01T00:18:05+00:00",
+      "updated_at": "2026-04-01T15:50:30+00:00",
       "summary": "<p></p><h2>“A larger context window can create the feeling that a cognitive problem has been solved, when sometimes all that has happened is that disorder has become harder to notice.”</h2><figure style=\"height:auto;\"><img style=\"height:auto;\" width=\"770\" height=\"520\" src=\"https://www.legaltechmonitor.com/files/2026/03/CHM-Image-770x520-1.jpg\" alt=\"\"></figure><p>I was in Silicon Valley recently for the initial meeting of the University of Michigan Law School AI Advisory Council. With a little free time around that meeting, I did what many of us would do if given the chance and went to the Computer History Museum. I expected to enjoy it. I did not expect one section of it to linger in my mind long after the visit.</p><p>It was the section with the earlier hard drives and memory chips, more than anything else, that stopped me and got me thinking. There they were behind the glass: big hard drives, large memory chips, substantial boards crowded with components that once represented real capacity, real cost, and very real limits. They did not strike me as quaint. They felt instead like physical reminders of a discipline that may still have something to teach us. </p><p>Computing began under constraint. In that small part of the museum, you could see the constraints in a way that is harder to see now. Storage was expensive. Memory was tight. Access was slow enough that disorder had a price. You could not casually keep everything close at hand and hope the system would sort itself out for you.</p><p>That is what I found myself turning over as I moved through that section. Constraint was not just a technical condition. It may have been one of the great teachers of computing. The machines were smaller, slower, and more limited than what we have now, of course, but the more interesting point is that those limits forced people to develop habits of selection, structure, and retrieval. They had to think architecturally because they did not have much room for laziness. </p><p>They had to decide what mattered, what belonged where, what needed to be loaded now, what could wait, and what had earned the right to stay close. And somewhere in that discipline, I suspect, lies one of the deeper lessons of my visit.</p><p>That lesson, or at least the one I keep circling back to, has to do with indexing. So much of the current AI conversation still seems to assume abundance. Bigger context windows. More documents. More tools. More sources. More memory. More retrieval. The quiet assumption often seems to be that if the machine is not yet producing the answer we want, perhaps it simply has not been given enough. Add more material. Widen the window. Increase the supply. Sometimes that may be true. But I keep wondering whether, in many cases, it is exactly backward.</p><p>Early computing did not become dependable because it escaped constraint. It became dependable because it learned how to work intelligently inside constraint. </p><p>Limited memory forced a distinction between what was stored and what needed to be present now. Slow access forced attention to naming, order, and structure. Limited capacity forced a more serious question than “How much can we keep?” </p><p>The more serious question was, and may still be, “What can we find when it matters?” That is where indexing begins to look less like a technical detail and more like a governing idea. The problem is not whether information exists somewhere in the system. The problem is whether the right thing can be surfaced at the right time, in the right form, with enough traceability that someone can rely on it.</p><p>This may be one of the management errors in the current AI moment. We may be confusing accumulation with readiness, access with retrieval, and retrieval with judgment. A larger context window can create the feeling that a cognitive problem has been solved, when sometimes all that has happened is that disorder has become harder to notice. The machine has not necessarily become wiser. The clutter has simply become easier to hide. </p><p>That, at least, is one reason the museum hit me the way it did. Those older drives and memory boards were so physical, so bounded, and so obviously finite that they made visible something easy to miss in the present rhetoric around AI. More capacity is not the same thing as more coherence. A larger pile is still a pile.</p><p>If you give the pantry, the garage, and the attic to the machine all at once, you should probably not be surprised if the answer comes back with a certain leftovers quality. The sterner lesson from those historical efforts may be that useful systems learn to exclude well. What belongs in working memory, what remains in storage, what gets indexed, what gets ignored, what is staged for retrieval, what earns persistence, and what does not. Those are not just housekeeping details. They may be the real design decisions. And design, in the end, tends to become a management question.</p><p>This is one reason I find myself thinking that AI may still be immature in a very specific sense, not because the models are weak, but because we are still surrounding them with habits of informational gluttony. We ask them to ingest too much, too loosely arranged, too weakly ranked, and too poorly governed, then act surprised when the result is muddy. </p><p>The problem is not always lack of information. Sometimes the problem is too much badly organized information and too little discipline about what belongs in the room. </p><p>That is why I keep coming back to a thought that feels simple, maybe even old-fashioned. Persist broadly if you want, but show the model less. Build better indexes and more coherent packets. Most of all, build better paths into the material so we can actually find our way back. Name things so they can be found again. Separate canon from scrap. Separate what must be remembered now from what can remain available at a distance.</p><p>I left the museum thinking that scarcity may have taught computing a form of discipline that AI still needs to learn. Not the discipline of doing less with less, exactly, but the discipline of deciding better. Better staging. Better retrieval. Better respect for the difference between what is stored and what is needed now. Those old drives and memory boards looked large behind the glass, but the margins they enforced were small, and from those small margins came some of computing’s most durable habits.</p><p>That may be the part of the story worth carrying forward into AI. We talk constantly about bigger windows, larger context, more memory, and more power. Fair enough. But the question that stayed with me after that museum visit was a little different, and maybe a little more useful. Not how much more can the system hold, but whether we are getting any better at deciding what belongs in the room when the real work begins. Because if scarcity taught computing the value of a good index, a clean handoff, and a disciplined boundary around working memory, then perhaps the next step for AI is not simply to remember more. Perhaps it is to learn, with our help, how to forget better.</p><p>And that leaves me with one more question. If the real future of AI depends less on infinite memory than on better selection, retrieval, and exclusion, are we actually building intelligence into the work, or are we just finding more elaborate ways to hide the clutter?</p><hr><p>[Originally posted on DennisKennedy.Blog (https://www.denniskennedy.com/blog/)]</p><p>DennisKennedy.com is the home of the Kennedy Idea Propulsion Laboratory</p><p>Like this post? <a href=\"https://www.buymeacoffee.com/DennisKennedy\">Buy me a coffee</a></p><p>DennisKennedy.Blog is part of <a href=\"https://www.lexblog.com\">the LexBlog network</a>.</p>",
       "content": "",
       "categories": [
@@ -616,7 +732,7 @@
       "author": "Mark C. Palmer",
       "source": "Legal Tech Monitor",
       "published_at": "2026-03-31T14:50:57+00:00",
-      "updated_at": "2026-03-31T21:39:18+00:00",
+      "updated_at": "2026-04-01T15:50:30+00:00",
       "summary": "<p></p><div> \n<div> \n<p><a href=\"https://www.2civility.org/wp-content/uploads/2026/03/April-Dawson-1.png\"><img style=\"height:auto;\" src=\"https://www.legaltechmonitor.com/files/2026/03/April-Dawson-1.png\" alt=\"AI Innovation and Governance, Future Is Now 2026\" width=\"600\" height=\"400\"></a></p> \n<p>Lawyers are under pressure to modernize the way they deliver legal services without sacrificing the trust, judgment, and professionalism that define the profession. Clients expect clearer communication, more transparency around costs, and a smoother experience at every step of the matter. At the same time, artificial intelligence and other emerging technologies are reshaping how legal work gets done.</p> \n<p>At the Commission’s annual <a href=\"https://events.ringcentral.com/events/2026-future-is-now-legal-services-conference-2026-04-30\">Future Is Now: Legal Services conference</a>, two sessions will help lawyers meet this moment with creativity and care. Have you registered yet?</p> \n<p>Legal technology company Clio’s Lawyer-in-Residence, <a href=\"https://www.linkedin.com/in/joshualenon/\">Joshua Lenon</a>, and <a href=\"https://www.linkedin.com/in/april-dawson-lawprof/\">April Dawson</a>, Associate Dean of Technology and Innovation at North Carolina Central University School of Law, will offer practical guidance on designing client-centered innovation and building ethical AI governance structures that best serve clients and the profession.</p> \n<p>The Future Is Now will be held virtually on Thursday, April 30, from 12 – 4:30 p.m. CDT. Registration <a href=\"https://events.ringcentral.com/events/2026-future-is-now-legal-services-conference-2026-04-30\">is open via this link</a>.</p> \n<p>Four hours of professional responsibility CLE in Illinois is available, including 1 hour of diversity and inclusion CLE and 1 hour of mental health and substance abuse CLE.</p> \n<h3><strong>Why this conversation matters </strong></h3> \n<p>The evolution of legal technology and client expectations isn’t slowing down. At the same time, regulatory bodies and courts are increasingly signaling that lawyers must understand and manage the risks of AI and other advanced tools as part of their duty of competence.</p> \n<p>Lenon and Dawson sit squarely at that intersection. Through talks and an interactive town hall, they will provide realistic strategies that all lawyers can use to better implement technology in daily tasks while staying grounded in strong ethics and governance.</p> \n<h3><strong>Law firm efficiency in the age of AI</strong></h3> \n<p>The modern legal client expects more than a well-researched brief or a solid courtroom performance. They expect regular updates, clear next steps, and a sense that their lawyer is empathetic to their needs. Yet, many lawyers are still working with systems and workflows that were built for a very different era.</p> \n<p>Joshua Lenon has spent years studying the evolution of work in law firms, including how they track time, communicate with clients, and use (<em>or don’t use</em>) technology in their systems.</p> \n<p>During his talk, <em>Designing Client-Centered Innovation: Practical Ways to Modernize Your Practice</em>, Lenon will draw on insights from Clio’s annual <a href=\"https://www.clio.com/resources/legal-trends/\">Legal Trends Report</a> to show how data, innovative tools, and intentional workflow design can transform how legal professionals deliver value. He will explore how AI fits into a broader ecosystem of practice tools that help lawyers become more responsive, transparent, and aligned with client needs.</p> \n<p>Attendees will see what it looks like to redesign a matter lifecycle (from intake to invoice) around client expectations for clear communication, status visibility, and cost predictability. Along the way, Lenon will flag key ethical considerations that come with increased automation and data use, then hand it off to Dawson to go deeper on governance and professional responsibility.</p> \n<h3><strong>Building effective AI governance for legal practice</strong></h3> \n<p>If innovation is about what is possible, governance puts those possibilities into action. In her talk, <em>AI Governance for Every Lawyer: An Ethical Framework to Protect Clients and the Profession</em>, April Dawson will unpack what AI governance really means in legal practice: not just a written policy in a handbook, but an ongoing framework of expectations, rules, training, and oversight for how AI and other legal technologies are selected, tested, used, and monitored.</p> \n<p>Dawson will connect this framework directly to lawyers’ ethical duties and professional values. This includes a practical governance checklist rooted in competence, confidentiality, supervision, transparency, and fairness. Dawson will also raise the questions every lawyer should ask before using any technology, whether AI-powered or not, including what the tool’s purpose is, what data it uses and stores, and what human review and accountability should look like.</p> \n<p>Dawson will demonstrate that strong AI governance is not a brake on innovation, but a precondition for sustainable, trustworthy advancements in law. Attendees will leave with a clear, repeatable framework they can recall when evaluating new tools, updating office policies, and training colleagues and staff.</p> \n<h3><strong>Town hall: Where innovation meets governance</strong></h3> \n<p>After the talks, Lenon and Dawson will join Commission Chief Counsel <a href=\"https://www.linkedin.com/in/mcpalmer/\">Mark C. Palmer</a> for a town hall discussion that brings these themes together. The town hall will invite candid questions about what it really takes to modernize a practice while staying on the right side of ethics and client expectations.</p> \n<p>The discussion will explore common pain points and examine how to:</p> \n<ul> \n<li>Explore new tools without exposing clients or the firm to unnecessary risk</li> \n<li>Embed governance into everyday workflows, not just policies</li> \n<li>Talk to clients about the use of AI and automation in their matters</li> \n</ul> \n<p>Whether you are just beginning to explore technology and AI, or refining your firm’s existing tools and policies, these sessions will offer practical, actionable insights you can bring back to your practice.</p> \n<p>To learn more about this year’s full <strong>Future Is Now: Legal Services</strong> speaker lineup, including sessions on “The Lawyer Brain,” navigating conflict through stoic empathy, advancing inclusion through mentoring, and more, <a href=\"https://events.ringcentral.com/events/2026-future-is-now-legal-services-conference-2026-04-30\">click here</a>.</p> \n<p><em>Staying up to date on issues impacting the legal profession is vital to your success. <a href=\"https://www.2civility.org/subscribe/\">Subscribe here</a> to get the Commission’s weekly news delivered to your inbox.</em></p> \n<blockquote> \n<p><a href=\"https://www.2civility.org/ethical-considerations-for-lawyers-using-ai-generated-audio-to-summarize-documents/\">Ethical Considerations for Lawyers Using AI-Generated Audio to Summarize Documents</a></p> \n</blockquote> \n<blockquote> \n<p><a href=\"https://www.2civility.org/ardc-guide-for-illinois-lawyers-on-implementing-ai-responsibly/\">ARDC’s Guide for Illinois Lawyers on Implementing AI Responsibly</a></p> \n</blockquote> \n<blockquote> \n<p><a href=\"https://www.2civility.org/stop-this-email-scam-from-happening-at-your-law-firm/\">How to Stop This $475,000 Email Scam from Happening to Your Law Firm</a></p> \n</blockquote> \n<p> </p> \n</div> \n</div><p>The post <a href=\"https://www.2civility.org/smarter-not-riskier-how-lawyers-can-modernize-and-govern-ai-in-their-practice/\">Smarter, Not Riskier: How Lawyers Can Modernize and Govern AI in Their Practice</a> appeared first on <a href=\"https://www.2civility.org\">2Civility</a>.</p>",
       "content": "",
       "categories": [
@@ -776,30 +892,14 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b591a2b41",
-      "title": "Healthcare Authority Newsletter - March 2026 #4",
-      "url": "https://www.jdsupra.com/legalnews/healthcare-authority-newsletter-march-5238266/",
-      "author": "Arnall Golden Gregory LLP",
+      "id": "tag:google.com,2005:reader/item/0000000b591a2b3a",
+      "title": "Preparing for the Risks of ‘Rogue AI’",
+      "url": "https://www.jdsupra.com/legalnews/preparing-for-the-risks-of-rogue-ai-7660826/",
+      "author": "NAVEX",
       "source": "Artificial Intelligence | JD Supra Law News",
       "published_at": "2026-03-31T18:52:04+00:00",
       "updated_at": "",
-      "summary": "News Briefs - New Healthcare Task Force Created by Federal Trade Commission - The Federal Trade Commission is forming a new healthcare task force as regulators double down on combating anticompetitive behavior in the sector. Commissioner Andrew Ferguson directed FTC staff to create a new group to lead healthcare enforcement, create agency-wide investigation strategies, better identify legal cases where regulators can get involved, and find new areas to crack down in the sector....<br>By: <a href=\"https://www.jdsupra.com/profile/Arnall_Golden_Gregory/\">Arnall Golden Gregory LLP</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b591a2b40",
-      "title": "CFTC Launches Innovation Task Force, Crypto Czar Role Transitions, Congress Holds Tokenization Hearing, NYSE and Nasdaq Progress Tokenization Initiatives",
-      "url": "https://www.jdsupra.com/legalnews/cftc-launches-innovation-task-force-8289134/",
-      "author": "Paul Hastings LLP",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-03-31T18:52:04+00:00",
-      "updated_at": "",
-      "summary": "On Capitol Hill, lawmakers shared draft compromise language on stablecoin yield for the market structure legislation with crypto and banking industry representatives, resulting in mixed industry reactions. The term of the White House’s AI and crypto czar has concluded, and David Sacks will transition to serve as co-chair of the President’s Council of Advisors on Science and Technology....<br>By: <a href=\"https://www.jdsupra.com/profile/paul_hastings/\">Paul Hastings LLP</a>",
+      "summary": "Organizations everywhere want to embrace artificial intelligence, or perhaps more accurately, they’re feeling pressure to embrace AI as quickly as they can. That raises an important governance and risk management question: As you race forward with AI adoption, are you prepared to address the risks of your AI systems suddenly going haywire?...<br>By: <a href=\"https://www.jdsupra.com/profile/navex/\">NAVEX</a>",
       "content": "",
       "categories": [
         "reading-list",
@@ -824,14 +924,30 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b591a2b3a",
-      "title": "Preparing for the Risks of ‘Rogue AI’",
-      "url": "https://www.jdsupra.com/legalnews/preparing-for-the-risks-of-rogue-ai-7660826/",
-      "author": "NAVEX",
+      "id": "tag:google.com,2005:reader/item/0000000b591a2b40",
+      "title": "CFTC Launches Innovation Task Force, Crypto Czar Role Transitions, Congress Holds Tokenization Hearing, NYSE and Nasdaq Progress Tokenization Initiatives",
+      "url": "https://www.jdsupra.com/legalnews/cftc-launches-innovation-task-force-8289134/",
+      "author": "Paul Hastings LLP",
       "source": "Artificial Intelligence | JD Supra Law News",
       "published_at": "2026-03-31T18:52:04+00:00",
       "updated_at": "",
-      "summary": "Organizations everywhere want to embrace artificial intelligence, or perhaps more accurately, they’re feeling pressure to embrace AI as quickly as they can. That raises an important governance and risk management question: As you race forward with AI adoption, are you prepared to address the risks of your AI systems suddenly going haywire?...<br>By: <a href=\"https://www.jdsupra.com/profile/navex/\">NAVEX</a>",
+      "summary": "On Capitol Hill, lawmakers shared draft compromise language on stablecoin yield for the market structure legislation with crypto and banking industry representatives, resulting in mixed industry reactions. The term of the White House’s AI and crypto czar has concluded, and David Sacks will transition to serve as co-chair of the President’s Council of Advisors on Science and Technology....<br>By: <a href=\"https://www.jdsupra.com/profile/paul_hastings/\">Paul Hastings LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b591a2b41",
+      "title": "Healthcare Authority Newsletter - March 2026 #4",
+      "url": "https://www.jdsupra.com/legalnews/healthcare-authority-newsletter-march-5238266/",
+      "author": "Arnall Golden Gregory LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-03-31T18:52:04+00:00",
+      "updated_at": "",
+      "summary": "News Briefs - New Healthcare Task Force Created by Federal Trade Commission - The Federal Trade Commission is forming a new healthcare task force as regulators double down on combating anticompetitive behavior in the sector. Commissioner Andrew Ferguson directed FTC staff to create a new group to lead healthcare enforcement, create agency-wide investigation strategies, better identify legal cases where regulators can get involved, and find new areas to crack down in the sector....<br>By: <a href=\"https://www.jdsupra.com/profile/Arnall_Golden_Gregory/\">Arnall Golden Gregory LLP</a>",
       "content": "",
       "categories": [
         "reading-list",
@@ -1024,8 +1140,8 @@
       "author": "Caroline Hill - Editor-in-Chief",
       "source": "Legal IT Insider",
       "published_at": "2026-03-31T14:47:40+00:00",
-      "updated_at": "",
-      "summary": "<div> \n \n<div> \n<div> \n<div> \n<div> \n<div> \n<div> \n<p>The Court of Appeal has today (31 March) handed down its long-awaited judgment in <em>Mazur v Charles Russell Speechlys LLP</em>, overturning the High Court’s restrictive interpretation of who may conduct litigation and restoring long-standing delegated delivery models across the UK legal sector.</p> \n<p>The ruling brings clarity to a profession that has spent months in operational uncertainty after the High Court ruling that non-authorised persons may not carry out litigation activities.</p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://2fejjq.share-eu1.hsforms.com/2ZBJSwn18RuOdd2tdGuTVew?__hstc=182832185.24f72c119e316018296d6a7b16d7a172.1764150430686.1773237359247.1773239846029.294&amp;__hssc=182832185.1.1773239846029&amp;__hsfp=118fab8bbb132f2f126ac668ff51d247\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-9.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div> \n<p>In a significant reversal, the Court of Appeal has confirmed that non-authorised legal staff <em>may</em> carry out litigation activities, provided they are acting under the supervision and responsibility of an authorised person.</p> \n<p>The judgment acknowledges the operational reality that p<span style=\"font-size:16px;\">aralegals and legal executives routinely carry out substantive litigation tasks and is a</span> signal that the courts are willing to interpret the statutory framework in a way that accommodates contemporary delivery models.</p> \n<p>The Court was plainly alive to the consequences of the High Court ruling, which had threatened to i<span style=\"font-size:16px;\">ncrease costs, r</span>educe capacity and disrupt high-volume litigation practices. It is a boost for low-cost delivery models, often operated out of law firm business centres, where the objective is to keep client costs down.</p> \n<p>Commenting on the judgment on LinkedIn, Emma Beynon, a legal director at UK law firm Anthony Collins, said: “Mazur being overturned by the Court of Appeal is the Easter gift that many wanted – I hope this provides much hope for the future for those conducting litigation.”</p> \n<p>However, legal recruitment consultant Robyn Evans reminded that people have lost jobs and struggled with their mental health during this time , commenting: “These past months have been confusing and stressful for members trying to navigate changing guidance, portfolios, and practice rights. Today, there’s finally some clarity and reassurance.”</p> \n</div> \n</div> \n</div> \n</div> \n</div> \n</div> \n \n</div> \n<p>The post <a href=\"https://legaltechnology.com/2026/03/31/mazur-appeal-overturned-court-of-appeal-restores-delegated-litigation-model/\">Mazur ruling overturned: Court of Appeal restores delegated litigation model</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "updated_at": "2026-04-01T15:57:17+00:00",
+      "summary": "<div> \n \n<div> \n<div> \n<div> \n<div> \n<div> \n<div> \n<p>The Court of Appeal has today (31 March) handed down its long-awaited judgment in <em>Mazur v Charles Russell Speechlys LLP</em>, overturning the High Court’s restrictive interpretation of who may conduct litigation and restoring long-standing delegated delivery models across the UK legal sector.</p> \n<p>The ruling brings clarity to a profession that has spent months in operational uncertainty after the High Court ruling that non-authorised persons may not carry out litigation activities.</p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://open.spotify.com/episode/2oWcJsvvuYHFF84AwLSbzH\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-11.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div> \n<p>In a significant reversal, the Court of Appeal has confirmed that non-authorised legal staff <em>may</em> carry out litigation activities, provided they are acting under the supervision and responsibility of an authorised person.</p> \n<p>The judgment acknowledges the operational reality that p<span style=\"font-size:16px;\">aralegals and legal executives routinely carry out substantive litigation tasks and is a</span> signal that the courts are willing to interpret the statutory framework in a way that accommodates contemporary delivery models.</p> \n<p>The Court was plainly alive to the consequences of the High Court ruling, which had threatened to i<span style=\"font-size:16px;\">ncrease costs, r</span>educe capacity and disrupt high-volume litigation practices. It is a boost for low-cost delivery models, often operated out of law firm business centres, where the objective is to keep client costs down.</p> \n<p>Commenting on the judgment on LinkedIn, Emma Beynon, a legal director at UK law firm Anthony Collins, said: “Mazur being overturned by the Court of Appeal is the Easter gift that many wanted – I hope this provides much hope for the future for those conducting litigation.”</p> \n<p>However, legal recruitment consultant Robyn Evans reminded that people have lost jobs and struggled with their mental health during this time , commenting: “These past months have been confusing and stressful for members trying to navigate changing guidance, portfolios, and practice rights. Today, there’s finally some clarity and reassurance.”</p> \n</div> \n</div> \n</div> \n</div> \n</div> \n</div> \n \n</div> \n<p>The post <a href=\"https://legaltechnology.com/2026/03/31/mazur-appeal-overturned-court-of-appeal-restores-delegated-litigation-model/\">Mazur ruling overturned: Court of Appeal restores delegated litigation model</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
       "content": "",
       "categories": [
         "reading-list",
@@ -1317,8 +1433,8 @@
       "author": "Caroline Hill - Editor-in-Chief",
       "source": "Legal IT Insider",
       "published_at": "2026-03-31T11:38:53+00:00",
-      "updated_at": "2026-04-01T11:24:40+00:00",
-      "summary": "<div> \n\t\t\t\t\t\t \n\t\t\t\t\t\t<div> \n\t\t\t\t\t<div> \n\t\t\t<div> \n\t\t\t\t\t\t<div> \n\t\t\t\t<div> \n\t\t\t\t\t\t\t\t\t<p><span style=\"font-size:16px;\">If you missed our recent webinar with GenAI platform</span><span style=\"font-size:16px;\"> </span><a href=\"https://jylo.ai/\">Jylo</a>, make sure you catch the <span style=\"font-size:16px;\">replay, which offers some of the clearest insights yet into how frontier AI models are reshaping legal work – </span><span style=\"font-size:16px;\">and the risks that most firms still underestimate. </span></p><p>Legal IT Insider’s editor Caroline Hill chatted with Jylo’s founder and CEO <a href=\"https://www.linkedin.com/in/shawn-curran-b5b5858/\">Shawn Curran</a> about the existential dangers of law firms sharing their IP with frontier AI models. What should they be doing differently – and is the toothpaste already out of the tube?</p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://2fejjq.share-eu1.hsforms.com/2ZBJSwn18RuOdd2tdGuTVew?__hstc=182832185.24f72c119e316018296d6a7b16d7a172.1764150430686.1773237359247.1773239846029.294&amp;__hssc=182832185.1.1773239846029&amp;__hsfp=118fab8bbb132f2f126ac668ff51d247\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-9.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div><p>We<span style=\"font-size:16px;\"> examine the growing trend of law firms building their own AI tools and whether that is wise or sustainable, particularly given the risk of developing ‘Frankenstein’ tech stacks that quickly become obsolete. However we also discuss the rise of legal quants and vibe coding, which help legal specialists translate their knowledge into useful products and tools.</span></p><p><span style=\"font-size:16px;\">Another major theme is whether law firms or in‑house teams are best-placed to capitalise on AI advances. Corporate teams may be considering bringing more work in-house, but what does that mean in terms of them accessing law firm expertise and IP? Data flows need to be carefully controlled.</span></p><p>In this webinar, Hill and Curran <span style=\"font-size:16px;\">unpack how new frontier AI model releases, such as the Anthropic Claude legal plug-in, have triggered market shocks across the legal tech sector. While publishers retain strong moats around legislation and regulated content, areas like contracts and precedents are increasingly exposed as models learn to generate high‑quality material based on previously ingested data. This has led investors and vendors alike to reassess defensibility in the face of fast‑moving AI capabilities.</span></p><div><p>The session closes with practical guidance for law firms navigating the AI era. Curran emphasises the importance of choosing vendors who do not compete for their data, focusing on productising expertise through legal engineering, and maintaining constant vigilance over data flows. It is not too late, but firms need to be clear on their value and strategy, and the risks and opportunities that AI presents.</p><p>You can watch the full replay here: <a href=\"https://youtu.be/9o06kP2V5gA\">https://youtu.be/9o06kP2V5gA</a></p></div>\t\t\t\t\t\t\t\t</div> \n\t\t\t\t</div> \n\t\t\t\t<div> \n\t\t\t\t<div> \n\t\t\t\t\t\t\t<div> \n\t\t\t<div></div>\t\t</div> \n\t\t\t\t\t\t</div> \n\t\t\t\t</div> \n\t\t\t\t\t</div> \n\t\t</div> \n\t\t\t\t\t</div> \n\t\t \n\t\t\t\t</div> \n\t\t<p>The post <a href=\"https://legaltechnology.com/2026/03/31/webinar-replay-unpicking-the-legal-ai-market-the-forces-reshaping-legal-in-2026/\">Webinar replay: Unpicking the Legal AI Market – The forces reshaping legal in 2026</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "updated_at": "2026-04-01T15:57:17+00:00",
+      "summary": "<div> \n\t\t\t\t\t\t \n\t\t\t\t\t\t<div> \n\t\t\t\t\t<div> \n\t\t\t<div> \n\t\t\t\t\t\t<div> \n\t\t\t\t<div> \n\t\t\t\t\t\t\t\t\t<p><span style=\"font-size:16px;\">If you missed our recent webinar with GenAI platform</span><span style=\"font-size:16px;\"> </span><a href=\"https://jylo.ai/\">Jylo</a>, make sure you catch the <span style=\"font-size:16px;\">replay, which offers some of the clearest insights yet into how frontier AI models are reshaping legal work – </span><span style=\"font-size:16px;\">and the risks that most firms still underestimate. </span></p><p>Legal IT Insider’s editor Caroline Hill chatted with Jylo’s founder and CEO <a href=\"https://www.linkedin.com/in/shawn-curran-b5b5858/\">Shawn Curran</a> about the existential dangers of law firms sharing their IP with frontier AI models. What should they be doing differently – and is the toothpaste already out of the tube?</p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://open.spotify.com/episode/2oWcJsvvuYHFF84AwLSbzH\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-11.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div><p>We<span style=\"font-size:16px;\"> examine the growing trend of law firms building their own AI tools and whether that is wise or sustainable, particularly given the risk of developing ‘Frankenstein’ tech stacks that quickly become obsolete. However we also discuss the rise of legal quants and vibe coding, which help legal specialists translate their knowledge into useful products and tools.</span></p><p><span style=\"font-size:16px;\">Another major theme is whether law firms or in‑house teams are best-placed to capitalise on AI advances. Corporate teams may be considering bringing more work in-house, but what does that mean in terms of them accessing law firm expertise and IP? Data flows need to be carefully controlled.</span></p><p>In this webinar, Hill and Curran <span style=\"font-size:16px;\">unpack how new frontier AI model releases, such as the Anthropic Claude legal plug-in, have triggered market shocks across the legal tech sector. While publishers retain strong moats around legislation and regulated content, areas like contracts and precedents are increasingly exposed as models learn to generate high‑quality material based on previously ingested data. This has led investors and vendors alike to reassess defensibility in the face of fast‑moving AI capabilities.</span></p><div><p>The session closes with practical guidance for law firms navigating the AI era. Curran emphasises the importance of choosing vendors who do not compete for their data, focusing on productising expertise through legal engineering, and maintaining constant vigilance over data flows. It is not too late, but firms need to be clear on their value and strategy, and the risks and opportunities that AI presents.</p><p>You can watch the full replay here: <a href=\"https://youtu.be/9o06kP2V5gA\">https://youtu.be/9o06kP2V5gA</a></p></div>\t\t\t\t\t\t\t\t</div> \n\t\t\t\t</div> \n\t\t\t\t<div> \n\t\t\t\t<div> \n\t\t\t\t\t\t\t<div> \n\t\t\t<div></div>\t\t</div> \n\t\t\t\t\t\t</div> \n\t\t\t\t</div> \n\t\t\t\t\t</div> \n\t\t</div> \n\t\t\t\t\t</div> \n\t\t \n\t\t\t\t</div> \n\t\t<p>The post <a href=\"https://legaltechnology.com/2026/03/31/webinar-replay-unpicking-the-legal-ai-market-the-forces-reshaping-legal-in-2026/\">Webinar replay: Unpicking the Legal AI Market – The forces reshaping legal in 2026</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
       "content": "",
       "categories": [
         "reading-list",
@@ -1540,120 +1656,6 @@
       "categories": [
         "reading-list",
         "Information Governance",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b587895ca",
-      "title": "Jordan Furlong’s TECHSHOW Keynote: The Lawyers Who Will Thrive In The New World Order Will Be Entrepreneurs — And Humans",
-      "url": "https://www.legaltechmonitor.com/2026/03/jordan-furlongs-techshow-keynote-the-lawyers-who-will-thrive-in-the-new-world-order-will-be-entrepreneurs-and-humans/",
-      "author": "Stephen Embry",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-03-30T20:28:40+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>Jordan Furlong’s ABA TechShow keynote was one of the best I’ve heard. His thesis: AI will commoditize legal knowledge, mechanize legal work, and reconfigure law firms. The lawyers who suceed won’t necessarily be the ones who know the most, if that was even ever the case. Instead, they will be the ones clients want in the foxhole with them when things go bad or even hard.</p><p>I’d add one thing though: the lawyers who thrive are will also be entrepreneurs. Not in the startup sense but in a more important sense: seeing a client need and doggedly pursuing a way to satisfy it.</p><p>That’s what separated the great lawyers I’ve known from the ones who just billed hours. And it’s what will separate them in the AI era too.</p><p>My <a href=\"https://abovethelaw.com/2026/03/jordan-furlongs-techshow-keynote-the-lawyers-who-will-thrive-in-the-new-world-order-will-be-entrepreneurs-and-humans/\">full take</a> for Above the Law on Furlong’s keynote and what I think we still need to teach young lawyers.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b587895cb",
-      "title": "WSHB Co-Founder: Legal Tech Needs &lsquo;Greater integration, Stronger Predictive Insight'",
-      "url": "https://www.legaltechmonitor.com/2026/03/wshb-co-founder-legal-tech-needs-lsquogreater-integration-stronger-predictive-insight/",
-      "author": "Law.com&#039;s Legal Tech News",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-03-30T12:58:41+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>Daniel Berman, executive chairman and co-Founder at Wood, Smith, Henning &amp; Berman LLP, who won Law Firm Innovator of the Year, discusses how certain forces are overcoming the biggest barriers to legal innovation, namely law firm tradition and cultural resistance.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b587895cd",
-      "title": "Seyfarth Shaw Partner: Law firms Should Invest in AI Training in Law Schools or Via Associate Programs",
-      "url": "https://www.legaltechmonitor.com/2026/03/seyfarth-shaw-partner-law-firms-should-invest-in-ai-training-in-law-schools-or-via-associate-programs/",
-      "author": "Law.com&#039;s Legal Tech News",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-03-30T12:58:41+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>David Baffa, labor and employment partner and co-chair of the workplace litigation and counseling practice group at Seyfarth Shaw, which won the Legalweek Leaders in Tech Law Award for Regulatory, Governance and Compliance Technology, discusses the business barriers to innovation in firms, and how transformational leadership can make a significant difference.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b587895ce",
-      "title": "Meta's AGC: &lsquo;Legal Tech Is Fundamentally Shifting the Outsourcing Paradigm'",
-      "url": "https://www.legaltechmonitor.com/2026/03/metas-agc-lsquolegal-tech-is-fundamentally-shifting-the-outsourcing-paradigm/",
-      "author": "Law.com&#039;s Legal Tech News",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-03-30T12:58:40+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>Jen Fryhling, associate general counsel at Meta Platforms, which won the Legalweek Leaders in Tech Law Award for Best Custom Legal Technology Development (In-House), discusses how AI will push client-firm relationships to become less transactional and more about partnerships.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b5878532f",
-      "title": "Controlling Companion Chatbots: What You Need to Know About Washington’s New Law",
-      "url": "https://www.jdsupra.com/legalnews/controlling-companion-chatbots-what-you-9708262/",
-      "author": "Fisher Phillips",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-03-31T00:40:16+00:00",
-      "updated_at": "",
-      "summary": "Businesses are increasingly turning to chatbots to interface with consumers, job applicants, and employees. And as the gap between human and AI capabilities continues to narrow, there is grave concern about the social and emotional repercussions of people interfacing with “intelligent” machines, especially minors. Against this backdrop, Washington Governor Bob Ferguson signed House Bill 2225 into law on March 24, establishing parameters around AI-powered chatbots that act like friends or...<br>By: <a href=\"https://www.jdsupra.com/profile/fisher_phillips/\">Fisher Phillips</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "read",
-        "Legal Tech Core",
-        "High-Signal",
-        "Noise"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b5875149b",
-      "title": "Consent Banners Versus Browser Reality: What the Ace Hardware Complaint Alleges",
-      "url": "https://www.jdsupra.com/legalnews/consent-banners-versus-browser-reality-3168078/",
-      "author": "Robinson+Cole Data Privacy + Security Insider",
-      "source": "Privacy RSS Feed | JD Supra Law News",
-      "published_at": "2026-03-30T23:59:26+00:00",
-      "updated_at": "",
-      "summary": "A new class action in the U.S. District Court for the Northern District of California alleges that Ace Hardware tracked users’ online activity through third-party tools before users could make meaningful choices through cookie consent tools, and that it continued even after users took steps to opt out. The plaintiffs claim that the Ace Hardware website intercepted browsing data before consent choices could be made, promised opt-out control but did not honor it, and used multiple third-party...<br>By: <a href=\"https://www.jdsupra.com/profile/Robinson_Cole_Data_Privacy_Security_Insider/\">Robinson+Cole Data Privacy + Security Insider</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Information Governance",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b586f98d2",
-      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-      "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-      "author": "Julie Bort",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-03-30T23:08:12+00:00",
-      "updated_at": "",
-      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
         "High-Signal"
       ]
     }
