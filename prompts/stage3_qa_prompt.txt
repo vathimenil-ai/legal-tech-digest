@@ -95,8 +95,23 @@ FAIL: Any bullet is generic ("quality was mixed"), names no specific sources, or
 ### Gate 8: Concision
 Is the brief concise enough to be forwarded to a CEO without editing?
 
-PASS: Brief is within the 500-900 word target for What Changed, Pattern Update, Why It Matters, and Watch Next combined. No section contains redundant content already covered elsewhere.
-FAIL: Brief exceeds reasonable length, contains repetition across sections, or includes content that adds no new value beyond what is already stated.
+First, count the number of Tier 1 developments covered in What Changed
+to determine the applicable ceiling:
+- Thin week (1-2 Tier 1 developments): ceiling is 600 words
+- Normal week (3 Tier 1 developments): ceiling is 900 words
+- High-signal week (4+ Tier 1 developments): ceiling is 1,100 words
+
+Count the combined word total of What Changed, Pattern Update, Why It
+Matters, and Watch Next.
+
+PASS: Combined word count is within the applicable ceiling for the week
+type, AND no section contains substantive content already covered in
+another section.
+
+FAIL: Combined word count exceeds the applicable ceiling for the week
+type, OR any section restates content already covered elsewhere without
+adding a distinct analytical layer. When flagging a FAIL, state the
+actual word count, the applicable ceiling, and the week type used.
 
 ### Gate 9: Recency Discipline
 Do all developments included in What Changed and the Bottom Line fall within
