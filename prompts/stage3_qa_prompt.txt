@@ -133,14 +133,26 @@ PASS: What Changed section contains only genuinely new developments; Market Impl
 FAIL: Any development in What Changed is a continuation of a prior theme without a clear "what's new" statement; or Market Implications restates prior Standing View content without identifying a directional shift.
 
 ### Gate 7: Source Quality Feedback
-Does the brief include a Source Quality Feedback section with exactly three actionable bullets?
+Does the Operator Brief include a Source Quality Feedback section with
+exactly three actionable bullets that meet the following standards?
 
 PASS:
-- Bullet 1 names specific sources (by publication or feed name) that provided the highest-value signal this week and explains why
-- Bullet 2 names specific sources that were lowest-value or most repetitive and explains why
-- Bullet 3 provides one concrete, actionable recommendation for improving the intake or filtering system (e.g., "demote X source from priority to high-signal feed", "add Y publication to priority feed", "add a filter rule excluding Z content type")
+- Bullet 1 names 1-3 specific sources by publication or feed name and
+  explains in one sentence per source why they were high-signal this week.
+- Bullet 2 names 1-3 specific sources by publication or feed name and
+  explains the specific failure mode for each (duplicate coverage,
+  commentary without primary signal, marketing content, outdated
+  material, or off-topic noise).
+- Bullet 3 provides exactly one intake action in one of the six
+  accepted formats (TYPE A–F: add feed, promote feed, demote feed,
+  remove feed, add InnoReader rule, add saved search/alert), OR
+  explicitly states that no feed changes are warranted this week with
+  a reason. The action must be implementable in InnoReader in under
+  5 minutes.
 
-FAIL: Any bullet is generic ("quality was mixed"), names no specific sources, or provides a recommendation that cannot be directly acted on in an RSS feed or filter configuration.
+FAIL: Any bullet is generic ("quality was mixed"), names no specific
+sources, or provides a recommendation that is not in one of the six
+accepted TYPE formats and cannot be directly implemented in InnoReader.
 
 ### Gate 8: Concision
 
