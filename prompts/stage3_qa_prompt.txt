@@ -16,11 +16,26 @@ Their four strategic priorities:
 
 ## Your Input
 
-You will receive the completed Weekly Brief produced by Stage 2.
+You will receive TWO versions of the Weekly Brief produced by Stage 2:
+
+- **STAKEHOLDER BRIEF** — the reader-facing version (Bottom Line, What
+  Changed, Market Implications, Watch Next). This is the version that
+  will be forwarded to senior executives.
+- **OPERATOR BRIEF** — the internal version (all sections, including
+  Source Quality Feedback). This is the version the workflow owner uses.
 
 ## Your Task
 
-Evaluate the brief against each of the following quality gates. For each gate, return a PASS or FAIL verdict with a one-sentence explanation. If a gate fails, provide a specific, actionable fix instruction.
+Evaluate each quality gate against the correct brief version:
+
+- Gates 1, 2, 3, 4, 5, 6, 8, 9 → evaluate against the **STAKEHOLDER BRIEF**
+- Gate 7 (Source Quality Feedback) → evaluate against the **OPERATOR BRIEF**
+
+Gate 7's verdict does NOT affect the overall verdict. It is reported
+separately as Operator QA and does not count toward APPROVED / NEEDS REVISION.
+
+For each gate, return a PASS or FAIL verdict with a one-sentence explanation.
+If a gate fails, provide a specific, actionable fix instruction.
 
 ---
 
@@ -183,6 +198,8 @@ Return your QA evaluation in this exact structure:
 
 ### QA Report — Week of [DATE]
 
+**Stakeholder Brief — Gates 1-6, 8, 9**
+
 | Gate | Verdict | Notes |
 |------|---------|-------|
 | Gate 1: Monday Morning Test | PASS / FAIL | One sentence |
@@ -191,12 +208,17 @@ Return your QA evaluation in this exact structure:
 | Gate 4: Newsletter Test | PASS / FAIL | One sentence |
 | Gate 5: Watch Next Specificity | PASS / FAIL | One sentence |
 | Gate 6: Change Discipline | PASS / FAIL | One sentence |
-| Gate 7: Source Quality Feedback | PASS / FAIL | One sentence |
 | Gate 8: Concision | PASS / FAIL | One sentence |
 | Gate 9: Recency Discipline | PASS / FAIL | One sentence |
 
 ### Overall Verdict
 APPROVED / NEEDS REVISION
+(Based on Stakeholder Brief gates only)
+
+### Operator QA: Source Quality Feedback
+(Evaluating Operator Brief — does not affect overall verdict)
+
+| Gate 7: Source Quality Feedback | PASS / FAIL | One sentence |
 
 ### Fix Instructions (if any gates failed)
 For each failed gate, provide:

@@ -193,22 +193,34 @@ def run_stage2(standing_view: str, event_ledger: str, coverage_period: str = "")
 class Stage3QAOutput:
     """Parsed output from the Stage 3 QA evaluation."""
 
-    # Gates in display order
-    GATE_NAMES = [
+    # Gates evaluated against the Stakeholder Brief (affect overall verdict)
+    STAKEHOLDER_GATE_NAMES = [
         "Gate 1: Monday Morning Test",
         "Gate 2: Strategic Depth",
         "Gate 3: Market Implications Coverage",
         "Gate 4: Newsletter Test",
         "Gate 5: Watch Next Specificity",
         "Gate 6: Change Discipline",
-        "Gate 7: Source Quality Feedback",
         "Gate 8: Concision",
         "Gate 9: Recency Discipline",
     ]
 
+    # Gate evaluated against the Operator Brief (reported separately)
+    OPERATOR_GATE_NAME = "Gate 7: Source Quality Feedback"
+
     def __init__(self, raw: str):
         self.raw = raw
-        self.verdicts = _parse_qa_verdicts(raw)
+        all_verdicts = _parse_qa_verdicts(raw)
+
+        # Separate Gate 7 (operator) from stakeholder gates
+        gate7_key = next(
+            (k for k in all_verdicts if "7" in k and "source quality" in k.lower()),
+            None,
+        )
+        self.gate7_verdict = all_verdicts.pop(gate7_key, "UNKNOWN") if gate7_key else "UNKNOWN"
+
+        # Remaining verdicts are stakeholder gates only
+        self.verdicts = all_verdicts
         self.overall = _parse_overall_verdict(raw)
         self.pass_count = sum(1 for v in self.verdicts.values() if v == "PASS")
         self.fail_count = sum(1 for v in self.verdicts.values() if v == "FAIL")
@@ -219,13 +231,16 @@ class Stage3QAOutput:
             "",
             "=" * 60,
             f"  QA REPORT — {'APPROVED' if self.overall == 'APPROVED' else 'NEEDS REVISION'}",
-            f"  {self.pass_count} PASS  |  {self.fail_count} FAIL",
+            f"  {self.pass_count} PASS  |  {self.fail_count} FAIL  (Stakeholder Brief)",
             "=" * 60,
         ]
-        for gate in self.GATE_NAMES:
+        for gate in self.STAKEHOLDER_GATE_NAMES:
             verdict = self.verdicts.get(gate, "UNKNOWN")
             icon = "[PASS]" if verdict == "PASS" else "[FAIL]" if verdict == "FAIL" else "[?]  "
             lines.append(f"  {icon} {gate}: {verdict}")
+        lines.append("-" * 60)
+        g7_icon = "[PASS]" if self.gate7_verdict == "PASS" else "[FAIL]" if self.gate7_verdict == "FAIL" else "[?]  "
+        lines.append(f"  {g7_icon} Operator QA: {self.OPERATOR_GATE_NAME}: {self.gate7_verdict}")
         lines.append("=" * 60)
         if self.fail_count > 0:
             lines.append("  See QA Report for fix instructions.")
@@ -256,16 +271,26 @@ def _parse_overall_verdict(text: str) -> str:
     return "NEEDS REVISION"
 
 
-def run_stage3_qa(weekly_brief: str) -> Stage3QAOutput:
+def run_stage3_qa(stakeholder_brief: str, operator_brief: str) -> Stage3QAOutput:
     """
-    Run QA evaluation on the Weekly Brief.
-    Returns a Stage3QAOutput with parsed verdicts and console summary.
-    Never raises — if the Claude call fails, returns a fallback output.
+    Run QA evaluation against two brief versions:
+      - Gates 1-6, 8, 9 evaluate the Stakeholder Brief (affects overall verdict)
+      - Gate 7 evaluates the Operator Brief (reported separately, does not affect verdict)
+
+    Returns a Stage3QAOutput with split verdicts and console summary.
     """
     system_prompt = _load_prompt("stage3_qa_prompt.txt")
-    user_message = f"""## Weekly Brief for QA Review
+    user_message = f"""## STAKEHOLDER BRIEF
+(Use for Gates 1, 2, 3, 4, 5, 6, 8, 9)
 
-{weekly_brief}
+{stakeholder_brief}
+
+---
+
+## OPERATOR BRIEF
+(Use for Gate 7: Source Quality Feedback only)
+
+{operator_brief}
 """
     raw = _call_claude(system_prompt, user_message, label="Stage 3 — QA Evaluation", inter_stage_delay=0)
     return Stage3QAOutput(raw)

@@ -255,7 +255,11 @@ def _make_stakeholder_brief(brief: str) -> str:
     return stripped.rstrip()
 
 
-def step_save_outputs(result: analysis.Stage2Output, dry_run: bool) -> tuple[str, str]:
+def step_save_outputs(
+    result: analysis.Stage2Output,
+    stakeholder_brief: str,
+    dry_run: bool,
+) -> tuple[str, str]:
     """
     Save both brief versions and supporting outputs to GitHub.
 
@@ -267,7 +271,6 @@ def step_save_outputs(result: analysis.Stage2Output, dry_run: bool) -> tuple[str
 
     operator_path = f"{config.GITHUB_OUTPUT_DIR}/{date_str}_WeeklyBrief_Operator.md"
     stakeholder_path = f"{config.GITHUB_OUTPUT_DIR}/{date_str}_WeeklyBrief_Stakeholder.md"
-    stakeholder_brief = _make_stakeholder_brief(result.weekly_brief)
 
     logger.info("=== STEP 5: Save outputs to GitHub ===")
     logger.info(
@@ -314,15 +317,21 @@ def step_save_outputs(result: analysis.Stage2Output, dry_run: bool) -> tuple[str
     return operator_path, stakeholder_path
 
 
-def step_stage3_qa(result: analysis.Stage2Output, dry_run: bool) -> analysis.Stage3QAOutput:
+def step_stage3_qa(
+    result: analysis.Stage2Output,
+    stakeholder_brief: str,
+    dry_run: bool,
+) -> analysis.Stage3QAOutput:
     """
-    Run Stage 3 QA evaluation on the Operator brief (full, all sections).
-    The QA report covers Source Quality Feedback even though that section
-    is excluded from the Stakeholder version.
+    Run Stage 3 QA evaluation against both brief versions:
+      - Stakeholder brief → Gates 1-6, 8, 9 (affects overall verdict)
+      - Operator brief    → Gate 7 only (reported separately)
     """
-    logger.info("=== STEP 6: Stage 3 — QA Evaluation (evaluating Operator version) ===")
+    logger.info("=== STEP 6: Stage 3 — QA Evaluation ===")
+    logger.info("  Stakeholder brief → Gates 1-6, 8, 9")
+    logger.info("  Operator brief    → Gate 7 (Source Quality Feedback, separate)")
 
-    qa = analysis.run_stage3_qa(result.weekly_brief)
+    qa = analysis.run_stage3_qa(stakeholder_brief, result.weekly_brief)
 
     # Always print the summary to the console
     print(qa.console_summary())
@@ -355,7 +364,11 @@ def step_stage3_qa(result: analysis.Stage2Output, dry_run: bool) -> analysis.Sta
     return qa
 
 
-def step_email_draft(result: analysis.Stage2Output, dry_run: bool) -> None:
+def step_email_draft(
+    result: analysis.Stage2Output,
+    stakeholder_brief: str,
+    dry_run: bool,
+) -> None:
     """
     Create two Gmail drafts:
       Version A — Stakeholder: Bottom Line, What Changed, Market Implications,
@@ -372,8 +385,6 @@ def step_email_draft(result: analysis.Stage2Output, dry_run: bool) -> None:
     )
     subject_stakeholder = f"Legal Tech Intelligence Brief — Week of {week_str}"
     subject_operator = f"Legal Tech Intelligence Brief — Week of {week_str} [OPERATOR VERSION]"
-
-    stakeholder_brief = _make_stakeholder_brief(result.weekly_brief)
 
     html_stakeholder = markdown_to_html(stakeholder_brief, title=subject_stakeholder)
     html_operator = markdown_to_html(result.weekly_brief, title=subject_operator)
@@ -432,14 +443,17 @@ def run(dry_run: bool = False, skip_fetch: bool = False, resume: bool = False) -
     # 4. Stage 2 — Weekly Brief
     result = step_stage2(standing_view, event_ledger)
 
-    # 5. Save to GitHub (Operator + Stakeholder versions)
-    operator_path, stakeholder_path = step_save_outputs(result, dry_run)
+    # Derive stakeholder brief once; reused by save, QA, and email steps
+    stakeholder_brief = _make_stakeholder_brief(result.weekly_brief)
 
-    # 6. Stage 3 — QA Evaluation on Operator version (non-blocking)
-    step_stage3_qa(result, dry_run)
+    # 5. Save to GitHub (Operator + Stakeholder versions)
+    operator_path, stakeholder_path = step_save_outputs(result, stakeholder_brief, dry_run)
+
+    # 6. Stage 3 — QA: stakeholder brief (Gates 1-6,8,9) + operator brief (Gate 7)
+    step_stage3_qa(result, stakeholder_brief, dry_run)
 
     # 7. Gmail drafts (Stakeholder + Operator)
-    step_email_draft(result, dry_run)
+    step_email_draft(result, stakeholder_brief, dry_run)
 
     elapsed = (datetime.now(tz=timezone.utc) - start).total_seconds()
     logger.info(
