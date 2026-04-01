@@ -1,8 +1,25 @@
 {
   "feed_type": "priority",
-  "fetched_at": "2026-04-01T17:13:11.036769+00:00",
-  "item_count": 50,
+  "fetched_at": "2026-04-01T21:28:00.619866+00:00",
+  "item_count": 51,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b59d87545",
+      "title": "\"Emerging tech\" and why it is different Emerging Tech M&A: Opportunities, Risk, and Regulation",
+      "url": "https://www.jdsupra.com/legalnews/emerging-tech-and-why-it-is-different-2996262/",
+      "author": "Hogan Lovells",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-01T17:29:29+00:00",
+      "updated_at": "",
+      "summary": "Investment in emerging technology has become a central feature of corporate growth strategies.  In 2025, AI investment alone exceeded US$200 billion - almost 50% of all global startup funding. Whilst geopolitical, regulatory and economic uncertainty are challenges across the M&amp;A market, the transformational speed of emerging technology means hesitation creates acute risks: for corporates, of getting left behind; for financial sponsors, of missing the best growth opportunities....<br>By: <a href=\"https://www.jdsupra.com/profile/Hogan_Lovells/\">Hogan Lovells</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal",
+        "Priority"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b59d3ccb5",
       "title": "AI in M&A: The Shift from Competitive Advantage to Governance Imperative",
