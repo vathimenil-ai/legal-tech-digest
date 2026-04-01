@@ -14,7 +14,8 @@ Flow:
     5. Run Stage 2 → Weekly Brief + Updated Standing View + Delta Log
     6. Save Weekly Brief to GitHub  /output/YYYYMMDD_WeeklyBrief.md
     7. Push Updated Standing View back to GitHub
-    8. Convert brief to HTML and create Gmail draft
+    8. Run Stage 3 QA evaluation → save /output/YYYYMMDD_QA_Report.md
+    9. Convert brief to HTML and create Gmail draft
 """
 import argparse
 import json
@@ -268,6 +269,43 @@ def step_save_outputs(result: analysis.Stage2Output, dry_run: bool) -> str:
     return brief_path
 
 
+def step_stage3_qa(result: analysis.Stage2Output, dry_run: bool) -> analysis.Stage3QAOutput:
+    """Run Stage 3 QA evaluation on the Weekly Brief and save the report."""
+    logger.info("=== STEP 6: Stage 3 — QA Evaluation ===")
+
+    qa = analysis.run_stage3_qa(result.weekly_brief)
+
+    # Always print the summary to the console
+    print(qa.console_summary())
+
+    # Save QA report
+    date_str = date.today().strftime("%Y%m%d")
+    qa_path = f"{config.GITHUB_OUTPUT_DIR}/{date_str}_QA_Report.md"
+
+    if not dry_run:
+        gh.upsert_file(
+            qa_path,
+            qa.raw,
+            f"chore: add QA report [{date.today().isoformat()}]",
+        )
+        logger.info("QA Report saved: %s", qa_path)
+    else:
+        # Write locally for inspection
+        local_qa_path = Path(f"{date_str}_QA_Report.md")
+        local_qa_path.write_text(qa.raw, encoding="utf-8")
+        logger.info("[dry-run] QA Report written locally: %s", local_qa_path)
+
+    if qa.overall != "APPROVED":
+        logger.warning(
+            "QA: %d gate(s) failed — brief flagged for revision. "
+            "Pipeline will continue and produce Gmail draft. "
+            "Review QA report before sending.",
+            qa.fail_count,
+        )
+
+    return qa
+
+
 def step_email_draft(result: analysis.Stage2Output, dry_run: bool) -> None:
     """Convert Weekly Brief to HTML and create a Gmail draft."""
     logger.info("=== STEP 6: Create Gmail draft ===")
@@ -324,7 +362,10 @@ def run(dry_run: bool = False, skip_fetch: bool = False, resume: bool = False) -
     # 5. Save to GitHub
     brief_path = step_save_outputs(result, dry_run)
 
-    # 6. Gmail draft
+    # 6. Stage 3 — QA Evaluation (non-blocking)
+    step_stage3_qa(result, dry_run)
+
+    # 7. Gmail draft
     step_email_draft(result, dry_run)
 
     elapsed = (datetime.now(tz=timezone.utc) - start).total_seconds()

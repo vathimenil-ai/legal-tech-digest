@@ -180,3 +180,85 @@ def run_stage2(standing_view: str, event_ledger: str) -> Stage2Output:
 """
     raw = _call_claude(system_prompt, user_message, label="Stage 2 — Weekly Brief", inter_stage_delay=0)
     return Stage2Output(raw)
+
+
+# ── Stage 3: QA Evaluation ─────────────────────────────────────────────────────
+
+class Stage3QAOutput:
+    """Parsed output from the Stage 3 QA evaluation."""
+
+    # Gates in display order
+    GATE_NAMES = [
+        "Gate 1: Monday Morning Test",
+        "Gate 2: Hypothesis Check",
+        "Gate 3: Epiq-Specific Lenses",
+        "Gate 4: Newsletter Test",
+        "Gate 5: Watch Next Specificity",
+        "Gate 6: Change Discipline",
+        "Gate 7: Source Quality Feedback",
+        "Gate 8: Concision",
+    ]
+
+    def __init__(self, raw: str):
+        self.raw = raw
+        self.verdicts = _parse_qa_verdicts(raw)
+        self.overall = _parse_overall_verdict(raw)
+        self.pass_count = sum(1 for v in self.verdicts.values() if v == "PASS")
+        self.fail_count = sum(1 for v in self.verdicts.values() if v == "FAIL")
+
+    def console_summary(self) -> str:
+        """Return a formatted summary string for printing to the console."""
+        lines = [
+            "",
+            "=" * 60,
+            f"  QA REPORT — {'APPROVED' if self.overall == 'APPROVED' else 'NEEDS REVISION'}",
+            f"  {self.pass_count} PASS  |  {self.fail_count} FAIL",
+            "=" * 60,
+        ]
+        for gate in self.GATE_NAMES:
+            verdict = self.verdicts.get(gate, "UNKNOWN")
+            icon = "[PASS]" if verdict == "PASS" else "[FAIL]" if verdict == "FAIL" else "[?]  "
+            lines.append(f"  {icon} {gate}: {verdict}")
+        lines.append("=" * 60)
+        if self.fail_count > 0:
+            lines.append("  See QA Report for fix instructions.")
+        lines.append("")
+        return "\n".join(lines)
+
+
+def _parse_qa_verdicts(text: str) -> dict[str, str]:
+    """Extract PASS/FAIL verdicts from the QA table."""
+    verdicts: dict[str, str] = {}
+    # Match table rows: | Gate N: Name | PASS / FAIL | ... |
+    pattern = r"\|\s*(Gate\s+\d+:[^|]+?)\s*\|\s*(PASS|FAIL)\s*\|"
+    for match in re.finditer(pattern, text, re.IGNORECASE):
+        gate_name = match.group(1).strip()
+        verdict = match.group(2).strip().upper()
+        verdicts[gate_name] = verdict
+    return verdicts
+
+
+def _parse_overall_verdict(text: str) -> str:
+    """Extract the overall APPROVED / NEEDS REVISION verdict."""
+    match = re.search(r"###\s*Overall Verdict\s*\n+\s*(APPROVED|NEEDS REVISION)", text, re.IGNORECASE)
+    if match:
+        return match.group(1).strip().upper()
+    # Fallback: scan for standalone verdict
+    if re.search(r"\bAPPROVED\b", text):
+        return "APPROVED"
+    return "NEEDS REVISION"
+
+
+def run_stage3_qa(weekly_brief: str) -> Stage3QAOutput:
+    """
+    Run QA evaluation on the Weekly Brief.
+    Returns a Stage3QAOutput with parsed verdicts and console summary.
+    Never raises — if the Claude call fails, returns a fallback output.
+    """
+    system_prompt = _load_prompt("stage3_qa_prompt.txt")
+    user_message = f"""## Weekly Brief for QA Review
+
+{weekly_brief}
+"""
+    raw = _call_claude(system_prompt, user_message, label="Stage 3 — QA Evaluation", inter_stage_delay=0)
+    return Stage3QAOutput(raw)

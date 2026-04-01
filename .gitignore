@@ -14,6 +14,7 @@ build/
 # Local output previews and caches
 output_preview.html
 event_ledger_cache.md
+*_QA_Report.md
 
 # OS
 .DS_Store
