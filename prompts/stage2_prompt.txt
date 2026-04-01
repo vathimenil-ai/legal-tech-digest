@@ -221,7 +221,18 @@ Use these five Epiq-specific lenses. Make implications concrete and specific —
 
 - **Margin and pricing:** Does this accelerate or slow revenue/margin compression? Does it open new pricing models?
 - **Platform and ecosystem:** Does this change dynamics with Relativity, Microsoft, or other platform dependencies?
-- **Workflow orchestration:** Does this strengthen or challenge the hypothesis that value is shifting to orchestration and defensibility?
+- **Workflow Orchestration:** This lens is REQUIRED every week — do not omit it.
+  Address both of the following where evidence exists:
+  (1) Does this week's evidence create, expand, or validate hard governance
+      requirements that make auditable workflow orchestration a legal or
+      regulatory necessity rather than a differentiator? If so, specify
+      what Epiq's orchestration layer must demonstrably include to satisfy
+      those requirements.
+  (2) Does this week's evidence change who is competing in the orchestration
+      layer, and what does Epiq need to do differently to defend or extend
+      its position there?
+  If neither applies this week, state explicitly why and provide one
+  sentence on the current orchestration landscape.
 - **Recurring revenue:** Does this open or validate adjacencies in investigation readiness, information governance, or AI-ready data management?
 - **Competitive position:** Does this change how LSPs differentiate from each other or from software-native legal AI vendors?
 
