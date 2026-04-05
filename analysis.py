@@ -78,17 +78,43 @@ def run_stage1(
     standing_view: str,
     priority_feed: dict[str, Any],
     high_signal_feed: dict[str, Any],
+    prompt_file: str = "stage1_prompt.txt",
+    prior_ledger: str = "",
 ) -> str:
     """
     Generate the Event Ledger from the Standing View + both feeds.
     Returns the Event Ledger as a markdown string.
+
+    prompt_file: prompt filename to load from prompts/. Defaults to stage1_prompt.txt.
+                 Pass "daily_stage1_prompt.txt" for daily-specific instructions when
+                 that file exists.
+
+    prior_ledger: content of the most recent prior EventLedger, injected as a
+                  deduplication context section so Claude avoids re-surfacing
+                  developments already captured in the previous run.
     """
-    system_prompt = _load_prompt("stage1_prompt.txt")
+    system_prompt = _load_prompt(prompt_file)
 
     priority_json = json.dumps(priority_feed, indent=2, ensure_ascii=False)
     high_signal_json = json.dumps(high_signal_feed, indent=2, ensure_ascii=False)
 
-    user_message = f"""## Current Standing View
+    prior_ledger_section = ""
+    if prior_ledger:
+        prior_ledger_section = f"""---
+
+## Prior Event Ledger (Deduplication Context)
+
+The following developments were captured in the most recent prior run.
+Do NOT re-include these as new developments unless something materially
+new has occurred since then.
+
+{prior_ledger}
+
+---
+
+"""
+
+    user_message = f"""{prior_ledger_section}## Current Standing View
 
 {standing_view}
 
@@ -188,6 +214,74 @@ def run_stage2(standing_view: str, event_ledger: str, coverage_period: str = "")
     return Stage2Output(raw)
 
 
+# ── Stage 2 Daily: Daily Brief ────────────────────────────────────────────────
+
+class Stage2DailyOutput:
+    """Parsed outputs from the Stage 2 Daily Claude response."""
+
+    def __init__(self, raw: str):
+        self.raw = raw
+        # Try DAILY_BRIEF delimiter first; fall back to WEEKLY_BRIEF for
+        # compatibility when daily_stage2_prompt.txt doesn't exist yet and
+        # the pipeline falls back to stage2_prompt.txt.
+        self.daily_brief = (
+            _extract_section(raw, "DAILY_BRIEF")
+            or _extract_section(raw, "WEEKLY_BRIEF")
+        )
+
+        if not self.daily_brief:
+            logger.warning(
+                "Stage 2 daily response missing DAILY_BRIEF section. "
+                "Check that daily_stage2_prompt.txt instructs Claude to use the "
+                "<!-- BEGIN/END DAILY_BRIEF --> delimiter."
+            )
+
+    @property
+    def weekly_brief(self) -> str:
+        """Alias for daily_brief — lets shared pipeline steps (QA, email) work
+        with either Stage2Output or Stage2DailyOutput without modification."""
+        return self.daily_brief
+
+
+def run_stage2_daily(
+    standing_view: str,
+    event_ledger: str,
+    coverage_period: str = "",
+) -> Stage2DailyOutput:
+    """
+    Generate the Daily Brief.
+    Returns a Stage2DailyOutput with the daily_brief section parsed.
+
+    Uses daily_stage2_prompt.txt if it exists; falls back to stage2_prompt.txt
+    until the daily-specific prompt is created in Part 2.
+
+    Your daily_stage2_prompt.txt should instruct Claude to wrap output in:
+      <!-- BEGIN DAILY_BRIEF --> ... <!-- END DAILY_BRIEF -->
+    """
+    # Try daily-specific prompt; fall back to standard stage2 prompt
+    try:
+        system_prompt = _load_prompt("daily_stage2_prompt.txt")
+        logger.info("Using daily_stage2_prompt.txt")
+    except FileNotFoundError:
+        logger.warning("daily_stage2_prompt.txt not found — falling back to stage2_prompt.txt")
+        system_prompt = _load_prompt("stage2_prompt.txt")
+
+    coverage_line = f"**Coverage period:** {coverage_period}\n\n---\n\n" if coverage_period else ""
+
+    user_message = f"""{coverage_line}## Current Standing View
+
+{standing_view}
+
+---
+
+## Event Ledger
+
+{event_ledger}
+"""
+    raw = _call_claude(system_prompt, user_message, label="Stage 2 — Daily Brief", inter_stage_delay=0)
+    return Stage2DailyOutput(raw)
+
+
 # ── Stage 3: QA Evaluation ─────────────────────────────────────────────────────
 
 class Stage3QAOutput:
@@ -224,19 +318,28 @@ class Stage3QAOutput:
         self.overall = _parse_overall_verdict(raw)
         self.pass_count = sum(1 for v in self.verdicts.values() if v == "PASS")
         self.fail_count = sum(1 for v in self.verdicts.values() if v == "FAIL")
+        self.na_count  = sum(1 for v in self.verdicts.values() if v == "N/A")
 
     def console_summary(self) -> str:
         """Return a formatted summary string for printing to the console."""
+        na_suffix = f"  |  {self.na_count} N/A" if self.na_count else ""
         lines = [
             "",
             "=" * 60,
             f"  QA REPORT — {'APPROVED' if self.overall == 'APPROVED' else 'NEEDS REVISION'}",
-            f"  {self.pass_count} PASS  |  {self.fail_count} FAIL  (Stakeholder Brief)",
+            f"  {self.pass_count} PASS  |  {self.fail_count} FAIL{na_suffix}  (Stakeholder Brief)",
             "=" * 60,
         ]
         for gate in self.STAKEHOLDER_GATE_NAMES:
             verdict = self.verdicts.get(gate, "UNKNOWN")
-            icon = "[PASS]" if verdict == "PASS" else "[FAIL]" if verdict == "FAIL" else "[?]  "
+            if verdict == "PASS":
+                icon = "[PASS]"
+            elif verdict == "FAIL":
+                icon = "[FAIL]"
+            elif verdict == "N/A":
+                icon = "[N/A] "
+            else:
+                icon = "[?]  "
             lines.append(f"  {icon} {gate}: {verdict}")
         lines.append("-" * 60)
         g7_icon = "[PASS]" if self.gate7_verdict == "PASS" else "[FAIL]" if self.gate7_verdict == "FAIL" else "[?]  "
@@ -249,13 +352,27 @@ class Stage3QAOutput:
 
 
 def _parse_qa_verdicts(text: str) -> dict[str, str]:
-    """Extract PASS/FAIL verdicts from the QA table."""
+    """Extract PASS/FAIL/N/A verdicts from the QA table.
+
+    Handles three verdict values:
+      PASS  — gate evaluated and passed
+      FAIL  — gate evaluated and failed
+      N/A   — gate skipped (e.g. Gate 3 for daily briefs that have no
+               Market Implications section)
+
+    N/A is matched loosely: any cell that starts with "N/A" (with optional
+    dash and trailing text) is normalised to "N/A" so Claude's explanatory
+    prose (e.g. "N/A — Daily briefs do not include...") doesn't prevent
+    the verdict from being captured.
+    """
     verdicts: dict[str, str] = {}
-    # Match table rows: | Gate N: Name | PASS / FAIL | ... |
-    pattern = r"\|\s*(Gate\s+\d+:[^|]+?)\s*\|\s*\*{0,2}(PASS|FAIL)\*{0,2}\s*\|"
+    # Match table rows: | Gate N: Name | PASS / FAIL / N/A[...] | ... |
+    pattern = r"\|\s*(Gate\s+\d+:[^|]+?)\s*\|\s*\*{0,2}(PASS|FAIL|N/A[^|]*?)\*{0,2}\s*\|"
     for match in re.finditer(pattern, text, re.IGNORECASE):
         gate_name = match.group(1).strip()
-        verdict = match.group(2).strip().upper()
+        raw_verdict = match.group(2).strip().upper()
+        # Normalise any "N/A — ..." variant to plain "N/A"
+        verdict = "N/A" if raw_verdict.startswith("N/A") else raw_verdict
         verdicts[gate_name] = verdict
     return verdicts
 

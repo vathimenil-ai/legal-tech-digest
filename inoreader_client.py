@@ -140,12 +140,14 @@ def _filter_by_published_date(
 
     # Summary log
     logger.info(
-        "Date filter [%s]: %d fetched from API → %d kept, %d discarded (7-day cutoff: %s)",
+        "Date filter [%s]: %d fetched from API → %d kept, %d discarded (cutoff: %s)",
         label, len(items), len(kept), len(discarded), cutoff_dt.date().isoformat(),
     )
     # Per-article discard log
     for title, pub_date in discarded:
         logger.info("  DISCARDED: [%s] '%s'", pub_date, title)
+
+    return kept
 
 
 # ── Schema transformation ──────────────────────────────────────────────────────
@@ -229,46 +231,68 @@ def transform_items(raw_items: list[dict[str, Any]], feed_type: str) -> dict[str
 
 # ── Public API ─────────────────────────────────────────────────────────────────
 
-def fetch_and_transform(label: str, feed_type: str, access_token: str) -> dict[str, Any]:
+def fetch_and_transform(
+    label: str,
+    feed_type: str,
+    access_token: str,
+    lookback_days: int = 7,
+) -> dict[str, Any]:
     """
     Fetch articles for a label and return the transformed pipeline schema dict.
 
+    lookback_days: how far back to look for articles. Use config.DAILY_LOOKBACK_DAYS
+                   (default 2) for daily runs, config.WEEKLY_LOOKBACK_DAYS (default 7)
+                   for weekly runs or manual invocations.
+
     Applies a two-layer date filter:
-      Layer 1 (API): `ot` param limits InnoReader to articles crawled in the
-                     last 10 days, reducing payload before any data is transferred.
+      Layer 1 (API): `ot` param limits InnoReader to articles crawled within
+                     lookback_days + 3 days, reducing payload before transfer.
       Layer 2 (pipeline): discard any article whose publication date (or crawl
-                          date as fallback) is older than 7 days from run date.
+                          date as fallback) is older than lookback_days from run date.
     """
     now = datetime.now(tz=timezone.utc)
 
-    # Layer 1: API-level crawl-date filter (10-day window)
-    ot = int((now - timedelta(days=10)).timestamp())
+    # Layer 1: API-level crawl-date filter (lookback + 3-day buffer)
+    ot = int((now - timedelta(days=lookback_days + 3)).timestamp())
 
-    # Layer 2: pipeline-level publication-date cutoff (7-day window)
-    cutoff_7d = now - timedelta(days=7)
+    # Layer 2: pipeline-level publication-date cutoff
+    cutoff = now - timedelta(days=lookback_days)
 
-    logger.info("Fetching InnoReader label '%s' (feed_type=%s)…", label, feed_type)
+    logger.info(
+        "Fetching InnoReader label '%s' (feed_type=%s, lookback=%dd)…",
+        label, feed_type, lookback_days,
+    )
     raw = fetch_label(label, access_token, ot=ot)
-    logger.info("Fetched %d raw items for '%s' (API filter: last 10 days).", len(raw), label)
+    logger.info(
+        "Fetched %d raw items for '%s' (API filter: last %dd).",
+        len(raw), label, lookback_days + 3,
+    )
 
-    filtered = _filter_by_published_date(raw, cutoff_7d, label)
+    filtered = _filter_by_published_date(raw, cutoff, label)
     return transform_items(filtered, feed_type)
 
 
-def get_both_feeds(access_token: str) -> tuple[dict[str, Any], dict[str, Any]]:
+def get_both_feeds(
+    access_token: str,
+    lookback_days: int = 7,
+) -> tuple[dict[str, Any], dict[str, Any]]:
     """
     Fetch and transform both priority and high_signal feeds.
     Returns (priority_feed, high_signal_feed).
+
+    lookback_days: passed through to fetch_and_transform for both feeds.
     """
     priority = fetch_and_transform(
         config.INOREADER_LABEL_PRIORITY,
         "priority",
         access_token,
+        lookback_days=lookback_days,
     )
     high_signal = fetch_and_transform(
         config.INOREADER_LABEL_HIGH_SIGNAL,
         "high_signal",
         access_token,
+        lookback_days=lookback_days,
     )
     return priority, high_signal
 

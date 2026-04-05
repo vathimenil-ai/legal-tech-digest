@@ -62,3 +62,9 @@ CLAUDE_MODEL: str = _optional("CLAUDE_MODEL", "claude-opus-4-6")
 # Set DEDUP_ENABLED=False to bypass deduplication entirely for debugging.
 DEDUP_TITLE_SIMILARITY_THRESHOLD: float = float(_optional("DEDUP_TITLE_SIMILARITY_THRESHOLD", "0.80"))
 DEDUP_ENABLED: bool = _optional("DEDUP_ENABLED", "true").lower() not in ("false", "0", "no")
+
+# ── Pipeline run mode ──────────────────────────────────────────────────────────
+# Feed lookback window for each run mode.
+# Override via environment variable if needed (e.g. DAILY_LOOKBACK_DAYS=3).
+DAILY_LOOKBACK_DAYS: int = int(_optional("DAILY_LOOKBACK_DAYS", "2"))
+WEEKLY_LOOKBACK_DAYS: int = int(_optional("WEEKLY_LOOKBACK_DAYS", "7"))

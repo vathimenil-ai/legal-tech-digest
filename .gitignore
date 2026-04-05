@@ -12,9 +12,14 @@ dist/
 build/
 
 # Local output previews and caches
-output_preview.html
+output_preview*.html
 event_ledger_cache.md
 *_QA_Report.md
+
+# Logs
+*.log
+*_log.txt
+scheduled_run_*.txt
 
 # OS
 .DS_Store

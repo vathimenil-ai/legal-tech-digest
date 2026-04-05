@@ -219,7 +219,24 @@ Each row must include:
 - category
 - development_type
 - fact_summary
-- evidence
+- evidence: Source(s) supporting this development. For each source,
+  include ALL of the following on a single line:
+    [Publication name] | [Article title or short description] | [Full URL]
+
+  Example:
+    JD Supra | "SDNY Rules AI Conversations Not Privileged" |
+    https://www.jdsupra.com/legalnews/sdny-rules-ai-...
+
+  If multiple sources support the same development, list each on
+  its own line in the same format.
+
+  The URL must be the direct article URL from the feed item, not
+  a feed-level or search URL. If no URL is available for a source,
+  write "URL unavailable" rather than omitting the field or
+  fabricating a URL.
+
+  This field is critical — Stage 2 uses these URLs to populate
+  the Sources appendix with clickable hyperlinks.
 - change_statement
 - novelty (1-5)
 - materiality (1-5)
