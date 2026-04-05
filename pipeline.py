@@ -71,6 +71,29 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+# ── Local editions output folder ───────────────────────────────────────────────
+# HTML files are copied here after every live run so they sync to Google Drive
+# without requiring a trip to GitHub.
+_LOCAL_EDITIONS_DIR = Path(r"C:\Users\Nell\Desktop\LegalTechDigest_Editions")
+
+
+def _write_local_editions(files: dict[str, str]) -> None:
+    """Write HTML content to the local editions folder, creating it if needed.
+
+    Args:
+        files: mapping of filename (e.g. '20260404_DailyBrief_Stakeholder.html')
+               to HTML content string.
+    """
+    try:
+        _LOCAL_EDITIONS_DIR.mkdir(parents=True, exist_ok=True)
+        for filename, content in files.items():
+            dest = _LOCAL_EDITIONS_DIR / filename
+            dest.write_text(content, encoding="utf-8")
+            logger.info("Local edition written: %s", dest)
+    except OSError as exc:
+        logger.warning("Could not write local editions to %s: %s", _LOCAL_EDITIONS_DIR, exc)
+
+
 # ── HTML wrapper ───────────────────────────────────────────────────────────────
 
 _HTML_TEMPLATE = """\
@@ -826,6 +849,11 @@ def step_save_outputs(
         )
         logger.info("Stakeholder HTML brief saved: %s", stakeholder_html_path)
 
+        _write_local_editions({
+            f"{date_str}_WeeklyBrief_Operator.html": html_operator,
+            f"{date_str}_WeeklyBrief_Stakeholder.html": html_stakeholder,
+        })
+
         if result.updated_standing_view:
             gh.upsert_file(
                 config.GITHUB_PATH_STANDING_VIEW,
@@ -930,6 +958,11 @@ def step_save_outputs_daily(
             f"feat: add daily brief stakeholder HTML [{commit_date}]",
         )
         logger.info("Stakeholder daily HTML brief saved: %s", stakeholder_html_path)
+
+        _write_local_editions({
+            f"{date_str}_DailyBrief_Operator.html": html_operator,
+            f"{date_str}_DailyBrief_Stakeholder.html": html_stakeholder,
+        })
 
         if event_ledger:
             gh.upsert_file(
