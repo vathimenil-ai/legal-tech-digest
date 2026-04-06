@@ -2,7 +2,7 @@
 # Registered in Windows Task Scheduler: Mon–Fri at 06:00
 
 $ProjectDir = "C:\Users\Nell\Documents\ClaudeCode_WeeklyDigest"
-$Python     = "C:\Users\Nell\AppData\Local\Python\pythoncore-3.14-64\python.exe"
+$Python     = "C:\Users\Nell\Documents\ClaudeCode_WeeklyDigest\.venv\Scripts\python.exe"
 $LogFile    = Join-Path $ProjectDir "scheduled_run_$(Get-Date -Format 'yyyyMMdd_HHmm').txt"
 
 Set-Location $ProjectDir
