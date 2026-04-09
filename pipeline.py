@@ -72,26 +72,27 @@ logger = logging.getLogger(__name__)
 
 
 # ── Local editions output folder ───────────────────────────────────────────────
-# HTML files are copied here after every live run so they sync to Google Drive
-# without requiring a trip to GitHub.
-_LOCAL_EDITIONS_DIR = Path(r"C:\Users\Nell\Desktop\LegalTechDigest_Editions")
+# Operator HTML + MD files are copied here after every live run so they sync
+# to Google Drive without requiring a trip to GitHub.
+_LOCAL_EDITIONS_DAILY  = Path(r"C:\Users\Nell\Desktop\LegalTechDigest_Editions\Daily")
+_LOCAL_EDITIONS_WEEKLY = Path(r"C:\Users\Nell\Desktop\LegalTechDigest_Editions\Weekly")
 
 
-def _write_local_editions(files: dict[str, str]) -> None:
-    """Write HTML content to the local editions folder, creating it if needed.
+def _write_local_editions(files: dict[str, str], target_dir: Path) -> None:
+    """Write files to a local editions subfolder, creating it if needed.
 
     Args:
-        files: mapping of filename (e.g. '20260404_DailyBrief_Stakeholder.html')
-               to HTML content string.
+        files: mapping of filename to content string.
+        target_dir: destination folder (Daily or Weekly subfolder).
     """
     try:
-        _LOCAL_EDITIONS_DIR.mkdir(parents=True, exist_ok=True)
+        target_dir.mkdir(parents=True, exist_ok=True)
         for filename, content in files.items():
-            dest = _LOCAL_EDITIONS_DIR / filename
+            dest = target_dir / filename
             dest.write_text(content, encoding="utf-8")
             logger.info("Local edition written: %s", dest)
     except OSError as exc:
-        logger.warning("Could not write local editions to %s: %s", _LOCAL_EDITIONS_DIR, exc)
+        logger.warning("Could not write local editions to %s: %s", target_dir, exc)
 
 
 # ── HTML wrapper ───────────────────────────────────────────────────────────────
@@ -851,8 +852,8 @@ def step_save_outputs(
 
         _write_local_editions({
             f"{date_str}_WeeklyBrief_Operator.html": html_operator,
-            f"{date_str}_WeeklyBrief_Stakeholder.html": html_stakeholder,
-        })
+            f"{date_str}_WeeklyBrief_Operator.md":   result.weekly_brief,
+        }, _LOCAL_EDITIONS_WEEKLY)
 
         if result.updated_standing_view:
             gh.upsert_file(
@@ -961,8 +962,8 @@ def step_save_outputs_daily(
 
         _write_local_editions({
             f"{date_str}_DailyBrief_Operator.html": html_operator,
-            f"{date_str}_DailyBrief_Stakeholder.html": html_stakeholder,
-        })
+            f"{date_str}_DailyBrief_Operator.md":   result.daily_brief,
+        }, _LOCAL_EDITIONS_DAILY)
 
         if event_ledger:
             gh.upsert_file(
