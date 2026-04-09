@@ -411,3 +411,59 @@ def run_stage3_qa(stakeholder_brief: str, operator_brief: str) -> Stage3QAOutput
 """
     raw = _call_claude(system_prompt, user_message, label="Stage 3 — QA Evaluation", inter_stage_delay=0)
     return Stage3QAOutput(raw)
+
+
+# ── Graph Links ────────────────────────────────────────────────────────────────
+
+_GRAPH_LINKS_SYSTEM = """\
+You generate Obsidian graph link sections for legal tech digest markdown files.
+
+Given a digest, output ONLY a valid markdown ## Graph Links section in exactly this format:
+
+## Graph Links
+
+### People
+- [[Brendan_Nelson]]
+
+### Organizations
+- [[ExampleOrg]]
+
+### Concepts
+- [[example_concept]]
+
+Rules:
+- People: always include [[Brendan_Nelson]]; add other individuals only when clearly named and relevant in the digest.
+- Organizations: add 1+ wiki links matching orgs prominently featured. Prefer from this list when applicable: Epiq, OpenAI, Anthropic, Google_DeepMind, Harvey, Relativity. Use the exact name as given in the list. Add others if prominent.
+- Concepts: choose 2–4 snake_case links from: ai_posture, competitive_intelligence, go_to_market_model, pricing_packaging, legal_ai_governance, litigation_risk, services_to_platform, platform_bets, agentic_workflows. Pick those most reflected in the digest content.
+- Fallbacks if no strong match: People → [[Brendan_Nelson]], Organizations → [[Epiq]], Concepts → [[ai_posture]], [[competitive_intelligence]].
+- No duplicate links. No extra prose. Output ONLY the ## Graph Links section.
+"""
+
+
+def run_graph_links(brief_md: str) -> str:
+    """Generate an Obsidian ## Graph Links section for a digest markdown file.
+
+    Returns the section as a markdown string (starting with '## Graph Links').
+    Falls back to a minimal default section on any error so the pipeline never
+    blocks on this optional step.
+    """
+    try:
+        result = _call_claude(
+            _GRAPH_LINKS_SYSTEM,
+            brief_md,
+            label="Graph Links",
+            inter_stage_delay=0,
+        )
+        # Ensure the response starts cleanly at the heading
+        idx = result.find("## Graph Links")
+        if idx != -1:
+            return result[idx:].strip()
+        return result.strip()
+    except Exception as exc:
+        logger.warning("Graph Links generation failed (%s) — using fallback.", exc)
+        return (
+            "## Graph Links\n\n"
+            "### People\n- [[Brendan_Nelson]]\n\n"
+            "### Organizations\n- [[Epiq]]\n\n"
+            "### Concepts\n- [[ai_posture]]\n- [[competitive_intelligence]]"
+        )

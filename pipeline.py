@@ -850,9 +850,11 @@ def step_save_outputs(
         )
         logger.info("Stakeholder HTML brief saved: %s", stakeholder_html_path)
 
+        graph_links = analysis.run_graph_links(result.weekly_brief)
+        operator_md_local = result.weekly_brief.rstrip() + "\n\n" + graph_links
         _write_local_editions({
             f"{date_str}_WeeklyBrief_Operator.html": html_operator,
-            f"{date_str}_WeeklyBrief_Operator.md":   result.weekly_brief,
+            f"{date_str}_WeeklyBrief_Operator.md":   operator_md_local,
         }, _LOCAL_EDITIONS_WEEKLY)
 
         if result.updated_standing_view:
@@ -960,9 +962,11 @@ def step_save_outputs_daily(
         )
         logger.info("Stakeholder daily HTML brief saved: %s", stakeholder_html_path)
 
+        graph_links = analysis.run_graph_links(result.daily_brief)
+        operator_md_local = result.daily_brief.rstrip() + "\n\n" + graph_links
         _write_local_editions({
             f"{date_str}_DailyBrief_Operator.html": html_operator,
-            f"{date_str}_DailyBrief_Operator.md":   result.daily_brief,
+            f"{date_str}_DailyBrief_Operator.md":   operator_md_local,
         }, _LOCAL_EDITIONS_DAILY)
 
         if event_ledger:
