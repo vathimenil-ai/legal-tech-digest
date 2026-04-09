@@ -1,8 +1,24 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-04-09T12:37:26.491800+00:00",
+  "fetched_at": "2026-04-09T12:42:50.794574+00:00",
   "item_count": 98,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b5f0399e6",
+      "title": "Let’s Talk About It: Hill Country MHDD’s Family Partner Program and the YES Waiver",
+      "url": "https://www.youtube.com/watch?v=B_5NYGXPvAc",
+      "author": "Compliance Podcast Network",
+      "source": "Compliance Podcast Network",
+      "published_at": "2026-04-09T12:25:33+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=B_5NYGXPvAc\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>We take things in a different direction today as Zach steps back from behind the microphone to produce an episode with members of the Hill Country MHDD Center. The members are Kelsi Wilmot (Director of Community Development), Tyler Townsend (Communication Specialist), and Wanda Ferguson (Lead Family Partner).<br> \n<br> \nThey introduce Hill Country MHDD’s new podcast, “Let’s Talk About It,” intended to help audiences learn about staff, lived experience, and agency programs. Ferguson explains the Family Partner role, emphasizing advocacy for caregivers, collaboration with schools and juvenile justice, and skills-based supports such as the nurturing program to help families accommodate a child’s needs while maintaining structure and boundaries. She shares personal motivation connected to her son Ryan’s mental health challenges and death in 2016, and provides examples of helping families avoid juvenile detention, address safety risks, and stabilize at home. The team describes the YES Waiver as a wraparound, grant-funded service designed to keep children in their homes and reduce hospitalizations or residential placements, and notes that services are optional and Medicaid-billable.<br> \n<br> \nKey highlights:<br> \n<br> \n• Why This Podcast<br> \n• What Family Partners Do<br> \n• Parenting Tools and Real Stories<br> \n• YES Waiver Explained<br> \n• New Programs and Facilities<br> \n• Getting Enrolled<br> \n<br> \nResources:<br> \n<br> \nHill Country MHDD: <a href=\"https://hillcountry.org/\">https://hillcountry.org/</a><br> \n<br> \nConnect with the Compliance Podcast Network at:<br> \n<br> \nLinkedIn: <a href=\"https://www.linkedin.com/company/compliance-podcast-network/\">https://www.linkedin.com/company/compliance-podcast-network/</a><br> \nFacebook: <a href=\"https://www.facebook.com/compliancepodcastnetwork/\">https://www.facebook.com/compliancepodcastnetwork/</a><br> \nYouTube: <a href=\"https://www.youtube.com/@CompliancePodcastNetwork\">https://www.youtube.com/@CompliancePodcastNetwork</a><br> \nTwitter: <a href=\"https://twitter.com/tfoxlaw\">https://twitter.com/tfoxlaw</a><br> \nInstagram: <a href=\"https://www.instagram.com/voiceofcompliance/\">https://www.instagram.com/voiceofcompliance/</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b5f025f79",
       "title": "Littler appoints Stephanie Goutos as inaugural chief AI officer ",
@@ -1581,22 +1597,6 @@
       "categories": [
         "reading-list",
         "Compliance",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b5dc33bfa",
-      "title": "Bankruptcy and Restructuring Company Stretto Launches New Research Platform",
-      "url": "https://www.legaltechmonitor.com/2026/04/bankruptcy-and-restructuring-company-stretto-launches-new-research-platform/",
-      "author": "Law.com&#039;s Legal Tech News",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-04-07T12:58:41+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>Research Suite by Stretto is built to surface and compare bankruptcy documents across jurisdictions and inform case strategy.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
         "High-Signal"
       ]
     }
