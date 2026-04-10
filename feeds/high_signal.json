@@ -1,7 +1,7 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-04-10T12:56:24.388237+00:00",
-  "item_count": 96,
+  "fetched_at": "2026-04-10T13:02:16.873161+00:00",
+  "item_count": 95,
   "items": [
     {
       "id": "tag:google.com,2005:reader/item/0000000b5fbf0e14",
@@ -1012,23 +1012,6 @@
         "reading-list",
         "Legal Tech Core",
         "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b5f201a49",
-      "title": "Patlytics Secures $40M in Series B Funding With Contribution From Relativity",
-      "url": "https://www.legaltechmonitor.com/2026/04/patlytics-secures-40m-in-series-b-funding-with-contribution-from-relativity/",
-      "author": "Law.com&#039;s Legal Tech News",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-04-08T12:59:59+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The funding will be used to help the startup expand its presence in Asia and provide its AI patent technology to a range of industries including life sciences.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal",
-        "Priority"
       ]
     },
     {
