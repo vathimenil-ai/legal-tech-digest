@@ -1,4 +1,4 @@
-## Daily Event Ledger — April 13, 2026
+## Daily Event Ledger — April 14, 2026
 
 **Prepared for:** President/GM, Global Legal Solutions & Head of Product
 
@@ -6,54 +6,60 @@
 
 ### Deduplication Analysis
 
-The prior ledger (April 12, 2026) captured:
-
-- **$145K in Q1 2026 AI sanctions** (Tier 1) — already logged
-- **Relativity invests in Patlytics $40M Series B** (Tier 2) — already logged
-
-Reviewing today's feeds against the prior ledger:
+The prior ledger (April 13, 2026) found no Tier 1 developments and explicitly catalogued all feed items from that cycle as duplicates or below threshold. Reviewing today's feeds against both the April 12 and April 13 prior ledgers:
 
 | Candidate | Assessment | Disposition |
 |---|---|---|
-| **$145K Q1 AI sanctions (ComplexDiscovery)** | Same article, same data — already Tier 1 in prior ledger | Discard — duplicate |
-| **Patlytics $40M / Relativity investment** | No new information | Discard — duplicate |
-| **Fortis Advisors v. Krafton (second JD Supra article)** | Already discarded in prior ledger; no new facts | Discard — duplicate |
-| **DocketWise breach** | Already assessed as Tier 2 in prior ledger's analysis; same article reappearing | Discard — duplicate |
-| **AI FMTA (H.R. 8094)** | Already assessed and discarded in prior ledger | Discard — duplicate |
-| **Bar Standards Board AI-generated complaints influx** | UK BSB reporting it cannot meet complaint review timelines due to AI-generated complaints against barristers. This is a **new development** — first reported instance of AI being weaponized to overwhelm a legal regulatory body's intake process. However, this is UK-specific, not US-focused, and the LSP operational impact is indirect. Materiality 2-3 for LSP lens. | Discard — materiality 2-3; monitoring item for AI governance doctrine |
-| **FTC/DOJ joint HSR merger filing inquiry** | Joint public inquiry into effectiveness of HSR premerger notification form — could reshape antitrust merger filing practice. Relevant to M&A advisory and potentially eDiscovery in second request context. However, this is an inquiry/RFI, not a rule change. Timeline uncertain. Materiality 2-3. | Discard — materiality 2-3; early-stage regulatory inquiry |
-| **White & Case "Five things about GenAI and Litigation"** | Commentary synthesizing known developments (UK 61% AI adoption stat from Sept 2025). No primary signal. | Discard — commentary |
-| **McGuireWoods "Courts Begin to Address AI's Evidentiary Issues: Part I"** | Already discarded in prior ledger — commentary on prior developments | Discard — duplicate |
-| **JD Supra "A Legal Framework for the Discoverability of AI"** | Analytical framework piece synthesizing Heppner, Tremblay, Warner v. Gilbarco, OpenAI copyright litigation. No new ruling or development — framework/commentary. | Discard — commentary |
-| **Greenberg Glusker "AI Chatbots and Attorney-Client Privilege: New Risks"** | Commentary on known rulings (Heppner, etc.). | Discard — commentary |
-| **Morgan v. V2X (eDiscovery Today)** | Already tracked in prior ledger cycles | Discard — duplicate |
-| **Littler CAIO appointment** | Already tracked in prior ledger cycles | Discard — duplicate |
-| **BIPA retroactivity (7th Circuit)** | Already tracked in prior ledger cycles | Discard — duplicate |
-| **California EO N-5-26 (multiple JD Supra articles)** | Already tracked in prior ledger cycles | Discard — duplicate |
-| **Oklahoma privacy law** | Already tracked in prior ledger cycles | Discard — duplicate |
-| **Haast $12M Series A** | Already assessed and discarded in prior ledger | Discard — duplicate |
-| **Skadden execs to legal tech** | Already assessed and discarded in prior ledger | Discard — duplicate |
-| **Anthropic Mythos / too risky to release** | Already assessed and discarded in prior ledger | Discard — duplicate |
-| **Anthropic "Trustworthy Agents" paper** | Already assessed and discarded in prior ledger | Discard — duplicate |
-| **Florida AG / OpenAI investigation** | Already assessed and discarded in prior ledger | Discard — duplicate |
-| **Legal IT Insider — Orange Rag Product Table** | Already assessed and discarded in prior ledger | Discard — duplicate |
-| **Litera CFO promotion (Priyanka Singh)** | Executive promotion at legal tech vendor. Directionally relevant (Litera growth signal) but not Tier 1 development. | Discard — materiality 1-2 |
-| **All remaining items** | Healthcare compliance, OSHA, data centers/energy, consumer litigation filings, oil & gas outlook, China supply chain regs, mifepristone litigation, Toyota PTAB, DOJ peso laundering, podcasts/webinars, a16z general AI discussions, Meta AI app ranking, Google/Intel chips, Tubi/ChatGPT, Sierra/Ghostwriter, ViClarity reg tracker, Poke AI agents, UK copyright/AI, Norm Law hire, August UK firm rollout, AI insurance commentary (Jones Day), privacy litigation roundup — all below threshold or outside LSP lens. | Discard |
+| **Legal IT Insider — Orange Rag Product Table ("platformisation")** | Same Orange Rag table already discarded in prior ledgers. However, the summary now includes a specific editorial observation: DISCO, Consilio, and **Epiq** are identified as exemplifying "platformisation" — packaging historically discrete capabilities into unified platforms. This names Epiq directly in a competitive positioning observation. While directionally interesting, the underlying product launches are not new, and the editorial framing is commentary. Materiality 2. | Discard — commentary on known trend; Epiq mention noted but not actionable |
+| **Anthropic "Trustworthy Agents in Practice"** | Already discarded in prior ledgers | Discard — duplicate |
+| **Anthropic Mythos / too risky to release** | Already discarded in prior ledgers | Discard — duplicate |
+| **DocketWise breach (ComplexDiscovery)** | Already assessed in prior ledgers | Discard — duplicate |
+| **$145K Q1 AI sanctions (ComplexDiscovery/JD Supra)** | Already Tier 1 in April 12 ledger | Discard — duplicate |
+| **Haast $12M Series A** | Already discarded in prior ledgers | Discard — duplicate |
+| **Littler CAIO appointment** | Already discarded in prior ledgers | Discard — duplicate |
+| **BIPA retroactivity (7th Circuit)** | Already discarded in prior ledgers | Discard — duplicate |
+| **California EO N-5-26 (multiple articles)** | Already discarded in prior ledgers | Discard — duplicate |
+| **Oklahoma privacy law** | Already discarded in prior ledgers | Discard — duplicate |
+| **AI FMTA (H.R. 8094)** | Already discarded in prior ledgers | Discard — duplicate |
+| **Bar Standards Board AI complaints** | Already assessed in April 13 ledger as materiality 2-3 | Discard — duplicate |
+| **FTC/DOJ HSR merger inquiry** | Already assessed in April 13 ledger as materiality 2-3 | Discard — duplicate |
+| **White & Case "Five things GenAI and Litigation"** | Already discarded — commentary | Discard — duplicate |
+| **McGuireWoods "Courts Address AI Evidentiary Issues"** | Already discarded — commentary | Discard — duplicate |
+| **JD Supra "Legal Framework for Discoverability of AI"** | Already discarded — commentary | Discard — duplicate |
+| **Greenberg Glusker "AI Chatbots and Attorney-Client Privilege"** | Already discarded — commentary | Discard — duplicate |
+| **Morgan v. V2X** | Already tracked in prior ledgers | Discard — duplicate |
+| **Litera CFO promotion** | Already discarded — materiality 1-2 | Discard — duplicate |
+| **Skadden execs to legal tech** | Already discarded in prior ledgers | Discard — duplicate |
+| **Florida AG / OpenAI investigation** | Already discarded in prior ledgers | Discard — duplicate |
+| **Fortis Advisors v. Krafton (ChatGPT strategy fails)** | Already discarded in prior ledgers | Discard — duplicate |
+| **Norm Law hire** | Already discarded | Discard — duplicate |
+| **August UK firm rollout** | Already discarded | Discard — duplicate |
+| **AI insurance commentary (Jones Day)** | Already discarded | Discard — duplicate |
+| **Exterro/eDiscovery Today educational partnership** | Vendor-media content partnership. No product or market development. Materiality 1. | Discard — below threshold |
+| **Artificial Lawyer "More AI + More Jobs" wrap** | Weekly roundup/commentary. Notes US legal market consistently adding lawyers despite AI. Directionally interesting but no primary signal. | Discard — commentary |
+| **Artificial Lawyer "Will Claude Managed Agents Impact Legal Tech?"** | Commentary on Anthropic's Claude Managed Agents launch. Anthropic's agent capabilities already tracked in prior ledgers (Trustworthy Agents paper). The "Managed Agents" product framing is incrementally new — Anthropic now offering enterprise-grade agent deployment tools. However, the article is speculative analysis, not a primary signal of legal-specific deployment. Materiality 2-3. | Discard — materiality 2-3; monitoring item |
+| **DRCF Paper on Agentic AI (UK)** | UK Digital Regulation Cooperation Forum paper on agentic AI regulation. Regulatory framework paper, not enforcement action. UK-specific. Materiality 2. | Discard — below threshold |
+| **BoE/PRA Response on AI in Financial Services** | UK financial regulators' approach to AI. Sector-specific, UK-focused, no direct LSP impact. | Discard — outside LSP lens |
+| **Littler Workplace Policy Institute Survey Report Q1** | Employment law survey touching on AI adoption. No new data point beyond general AI adoption acceleration already tracked. | Discard — below threshold |
+| **FTC OkCupid/Match Settlement** | FTC enforcement on data sharing — already covered as part of FTC enforcement pattern in prior ledgers (Match Group). Same settlement, new JD Supra analysis. | Discard — duplicate |
+| **Supreme Court takes up oil-and-gas climate suits** | Significant Supreme Court case but outside LSP AI/legal tech lens. Could generate massive eDiscovery demand if cert leads to full litigation, but this is speculative and not actionable today. | Discard — outside primary lens; noted as potential future eDiscovery demand signal |
+| **AI Quarterly (JD Supra) — NAIC Spring Meeting AI takeaways** | Insurance regulatory AI developments from NAIC. Sector-specific. AI insurance market already tracked in standing view ($750M ATA facility). No new enforcement or standard that changes LSP calculus. | Discard — below threshold |
+| **All remaining items** | Consumer litigation filings, healthcare compliance (CMS, Medicare Advantage, physician practice sales), China supply chain regs, OSHA rulemaking, FinTech newsletter, oil & gas outlook, data center energy, mifepristone litigation, Toyota PTAB, DOJ peso laundering, privacy litigation roundup, Roku privacy suit, UK copyright/AI, ECPA medical info, BYOD discovery (ModeOne), podcasts/webinars, a16z discussions (Windows/Apple, Buterin/Verdon debate), Meta AI app, Google/Intel chips, Tubi/ChatGPT, Sierra/Ghostwriter, Poke AI agents, Mercor data breach, Legal Tech Monitor "Threshold Moment" essay, board strategy webinar, education law, whistleblower/DOJ policy, Nextpoint AI for small firms — all below threshold or outside LSP lens. | Discard |
 
 ---
 
 ### Assessment
 
-No Tier 1 developments today. All feed items either duplicate developments already captured in the prior ledger or fall below the materiality threshold for daily inclusion.
-
-**No Tier 1 developments today.**
+**No Tier 1 developments today.** All feed items either duplicate developments already captured in prior ledgers or fall below the materiality threshold for daily inclusion.
 
 ---
 
 ### Monitoring Notes
 
-- **UK BSB AI-generated complaints surge**: Worth watching as a leading indicator of AI being weaponized against legal regulatory processes. If US bar associations report similar patterns, this becomes material for governance doctrine tracking.
-- **FTC/DOJ HSR merger filing inquiry**: If this proceeds to proposed rulemaking, it could affect second request discovery practices and LSP M&A-related eDiscovery workflows. Currently too early-stage.
-- **Continued law firm commentary volume on AI privilege/discovery**: The volume of law firm analyses (McGuireWoods, White & Case, Greenberg Glusker, JD Supra framework piece) on AI discoverability and privilege continues to accelerate — at least 4 new pieces in this 48-hour window alone. This confirms the governance doctrine theme is being internalized by the profession at scale, but does not constitute a new development per se.
+- **Anthropic Claude Managed Agents**: Anthropic is now offering enterprise-grade agent deployment infrastructure ("everything you need to build and deploy agents at scale"). This is incrementally new relative to the Trustworthy Agents research paper already tracked — it represents productization of agent capabilities. If legal tech vendors or law firms begin deploying on this infrastructure, it becomes material for H5 (frontier AI vendor disintermediation). Currently speculative.
+
+- **"Platformisation" trend (Legal IT Insider)**: Editorial observation that DISCO, Consilio, and Epiq are packaging historically discrete capabilities into unified platforms. This validates the workflow orchestration thesis (H1) from a market observer but contains no primary signal. Worth noting that Epiq is being perceived in market as pursuing this strategy.
+
+- **Supreme Court cert on oil-and-gas climate suits**: If this proceeds to full merits briefing and trial, it could generate significant eDiscovery demand (massive document volumes from energy companies). Long-dated signal — monitoring only.
 
 *Next ledger will be produced when new Tier 1 signal emerges.*
