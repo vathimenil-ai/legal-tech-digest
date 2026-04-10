@@ -1,8 +1,24 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-04-10T12:28:51.318895+00:00",
+  "fetched_at": "2026-04-10T12:54:27.910893+00:00",
   "item_count": 96,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b5fbf0e14",
+      "title": "The AI & Trust Edition",
+      "url": "https://www.youtube.com/watch?v=WzHPXMDSOqI",
+      "author": "Compliance Podcast Network",
+      "source": "Compliance Podcast Network",
+      "published_at": "2026-04-10T11:56:10+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=WzHPXMDSOqI\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Welcome to the Daily Compliance News. Each day, Tom Fox, the Voice of Compliance, brings you compliance-related stories to start your day. Sit back, enjoy a cup of morning coffee, and listen in to the Daily Compliance News. All, from the Compliance Podcast Network. Each day, we consider four stories from the business world, compliance, ethics, risk management, leadership, or general interest for the compliance professional.<br> \n<br> \nTop stories include:<br> \n<br> \n• Biggest defense against AI–trust. (FT): <a href=\"https://www.ft.com/content/72c20f77-e85d-49cb-84ef-4b676244d1c5?syn-25a6b1a6=1\">https://www.ft.com/content/72c20f77-e85d-49cb-84ef-4b676244d1c5?syn-25a6b1a6=1</a><br> \n• No wonder he attacked Beirut. (Reuters): <a href=\"https://www.reuters.com/world/middle-east/halt-iran-attacks-means-netanyahus-corruption-trial-will-resume-sunday-2026-04-09/\">https://www.reuters.com/world/middle-east/halt-iran-attacks-means-netanyahus-corruption-trial-will-resume-sunday-2026-04-09/</a><br> \n• Applying the law will get you fired in the Trump Administration. (NYT): <a href=\"https://www.nytimes.com/2026/04/09/us/politics/trump-miller-immigration-judges-purge.html\">https://www.nytimes.com/2026/04/09/us/politics/trump-miller-immigration-judges-purge.html</a><br> \n• Rooney Rule, anyone? (WSJ): <a href=\"https://www.wsj.com/sports/football/nfl-investigation-justice-department-8835a936?mod=hp_lead_pos1\">https://www.wsj.com/sports/football/nfl-investigation-justice-department-8835a936?mod=hp_lead_pos1</a><br> \n<br> \nTo learn about the intersection of Sherlock Holmes and the modern compliance professional, check out my latest book, The Game is Afoot-What Sherlock Holmes Teaches About Risk, Ethics and Investigations on Amazon.com: <a href=\"https://a.co/d/00qwHqrT\">https://a.co/d/00qwHqrT</a>.<br> \n<br> \nConnect with the Compliance Podcast Network at:<br> \n<br> \nLinkedIn: <a href=\"https://www.linkedin.com/company/compliance-podcast-network/\">https://www.linkedin.com/company/compliance-podcast-network/</a><br> \nFacebook: <a href=\"https://www.facebook.com/compliancepodcastnetwork/\">https://www.facebook.com/compliancepodcastnetwork/</a><br> \nYouTube: <a href=\"https://www.youtube.com/@CompliancePodcastNetwork\">https://www.youtube.com/@CompliancePodcastNetwork</a><br> \nTwitter: <a href=\"https://twitter.com/tfoxlaw\">https://twitter.com/tfoxlaw</a><br> \nInstagram: <a href=\"https://www.instagram.com/voiceofcompliance/\">https://www.instagram.com/voiceofcompliance/</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b5fb62160",
       "title": "AI in Financial Services in 5 Stories - Week Ending April 10, 2026",
@@ -1548,22 +1564,6 @@
       "published_at": "2026-04-08T18:03:04+00:00",
       "updated_at": "",
       "summary": "According to a recent report by WebRecon, court filings under the Telephone Consumer Protection Act (TCPA) were way up for the month. On the other hand, Fair Credit Reporting Act (FCRA) and Fair Debt Collection Practices Act (FDCPA) filings as well as complaints filed with the Consumer Financial Protection Bureau (CFPB) were all down. Nonetheless, everything is still up YTD....<br>By: <a href=\"https://www.jdsupra.com/profile/troutman_pepper_locke/\">Troutman Pepper Locke</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Information Governance",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b5e7e78b7",
-      "title": "US: Delays to cyber incident reporting rules - What businesses can watch for and do now",
-      "url": "https://www.jdsupra.com/legalnews/us-delays-to-cyber-incident-reporting-5235688/",
-      "author": "Eversheds Sutherland (US) LLP",
-      "source": "Privacy RSS Feed | JD Supra Law News",
-      "published_at": "2026-04-08T17:58:46+00:00",
-      "updated_at": "",
-      "summary": "The Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA) will introduce mandatory US federal reporting of serious cyber incidents and ransomware payments affecting critical infrastructure. “Covered entities” operate in one of 16 US critical infrastructure sectors and meet sector‑specific criteria....<br>By: <a href=\"https://www.jdsupra.com/profile/eversheds_sutherland_us/\">Eversheds Sutherland (US) LLP</a>",
       "content": "",
       "categories": [
         "reading-list",
