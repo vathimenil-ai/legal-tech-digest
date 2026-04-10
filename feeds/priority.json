@@ -1,7 +1,7 @@
 {
   "feed_type": "priority",
-  "fetched_at": "2026-04-10T12:56:21.715212+00:00",
-  "item_count": 12,
+  "fetched_at": "2026-04-10T13:02:14.340628+00:00",
+  "item_count": 11,
   "items": [
     {
       "id": "tag:google.com,2005:reader/item/0000000b5fb22cf1",
@@ -100,23 +100,6 @@
       "published_at": "2026-04-09T16:26:26+00:00",
       "updated_at": "",
       "summary": "As attorneys continue to implement generative AI (GAI) tools across live client work, law firms are recognizing that comprehensive associate training represents a critical component of responsible GAI integration. In a recent article for American Bankruptcy Institute Journal, LP Partner Lisa Vandesteeg and co-author Christopher Updike of Stretto, Inc. review­ applicable rules for lawyers’ professional conduct, doc­ument firm-specific initiatives, and identify best practices in the emerging...<br>By: <a href=\"https://www.jdsupra.com/profile/Levenfeld_Pearlstein/\">Levenfeld Pearlstein, LLC</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal",
-        "Priority"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b5f201a49",
-      "title": "Patlytics Secures $40M in Series B Funding With Contribution From Relativity",
-      "url": "https://www.legaltechmonitor.com/2026/04/patlytics-secures-40m-in-series-b-funding-with-contribution-from-relativity/",
-      "author": "Law.com&#039;s Legal Tech News",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-04-08T12:59:59+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The funding will be used to help the startup expand its presence in Asia and provide its AI patent technology to a range of industries including life sciences.</p>",
       "content": "",
       "categories": [
         "reading-list",
