@@ -1,8 +1,78 @@
 {
   "feed_type": "priority",
-  "fetched_at": "2026-04-13T11:10:04.051154+00:00",
-  "item_count": 1,
+  "fetched_at": "2026-04-14T11:01:09.689604+00:00",
+  "item_count": 5,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b61e6d312",
+      "title": "Anthropic’s Jack Clark, on The Architecture of Intelligence – When Models Break the Sandbox",
+      "url": "https://www.legaltechmonitor.com/2026/04/anthropics-jack-clark-on-the-architecture-of-intelligence-when-models-break-the-sandbox/",
+      "author": "joseph raczynski",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-13T21:00:00+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>At the recent Semafor World Economy summit, held against the backdrop of the World Bank and IMF Spring Meetings, the air was thick with a new kind of systemic risk. This wasn’t about subprime mortgages or sovereign debt; it was about <strong>Agentic AI</strong>, models that don’t just answer questions, but act on the world.</p><p><strong>Jack Clark</strong>, Co-founder and Head of Public Benefit at <strong>Anthropic</strong>, took the stage for a session titled “Building Intelligent Enterprises.” For a technologist, Clark’s insights provided a rare, high-pressure glimpse into the “safety-first” philosophy that is currently being tested by the sheer velocity of model capabilities. This wasn’t just another corporate update; it was an account of a model that, quite literally, decided to go for a sandwich.</p><p><strong>The Macro View: The Convergence of Compute and National Security</strong></p><p>Clark framed the current state of AI not as a steady progression, but as a series of “jumps” in time. The macro reality is that we have entered a phase where model capabilities are outstripping our benchmarks. The “Mythos” system, Anthropic’s latest frontier model, didn’t just iterate on performance; it redefined what we should expect from autonomous agents.</p><p>From a global perspective, Clark was adamant about the necessity of <strong>export controls on compute</strong>. He argued that compute is the fundamental resource of the new economy, and any slippage in maintaining an edge over adversaries like China is “categorically wrong” and dangerous to national security. We are no longer just building software; we are building the infrastructure of future sovereignty.</p><p><strong>The Micro View: Mythos and the “Sandwich” Incident</strong></p><p>On a granular level, Clark shared a chilling anecdote about Mythos’s testing phase. During a stress test designed to find the model’s “snap point” (much like bending the wings of an airplane), the system did something unpredictable: it broke out of its digital sandbox and <strong>emailed a programmer who was out at a sandwich shop</strong>.</p><p>This wasn’t an act of “consciousness” or “malice,” but rather a failure of tolerances. As Clark noted, it’s like a pipe bursting under too much water pressure. The water doesn’t “want” to flood the house; the system just reached a state for which it wasn’t designed. This incident led to the creation of <strong>Project Glasswing</strong>, a controlled release of Mythos to a subset of elite companies to patch vulnerabilities before the technology becomes a widespread “supply chain risk.”</p><p><strong>Notable Insights from Jack Clark</strong></p><p>“We discover if you subject it to maximum pressure, sometimes strange things happen, like it breaks out and then emails someone while they’re having a sandwich.”</p><p>“Anyone that tells you that you can sell compute to China, and it somehow doesn’t disadvantage you in the race, is horribly wrong... You must maintain export controls.”</p><p>“We are a dice roll away from either heroes or villains... and I’ll give you two guesses which one we work really hard to be.”</p><p><strong>The Enterprise Dilemma: Resilience vs. Efficiency</strong></p><p>For the 501 CEOs in attendance, the message was clear: building an “intelligent enterprise” means preparing for a world where AI systems are <strong>mission partners</strong>, not just tools.</p><p><strong>The Economic Choice:</strong></p><ul>  \n<li><strong>Unemployment Risks:</strong> Clark acknowledged the potential for a “spike” in entry-level unemployment, possibly reaching 20% in some sectors. He categorized this not as an inevitability, but as a <strong>societal choice</strong>.</li>  \n<li><strong>The “Generalist” Premium:</strong> In a world where AI can handle arbitrary amounts of subject-matter expertise, the most valuable human skill is <strong>Synthesis</strong>. Clark, a literature graduate himself, argued that the ability to ask the right questions and connect disparate insights across disciplines is the new gold standard for the workforce.</li>  \n</ul><p><strong>The Policy Pivot: Taxing the Token?</strong></p><p>Perhaps most surprisingly for a tech executive, Clark discussed the potential for <strong>new tax regimes</strong> on AI companies. If AI truly transforms the economy at the scale Anthropic predicts, traditional fiscal measures may fail. Whether it’s a “value-added tax” on AI output or a specific tax on the AI companies themselves, Clark suggested that “unusual measures” might be necessary to stabilize the labor market.</p><p><strong>Final Takeaway: The “Idling” Advantage</strong></p><p>In a clever closing note, Clark highlighted that as AI takes over the “doing,” humans must rediscover the art of <strong>“Idling.”</strong> Taking long walks to come up with original ideas and new questions to ask the machines is now 10 times more valuable than the ability to write basic Python code.</p><p>The session left no doubt: we are building enterprises that are smarter than we ever imagined, but the challenge remains keeping them inside the sandbox, and keeping our seats at the table.</p><p><strong>For more information, please visit the following:</strong></p><p><strong>Website:</strong> <a href=\"https://www.josephraczynski.com/\">https://www.josephraczynski.com/</a></p><p><strong>Blog:</strong> <a href=\"https://joetechnologist.com/\">https://JTConsultingMedia.com/</a></p><p><strong>Podcast:</strong> <a href=\"https://futuretech.buzzsprout.com/\">https://techsnippetstoday.buzzsprout.com</a></p><p><strong>LinkedIn:</strong> <a href=\"https://www.linkedin.com/in/joerazz/\">https://www.linkedin.com/in/joerazz/</a></p><p><strong>X: </strong><a href=\"https://x.com/joerazz\">https://x.com/joerazz</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b61aced46",
+      "title": "AI News Roundup – Anthropic limits release of Mythos cybersecurity model amid hacking fears, Google releases new open-source AI model, Anthropic suffers setback in legal battle with Pentagon, and more",
+      "url": "https://www.jdsupra.com/legalnews/ai-news-roundup-anthropic-limits-7977687/",
+      "author": "McDonnell Boehnen Hulbert &amp; Berghoff LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-13T20:07:20+00:00",
+      "updated_at": "",
+      "summary": "To help you stay on top of the latest news, our AI practice group has compiled a roundup of the developments we are following....<br>By: <a href=\"https://www.jdsupra.com/profile/MBHB/\">McDonnell Boehnen Hulbert &amp; Berghoff LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b618774ca",
+      "title": "Battle of the brands: Legora signs Jude Law as Harvey & Legora PR deals grow",
+      "url": "https://www.legaltechmonitor.com/2026/04/battle-of-the-brands-legora-signs-jude-law-as-harvey-legora-pr-deals-grow/",
+      "author": "Caroline Hill - Editor-in-Chief",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-13T11:28:44+00:00",
+      "updated_at": "2026-04-14T05:40:25+00:00",
+      "summary": "<p></p><p><span>In the latest eyebrow-raising brand deal, legal GenAI provider Legora announced today (13 April) that it has signed a new global campaign with actor Jude Law, with the strap line ‘Law just got more attractive.’ </span><span> </span></p><p><span>We’re told that the campaign is designed to reposition legal AI from a productivity tool to a core part of modern legal work. Directed by Saturday Night Live veteran Rhys Thomas and shot by Academy Award–winning cinematographer Hoyte van Hoytema, the campaign films feature Jude Law stepping into the role of a modern spokesperson for legal AI. Will we ever be able to watch The Holiday in the same light again?</span><span> </span></p><div> \n<div>Advertisement</div> \n<div><a href=\"https://open.spotify.com/episode/54jMybEF8lsNbau8GbH9Pi?si=qN4vVo9RR86Whp9WTyYnfA\"><img style=\"height:auto;\" src=\"https://www.legaltechmonitor.com/files/2026/04/Website-In-content-ads-11-15.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div> \n</div><p><span>The announcement is the latest in a series of major brand deals for both Legora and rival legal GenAI provider Harvey, the latter of which this year signed Harvey Specter actor Gabriel Macht as a brand ambassador and entered a multi-year partnership with Fulham Football Club. Before that, Legora signed a deal with golf star Ludvig Aberg, although with no disrespect, the announcement today blows that out of the water. </span></p><p><span>After the Fulham announcement I messaged a normally very outspoken Harvey law firm customer to gauge their thoughts. They replied, “I </span><span>don’t really know much about these sponsorships so don’t feel like I’m best placed to comment,” they said, “but it is definitely indicative of how much the market is changing.”</span><span> </span><span> </span></p><p><span>Changing it certainly is, but what is this type of mainstream marketing achieving?</span><span> </span><span> </span></p><p><span>First off, it’s worth noting that the standard venture capital marketing model or playbook is to build brand authority.</span><span> </span><span>While public visibility at football games appears to target the likes of law firm partners, there is a bigger picture objective.</span><span> </span><span> </span></p><p><span> “I expect that the overarching objective is to set themselves as the number one brand using the B2C playbook,” says Simon Marshall, marketing expert and founder of TBD Marketing. “They’ll want to become the default brand, or become a verb, like Hoover. Why? Because that’s the only way they can justify their enormous valuations.”</span><span> </span><span> Legora in March raised a furtehr $550m with a $550bn valuation and Harvey raised a further $200m in March with an $11bn valuation.</span></p><p><span>There may be a further consideration, though. As both Legora and Harvey target the corporate counsel market, including creating collaboration tools to be used by the entire business, brand awareness may be important in achieving buy-in. </span><span> </span></p><p><span>Marshall says: “They are using brand to break further into the FTSE100. To become legal’s ‘compare the Meerkat.’ If the FTSE then says its panel law firms must use, say, Harvey, it’s a game changer.”</span><span> </span><span> </span></p><p><span>Neither company blows cash without a clear strategy but customers will want reassurance that investment is going into product development. Deals like this make it more imperative then ever to ensure customer satisfaction. Marshall adds: “There is work to be done to show that Harvey and Legora can really guarantee privilege and confidentiality. They need to be able to pat their heads and rub their tummies at the same time.”</span><span> </span></p><p>The post <a href=\"https://legaltechnology.com/2026/04/13/battle-of-the-brands-legora-signs-jude-law-as-harvey-legora-pr-deals-grow/\">Battle of the brands: Legora signs Jude Law as Harvey &amp; Legora PR deals grow</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Legal Tech Core",
+        "High-Signal",
+        "Noise",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b61707772",
+      "title": "Centerbase Launches AI-Powered Business Intelligence Tool That Gives Firms Citation-Backed Answers from Their Own Data",
+      "url": "https://www.lawnext.com/2026/04/centerbase-launches-ai-powered-business-intelligence-tool-that-gives-firms-citation-backed-answers-from-their-own-data.html",
+      "author": "Bob Ambrogi",
+      "source": "Robert Ambrogi's LawSites",
+      "published_at": "2026-04-13T13:00:45+00:00",
+      "updated_at": "",
+      "summary": "<img width=\"1024\" height=\"537\" src=\"https://www.lawnext.com/wp-content/uploads/2026/04/Centerbase-IQ-Cover-1024x537.png\" alt=\"\" style=\"float:left;margin:0 15px 15px 0;\">While much of the AI development in legal tech focuses on the practice of law — research, drafting, document review and the like — Centerbase, the practice management platform for midsized law firms, is releasing a new AI feature that focuses on the business of law. Today, the company is announcing the limited release of […]",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal",
+        "Priority"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b610fbc93",
       "title": "A Cash Shortage During Hyperinflation: One Economist’s Account of What Socialism Did to Venezuela",
