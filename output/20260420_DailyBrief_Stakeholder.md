@@ -1,5 +1,9 @@
-Legal Tech Intelligence — Monday, April 20, 2026
+Legal Tech Intelligence — Sunday, April 20, 2026
 
 ## Bottom Line
 
-- No significant new developments today. The weekend feeds (April 18–20) contained commentary, vendor marketing, and non-legal-tech items but no developments that would change strategic priorities this morning. Next weekly brief: April 24, 2026.
+- No significant new developments today. Next weekly brief: week of April 27, 2026.
+
+## Sources
+
+No sources cited — no Tier 1 developments to support.
