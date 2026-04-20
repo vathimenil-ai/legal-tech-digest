@@ -1,7 +1,7 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-04-20T12:49:14.125197+00:00",
-  "item_count": 25,
+  "fetched_at": "2026-04-20T12:50:09.040953+00:00",
+  "item_count": 98,
   "items": [
     {
       "id": "tag:google.com,2005:reader/item/0000000b65ffb27e",
@@ -203,6 +203,22 @@
       ]
     },
     {
+      "id": "tag:google.com,2005:reader/item/0000000b651a2935",
+      "title": "How to approach governance of AI agents",
+      "url": "https://www.dataprotectionreport.com/2026/04/how-to-approach-governance-of-ai-agents/",
+      "author": "Susana Medeiros (US), Steve Roosa (US) and Wenda Tang (US)",
+      "source": "Data Protection Report",
+      "published_at": "2026-04-13T14:23:59+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/141/157/801/9e2VGL0qn6VXWPZXYEAv5mxr1/dbc7eb6755995d52e0f3c04850e6391637dd7152.png\" alt=\"dbc7eb6755995d52e0f3c04850e6391637dd7152\"></p><p>Current approaches to agentic AI governance seem more focused on trying to apply governance after a system is developed, like a Band-Aid, instead of baking in reasonable governance and controls into the guts of the system. In the same way that security teams refer to “trust assurance” as the measures and frameworks that give them confidence that security controls are predictable, transparent, and working effectively and as intended, these governance-forward principles can and should be applied to reduce AI Agent risks throughout the system lifecycle.  </p><p>One AI security vendor recently claimed that SOC2 was insufficient for evaluating AI security and controls. Although we might agree with the ultimate conclusion, the vendor made some surprising statements that show an implicit bias for the Band-Aid approach and a poor understanding of how to effectively govern Agentic AI systems. </p><p>Here are a few examples of representations that should raise red flags.</p><p><em>Vendor</em>:</p><p>“An AI Agent doesn’t have a fixed set of behaviors.”</p><p><em>Correct Approach:</em></p><p>AI agents in most settings should have established, fixed behaviors. Success and failure modes should be explicitly defined and governed. This should be done with static logic (code) and is one of the most important controls in any Agentic AI system. </p><p>If success and failure are not well defined and monitored, then arguably the system is constructively allowed to misbehave.  And, when it does so, the failure mode will be silent. Trying to detect and stop these system failures after-the-fact with a Band-Aid approach resembles whack-a-mole more than it does governance. Relying on after-the-fact controls is like treating aviation safety as mostly a matter of investigating crashes instead of trying to increase the overall safety and reliability of the system.  After-the-fact detection isn’t meaningless, but it is the wrong layer to lean on.  In agentic AI, as in aviation, the primary safety work should happen before and during system operation.</p><p><em>Vendor</em>:</p><p>“The agent may call APIs that are not part of any predefined workflow.”</p><p><em>Correct Approach</em>:</p><p>Workflows should be pre-defined, and AI agents should only call APIs for which they are explicitly scoped in advance and subject to pre-defined static logic/control.</p><p>If access to API calls is not limited and controlled, then it becomes easier for those APIs to be accessed either inadvertently or maliciously.  Potential exploit chains (which string together multiple agentic components) become deeper and more numerous. To extend the airplane analogy, many commercial airplanes have a control system that sits <em>between</em> pilot action and airplane behavior.  Control systems on modern aircraft actively resist or prevent unsafe pilot maneuvers and will limit pitch, bank, and angle of attack to prevent stalls and exceeding safe speeds. These are exactly like the pre-defined limits on API calls: before the system can do the unsafe thing, a control has already prevented that system behavior.</p><p><em>Vendor</em>:</p><p>“An AI agent decides at runtime what tools to use.”</p><p><em>Correct Approach</em>:</p><p>Although it is true that Agent behavior is dynamic, the vendor leaves open the possibility that natural language (i.e., a call to an AI endpoint) can be allowed to invoke tools.  For a system to be reliable, however, tool usage should be controlled with static logic. The reason is because responses from AI endpoints are “probabilistic,” meaning one can’t perfectly control the content of the AI response over time. When tool usage turns on probabilistic responses from AI endpoints then, at some point, they are likely be invoked in ways that make the system unreliable and exploitable.  Over time, these small and unexpected responses can chain together and lead to cascading failures.  Similar to ungoverned API use, exploit chains become more dangerous and multiply.  In other words, when preparing for landing, there should be room for the pilot to make judgment calls based on wind speed, runway length, and physical obstacles, but those judgment calls should only be allowed to flip certain switches in the cockpit. </p><p><strong>The Critical Role of Lawyers and Compliance</strong></p><p>In the current environment, where Agentic AI risks may not be fully appreciated by existing development and cyber teams, a compliance/procurement/cyber attorney may end up being the first and best line of defense to ensure the organization effectuates real governance and controls over the AI use case. </p><p>With respect to every AI system and AI system component, an organization ideally should begin by posing the following questions:</p><ul>  \n<li>What am I trusting the system or component to do and why?</li>  \n  \n  \n  \n<li>How do I limit trust (and limit risk)?</li>  \n  \n  \n  \n<li>What is the system or component allowed to do?</li>  \n  \n  \n  \n<li>What is the system or component not allowed to do?</li>  \n  \n  \n  \n<li>What is the data the system is acting upon and what are my rights and limitations with respect to that data?</li>  \n  \n  \n  \n<li>How does the system enforce the answers to these questions?</li>  \n  \n  \n  \n<li>What is the risk of scope creep and how can I monitor the actual use over time?</li>  \n</ul><p>The goal is to surface those areas where trust or scope of action is unwarranted or unnecessary.  The governance process is of course a good deal more involved than this, but this is the right conceptual and practical place to start.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
       "id": "tag:google.com,2005:reader/item/0000000b651a07e0",
       "title": "04/17/26: Jude Law enters... the law, Claude Legal, and more",
       "url": "https://legaltechweek.libsyn.com/041726-jude-law-enters-the-law-claude-legal-and-more",
@@ -297,6 +313,103 @@
       "categories": [
         "reading-list",
         "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64c47dfa",
+      "title": "The “And” Economy: Dubai’s Resilience in the Eye of the Geopolitical Storm",
+      "url": "https://www.legaltechmonitor.com/2026/04/the-and-economy-dubais-resilience-in-the-eye-of-the-geopolitical-storm/",
+      "author": "joseph raczynski",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-17T13:30:00+00:00",
+      "updated_at": "",
+      "summary": "<p></p><p>At the Semafor World Economy summit, held during the high-stakes World Bank and IMF Spring Meetings, a distinct narrative of resilience emerged from the Middle East. While the headlines of 2026 have been dominated by the kinetic escalation between the U.S. and Iran, <strong>H.E. Hadi Badri</strong>, CEO of the Dubai Economic Development Corporation, offered a masterclass in <strong>crisis management as a competitive advantage</strong>.</p><p>From a technologist’s vantage point, the session, moderated by Hadley Gamble, wasn’t just a discussion on finance; it was an exploration of how a city-state can leverage <strong>digital and physical infrastructure</strong> to maintain an “uptime” that defies regional volatility. Dubai isn’t just surviving the current energy and security shock; it is using it as a “forcing function” to accelerate its D33 economic agenda.</p><p><strong>The Macro View: The “Speed Bump” Philosophy</strong></p><p>H.E. Hadi Badri framed the recent aerial threats and the broader regional tension not as a derailment, but as a “speed bump.” For Dubai, the macro-strategy is built on <strong>extreme diversification</strong>. Badri noted that coming out of the 2008 financial crisis and the COVID-19 pandemic, Dubai learned that its greatest hedge against risk is the diversity of its source markets.</p><p>While certain tabloids whispered of an “exodus,” the data tells a different story. Dubai’s population grew by <strong>7%</strong> last year, and its GDP by <strong>5.5%</strong>. The city has moved from being a regional trade hub to a global <strong>“And” Economy</strong>. In a world increasingly defined by “us vs. them” or “A vs. B,” Dubai’s leadership has doubled down on a philosophy of radical neutrality: working with the U.S. <em>and</em> China, and serving as a safe harbor for over 200 nationalities.</p><figure style=\"height:auto;\"><img style=\"height:auto;\" width=\"1024\" height=\"577\" src=\"https://www.legaltechmonitor.com/files/2026/04/H.E.-Hadi-Badri-Dubai-1024x577-1.jpg\" alt=\"\"></figure><p><strong>The Micro View: 15-Minute Pizzas and 2,800 Interceptions</strong></p><p>On a granular level, the session provided a visceral look at life under a high-tech defense umbrella. Badri highlighted the “surreal” nature of the current moment: while the UAE defense forces were eliminating <strong>2,800 aerial threats</strong> over a 40-day period, the city’s core infrastructure remained untouched.</p><p><strong>The Resilience Dashboard:</strong></p><ul> \n<li><strong>Uptime Excellence:</strong> There was zero disruption in power, water, telecoms, or banking. “My 80-year-old mother still goes for her daily walk to the mall... we are still able to order Pizza and get it delivered in 15 minutes,” Badri remarked, emphasizing that the “psychological effect” is the only thing the government has to manage.</li> \n<li><strong>FDI as a Proxy for Trust:</strong> Despite the tension, the U.S. remains Dubai’s largest investor, with <strong>60% of that investment being M&amp;A-related</strong>. This suggests that sophisticated capital isn’t just “staying the course”, it’s looking for long-term acquisitions in a market that has proven it can keep the lights on during a crisis.</li> \n<li><strong>The Talent Hub:</strong> The “Golden Visa” program, once a COVID-era incentive, has become the foundational tool for a <strong>knowledge economy</strong>. Technology companies are increasingly domiciling in Dubai not just for the tax benefits, but for the security of a government that views itself as a platform for private capital.</li> \n</ul><p><strong>Notable Insights from H.E. Hadi Badri</strong></p><p>“Dubai is a place where you build. We are ‘new builders’, our skyline is a true definition of that. We’ve seen technology companies increasingly domicile here as a demonstration of the new innovation we are pushing.”</p><p>“Why can’t we be an ‘and’ economy, not an ‘or’ economy? Why do we have to pick A or B? We want to work with everyone to access partnerships, because partnerships allowed for the miracle of Dubai.”</p><p>“We use domestic spending as a proxy. The fact that we are only a few percentage points shy of where we were in February gives us the confidence that people are staying the course and investing.”</p><p><strong>Infrastructure as a Service: The Role of Government</strong></p><p>For the technologist, the most “clever” part of Badri’s presentation was his definition of government. He described the Dubai government’s role through three specific pillars:</p><ol> \n<li><strong>Digital and Physical Infrastructure:</strong> Providing the hardware and software on which the economy runs.</li> \n<li><strong>Consultative Policymaking:</strong> Admitting that “the industry knows more about the industry than we do,” and writing policy based on direct investor feedback.</li> \n<li><strong>Convening Power:</strong> Using the city as a neutral ground where global decision-makers can identify opportunities without the friction of traditional geopolitics.</li> \n</ol><p><strong>The Geopolitical Pivot: The Iran-UAE Trade Nexus</strong></p><p>The elephant in the room was Iran. Badri handled the question of trade with a fluid pragmatism. While acknowledging the trade ties of the past, he emphasized that Dubai’s “playbook” is to fill any gap left by a declining market with a new one. Since pre-COVID, the number of countries providing Foreign Direct Investment (FDI) to Dubai has grown by <strong>65%</strong>. This radical diversification ensures that no single regional actor can sink the city’s economic prospects.</p><p><strong>Final Takeaway</strong></p><p>H.E. Hadi Badri’s dispatch from the Semafor stage was a reminder that in the age of global volatility, <strong>resilience is the most valuable currency</strong>. Dubai is betting that by being the world’s most reliable “And” Economy, it can turn regional conflict into a forcing function for domestic growth.</p><p>As the schools prepare to reopen and families return from the Easter break, the message to global investors is clear: Dubai isn’t just “okay”, it’s accelerating.</p><p><strong>For more information, please visit the following:</strong></p><p><strong>Website:</strong> <a href=\"https://www.josephraczynski.com/\">https://www.josephraczynski.com/</a></p><p><strong>Blog:</strong> <a href=\"https://joetechnologist.com/\">https://JTConsultingMedia.com/</a></p><p><strong>Podcast:</strong> <a href=\"https://futuretech.buzzsprout.com/\">https://techsnippetstoday.buzzsprout.com</a></p><p><strong>LinkedIn:</strong> <a href=\"https://www.linkedin.com/in/joerazz/\">https://www.linkedin.com/in/joerazz/</a></p><p><strong>X: </strong><a href=\"https://x.com/joerazz\">https://x.com/joerazz</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64bd9a8a",
+      "title": "Legaltech Rundown: Clio Announces AI Upgrades, Supio Deepens Partnership With Thomson Reuters, and More",
+      "url": "https://www.legaltechmonitor.com/2026/04/legaltech-rundown-clio-announces-ai-upgrades-supio-deepens-partnership-with-thomson-reuters-and-more/",
+      "author": "Law.com&#039;s Legal Tech News",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-17T05:48:53+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>An update on the legal tech market’s past week, from product launches to new partnerships.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64bd9a89",
+      "title": "Connecticut Judge Refuses to Hit Pause in Multistate Generic-Drug Antitrust Fight",
+      "url": "https://www.legaltechmonitor.com/2026/04/connecticut-judge-refuses-to-hit-pause-in-multistate-generic-drug-antitrust-fight/",
+      "author": "brunoqueirozdocketalarm-com",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-17T12:01:49+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>A federal judge in Connecticut has declined to pause the multistate antitrust litigation accusing generic-drug manufacturers of price-fixing, even as settlement discussions continue. The decision keeps one of the most closely watched coordinated state enforcement actions on an active track, preserving litigation pressure while negotiations unfold in parallel.</p><p>The case is part of the long-running generic-drug pricing litigation brought by a coalition of state attorneys general against multiple manufacturers. At issue are allegations that companies engaged in anticompetitive conduct affecting the prices of widely used generic pharmaceuticals. By denying a requested freeze, the court signaled that ongoing settlement efforts alone are not enough to justify stopping the litigation machinery in a case of this size and consequence.</p><p>For lawyers following the matter, the ruling is significant for a practical reason: momentum matters. A stay can conserve resources and create space for negotiations, but it can also reduce urgency, delay discovery, and complicate scheduling in sprawling antitrust cases involving numerous parties and overlapping claims. Keeping the case moving maintains leverage on both sides and may sharpen incentives to resolve claims without losing sight of deadlines, motion practice, and trial preparation.</p><p>The litigation is being watched closely because it sits at the intersection of antitrust enforcement, pharmaceutical pricing, and multistate AG strategy. State enforcers have increasingly taken a leading role in competition cases with national market effects, and this action remains a prominent example. The underlying Connecticut action, <a href=\"https://www.docketalarm.com/cases/Connecticut_District_Court/3-19-cv-00710/Connecticut_et_al_v_Teva_Pharmaceuticals_USA_Inc/\">Connecticut et al v. Teva Pharmaceuticals USA, Inc.</a>, is one of the core proceedings for tracking how the claims are developing in district court.</p><p>The dispute also fits into the broader coordinated proceedings captured in <a href=\"https://www.docketalarm.com/cases/Judicial_Panel_On_Multidistrict_Litigation/MDL_No_2724/IN_RE-_Generic_Drug_Pricing_Antitrust_Litigation/\">IN RE: Generic Drug Pricing Antitrust Litigation</a>, which has become a major venue for monitoring pleadings, scheduling, and the interaction between state and broader industry-wide claims.</p><p>For litigators, the takeaway is that courts may be reluctant to halt complex antitrust cases absent a concrete and near-term path to resolution. For in-house counsel and compliance teams in the pharmaceutical sector, the ruling is another reminder that exposure does not disappear simply because settlement talks are underway. Active case management means continued document burdens, deposition risk, and strategic decisions around disclosure, reserves, and business planning.</p><p>In short, the court’s refusal to pause the case preserves forward momentum in a high-stakes antitrust battle—and underscores that, in major competition litigation, settlement discussions and courtroom pressure often proceed hand in hand.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64bd9a88",
+      "title": "Legal Tech-Owned &lsquo;Hybrid Law Firms' Are Growing. Why Now?",
+      "url": "https://www.legaltechmonitor.com/2026/04/legal-tech-owned-lsquohybrid-law-firms-are-growing-why-now/",
+      "author": "Law.com&#039;s Legal Tech News",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-17T13:58:41+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>Years after one of the first hybrid law firms failed, some see a better opportunity for this law firm model in the gen AI era.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64bd9a86",
+      "title": "Supreme Court Takes Up Trump Birthright Citizenship Fight",
+      "url": "https://www.legaltechmonitor.com/2026/04/supreme-court-takes-up-trump-birthright-citizenship-fight/",
+      "author": "brunoqueirozdocketalarm-com",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-17T17:01:46+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The U.S. Supreme Court moved a major Trump-related dispute onto its docket, signaling that the justices are prepared to weigh in on one of the most legally and politically charged issues of the term: the challenge to President Donald Trump’s birthright-citizenship executive order and, just as importantly, the scope of nationwide injunctions entered against federal policy.</p><p>The case, <a href=\"https://www.docketalarm.com/cases/Supreme_Court/24A884/Donald_J_Trump_President_et_al_Applicants_v_CASA_Inc_et_al/\">Donald J. Trump, President of the United States, et al., Applicants v. CASA, Inc., et al.</a>, arises from litigation brought by CASA and states opposing the order. The underlying dispute has moved quickly through the lower courts, including the Maryland district court and the Fourth Circuit, where related proceedings in <a href=\"https://www.docketalarm.com/cases/US_Court_of_Appeals_Fourth_Circuit/25-2188/CASA_Inc_v_Donald_Trump/\">CASA, Inc. v. Donald Trump</a> have made the case a focal point for emergency appellate practice.</p><p>At one level, the litigation presents a headline constitutional question: whether the executive branch can restrict birthright citizenship by order, despite longstanding understandings of the Fourteenth Amendment. But for many court watchers, the immediate significance may be procedural. The case gives the justices another opportunity to address when lower courts may issue relief with nationwide effect, a recurring flashpoint in high-stakes litigation involving immigration, administrative action, and presidential power.</p><p>That makes this more than a politically salient dispute. For litigators, the case could shape forum selection, emergency motion practice, and the availability of universal relief in challenges to federal action. For in-house counsel and compliance teams, especially those advising organizations affected by fast-changing federal directives, the Court’s handling of the case may offer important guidance on how quickly a single district court order can alter the legal landscape nationwide—or whether future relief will be narrowed to the parties before the court.</p><p>The Court’s decision to step in also reinforces a broader trend: major separation-of-powers fights are increasingly reaching the justices on an accelerated timetable, often before full merits development below. That dynamic raises the stakes for early briefing, record development, and strategic positioning in district court.</p><p>However the Court ultimately rules, this is poised to become a leading case on both constitutional citizenship questions and the judiciary’s power to halt executive action across the country. Legal teams tracking exposure to federal policy shifts should be watching closely.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64bd9a85",
+      "title": "PTAB Ends IPR2025-01302 After Post-Institution Settlement",
+      "url": "https://www.legaltechmonitor.com/2026/04/ptab-ends-ipr2025-01302-after-post-institution-settlement/",
+      "author": "brunoqueirozdocketalarm-com",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-17T22:00:57+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The Patent Trial and Appeal Board terminated <strong>IPR2025-01302</strong> after the parties settled following institution of trial, illustrating the Board’s usual approach when a dispute becomes moot before a final written decision. The order is a reminder that, even after institution, settlement can still bring an IPR to a close—though timing and procedural posture matter.</p><p>Under <strong>35 U.S.C. § 317</strong> and the PTAB’s trial rules, an instituted inter partes review may be terminated upon joint request of the petitioner and patent owner, unless the Office has already decided the merits. Here, because the parties reached agreement after institution but before final resolution, the Board exercised its discretion to terminate the proceeding rather than continue on its own to a final written decision.</p><p>That result is consistent with the Board’s longstanding practice. Once parties settle, the PTAB generally asks whether any issues remain that would justify continued review in the public interest. In most cases, if the record is not so far advanced that a merits decision is imminent, and if there are no unusual circumstances, termination is granted. The opinion in this matter appears to fit squarely within that framework: settlement removed the live controversy, and the Board chose not to expend further administrative resources deciding patentability issues the parties no longer wished to litigate.</p><p>For practitioners, the decision matters less for any doctrinal change and more for what it reinforces procedurally. First, <strong>post-institution settlement remains a viable exit ramp</strong>. Institution does not lock parties into a final written decision. Second, parties should move promptly once settlement is reached. Delay can matter, because the further a case progresses, the more likely the Board may consider whether to proceed despite settlement. Third, counsel should ensure compliance with the PTAB’s settlement-filing requirements, including treatment of any settlement agreement as business confidential information where appropriate.</p><p>This order does <strong>not appear to create new precedent or change existing law</strong>. Instead, it reflects the PTAB’s established discretionary practice under Section 317: when the dispute has been resolved and the Board has not yet reached the merits, termination is often the practical outcome.</p><p>For patent litigators and in-house teams managing parallel district court and PTAB disputes, the case underscores a familiar but important strategic point: settlement leverage does not disappear after institution, and coordinated resolution can still eliminate the cost and risk of a final written decision.</p><p><a href=\"https://www.docketalarm.com/cases/Patent_Trial_and_Appeal_Board/IPR2025-01302/Board_Termination_Decision_Post_DI_Settlement-28-Termination_Due_to_Settlement_After_Institution_of_Trial/\">View full case on Docket Alarm</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
         "High-Signal"
       ]
     },
@@ -399,6 +512,54 @@
       ]
     },
     {
+      "id": "tag:google.com,2005:reader/item/0000000b64adc213",
+      "title": "Alabama Enacts Sweeping Consumer Privacy Law: 7 Steps Your Business Should Consider to Prepare",
+      "url": "https://www.jdsupra.com/legalnews/alabama-enacts-sweeping-consumer-1109696/",
+      "author": "Fisher Phillips",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T23:42:46+00:00",
+      "updated_at": "",
+      "summary": "Alabama just joined 20 others states by enacting a comprehensive consumer privacy law, and businesses must get ready to comply with sweeping new obligations that will kick in next year. The state’s new Alabama Personal Data Protection Act (APDPA), signed into effect yesterday by Governor Ivey, establishes a broad privacy framework for how businesses collect and sell consumers’ personal data. We’ll explain key aspects of the new law and offer seven steps you can take now to prepare....<br>By: <a href=\"https://www.jdsupra.com/profile/fisher_phillips/\">Fisher Phillips</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64a4bf37",
+      "title": "AI Reporter - April 2026",
+      "url": "https://www.jdsupra.com/legalnews/ai-reporter-april-2026-2905500/",
+      "author": "Benesch",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T22:21:23+00:00",
+      "updated_at": "",
+      "summary": "A series of lawsuits highlights mounting scrutiny over AI safety and accountability. A federal suit in the Northern District of California accuses xAI of knowingly allowing its Grok chatbot to generate child sexual abuse material from real children’s photos without safeguards, allegedly resulting in widespread circulation of abusive images and severe harm to victims. Before the same federal district court, a father sued Google, alleging its Gemini chatbot formed a manipulative, delusional bond...<br>By: <a href=\"https://www.jdsupra.com/profile/Benesch_/\">Benesch</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b649a8fda",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "author": "Rebecca Bellan",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-04-17T20:38:17+00:00",
+      "updated_at": "",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
       "id": "tag:google.com,2005:reader/item/0000000b6494ebf4",
       "title": "Currents - Energy Industry Insights, V 10, Issue 4, 2026",
       "url": "https://www.jdsupra.com/legalnews/currents-energy-industry-insights-v-10-6964306/",
@@ -407,6 +568,1029 @@
       "published_at": "2026-04-18T02:04:55+00:00",
       "updated_at": "2026-04-19T23:51:06+00:00",
       "summary": "Welcome to our fourth issue of Currents – our energy industry insights e-newsletter – for 2026.  Data Centers, Power Markets, and the Economy: How the AI Buildout is Reshaping Energy Costs and the Grid-  Data centers – driven by artificial intelligence, cloud computing, and hyperscale digital infrastructure – are the new reality and are emerging as a consequential force in the United States economy. What was once a niche planning issue for utilities has now become a national debate as...<br>By: <a href=\"https://www.jdsupra.com/profile/spilman_thomas_battle/\">Spilman Thomas &amp; Battle, PLLC</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64940ca5",
+      "title": "ICE’s New I-9 Guidance Raises the Stakes for Routine Form Errors",
+      "url": "https://www.jdsupra.com/legalnews/ice-s-new-i-9-guidance-raises-the-4228256/",
+      "author": "Warner Norcross + Judd",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T19:41:10+00:00",
+      "updated_at": "",
+      "summary": "All U.S. employers are required to complete a Form I-9 for every new hire to verify identity and work authorization. While the requirement itself is straightforward, the compliance framework around it is highly technical — and, until recently, was somewhat forgiving of routine administrative mistakes....<br>By: <a href=\"https://www.jdsupra.com/profile/warner_norcross_judd/\">Warner Norcross + Judd</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6491a565",
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "author": "Marina Temkin",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-04-17T19:17:26+00:00",
+      "updated_at": "",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64916c9d",
+      "title": "The Digital Heartbeat: Rolex, AI, and Counterfeit Protection",
+      "url": "https://www.jdsupra.com/legalnews/the-digital-heartbeat-rolex-ai-and-5952259/",
+      "author": "McDonnell Boehnen Hulbert &amp; Berghoff LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T19:18:22+00:00",
+      "updated_at": "",
+      "summary": "Few brands have matched the impact Rolex has had on the evolution of horology. From the 1926 debut of the “Oyster,”[1] the world’s first waterproof case, to the perfection of the “perpetual self-winding rotor”[2] in 1931, Rolex has consistently defined the standards of reliability and luxury that govern the industry today....<br>By: <a href=\"https://www.jdsupra.com/profile/MBHB/\">McDonnell Boehnen Hulbert &amp; Berghoff LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64907aa9",
+      "title": "[Event] Healthcare Basic Compliance Academy - June 22nd - 25th, Denver, CO",
+      "url": "https://www.jdsupra.com/legalnews/event-healthcare-basic-compliance-7956802/",
+      "author": "Health Care Compliance Association (HCCA)",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T19:10:26+00:00",
+      "updated_at": "",
+      "summary": "Grounded in the OIG’s General Compliance Program Guidance and DOJ’s Evaluation of Corporate Compliance Programs, our immersive, three-and-a-half-day, classroom-style Healthcare Basic Compliance Academy equips compliance professionals with a strong foundation in effective compliance program development, regulatory risk management and mitigation strategies....<br>By: <a href=\"https://www.jdsupra.com/profile/health_care_compliance_association/\">Health Care Compliance Association (HCCA)</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Compliance",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64907aa8",
+      "title": "CEMA-ingly Endless Litigation: Brown v. Old Navy Turns 1-Year-Old",
+      "url": "https://www.jdsupra.com/legalnews/cema-ingly-endless-litigation-brown-v-2571277/",
+      "author": "Ballard Spahr LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T19:10:26+00:00",
+      "updated_at": "",
+      "summary": "Today marks the one-year anniversary of the Washington Supreme Court’s decision in Brown v. Old Navy, LLC, 567 P.3d 38 (Wash. 2025). In response to a certified question from the U.S. District Court for the Western District of Washington, the court held that the Commercial Electronic Mail Act (CEMA), RCW 19.190.020(1)(b)—an anti-spam statute enacted in 1998 to prevent spammers from disguising junk mail—prohibits “any” false or misleading information in a commercial email’s subject line....<br>By: <a href=\"https://www.jdsupra.com/profile/Ballard_Spahr/\">Ballard Spahr LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64907aa6",
+      "title": "Don’t Wait Until Finals Week: Key Takeaways from the SEC’s Updated Enforcement Manual",
+      "url": "https://www.jdsupra.com/legalnews/don-t-wait-until-finals-week-key-8738659/",
+      "author": "Porter Hedges LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T19:10:26+00:00",
+      "updated_at": "",
+      "summary": "It is springtime, which means graduation season and finals week are approaching. While students prepare for exams on a predictable schedule, compliance professionals operate in a different reality - one where “exam time” is far less predictable and readiness is expected at all times because a pop quiz may come without warning at any moment....<br>By: <a href=\"https://www.jdsupra.com/profile/Porter_Hedges/\">Porter Hedges LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64907aa3",
+      "title": "How India and the U.S. Are Redefining Global Trade Rules",
+      "url": "https://www.jdsupra.com/legalnews/how-india-and-the-u-s-are-redefining-9072378/",
+      "author": "Wiley Rein LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T19:10:26+00:00",
+      "updated_at": "",
+      "summary": "In this installment of Never Tariffied, Tatiana Sainati and Matt Lapin talk with Zain Pandit and Ananya Kumar of JSA Advocates &amp; Solicitors, a leading law firm in India, to explore why digital trade, data localization, and supply chain transparency have become central to understanding US-India trade policy and associated commercial risks and opportunities. They discuss India’s rapid digital transformation, the policy logic behind data sovereignty, and how U.S. national security priorities are...<br>By: <a href=\"https://www.jdsupra.com/profile/wiley_rein/\">Wiley Rein LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64907a9e",
+      "title": "[Podcast] Environmental Evolutions - Navigating EPA Rollbacks: Compliance and Litigation Risks Ahead",
+      "url": "https://www.jdsupra.com/legalnews/podcast-environmental-evolutions-3416846/",
+      "author": "Baker Botts L.L.P.",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T19:10:26+00:00",
+      "updated_at": "",
+      "summary": "Linn Bumpers speaks with former EPA attorney Mark Talty about how the second Trump administration is reshaping federal regulatory policy. They unpack EPA’s rapid deregulatory push, the rollback of climate rules like the Endangerment Finding, and the agency’s reliance on new Supreme Court precedents to accelerate major policy reversals. The conversation highlights shifting legal strategies, the risks of a less predictable regulatory landscape, and how states may move to fill emerging gaps. They...<br>By: <a href=\"https://www.jdsupra.com/profile/baker_botts/\">Baker Botts L.L.P.</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b648eab87",
+      "title": "Alabama Passes A Comprehensive Privacy Law But Not Without Controversy",
+      "url": "https://www.jdsupra.com/legalnews/alabama-passes-a-comprehensive-privacy-8342333/",
+      "author": "Ballard Spahr LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T18:34:00+00:00",
+      "updated_at": "",
+      "summary": "On April 7, 2026, the Alabama legislature unanimously passed House Bill 351, the Alabama Personal Data Protection Act, sending it to Governor Kay Ivey for approval. The bill cleared the Alabama House 104-0 and the Alabama Senate 34-0, and if Governor Ivey signs the bill, Alabama will join the growing list of states that have enacted a comprehensive consumer privacy statute. If enacted, the law would take effect on May 1, 2027....<br>By: <a href=\"https://www.jdsupra.com/profile/Ballard_Spahr/\">Ballard Spahr LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b648eab86",
+      "title": "ICO Report: Agentic AI Opportunities and Risks",
+      "url": "https://www.jdsupra.com/legalnews/ico-report-agentic-ai-opportunities-and-9366165/",
+      "author": "NAVEX",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T18:47:37+00:00",
+      "updated_at": "",
+      "summary": "In January 2026, the UK Information Commissioner’s Office (ICO) published a report reflecting its “early-stage thinking on speculative opportunities and risks” of agentic AI use in the context of organizations’ data protection obligations. The ICO directed organizations not to interpret the report as guidance or formal regulatory expectations on agentic AI....<br>By: <a href=\"https://www.jdsupra.com/profile/navex/\">NAVEX</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b648d9d68",
+      "title": "Illumination Zone: Episode 229 | Jim Sullivan of HaystackID's eDiscovery AI sits down with Mary Mack and Holley Robinson",
+      "url": "https://www.jdsupra.com/legalnews/illumination-zone-episode-229-jim-1730418/",
+      "author": "EDRM - Electronic Discovery Reference Model",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T18:27:18+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://jdsupra-html-images.s3-us-west-1.amazonaws.com/e6717123-aea2-49c6-aa00-41cf72622791-image_1776450256_1.png\" alt=\"e6717123-aea2-49c6-aa00-41cf72622791-ima\"></p>Jim Sullivan, Founder and CEO of eDiscovery AI, EDRM Trusted Partner HaystackID's newest acquisition, sits down with Mary Mack and Holley Robinson. In this episode, Jim talks about his start in eDiscovery, stepping away from the always-on eDiscovery market, and his return to launch eDiscovery AI. He explains that eDiscovery AI operates as a separate company while simultaneously integrating into proven workflows. The conversation explores validation, privilege review, and emerging use cases, with...<br>By: <a href=\"https://www.jdsupra.com/profile/edrm_electronic_discovery_reference_model/\">EDRM - Electronic Discovery Reference Model</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b648588cb",
+      "title": "How to Manage Litigation Like a Business: A Practical Guide for Companies",
+      "url": "https://www.jdsupra.com/legalnews/how-to-manage-litigation-like-a-1472034/",
+      "author": "Kohrman Jackson &amp; Krantz LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T17:45:19+00:00",
+      "updated_at": "",
+      "summary": "For companies facing litigation, the difference between a well-managed case and a costly, sprawling dispute often comes down to one thing: treating litigation as a business process, not just a legal problem. That means clear strategy, disciplined cost management, and outside counsel who understand the pressures companies actually face....<br>By: <a href=\"https://www.jdsupra.com/profile/kohrman_jackson_krantz/\">Kohrman Jackson &amp; Krantz LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64841003",
+      "title": "The Kitchen Sink for April 17, 2026: Legal Tech Trends",
+      "url": "https://ediscoverytoday.com/2026/04/17/the-kitchen-sink-for-april-17-2026-legal-tech-trends/",
+      "author": "Doug Austin",
+      "source": "eDiscovery Today by Doug Austin",
+      "published_at": "2026-04-17T16:37:54+00:00",
+      "updated_at": "",
+      "summary": "<p>This week’s kitchen sink for April 17, 2026 (with meme from Gates Dogfish) discusses Jesus AI chatbots, AI taking our jobs &amp; more!</p> \n<p>The post <a href=\"https://ediscoverytoday.com/2026/04/17/the-kitchen-sink-for-april-17-2026-legal-tech-trends/\">The Kitchen Sink for April 17, 2026: Legal Tech Trends</a> appeared first on <a href=\"https://ediscoverytoday.com\">eDiscovery Today by Doug Austin</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6480ee52",
+      "title": "Is Your AI Risk Assessment Ready? (Part 1)",
+      "url": "https://www.jdsupra.com/legalnews/is-your-ai-risk-assessment-ready-part-1-2677092/",
+      "author": "The Volkov Law Group",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T17:14:47+00:00",
+      "updated_at": "",
+      "summary": "Are you actually thinking of turning over your compliance program to ChatGPT? If so, you need to listen to this. AI has to be implemented in a methodical way, a step-by-step program. So let’s talk about those steps....<br>By: <a href=\"https://www.jdsupra.com/profile/michael_volkov/\">The Volkov Law Group</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b647f71f8",
+      "title": "Treasury announces CDFI Fund reforms targeting eligibility and anti-discrimination compliance",
+      "url": "https://www.jdsupra.com/legalnews/treasury-announces-cdfi-fund-reforms-6736982/",
+      "author": "Orrick, Herrington &amp; Sutcliffe LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T17:05:00+00:00",
+      "updated_at": "",
+      "summary": "On April 9, Treasury announced that the CDFI Fund will issue rules concerning the treatment of CDFI Fund awards under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA). Treasury stated it will issue a forthcoming NPRM to clarify that certain benefits are “federal public benefits” within the meaning of PRWORA, which would make “illegal aliens and other non-qualified aliens” ineligible to receive these taxpayer-funded benefits....<br>By: <a href=\"https://www.jdsupra.com/profile/orrick_herrington_sutcliffe/\">Orrick, Herrington &amp; Sutcliffe LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b647daf3a",
+      "title": "Privacy and Cybersecurity Client Alert | April 2026 | Alabama Joins the Privacy Club: What In-House Counsel Need to Know",
+      "url": "https://www.jdsupra.com/legalnews/privacy-and-cybersecurity-client-alert-9440018/",
+      "author": "Shook, Hardy &amp; Bacon L.L.P.",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T16:48:31+00:00",
+      "updated_at": "",
+      "summary": "New Alabama privacy law generally aligns the state with Virginia-style framework. But lower thresholds, real penalties, and no rulemaking mean now is the time to pressure test your program....<br>By: <a href=\"https://www.jdsupra.com/profile/shook_hardy_bacon/\">Shook, Hardy &amp; Bacon L.L.P.</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b647d0408",
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+      "author": "Theresa Loconsolo",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-04-17T13:00:00+00:00",
+      "updated_at": "",
+      "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b647b7dbc",
+      "title": "DOJ Settles Social Media Censorship Suit Over Biden-Era State Department Program",
+      "url": "https://www.legaltechmonitor.com/2026/04/doj-settles-social-media-censorship-suit-over-biden-era-state-department-program/",
+      "author": "brunoqueirozdocketalarm-com",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-16T22:01:51+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The Justice Department has settled a closely watched lawsuit challenging the State Department’s alleged role in funding and promoting social media censorship during the Biden administration. The case centered on claims that a federal program tied to online misinformation crossed the constitutional line by pressuring private platforms to suppress protected speech. While the settlement avoids a merits ruling, it closes out litigation that has been part of a broader national fight over the government’s relationship with tech platforms and content moderation.</p><p>The legal significance is straightforward: this dispute sits at the intersection of the First Amendment, administrative authority, and informal government pressure. For several years, plaintiffs in multiple cases have argued that federal agencies cannot do indirectly—through meetings, grants, threat signals, or “coordination” with platforms—what they could not do directly under the Constitution. Even without a judicial opinion resolving those questions here, the settlement underscores how seriously DOJ is taking litigation risk around agency communications about online content.</p><p>For litigators, the matter is a reminder that censorship-by-proxy theories remain viable enough to drive discovery, motion practice, and policy changes, even when cases do not reach final judgment. Claims in this area often turn on fact-intensive questions: who said what, whether platform action was truly independent, and whether government funding or access created coercive pressure. Those issues make internal emails, agency guidance, contractor relationships, and public-private communications especially important in discovery.</p><p>For in-house counsel and compliance teams—especially at platforms, media companies, government contractors, and nonprofits working in misinformation or election-integrity spaces—the settlement highlights the need for careful documentation and role clarity. Organizations should be able to distinguish between lawful information-sharing, content-policy enforcement, and conduct that could later be characterized as state-driven suppression of speech. Policies governing agency outreach, escalation channels, and moderation requests may deserve another look.</p><p>The broader takeaway is that even where the government frames its conduct as combating disinformation or protecting national security, courts and plaintiffs are continuing to test the constitutional limits of those efforts. This remains an active and evolving area of law with implications well beyond social media: public health messaging, election administration, foreign influence operations, and cybersecurity-related takedown requests could all be affected by how future cases define coercion, encouragement, and state action.</p><p>For legal professionals tracking emerging First Amendment exposure, this settlement is less an endpoint than a signal. The constitutional questions are still alive, and agencies as well as private actors will likely continue refining how they communicate about online speech in anticipation of the next wave of litigation.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b647a99b0",
+      "title": "Client Alert: New Americans with Disabilities Act Title II Accessibility Requirements for Public Colleges and Universities: What In-House Counsel Should Do Now",
+      "url": "https://www.jdsupra.com/legalnews/client-alert-new-americans-with-1913928/",
+      "author": "Whiteford",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T22:01:53+00:00",
+      "updated_at": "2026-04-19T23:46:53+00:00",
+      "summary": "In April 2024, the U.S. Department of Justice issued a final rule updating its regulations for Title II of the Americans with Disabilities Act (ADA) to specifically require that state and local government websites, mobile applications and other digital tools be accessible to individuals with disabilities. Public colleges and universities are now entering a decisive two-year window for compliance with the U.S. Department of Justice’s final rule.  Originally published in NYSBA ©2026....<br>By: <a href=\"https://www.jdsupra.com/profile/whiteford_taylor_preston/\">Whiteford</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b647a99b7",
+      "title": "AI State Regulatory Frontiers: Predictive, Generative, and Agentic Risk — Regulatory Oversight Podcast",
+      "url": "https://www.jdsupra.com/legalnews/ai-state-regulatory-frontiers-predictiv-37925/",
+      "author": "Troutman Pepper Locke",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-15T21:25:24+00:00",
+      "updated_at": "",
+      "summary": "In this episode of Regulatory Oversight, co-host Ashley Taylor, co-leader of Troutman Pepper Locke's State Attorneys General team, kicks off a multipart series on artificial intelligence (AI) with guests Gurkan Ay and Andrew Coles of Resolution Economics. They unpack what people really mean by \"AI\" today and why it is critical for risk, compliance, and legal exposure to distinguish among the three primary \"flavors\" of AI: predictive, generative, and agentic. In practical terms, they explain how...<br>By: <a href=\"https://www.jdsupra.com/profile/troutman_pepper_locke/\">Troutman Pepper Locke</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6478c253",
+      "title": "The ECPA: A Federal Private Right of Action for Privacy Policy Inaccuracies? (And What You Can Do to Cut Off Class Action Lawsuits)",
+      "url": "https://www.jdsupra.com/legalnews/the-ecpa-a-federal-private-right-of-5502395/",
+      "author": "Troutman Pepper Locke",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T16:15:35+00:00",
+      "updated_at": "",
+      "summary": "An August 2025 federal court ruling has opened the door for plaintiffs to use alleged inaccuracies or misrepresentations in a company’s privacy policy and other privacy disclosures as the basis for a federal wiretapping claim under the Electronic Communications Privacy Act (“ECPA”)....<br>By: <a href=\"https://www.jdsupra.com/profile/troutman_pepper_locke/\">Troutman Pepper Locke</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6478c254",
+      "title": "Business Emails and DSARs: How French Courts Are Redefining the Scope of 'Personal Data' Under the GDPR",
+      "url": "https://www.jdsupra.com/legalnews/business-emails-and-dsars-how-french-4517352/",
+      "author": "BCLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T15:56:25+00:00",
+      "updated_at": "",
+      "summary": "Article 15 of the EU General Data Protection Regulation (GDPR) grants users the right to access their data: this broadly requires that the data subject has the right to know whether their personal data is being processed and if its processing is lawful....<br>By: <a href=\"https://www.jdsupra.com/profile/Bryan_Cave_Leighton_Paisner/\">BCLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64777dc6",
+      "title": "ASIC v Bekier: a landmark Australian decision on director and officer accountability",
+      "url": "https://www.jdsupra.com/legalnews/asic-v-bekier-a-landmark-australian-3854268/",
+      "author": "A&amp;O Shearman",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T16:14:31+00:00",
+      "updated_at": "",
+      "summary": "In a significant corporate governance decision, the Federal Court of Australia has found the former chief executive officer (CEO), and the former company secretary and chief legal and risk officer (CLRO) of ASX-listed casino operator Star Entertainment Group (Star) personally liable for breaching their statutory duties of care and diligence as directors and officers, while dismissing claims against the company’s non-executive directors....<br>By: <a href=\"https://www.jdsupra.com/profile/a_o_shearman/\">A&amp;O Shearman</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b647509e8",
+      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap ",
+      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+      "author": "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-04-17T15:57:40+00:00",
+      "updated_at": "",
+      "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64740373",
+      "title": "Illinois AG Defends State’s Interchange Fees Prohibition and Data Usage Limitation on Appeal",
+      "url": "https://www.jdsupra.com/legalnews/illinois-ag-defends-state-s-interchange-4254897/",
+      "author": "Troutman Pepper Locke",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T15:52:44+00:00",
+      "updated_at": "",
+      "summary": "The Illinois attorney general (AG) recently filed a brief defending the Illinois Interchange Fee Prohibition Act (IFPA) in an appeal arising out of litigation captioned Illinois Bankers Association v. Raoul. The AG asked the Seventh Circuit to affirm a lower court’s decision to uphold the IFPA’s ban on certain interchange fees, also known as card “swipe” fees. The industry argues that the law is unconstitutional or inconsistent with federal law....<br>By: <a href=\"https://www.jdsupra.com/profile/troutman_pepper_locke/\">Troutman Pepper Locke</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64740376",
+      "title": "How IRS Code 132 Can Help AI and Data Center Executives Stay Safe",
+      "url": "https://www.jdsupra.com/legalnews/how-irs-code-132-can-help-ai-and-data-8106262/",
+      "author": "Guidepost Solutions LLC",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T15:49:57+00:00",
+      "updated_at": "",
+      "summary": "As reported by many news outlets, OpenAI CEO Sam Altman’s San Francisco home was victimized by a firebomb attempt, while the suspect then proceeded to attempt arson at the company’s headquarters. Although the subject was arrested, tech executives are taking note; violence is on the increase. No longer limited to “wrench attacks” against crypto holders, rhetoric against AI from a moral and political standpoint is becoming increasingly hostile....<br>By: <a href=\"https://www.jdsupra.com/profile/guidepost_solutions/\">Guidepost Solutions LLC</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6474037a",
+      "title": "White House publishes National AI Legislative Framework",
+      "url": "https://www.jdsupra.com/legalnews/white-house-publishes-national-ai-2263091/",
+      "author": "A&amp;O Shearman",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T15:32:54+00:00",
+      "updated_at": "",
+      "summary": "On March 20 2026, the White House published a comprehensive national legislative framework setting out the Trump Administration's policy priorities for AI regulation and its recommendations to Congress for turning those priorities into legislation. The intention is to establish a uniform national AI policy, reinforce US leadership in the field of AI, and address associated societal and economic risks....<br>By: <a href=\"https://www.jdsupra.com/profile/a_o_shearman/\">A&amp;O Shearman</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6473448e",
+      "title": "How Employers Can Maintain Privilege in Workplace Investigations",
+      "url": "https://www.jdsupra.com/legalnews/how-employers-can-maintain-privilege-in-9790171/",
+      "author": "Parker Poe Adams &amp; Bernstein LLP",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T15:43:45+00:00",
+      "updated_at": "",
+      "summary": "When workplace issues such as harassment, discrimination, or retaliation arise, employers often seek quick and efficient solutions. Professional employer organizations (PEOs), third-party HR administrators, and external investigation providers offer convenience and efficiency, but relying on them to conduct employment investigations can mean that the investigation is not privileged, meaning it is discoverable in future litigation....<br>By: <a href=\"https://www.jdsupra.com/profile/Parker_Poe_Adams_Bernstein/\">Parker Poe Adams &amp; Bernstein LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64726e51",
+      "title": "From Algorithms to Awards: Artificial Intelligence in the Arbitration Toolkit",
+      "url": "https://www.jdsupra.com/legalnews/from-algorithms-to-awards-artificial-3995939/",
+      "author": "Blake, Cassels &amp; Graydon LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T15:43:17+00:00",
+      "updated_at": "",
+      "summary": "Lawyers’ reliance on generative AI tools (GenAI) for substantive legal work has been at the forefront of legal news in the last few years — often for the wrong reasons. Used properly, however, GenAI can make substantive legal work more efficient. Usually, discussions about the use of GenAI for legal work focus on its use by parties or their legal counsel, but an emerging aspect of this technology is its use by judges and arbitrators....<br>By: <a href=\"https://www.jdsupra.com/profile/Blake_Cassels_Graydon/\">Blake, Cassels &amp; Graydon LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64726e52",
+      "title": "Fannie Mae issues AI and machine learning governance framework",
+      "url": "https://www.jdsupra.com/legalnews/fannie-mae-issues-ai-and-machine-4748445/",
+      "author": "Orrick, Herrington &amp; Sutcliffe LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T15:43:17+00:00",
+      "updated_at": "",
+      "summary": "On April 8, Fannie Mae issued a Lender Letter establishing a governance framework for seller/servicers’ use of AI and machine learning (AI/ML) in mortgage origination and servicing practices. The framework, which takes effect 120 days from publication, requires seller/servicers that use AI/ML in connection with originating loans sold to or guaranteed by Fannie Mae, or servicing loans on Fannie Mae’s behalf, to comply with applicable laws and the Lender Contract....<br>By: <a href=\"https://www.jdsupra.com/profile/orrick_herrington_sutcliffe/\">Orrick, Herrington &amp; Sutcliffe LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b646ca1ef",
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "author": "Aisha Malik",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-04-17T15:00:00+00:00",
+      "updated_at": "",
+      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily. ",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b646b9eb6",
+      "title": "DOJ settles with home security company over servicemember overcharges",
+      "url": "https://www.jdsupra.com/legalnews/doj-settles-with-home-security-company-5251838/",
+      "author": "Orrick, Herrington &amp; Sutcliffe LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T15:01:59+00:00",
+      "updated_at": "",
+      "summary": "On April 14, DOJ announced that a national home security services company agreed to pay over $1.3 million to resolve allegations that it violated the Servicemembers Civil Relief Act (SCRA) by imposing unlawful charges on at least 3,400 servicemembers who terminated their home security contracts after receiving military relocation orders. DOJ alleged the company imposed a 30-day notice requirement on servicemembers terminating contracts, meaning contracts did not end until at least 30 days after...<br>By: <a href=\"https://www.jdsupra.com/profile/orrick_herrington_sutcliffe/\">Orrick, Herrington &amp; Sutcliffe LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6469872f",
+      "title": "Red Flags Everywhere! – Ten Risks for Directors – Week 7",
+      "url": "https://www.jdsupra.com/legalnews/red-flags-everywhere-ten-risks-for-4949296/",
+      "author": "Morrison &amp; Foerster LLP",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T14:15:38+00:00",
+      "updated_at": "",
+      "summary": "This series will serve as a lead up to MoFo’s upcoming Red Flags and Red Wine Tabletop program taking place in our Palo Alto office on May 7. Members of our Securities Litigation, Employment and Labor, and Capital Markets Groups will guide attendees through a ripped-from-the-headlines fact pattern designed to spark interactive discussion and practical analysis that will be valuable to every board advisor....<br>By: <a href=\"https://www.jdsupra.com/profile/Morrison_Foerster/\">Morrison &amp; Foerster LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b646887fb",
+      "title": "AI-Generated Documents and Privilege: Why Public GenAI Use May Waive the Attorney-Client Privilege and Work Product Doctrine",
+      "url": "https://www.jdsupra.com/legalnews/ai-generated-documents-and-privilege-8717136/",
+      "author": "Foster Swift Collins &amp; Smith",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T14:42:41+00:00",
+      "updated_at": "",
+      "summary": "On February 17, 2026, in the case of United States of America v. Bradley Heppner, No. 25 CR. 503 (JSR), 2026 WL 436479 (S.D.N.Y. Feb. 17, 2026), the United States District Court for the Southern District of New York (the “Court”) held that documents generated by the defendant with generative artificial intelligence (“AI”) through a publicly-available AI platform were not protected by the attorney-client privilege or work product doctrine....<br>By: <a href=\"https://www.jdsupra.com/profile/foster_swift_collins_smith/\">Foster Swift Collins &amp; Smith</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64688801",
+      "title": "USPTO's AI Search Pilot May Reshape Patent Filing Strategy",
+      "url": "https://www.jdsupra.com/legalnews/uspto-s-ai-search-pilot-may-reshape-6530530/",
+      "author": "Foley &amp; Lardner LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T14:42:41+00:00",
+      "updated_at": "",
+      "summary": "The U.S. Patent and Trademark Office‘s Artificial Intelligence Search Automated Pilot, or ASAP, program introduces earlier visibility into the prior art landscape by providing applicants with an automated search results notice prior to substantive examination.    Originally published in Law360 - April 15, 2026....<br>By: <a href=\"https://www.jdsupra.com/profile/foley_lardner/\">Foley &amp; Lardner LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64688803",
+      "title": "FDA in Flux — April 2026 Newsletter",
+      "url": "https://www.jdsupra.com/legalnews/fda-in-flux-april-2026-newsletter-6611653/",
+      "author": "Mintz - Health Care Viewpoints",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T14:42:41+00:00",
+      "updated_at": "",
+      "summary": "Welcome to FDA in Flux — A Mintz newsletter tracking rapid changes in policy and agency actions that impact medical, life sciences, and consumer product investment decisions and development strategies....<br>By: <a href=\"https://www.jdsupra.com/profile/MintzLevinHealthCareViewpoints/\">Mintz - Health Care Viewpoints</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6467ff58",
+      "title": "A Public Service Announcement: Legal Tech Companies, Here Are Your Celebrity Endorsers",
+      "url": "https://www.lawnext.com/2026/04/a-public-service-announcement-legal-tech-companies-here-are-your-celebrity-endorsers.html",
+      "author": "Bob Ambrogi",
+      "source": "Robert Ambrogi's LawSites",
+      "published_at": "2026-04-17T14:06:45+00:00",
+      "updated_at": "",
+      "summary": "<img width=\"1024\" height=\"559\" src=\"https://www.lawnext.com/wp-content/uploads/2026/04/Gemini_Generated_Image_pxsh7opxsh7opxsh-1024x559.png\" alt=\"\" style=\"float:left;margin:0 15px 15px 0;\">It started with Harvey, the legal AI company that signed Gabriel Macht – the actor who played Harvey Specter on Suits – as a brand ambassador. Then Legora one-upped everyone by signing the actor Jude Law, building a whole campaign around the tagline, “Law just got more attractive,” and shooting the thing with an Oscar-winning […]",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6467f28a",
+      "title": "When agents act: the Rule 26(f) disclosure threshold for agentic AI in eDiscovery",
+      "url": "https://complexdiscovery.com/when-agents-act-the-rule-26f-disclosure-threshold-for-agentic-ai-in-ediscovery/",
+      "author": "Rob Robinson",
+      "source": "ComplexDiscovery: eDiscovery Information",
+      "published_at": "2026-04-17T12:30:23+00:00",
+      "updated_at": "2026-04-18T15:03:48+00:00",
+      "summary": "<p>Editor’s Note: A Colorado magistrate judge’s March 30 ruling in Morgan v. V2X, Inc. has handed the discovery bar a template for how protective orders must treat generative AI — and in doing so, exposed a harder question the bar has been circling for a year. When an autonomous agent plans, decides, and executes across the eDiscovery lifecycle without a human pressing “run” between steps, at what point does its existence trigger a duty to disclose under Federal Rule of Civil Procedure 26(f)?</p> \n<p>For cybersecurity, data privacy, regulatory compliance, and eDiscovery professionals, this is not an academic question. Corporate legal operations leaders are already running agentic review pipelines. Incident-response teams are letting agents draft breach-notification work that will later become discoverable. Outside counsel are signing meet-and-confer reports without a working definition of where the human-in-the-loop stops.</p> \n<p>This article traces the Morgan ruling into that gap, contrasts the efficiency promise of agentic eDiscovery with the sovereignty architecture those workflows now require, and sketches three questions every Rule 26(f) conference should answer before one side has to explain itself to a judge. Watch for vendor contract language, audit-trail reconstructability, and the Sedona Conference’s forthcoming drafting projects in the months ahead.</p> \n \n<p>Industry News – eDiscovery Beat</p> \n<h2>When agents act: the Rule 26(f) disclosure threshold for agentic AI in eDiscovery</h2> \n<p><em>ComplexDiscovery Staff</em></p> \n<p><span style=\"background-color:#cce6ff;\">A Colorado magistrate judge rewrote a protective order on March 30, forcing a pro se plaintiff to name the AI tool he had been using on confidential discovery materials.</span> The ruling arrived quietly, but its implications will not.</p> \n<p><span style=\"background-color:#cce6ff;\">Magistrate Judge Maritza Dominguez Braswell’s opinion in <em>Morgan v. V2X, Inc.</em>, No. 25-cv-01991-SKC-MDB, 2026 WL 864223 (D. Colo. Mar. 30, 2026), did something neither of the two earlier federal AI-and-privilege rulings had attempted. It told litigants exactly what a protective order must say before confidential information touches a generative AI platform. And it arrived at the precise moment the discovery bar is wrestling with a harder question — what happens when the AI in question is not a tool the lawyer queries, but an autonomous agent that plans, decides, and executes across the eDiscovery lifecycle without a human pressing “run” between steps.</span></p> \n<p>The <em>Morgan</em> opinion resolves a narrow dispute between an unrepresented employee and his former employer. But the reasoning reads as a map for the next fight. <span style=\"background-color:#cce6ff;\">Judge Braswell held that a pro se litigant’s AI-assisted materials are protected work product under Rule 26(b)(3), rejected the argument that routing information through an AI vendor automatically waives protection, and then amended the protective order to bar any party from uploading confidential information to an AI platform unless the provider is contractually barred from training on inputs, restricted from disclosing inputs to third parties except where essential for service delivery, and obligated to delete data on demand. Commentators, including attorneys at ACEDS and at Sergenian Law, both writing in early April 2026, have described <em>Morgan</em> as the most consequential AI-in-litigation opinion yet issued, and both conclude that consumer-tier platforms without enterprise contracts cannot safely touch material designated confidential under a protective order.</span></p> \n<p>That is the manageable version of the problem. The harder one is agentic.</p> \n<p><span style=\"background-color:#cce6ff;\">Agentic eDiscovery tools — platforms marketed by vendors including Exterro and Relativity, along with a growing roster of entrants — deploy specialized agents that plan multi-step tasks: reconstructing timelines from unstructured data, flagging likely privileged material, running early case assessment triage, even drafting review memos. </span>Exterro’s April 2026 vendor guidance, published through Lexology, frames this as “human-in-the-loop validation,” in which agents provide citations and reasoning that a human expert then confirms. <span style=\"background-color:#cce6ff;\">A February 2026 vendor toolkit from Relativity, reviewed by eDiscovery Today, sorts agents into four categories of autonomy, from systems a human pilots step-by-step to systems that run end-to-end without interruption, and maps each category to the legal work it fits. The common thread across these vendor materials is a quiet concession: the defensibility of agentic eDiscovery depends on where, exactly, the human stops reviewing and the agent starts acting.</span></p> \n<p><span style=\"background-color:#cce6ff;\">Federal Rule of Civil Procedure 26(f) does not, on its face, require parties to disclose which AI tools sit inside their review workflow. The rule directs parties to meet and confer at least 21 days before the scheduling conference and to develop a written discovery plan addressing preservation, form of production, privilege, and any issues about electronically stored information. For two decades, that framework has absorbed every new review technology, from keyword search to predictive coding to technology-assisted review, largely through Sedona Principle 6 — the doctrine that the responding party is best situated to select its own methodology. <em>Hyles v. City of New York</em> and <em>Livingston v. City of Chicago</em> are the textbook applications.</span> Courts have declined to compel use of TAR, and they have declined to compel disclosure of methodology beyond what cooperation and proportionality require.</p> \n<p>Agentic AI stresses that framework in ways TAR did not. A predictive coding model suggests rankings; a human reviews and codes. <span style=\"background-color:#cce6ff;\">An agent that performs privilege triage, generates reasoning, and queues production-ready recommendations is operating closer to the lawyer’s role than to the lawyer’s spreadsheet. When an agent chooses which documents to prioritize, which to flag, and which to set aside, the reviewing human inherits a narrowed universe shaped by a decision tree the opposing party cannot inspect. Maura R. Grossman, whose foundational research originally validated the use of algorithms in discovery, was a featured faculty member for the Sedona Conference’s Working Group 13 Annual Meeting held April 9-10 in Austin. Her presence underscores the growing consensus among the practitioners the plaintiffs’ and defense bars watch for guidance on how cooperation and methodology disclosure should adapt to the ‘black box’ of autonomous agency. The Sedona Conference itself has four active drafting projects on AI governance, ethics, and regulatory crosswalks, according to a March 2026 webinar preview of the Austin meeting.</span></p> \n<p><span style=\"background-color:#cce6ff;\">Under this emerging standard, the “meet and confer” is no longer just about file types and date ranges; it is about the agency of the software. Litigants are now increasingly expected to disclose not just that they are using AI, but how those agents are contractually bound—specifically regarding the prohibition of training on inputs and the mandatory deletion of data. If the software is making decisions that a human used to make, the disclosure threshold has been met, and the parameters of that agent’s “employment” in the case must be transparent to the court and opposing counsel.</span></p> \n<p>The Rule 26(f) threshold question, then, is not whether agentic AI must be disclosed as a general matter. <span style=\"background-color:#cce6ff;\">It is whether the agent’s decision-making so materially shapes what gets produced that its existence becomes a “subject on which discovery may be needed” under Rule 26(f)(3). Emily Fedeles Czebiniak, an attorney at eDiscovery service provider TCDI who attended the April 2026 Austin meeting, said in an April post-event commentary that the conference’s focus had shifted from whether firms could obtain advanced models to whether they could govern, validate, and show their work with them. Organizations, she wrote, are now evaluated by how well they can demonstrate that discipline in regulatory or judicial settings.</span></p> \n<p>Showing the work is where Sovereign AI enters the conversation. Data sovereignty — the principle that specific data must remain under a specific jurisdiction’s legal authority, not just in a specific physical location — has moved from a European compliance concern to a U.S. litigation concern in recent months. <span style=\"background-color:#cce6ff;\">McKinsey, which has a consulting practice built around sovereign AI advisory, estimated in March 2026 that 30 to 40 percent of global AI spending could be influenced by sovereignty requirements, representing a market of $500 billion to $600 billion by 2030. The EU AI Act’s high-risk system obligations are scheduled to become binding on August 2, 2026, with penalties reaching 7 percent of global turnover, although the European Commission’s Digital Omnibus package has proposed delaying certain Annex III obligations into late 2027.</span> A prudent compliance posture is to treat the August date as binding. Inside U.S. litigation, the <em>Morgan</em> protective order requirements — no training use, no onward disclosure, deletion on demand — are practical sovereignty conditions dressed in discovery clothing. A consumer AI platform that routes prompts through mixed jurisdictional infrastructure cannot meet them.</p> \n<p>The cross-border exposure compounds the problem. <span style=\"background-color:#cce6ff;\">In any U.S. matter involving EU-resident custodian data, an agentic review pipeline that sends prompts to U.S.-hosted infrastructure collides with the CLOUD Act on one side and GDPR international-transfer restrictions on the other. The Sedona Conference’s Working Group 6 convened in Berlin in February 2026 on precisely these cross-border discovery and data-protection tensions.</span> Sovereign AI architectures — EU-operated providers, confidential compute, customer-managed keys — exist in part to resolve them, but they do not resolve themselves. <span style=\"background-color:#cce6ff;\">Counsel still has to choose the architecture before the meet-and-confer, not after.</span></p> \n<p>The same logic reaches beyond litigation. <span style=\"background-color:#cce6ff;\">When an organization responds to a ransomware incident or a credential-exposure breach in 2026, agentic AI is frequently the triage engine that parses credential dumps, reconstructs attacker timelines, and drafts notification drafts for privacy counsel to finalize. That processing creates its own agentic footprint, and when the breach produces civil litigation — consumer class actions, regulator inquiries, shareholder suits — the Rule 26(f) disclosure question lands on the incident-response record as surely as it lands on the review workflow.</span> Cybersecurity and information-governance teams who have pushed autonomy into their response pipelines need to anticipate how that autonomy gets described at a future meet-and-confer.</p> \n<p>Corporate legal operations and outside counsel should treat three questions as live at every Rule 26(f) conference going forward, and as live at any incident-response postmortem that may mature into litigation. <span style=\"background-color:#cce6ff;\">First, does the agentic system in use produce a reconstructable audit trail that shows what each agent decided and why? Second, can the vendor contract satisfy the <em>Morgan</em> conditions on confidential material? Third, if opposing counsel asks which AI tools are in the workflow, is the answer ready, or will it be assembled under time pressure after an objection?</span></p> \n<p>The efficiency gains vendors describe are real. <span style=\"background-color:#cce6ff;\">Exterro’s April 2026 vendor guidance claims review-timeline compression, with settle-or-litigate windows narrowing to the opening days of a matter rather than the opening weeks.</span> The ethical floor is equally real. <span style=\"background-color:#cce6ff;\">ABA Formal Opinion 512, issued July 29, 2024, confirmed that a lawyer’s duty of competence extends to AI and that outputs require independent verification proportionate to the stakes. NIST’s AI Risk Management Framework and the EU AI Act both expressly require human oversight at high-risk decision points.</span> The question is operational, not philosophical: can the lawyer defend the loop?</p> \n<p>Judge Braswell’s opinion hints at the answer. She required Morgan to disclose the tool not because the tool itself revealed strategy, but because V2X needed to know what had touched its confidential information to assess exposure. <span style=\"background-color:#cce6ff;\">That logic — disclosure keyed to risk, not to principle — scales cleanly to agentic systems.</span> If an agent has made decisions a reasonable opposing party would want to assess, the disclosure hook is already there in Rule 26(f)(3).</p> \n<p>The Sedona Conference’s drafting projects on AI governance, ethics, and regulatory crosswalks were still in progress when the April Austin meeting adjourned. Data sovereignty-aware infrastructure is still being built. <span style=\"background-color:#cce6ff;\">The courts are moving faster than the consensus commentary. Practitioners who wait for the commentary to catch up will be advising clients on the back foot.</span></p> \n<p><em>Where does a discovery team draw the line between an AI-assisted workflow that does not trigger a Rule 26(f) disclosure conversation and an agentic workflow that does?</em></p> \n<p>News Sources</p> \n<ul> \n<li><a href=\"https://www.everlaw.com/blog/ai-and-law/morgan-v-v2x-ai-disclosure-in-discovery/\">Morgan v. V2X Decision Signals a Turning Point for AI Data Privacy</a> (Everlaw)</li> \n<li><a href=\"https://aceds.org/ai-work-product-and-the-protective-order-problem-what-morgan-v-v2x-inc-means-for-every-litigator-aceds-blog/\">AI, Work Product, and the Protective Order Problem: What Morgan v. V2X, Inc. Means for Every Litigator</a> (ACEDS)</li> \n<li><a href=\"https://www.sergenianlaw.com/blog/morgan-v2x\">Federal Court Shields Pro Se AI Work Product, Bars Consumer AI from Confidential Discovery</a> (Sergenian Law)</li> \n<li><a href=\"https://www.lexology.com/library/detail.aspx?g=67ac2c4b-6e30-4695-8b88-bf598d4b2bbc\">Using AI to Deliver Precise, Scalable Document Review</a> (Exterro via Lexology)</li> \n<li><a href=\"https://ediscoverytoday.com/2026/02/04/the-promise-and-limitations-of-agentic-ai-artificial-intelligence-best-practices/\">The Promise and Limitations of Agentic AI</a> (eDiscovery Today)</li> \n<li><a href=\"https://www.tcdi.com/how-governance-is-shaping-the-future-of-ai-in-ediscovery/\">How Governance Is Shaping the Future of AI in eDiscovery</a> (TCDI)</li> \n<li><a href=\"https://www.thesedonaconference.org/WG13_AM26\">The Sedona Conference Working Group 13 Annual Meeting 2026</a> (The Sedona Conference)</li> \n<li><a href=\"https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/sovereign-ai-building-ecosystems-for-strategic-resilience-and-impact\">Sovereign AI: Building Ecosystems for Strategic Resilience and Impact</a> (McKinsey)</li> \n<li><a href=\"https://www.sidley.com/en/insights/newsupdates/2026/04/generative-ai-in-discovery-protective-orders-as-an-emerging-point-of-dispute\">Generative AI in Discovery: Protective Orders as an Emerging Point of Dispute</a> (Sidley Austin)</li> \n<li><a href=\"https://www.law.cornell.edu/rules/frcp/rule_26\">Rule 26. Duty to Disclose; General Provisions Governing Discovery</a> (Cornell Legal Information Institute)</li> \n<li><a href=\"https://www.americanbar.org/news/abanews/aba-news-archives/2024/07/aba-issues-first-ethics-guidance-ai-tools/\">ABA Issues First Ethics Guidance on a Lawyer’s Use of AI Tools</a> (American Bar Association)</li> \n</ul> \n<hr> \n \n<hr> \n<p><a href=\"https://complexdiscovery.com/generative-artificial-intelligence-and-large-language-model-policy/\">Assisted by GAI and LLM Technologies</a></p> \n<p>Additional Reading</p> \n<ul> \n<li><a href=\"https://complexdiscovery.com/the-eus-e-evidence-framework-goes-live-in-august-and-most-of-europe-isnt-ready/#\">The EU’s E-Evidence Framework Goes Live in August and Most of Europe Isn’t Ready</a></li> \n<li><a href=\"https://complexdiscovery.com/we-wanted-smarter-legal-tech-but-instead-got-an-expensive-dependency/#\">We Wanted Smarter Legal Tech, but Instead Got an Expensive Dependency</a></li> \n<li><a href=\"https://complexdiscovery.com/the-ai-sanction-wave-145k-in-q1-penalties-signals-courts-have-lost-patience-with-genai-filing-failures/\">The AI Sanction Wave: $145K in Q1 Penalties Signals Courts Have Lost Patience with GenAI Filing Failures</a></li> \n<li><a href=\"https://complexdiscovery.com/ftcs-okcupid-action-reframes-ai-training-data-as-a-consumer-protection-issue/\">FTC’s OkCupid Action Reframes AI Training Data as a Consumer Protection Issue</a></li> \n<li><a href=\"https://complexdiscovery.com/white-house-ai-framework-signals-new-compliance-stakes-for-legal-cybersecurity-and-ediscovery/#\">White House AI Framework Signals New Compliance Stakes for Legal, Cybersecurity, and eDiscovery</a></li> \n<li><a href=\"https://complexdiscovery.com/the-gatekeepers-key-how-the-conformity-assessment-unlocks-the-eu-ai-market/\">The Gatekeeper’s Key: How the Conformity Assessment Unlocks the EU AI Market</a></li> \n</ul> \n<p>Source: ComplexDiscovery OÜ</p> \n<p><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/04/Law-Court-Rule-26-New.jpg\" alt=\"\" width=\"850\" height=\"400\"></p> \n<blockquote><p>ComplexDiscovery’s mission is to enable clarity for complex decisions by providing independent, data‑driven reporting, research, and commentary that make digital risk, legal technology, and regulatory change more legible for practitioners, policymakers, and business leaders.</p></blockquote> \n<p>The post <a href=\"https://complexdiscovery.com/when-agents-act-the-rule-26f-disclosure-threshold-for-agentic-ai-in-ediscovery/\">When agents act: the Rule 26(f) disclosure threshold for agentic AI in eDiscovery</a> appeared first on <a href=\"https://complexdiscovery.com\">ComplexDiscovery</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "eDiscovery - Litigation",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6466b03a",
+      "title": "U.S. Department of Labor Signals Shift in ERISA Enforcement Priorities in FAB 2026-01",
+      "url": "https://www.jdsupra.com/legalnews/u-s-department-of-labor-signals-shift-1409507/",
+      "author": "Snell &amp; Wilmer",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T14:31:22+00:00",
+      "updated_at": "",
+      "summary": "On April 14, 2026, the U.S. Department of Labor (the “DOL”) issued Field Assistance Bulletin 2026-01 (“FAB 2026-01”), outlining updated enforcement priorities for the Employee Benefits Security Administration (“EBSA”). The guidance signals a more focused and process-oriented enforcement approach, emphasizing core fiduciary duties, limits on “regulation through enforcement,” and increased scrutiny of certain plan practices....<br>By: <a href=\"https://www.jdsupra.com/profile/snell_wilmer/\">Snell &amp; Wilmer</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6466b03c",
+      "title": "Cross-Border Compliance: The effect of EU and UK Sanctions on Chinese companies",
+      "url": "https://www.jdsupra.com/legalnews/cross-border-compliance-the-effect-of-5030817/",
+      "author": "Hogan Lovells",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-17T14:31:22+00:00",
+      "updated_at": "",
+      "summary": "EU and UK sanctions adopted against Russia and Belarus can impact the activities of non-EU and non-UK companies that have strong trading links with Russia and Belarus.  Companies that have no connection with the EU or the UK may become targets of EU and UK sanctions, due to the expansionary scope of the EU and UK’s “secondary sanctions” regimes....<br>By: <a href=\"https://www.jdsupra.com/profile/Hogan_Lovells/\">Hogan Lovells</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6465149a",
+      "title": "Florida AG Probes OpenAI Over Safety and Security Concerns",
+      "url": "https://www.jdsupra.com/legalnews/florida-ag-probes-openai-over-safety-2518204/",
+      "author": "Cozen O&#39;Connor",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T14:15:10+00:00",
+      "updated_at": "",
+      "summary": "Florida AG James Uthmeier is investigating OpenAI over public safety and national security concerns regarding its ChatGPT tool.   The investigation centers around concerns about foreign entities’ access to OpenAI’s data and technology, and links to criminal behavior such as child sexual abuse material (CSAM), use by predators, and the encouragement of self-harm....<br>By: <a href=\"https://www.jdsupra.com/profile/cozen_oconnor/\">Cozen O'Connor</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6465149b",
+      "title": "Telephone and Texting Compliance News — April 2026",
+      "url": "https://www.jdsupra.com/legalnews/telephone-and-texting-compliance-news-2799141/",
+      "author": "Mintz - Technology, Communications &amp; Media Viewpoints",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T14:09:51+00:00",
+      "updated_at": "",
+      "summary": "We are pleased to present our latest edition of Telephone and Texting Compliance News, providing insights and news related to the Telephone Consumer Protection Act (TCPA)....<br>By: <a href=\"https://www.jdsupra.com/profile/mintz_technology_communications_media_viewpoints/\">Mintz - Technology, Communications &amp; Media</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b646514a0",
+      "title": "Oklahoma Enacts Comprehensive Consumer Privacy Law",
+      "url": "https://www.jdsupra.com/legalnews/oklahoma-enacts-comprehensive-consumer-8366269/",
+      "author": "Lowenstein Sandler LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T14:06:19+00:00",
+      "updated_at": "",
+      "summary": "On March 20, Oklahoma Gov. Kevin Stitt signed Senate Bill 546 into law, making Oklahoma the 21st state to enact a comprehensive consumer data privacy statute. The Oklahoma Consumer Data Privacy Act (the Act) takes effect on January 1, 2027, giving businesses less than nine months to prepare for compliance. Like many recent state privacy laws, the Act follows the Virginia-style model, granting Oklahoma residents new rights over their personal data and imposing affirmative obligations on...<br>By: <a href=\"https://www.jdsupra.com/profile/lowenstein_sandler/\">Lowenstein Sandler LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6463cafe",
+      "title": "Data Centers, Power Markets, and the Economy: How the AI Buildout is Reshaping Energy Costs and the Grid",
+      "url": "https://www.jdsupra.com/legalnews/data-centers-power-markets-and-the-8753269/",
+      "author": "Spilman Thomas &amp; Battle, PLLC",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T14:12:44+00:00",
+      "updated_at": "",
+      "summary": "Data centers – driven by artificial intelligence, cloud computing, and hyperscale digital infrastructure – are the new reality and are emerging as a consequential force in the United States economy. What was once a niche planning issue for utilities has now become a national debate as power-intensive data center loads are already impacting electricity rates, grid reliability, inflation, and economic development....<br>By: <a href=\"https://www.jdsupra.com/profile/spilman_thomas_battle/\">Spilman Thomas &amp; Battle, PLLC</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6463caff",
+      "title": "Insurance Industry’s Use of AI: A Fair or Unfair Claim Settlement Practice?",
+      "url": "https://www.jdsupra.com/legalnews/insurance-industry-s-use-of-ai-a-fair-4083417/",
+      "author": "McGuireWoods LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T14:12:44+00:00",
+      "updated_at": "",
+      "summary": "The insurance industry has been swift to adopt artificial intelligence (“AI”). According to consulting firm McKinsey &amp; Company, 76% of insurers surveyed have already begun using generative AI in their day-to-day operations. [1] This adoption spans the different facets of insurers’ work cycles, including claims, underwriting, legal, and risk management. Policyholders and their attorneys must remain aware of the potential pitfalls of AI implementation, particularly as it pertains to claims...<br>By: <a href=\"https://www.jdsupra.com/profile/McGuireWoods/\">McGuireWoods LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64602a3a",
+      "title": "TCPA Rules to Change?",
+      "url": "https://www.jdsupra.com/legalnews/tcpa-rules-to-change-5491585/",
+      "author": "Klein Moynihan Turco LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T13:38:41+00:00",
+      "updated_at": "",
+      "summary": "A Telephone Consumer Protection Act (“TCPA”) bill first introduced in the United States Senate has been given new life as Congress and federal agencies continue to focus on curtailing the delivery of unsolicited calls to consumers. Cited as the “Protecting American Consumers from Robocalls Act” (“TCPA Bill”), the regulation seeks to, among other things, expand the private right of action for calls made in violation of the TCPA....<br>By: <a href=\"https://www.jdsupra.com/profile/klein_moynihan_turco/\">Klein Moynihan Turco LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b645f014a",
+      "title": "German Government Adopts National Data Center Strategy",
+      "url": "https://www.jdsupra.com/legalnews/german-government-adopts-national-data-8064303/",
+      "author": "Morgan Lewis",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T13:42:14+00:00",
+      "updated_at": "",
+      "summary": "The German federal government adopted its National Data Center Strategy on 18 March 2026, delivering on commitments set out in the 2025 coalition agreement and formally elevating data centers to critical infrastructure for digital transformation and economic security....<br>By: <a href=\"https://www.jdsupra.com/profile/morgan-lewis/\">Morgan Lewis</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b645f014c",
+      "title": "Oregon and Washington Join California in Enacting Companion Chatbot Laws",
+      "url": "https://www.jdsupra.com/legalnews/oregon-and-washington-join-california-4982214/",
+      "author": "Mayer Brown",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T09:14:10+00:00",
+      "updated_at": "",
+      "summary": "Continuing the trend of new state-by-state artificial intelligence (“AI”) regulations, Oregon and Washington both enacted laws regulating AI companion chatbots in March 2026, following California’s lead. Oregon’s SB 1546 and Washington’s HB 2225 will both take effect on January 1, 2027. This Legal Update provides an overview of these new laws and summarizes the key differences from California’s companion chatbot law....<br>By: <a href=\"https://www.jdsupra.com/profile/mayer_brown/\">Mayer Brown</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b645b8091",
+      "title": "The Technology Contracting Dilemma",
+      "url": "https://www.jdsupra.com/legalnews/the-technology-contracting-dilemma-9028636/",
+      "author": "Stoel Rives - Global Privacy &amp; Security Blog&#174;",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T13:18:00+00:00",
+      "updated_at": "",
+      "summary": "Some technology articles age well. The proposed modifications to the HIPAA Security Rule, published in the Federal Register on January 6, 2025, are still not in final form. The final action is expected next month. Once in final form, I will publish another article. As the HIPAA Security Rule has not been updated since 2013, it is quite likely that the resulting article will be relevant for quite some time....<br>By: <a href=\"https://www.jdsupra.com/profile/stoel_rives_global_privacy_security_blog/\">Stoel Rives - Global Privacy &amp; Security Blog®</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Information Governance",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6455f43b",
+      "title": "LegalRM makes raft of hires to “support clients at scale”",
+      "url": "https://legaltechnology.com/2026/04/17/legalrm-makes-raft-of-hires-to-support-clients-at-scale/",
+      "author": "Caroline Hill - Editor-in-Chief",
+      "source": "Legal IT Insider",
+      "published_at": "2026-04-17T12:29:13+00:00",
+      "updated_at": "",
+      "summary": "<p><a href=\"https://legal-rm.com/\">LegalRM</a> has announced a series of strategic hires from implementation to marketing, saying it is investing in the infrastructure needed to help it deliver to clients at scale.</p> \n<p>The hires, most of which are brand new, are: Stanley Gee, director of delivery; Melda Ozkasim, head of support &amp; customer success; Victoria Grech – chief AI officer (fractional); Naomi Aldridge, marketing assistant; and Denys Bilynskyy, junior technical consultant. Also not announced officially from a few months ago are George Hilton &amp; Nick Kirov, working on LegalRM’s Azure infrastructure.</p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://open.spotify.com/episode/54jMybEF8lsNbau8GbH9Pi?si=qN4vVo9RR86Whp9WTyYnfA\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-11.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div> \n<p>Founded in the UK in 2006, LegalRM has grown its global customer base quickly as law firms prioritise investment in information governance and records management. Clients include Travers Smith, Ashurst, Stewarts Law and Browne Jacobson. Last year it appointed Peter Lamb as Canadian business development manager and it is growing its North American book of business.</p> \n<p>“We are entering a pivotal phase of growth at LegalRM,” said founder and CEO Chris Giles. “Our focus is not only on advancing our technology, but on building the structure, expertise, and operational maturity required to support our clients at scale.”</p> \n<p>The news will no doubt be welcomed by customers, particularly when it comes to help with implementation. The new hires in more details are:</p> \n<p>Stanley Gee – Director of Delivery<br> \nStanley joins from Morae, where he led the EMEA consultancy team to deliver enterprise legal tech implementations. At LegalRM, he is responsible for global delivery organisation across technical consulting, project management, partner management, and training. A key focus will be establishing consistent delivery methodologies across both internal teams and partner ecosystem.</p> \n<p>Melda Ozkasim – Head of Support &amp; Customer Success<br> \nMelda brings over five years of experience from the legal technology sector, having previously been customer support &amp; experience lead at Fliplet. She is leading the transformation of LegalRM’s support and customer success function — improving visibility, communication, and responsiveness, while also establishing user groups and a client advisory board.</p> \n<p>Victoria Grech – Chief AI Officer (Fractional)<br> \nVicky is working with LegalRM on both product and organisational strategy as it embeds AI into LegalRM. With over two decades of experience across technology, enterprise, and AI strategy, Vicky is also an applied AI expert selected by the Council of Europe, contributing to CDNET on the governance of new and emerging technologies. Her focus at LegalRM is on building AI that is not only capable but governable.</p> \n<p>Naomi Aldridge – Marketing Assistant<br> \nNaomi joined in January from Big Smoke Brew Co to support Denise Prior and LegalRM’s global marketing efforts – strengthening how it engages with both prospects and clients and playing a key role in supporting its growing customer community initiatives.</p> \n<p>Denys Bilynskyy – Junior Technical Consultant<br> \nWith a background as a full stack developer, Denys brings strong technical capability into LegalRM’s implementation team, further strengthening its delivery capacity and data migration expertise.</p> \n<p>Azure Infrastructure – George Hilton &amp; Nick Kirov<br> \nLegalRM has formalised its Azure infrastructure capability, led by George and Nick, to ensure client environments are secure, scalable, and high-performing – while also enabling faster provisioning of development and sandbox environments.</p> \n<p>Giles said: “We’ve been investing heavily in the next phase of LegalRM’s growth – not just in our technology, but in the people and structure that underpin how we deliver for our clients.”</p> \n<p>See also:</p> \n<blockquote><p><a href=\"https://legaltechnology.com/2025/02/25/legalrm-enters-strategic-partnership-with-element-technologies-to-support-growth-in-icompli-adoption/\">LegalRM enters strategic partnership with Element Technologies to support growth in iCompli adoption</a></p></blockquote> \n<p><iframe allowfullscreen=\"allowfullscreen\" title=\"“LegalRM enters strategic partnership with Element Technologies to support growth in iCompli adoption” — Legal IT Insider\" src=\"https://legaltechnology.com/2025/02/25/legalrm-enters-strategic-partnership-with-element-technologies-to-support-growth-in-icompli-adoption/embed/#?secret=63uL0H2JZt%23?secret=bUchAs0elr\" width=\"600\" height=\"338\" frameborder=\"0\"></iframe></p> \n<p> </p> \n<p>The post <a href=\"https://legaltechnology.com/2026/04/17/legalrm-makes-raft-of-hires-to-support-clients-at-scale/\">LegalRM makes raft of hires to “support clients at scale”</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Legal Tech Core",
+        "High-Signal",
+        "Noise",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6455cc2a",
+      "title": "Podcast - Resilience, Not Perfection: Cybersecurity Enterprises in the Age of AI",
+      "url": "https://www.jdsupra.com/legalnews/podcast-resilience-not-perfection-cy-25264/",
+      "author": "Holland &amp; Knight LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-16T21:41:04+00:00",
+      "updated_at": "",
+      "summary": "When launching a cybersecurity startup, it is essential that your product can both solve a problem consumers currently face and deliver future value beyond that initial fix. In this episode of \"The Innovation Imperative,\" Patrick Driscoll is joined by Partner Jeff Seul and ReversingLabs Co-Founder and CEO Mario Vuksan to discuss Mr. Vuksan's journey through the cybersecurity space and how he identified market gaps and leveraged them to build a leading platform.  Mr. Vuksan highlights widespread...<br>By: <a href=\"https://www.jdsupra.com/profile/Holland_Knight/\">Holland &amp; Knight LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6448a2e4",
+      "title": "Orange Rag Legal Tech Clinic: “Assume you will be breached” – What law firms must prioritise now on cyber risk",
+      "url": "https://legaltechnology.com/2026/04/17/orange-rag-legal-tech-clinic-assume-you-will-be-breached-what-law-firms-must-prioritise-now-on-cyber-risk/",
+      "author": "Caroline Hill - Editor-in-Chief",
+      "source": "Legal IT Insider",
+      "published_at": "2026-04-17T09:47:10+00:00",
+      "updated_at": "",
+      "summary": "<p><b><i><span>“We are increasingly concerned about email‑led cyber compromise and ransomware, often compounded by weaknesses in third‑party or supply‑chain providers. What should we be prioritising right now?”</span></i></b><span> </span></p> \n<p><span><img src=\"https://media.licdn.com/dms/image/v2/D4E03AQER0G5tIFlSrA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725278745760?e=1778112000&amp;v=beta&amp;t=FNMzMziJlQuiUz_kjNonxhVThLYSxsDcJZ3FLhrMjHI\" alt=\"Profile image\" width=\"279\" height=\"279\">This month our expert legal tech clinic panellist is <a href=\"https://www.linkedin.com/in/mstringer/\">Matthew Stringer</a>, founder and CEO of business performance and transformation consultancy Stridon, which helps professional services organisations to implement robust cyber security strategies. Here is what he has to say.</span><span> </span></p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://open.spotify.com/episode/54jMybEF8lsNbau8GbH9Pi?si=qN4vVo9RR86Whp9WTyYnfA\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-11.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div> \n<p><span>“My answer to this question is rarely comfortable, but it is consistent: assume you will be breached.</span><span> </span></p> \n<p><span>That assumption is not defeatist. It is a realistic starting point grounded in what we see across the legal sector every day. Firms sit at the intersection of highly valuable data, time critical operations, and increasingly sophisticated attackers. Phishing, extortion, ransomware, and supply chain compromise are no longer emerging threats, they are routine.</span><span> “</span></p> \n<p>You can read Stringer’s five step advice in the latest edition of the Orange Rag Newsletter <a href=\"https://www.flipsnack.com/86D6B577C6F/the-orange-rag-march-2026/full-view.html?p=8\">HERE</a></p> \n<p>The post <a href=\"https://legaltechnology.com/2026/04/17/orange-rag-legal-tech-clinic-assume-you-will-be-breached-what-law-firms-must-prioritise-now-on-cyber-risk/\">Orange Rag Legal Tech Clinic: “Assume you will be breached” – What law firms must prioritise now on cyber risk</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Legal Tech Core",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b643e0677",
+      "title": "From Models to Mobility: Building Waymo with Dmitri Dolgov",
+      "url": "https://a16z.simplecast.com/episodes/from-models-to-mobility-building-waymo-with-dmitri-dolgov-p2z80L_O",
+      "author": "content+a16zpodcast@a16z.com (John Collison, Dmitri Dolgov)",
+      "source": "a16z",
+      "published_at": "2026-04-17T10:00:00+00:00",
+      "updated_at": "",
+      "summary": "<p>Waymo is now delivering hundreds of thousands of fully autonomous rides each week — but getting there required more than better models. It meant building a complete system for training, evaluating, and deploying a driver in the real world.</p> \n<p>In this episode — originally aired on the Cheeky Pint podcast — Waymo Co-CEO Dmitri Dolgov joins John Collison to break down how self-driving actually works today: from sensor fusion across LiDAR, radar, and cameras, to simulation, “critic” models, and the role of AI in decision-making.</p> \n<p>They also explore why full autonomy is fundamentally different from driver-assist, what it takes to scale globally, and how recent advances in AI are reshaping the path forward.</p> \n<p> </p> \n<p>Resources:</p> \n<p>Follow Dmitri Dolgov on X - <a href=\"https://x.com/dmitri_dolgov\">https://x.com/dmitri_dolgov</a></p> \n<p>Follow John Collison on X - <a href=\"https://x.com/collision\">https://x.com/collision</a></p> \n<p></p><p><strong>Stay Updated:</strong></p><p>Find a16z on YouTube: <a href=\"https://www.youtube.com/@a16z\">YouTube</a></p><p>Find a16z on <a href=\"https://x.com/a16z\">X</a></p><p>Find a16z on<a href=\"https://www.linkedin.com/company/a16z\"> LinkedIn</a></p><p>Listen to the a16z Show on <a href=\"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX?si=3E8B3qT9TyiwAHJ7JnaKbg\">Spotify</a></p><p>Listen to the a16z Show on <a href=\"https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711\">Apple Podcasts</a></p><p>Follow our host: <a href=\"https://twitter.com/eriktorenberg\">https://twitter.com/eriktorenberg</a></p><p> </p><p>Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures.</p><br> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6411b5cb",
+      "title": "The Retention Game Plan for Microsoft Repositories",
+      "url": "https://www.legaltechmonitor.com/2026/04/the-retention-game-plan-for-microsoft-repositories/",
+      "author": "LaToya Deese-Richardson",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-16T21:37:52+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>From : <a href=\"https://www.iltanet.org/browse/blogs\">Blog Entry</a> &gt;&gt; <a href=\"https://iltanet.org/people/latoya-deese-richardson\">LaToya’s Blog Entry</a><br>Please enjoy this blog post authored by LaToya Deese-Richardson, Application Analyst, Gibson, Dunn &amp; Crutcher.     The Retention Game Plan for Microsoft Repositories highlights best practices for managing content lifecycles, enforcing retention rules, and maintaining compliance across Microsoft repositories, such as Outlook, OneDrive, and SharePoint. These best practices will help organizations remain organized, secure, and audit-ready.       As law firms utilize Microsoft repositories more frequently <a href=\"https://iltanet.org/blogs/latoya-deese-richardson/2026/04/16/the-retention-game-plan-for-microsoft-repositories\">[More]</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6411b5cd",
+      "title": "How AI Is Transforming Time Capture in Law Firms",
+      "url": "https://www.legaltechmonitor.com/2026/04/how-ai-is-transforming-time-capture-in-law-firms/",
+      "author": "William Grady",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-16T21:08:43+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>From : <a href=\"https://www.iltanet.org/browse/blogs\">Blog Entry</a> &gt;&gt; <a href=\"https://iltanet.org/people/william-grady\">William’s Blog Entry</a><br>Please enjoy this blog post co-authored by Ryan Alshak, CEO and Founder, Laurel and William Grady, Director of Technology &amp; Business Operations, Conn Kavanaugh.        For decades, the billable hour has been the backbone of law firm economics. Yet despite its central role in how firms generate revenue, the process of actually capturing that time has remained stubbornly manual, inconsistently practiced, and surprisingly leaky.            Many attorneys reconstruct their days from memory, often hours <a href=\"https://iltanet.org/blogs/william-grady/2026/04/16/how-ai-is-transforming-time-capture-in-law-firms\">[More]</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6411b5d1",
+      "title": "Alt Legal Acquires Trademark Technology Competitor WebTMS",
+      "url": "https://www.legaltechmonitor.com/2026/04/alt-legal-acquires-trademark-technology-competitor-webtms/",
+      "author": "Law.com&#039;s Legal Tech News",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-16T15:59:59+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>Alt Legal plans to expand its client and trademark expertise and release a new AI-powered tool for trademark filing in May.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6411b5d4",
+      "title": "AI Is Outpacing the Systems Built to Govern It, Stanford Report Finds",
+      "url": "https://www.legaltechmonitor.com/2026/04/ai-is-outpacing-the-systems-built-to-govern-it-stanford-report-finds/",
+      "author": "Law.com&#039;s Legal Tech News",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-16T00:09:03+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>Stanford’s 2026 AI Index report documents surging investment, rising safety incidents, and a closing U.S.-China performance gap, with direct implications for employment lawyers, compliance officers and corporate counsel.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b640b2f22",
+      "title": "Beyond Bossware: The Rise of ‘Wellbeing-Monitoring’ in the Workplace",
+      "url": "https://www.jdsupra.com/legalnews/beyond-bossware-the-rise-of-wellbeing-6971247/",
+      "author": "Ius Laboris",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T02:50:28+00:00",
+      "updated_at": "",
+      "summary": "Employers are increasingly using wellbeing‑monitoring tools to track the digital activity of employees, particularly in the financial services sector. This rise in so-called “bossware” raises concerns around workplace data privacy and employee trust. Below, our experts examine what employers need to weigh if they plan to introduce such monitoring tools in Hong Kong....<br>By: <a href=\"https://www.jdsupra.com/profile/ius_laboris/\">Ius Laboris</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6406aece",
+      "title": "Structuring Law Firm Content for AI Visibility (AI Overviews, LLM Citations, and Zero-Click Search)",
+      "url": "https://www.jdsupra.com/legalnews/structuring-law-firm-content-for-ai-3654676/",
+      "author": "Furia Rubel Communications, Inc.",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T02:18:43+00:00",
+      "updated_at": "",
+      "summary": "When a prospective client or referral source searches for legal services today, they may never visit your website. Google’s AI Overviews now answer questions directly on the results page, synthesizing sources and surfacing names without requiring a single click....<br>By: <a href=\"https://www.jdsupra.com/profile/ginarubel/\">Furia Rubel Communications, Inc.</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64022c2a",
+      "title": "CCPA Risk Assessment Requirements: What Businesses Need to Do Now",
+      "url": "https://www.jdsupra.com/legalnews/ccpa-risk-assessment-requirements-what-3822024/",
+      "author": "Coblentz Patch Duffy &amp; Bass",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T01:18:11+00:00",
+      "updated_at": "",
+      "summary": "Since CalPrivacy (formerly the CPPA) finalized sweeping updates to the California Consumer Privacy Act (CCPA) regulations in July 2025, risk assessments are now a centerpiece of data privacy compliance. The message from regulators is clear: California is moving decisively toward a proactive, risk-based privacy regime, and businesses will be expected to evaluate and document their higher-risk data practices before they occur....<br>By: <a href=\"https://www.jdsupra.com/profile/Coblentz_Patch_Duffy_Bass/\">Coblentz Patch Duffy &amp; Bass</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b64010a96",
+      "title": "Contracting for Delivery Certainty in Data Center Power",
+      "url": "https://www.jdsupra.com/legalnews/contracting-for-delivery-certainty-in-9083916/",
+      "author": "Seyfarth Shaw LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-17T01:19:21+00:00",
+      "updated_at": "",
+      "summary": "Rapid development of hyperscale data centers and AI infrastructure is driving a quiet but significant shift in how power is generated, structured, and delivered. This alert focuses on privately developed, behind-the-meter, and other grid-alternative power solutions where the counterparty is a private party rather than a public utility....<br>By: <a href=\"https://www.jdsupra.com/profile/Seyfarth_Shaw/\">Seyfarth Shaw LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b63ff6c11",
+      "title": "Florida’s Digital Bill of Rights: A Summary of Key Points for Large Online Platforms",
+      "url": "https://www.jdsupra.com/legalnews/florida-s-digital-bill-of-rights-a-3896489/",
+      "author": "Burr &amp; Forman",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-17T00:58:57+00:00",
+      "updated_at": "",
+      "summary": "Florida has joined the growing number of states enacting comprehensive consumer privacy legislation. On June 6, 2023, Governor Ron DeSantis signed the Florida Digital Bill of Rights (“FDBR”) into law, and it became effective on July 1, 2024....<br>By: <a href=\"https://www.jdsupra.com/profile/burr_forman/\">Burr &amp; Forman</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b63fe2ab2",
+      "title": "Standing Waves",
+      "url": "https://www.legaltechmonitor.com/2026/04/standing-waves/",
+      "author": "Dennis Kennedy",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-16T14:06:42+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>There are moments in a long AI session when the exchange stops feeling linear.</p><p>You are no longer simply asking a question and receiving an answer. You are no longer even refining a prompt in the ordinary sense. Something else begins to happen. Certain phrases return with altered weight. Certain errors recur, but not identically. Certain explanations feel less like mistakes than like pressure patterns. The session develops nodes, pockets, recurrences, and resonances. You begin to sense that the system is not merely producing output. It is accumulating behavior.</p><p>“Standing waves” is the best term I have found for this.</p><p>I do not mean standing waves as borrowed physics jargon or as a bid for grand theory. I mean it as a practical description from inside the instrument. In some sustained sessions, once enough continuity has been established, the interaction begins to generate stable patterns of recurrence. Not full repetition. Not simple drift. Something stranger than either. A phrase, a rhythm, a misreading, a style of overreach, a preferred abstraction, a certain kind of false confidence. These do not simply appear and vanish. They persist, reform, interfere with what follows, and begin to shape the session beyond the local prompt in front of you.</p><p>You can often feel them before you can name them, and that felt sense matters. It is part of the evidence.</p><p>A good session does not always feel clean. Sometimes it feels charged, tense, slightly unstable, as if the system has developed its own local weather. You ask for one thing and get an answer shaped by something that happened six exchanges earlier. You correct a tendency and it returns, but thinner, subtler, harder to isolate. You introduce impatience into the prompt, and the session develops a corresponding edge, reflecting back your own clipped cadence. You discover that the session has memory in a practical sense, even when it does not have memory in the human one. It carries conditions forward. It develops pressure. It acquires grain.</p><p>That is where the standing-wave metaphor earns its keep.</p><p>A standing wave is not movement in the ordinary sense. It is patterned persistence. Energy held in place. A structure produced by interference and continuity. In an AI session, that can mean a local formation that keeps influencing the exchange even when the immediate prompt no longer explains it. The session starts to have favored notes. Some of them are productive. Some are distortions. Some are both.</p><p>This is one reason the old vending-machine picture of AI as inserting a prompt and taking out an answer has become so unhelpful. That picture suggests that each prompt is discrete, each answer self-contained, each output judged on its own. In longer sessions, that is often false. The real unit is not the individual prompt. The real unit is the condition of the session.</p><p>Once you see that, several other things come into focus.</p><p>It helps explain why some sessions genuinely improve as they continue. What improves is not simply obedience. AI obedience often gets worse. What improves is the formation of a usable field. The exchange acquires continuity. Productive recurrences become available. You are no longer starting cold every time. You are working inside a shaped environment.</p><p>It also helps explain why some sessions go badly in ways that are difficult to diagnose. The problem is not always a single hallucination or a single wrong turn. Sometimes the session has developed a weird resonance. It begins amplifying its own simplifications. It starts preferring polish over discrimination. It reaches too quickly for synthesis. The output may remain fluent while the underlying signal degrades.</p><p>That is the danger. The standing wave can be musically useful or analytically fatal.</p><p>The amateur mistake is to hear distortion and think: this is broken, turn it off. The romantic mistake is to hear distortion and think: this is deeper than clean sound. Jimi Hendrix’s gift was different. He understood that distortion and feedback had properties. They could be shaped, played, and made expressive, but only by someone who never forgot what they were.</p><p>That distinction matters here. The value is not in surrendering to the strange texture of a long AI session, and it is certainly not in mistaking instability for wisdom. The value lies in recognizing that recurrent pressures inside a session can sometimes be noticed, worked with, and even used, so long as you remain disciplined about the difference between signal and seduction. Standing waves, as I am using the term, are not little revelations waiting to be admired. They are recurring conditions inside the instrument. Some are useful. Some are misleading. Some are useful precisely because they are misleading in repeatable ways.</p><p>This is also why I have become suspicious of smoothness. Smoothness is often treated as evidence of progress. In these systems, it can just as easily be evidence of stabilization around the wrong thing. Once a session begins harmonizing with its own earlier errors, you may get something more coherent and less true at the same time. What looks like refinement often is semantic flattening under better surface management.</p><p>At that point, I find myself reaching for a private studio rule that helped spark this post: show one shard, not the whole broken vase. It has the compressed usefulness of one of Brian Eno’s Oblique Strategies cards. More important, it enforces discipline at exactly the point where a long session tempts you to overstate what you have found. One shard can carry evidence. The reconstructed vase too often carries narrative, confidence, and retrospective smoothing. In that sense, the shard is not a flourish. It is a method. It keeps the work close to what can actually be seen, heard, and tested inside the session.</p><p>It is also why this idea belongs, for me, at the end of my Low sequence of posts on AI. What Bowie and Eno accomplished on the actual <em>Low</em> album was not simply a shift in style or mood. They made a record that treated fracture, interruption, texture, and atmosphere as part of the composition itself. They did not smooth the damage away. They used it. That is the deeper relevance of the comparison here. This run of posts has been, in part, an attempt to hear AI the same way: not as a magic wand, not as a stable collaborator, but as a medium whose most revealing qualities often emerge where coherence begins to warp under pressure.</p><p>The current AI medium is demanding a different kind of attention. You stop staring only at the latest answer and start listening for recurrence, pressure, interference, and carry-forward effects. You stop asking only whether this response is good and start asking what kind of field you are now inside. I’m surprised how often my next prompt is ready before the AI has finished its reply. That is a small shift in language, but not a small shift in practice. It changes the craft, and it reveals a new kind of flow.</p><p>And it is where this post should stop.</p><p>There is an obvious temptation to push outward from here into broader claims about institutions, markets, professional life, and the public consequences of these tools. That is a different track. This one stays inside the instrument. It offers only a field note: that in sustained AI work, sessions can develop patterned persistence that feels less like a chain of prompts and more like resonance inside a medium, and that learning to hear those resonances may become part of the craft.</p><p>That is enough for now.</p><hr><p>[Originally posted on DennisKennedy.Blog (https://www.denniskennedy.com/blog/)]</p><p>DennisKennedy.com is the home of the Kennedy Idea Propulsion Laboratory</p><p>Like this post? <a href=\"https://www.buymeacoffee.com/DennisKennedy\">Buy me a coffee</a></p><p>DennisKennedy.Blog is part of <a href=\"https://www.lexblog.com\">the LexBlog network</a>.</p>",
       "content": "",
       "categories": [
         "reading-list",
