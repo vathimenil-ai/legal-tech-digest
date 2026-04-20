@@ -8,49 +8,44 @@
 
 The prior ledger (April 15, 2026) captured:
 - **Tier 1:** K&L Gates ISO 42001 AI Governance Certification
-- **Tier 1:** Microsoft Copilot Launches Legal-Specific Capabilities
+- **Tier 1:** Microsoft Copilot Launches Capabilities Targeting Lawyers
 - **Tier 1:** Three California Attorneys Face Disciplinary Action Including License Suspension for AI Misuse
 - **Tier 2:** iManage CEO Teases "Inference Layer" Platform Evolution
 
-Reviewing today's feeds (April 18–20, 2026) against the prior ledger:
+Reviewing today's feeds against the prior ledger:
 
 | Candidate | Assessment | Disposition |
 |---|---|---|
-| **Litera Announces Global Integration of Compare with Google Workspace (Legal IT Insider)** | Litera integrating its Compare tool + Lito AI agent into Google Workspace for law firms and corporate legal. Vendor product integration — incrementally relevant to Google Workspace adoption in legal but not a structural market shift. | Discard — materiality 2 |
-| **Orange Rag Insights: After Adoption – Next Challenges for AI-Enabled Legal Functions (Legal IT Insider)** | In-house interviews with legal ops leaders at ArcelorMittal, an advertising group, and others about post-adoption AI challenges. Commentary/interviews — potentially useful for adoption thesis but no primary signal (no new ruling, product, enforcement, or named buyer action). | Discard — commentary; materiality 2 |
-| **Firms Need Capital to Pay for AI Tools — Could PE Investment Be the Solution? (Legal Tech Monitor)** | Discussion of PE investment as funding mechanism for law firm AI adoption. Commentary piece exploring structural question. No named deal or transaction. | Discard — commentary; materiality 2 |
-| **Illinois Bills Put PE and Law Firm Business Models Under the Microscope (Legal Tech Monitor)** | Illinois proposed legislation tightening restrictions on alternative business structures and management-service organization models in law firms. Relevant to law firm ownership/structure debate but not directly LSP or AI-focused. No enactment yet. | Discard — materiality 2 for LSP lens; monitor if enacted |
-| **New York AI Disclosure Bill Passes State Legislature (JD Supra)** | NY Assembly Bill A3411B passed third reading in senate, headed to Governor Hochul. Requires GenAI system operators to display conspicuous notice that outputs may be inaccurate. This is a **new legislative development** — a disclosure-focused bill distinct from the RAISE Act (which is already tracked). However, this is a consumer-facing disclosure requirement, not a governance/compliance framework with LSP implications. Low materiality for LSP operations. | Discard — materiality 2; consumer disclosure, not governance framework |
-| **The Rise of AI-Assisted Pro Se Employment Litigation (JD Supra)** | Pro se plaintiffs using GenAI to produce polished filings, increasing litigation volume and defense costs. This is a **demand-side signal** — AI enabling more litigation could expand discovery volumes. However, this is a commentary piece synthesizing a trend, not a new ruling or data point. | Discard — commentary; materiality 2-3; could support demand-side thesis at weekly level |
-| **The Billable Hour's Information Problem in eDiscovery (ComplexDiscovery)** | Editorial on billable hour model breakdown as AI compresses review time. Directly relevant to LSP margin compression thesis but is analytical commentary, not primary signal. | Discard — commentary; already well-tracked in standing view |
-| **TechCrunch: The 12-Month Window** | General AI commentary on foundation models expanding into startup categories. Not legal-specific. | Discard |
-| **Legaltech Week Podcast: Legora/Jude Law, Claude Legal** | Podcast discussion of Legora's global ad campaign featuring Jude Law and "Claude Legal." The Legora ad campaign is marketing activity. However, "Claude Legal" reference is potentially significant — if Anthropic has launched a legal-specific Claude product, this would be a major development. Feed summary does not provide enough detail to confirm what "Claude Legal" is. | **Requires investigation** — if Claude Legal is a real Anthropic product launch, this is potentially Tier 1. But podcast summary is ambiguous; may be discussion topic, not confirmed product. Insufficient specificity to include. |
-| **Cerebras Files for IPO (TechCrunch)** | AI chip company IPO. Infrastructure-level, not legal-specific. | Discard |
-| **Supreme Court rulings (Chevron/Louisiana, Conversion Therapy)** | Procedural/constitutional rulings not relevant to LSP lens. | Discard |
-| **All remaining items** (NATO cognitive warfare, DOJ bankruptcy refund, PTAB scheduling, social engineering, data breaches, energy newsletter, privacy suits, event listings, a16z podcast) | Not relevant to LSP lens at Tier 1/2 threshold. | Discard |
+| **New York AI Disclosure Bill Passes State Legislature (JD Supra)** | NY Assembly Bill A3411B passed third reading in the senate on March 9, 2026 — this is a **weeks-old legislative event** now being analyzed by JD Supra. The standing view already tracks New York RAISE Act (signed into law April 7, 2026). This bill (A3411B) appears to be a separate AI disclosure bill requiring generative AI systems to display notices that outputs may be inaccurate. While a distinct bill from the RAISE Act, the legislative action occurred on March 9 — well outside the 24-48 hour window. The JD Supra analysis is commentary on an old event. | **Discard** — stale legislative event; commentary |
+| **PE Investment as Capital Solution for Law Firm AI Spending (Legal Tech Monitor)** | Exploration of whether PE investment could fund law firm AI tool acquisition. This is a **thought leadership / analysis piece** — no specific deal, no named firm, no concrete transaction. | **Discard** — commentary; materiality 2 |
+| **Illinois Bills on PE/Law Firm Business Models (Legal Tech Monitor)** | Illinois proposed bills tightening restrictions on alternative business structures. Relevant to law firm ownership/structure, but not directly LSP or legal AI focused. Proposed bills, not enacted. | **Discard** — materiality 2; not enacted; tangential to LSP lens |
+| **AI-Assisted Pro Se Employment Litigation Rising (JD Supra)** | Pro se plaintiffs using generative AI producing polished filings. This is a **trend observation** — supports the adoption acceleration thesis directionally but is not a specific new development. No ruling, no enforcement action, no named entity. | **Discard** — commentary/trend piece; materiality 2 |
+| **Litera Announces Compare Integration with Google Workspace (Legal IT Insider)** | Litera integrating document comparison and Lito AI agent into Google Workspace for law firms and corporate legal. This is a **product announcement** from a legal tech vendor. Relevant to the Google ecosystem in legal (Freshfields/Google was Tier 2 candidate last cycle). However, Litera Compare is a document comparison tool — this is an integration announcement, not a strategic platform shift. | **Discard** — materiality 2; incremental vendor integration |
+| **Orange Rag Insights: Post-Adoption AI Challenges (Legal IT Insider)** | Interviews with legal ops leaders at ArcelorMittal, an advertising group, and others about post-adoption AI challenges. Potentially contains **primary adoption signal** from named enterprises. However, the summary indicates general post-adoption discussion, not specific new developments. | **Discard** — commentary; would need full article to assess; materiality 2-3 |
+| **TechCrunch "12-Month Window" for AI Startups (TechCrunch)** | General AI commentary about foundation models expanding into verticals. Confirms H5 directionally but is generic analysis. | **Discard** — commentary; not legal-specific |
+| **Legaltech Week Podcast: Claude Legal, Legora Ad Campaign (Legaltech Week)** | Podcast covering Legora's Jude Law ad campaign and "Claude Legal." The Legora ad campaign is marketing, not a product or market development. **"Claude Legal"** is potentially significant — Anthropic launching a legal-specific product — but the podcast summary doesn't provide detail. The podcast aired April 18 covering "this week's" stories. | **Assess "Claude Legal"** — if Anthropic launched a legal-specific Claude product, this would be a Tier 1 signal on par with Microsoft Copilot targeting lawyers. However, the feed provides insufficient detail — only a podcast title mention. Cannot confirm this is a real product launch vs. a discussion topic. | **Flag for monitoring** — insufficient specificity to include; if confirmed, would be Tier 1 |
+| **ComplexDiscovery: Billable Hour's Information Problem (ComplexDiscovery)** | Editorial on billable hour model erosion from AI-driven automation in eDiscovery. | **Discard** — commentary; aligns with tracked margin compression but adds no new evidence |
+| **NATO Cognitive Warfare Paper / Discovery Crisis (ComplexDiscovery)** | Analysis of NATO paper on cognitive warfare and implications for discovery. | **Discard** — tangential; materiality 1 |
+| **JD Supra: AI Governance Framework Episode 406 (JD Supra)** | Video/podcast on AI governance frameworks. | **Discard** — commentary |
+| **Cerebras IPO Filing (TechCrunch)** | AI chip startup filing for IPO. Not legal-specific. | **Discard** — materiality 1 for LSP lens |
+| **Remaining items** (Supreme Court Chevron/Louisiana, PTAB scheduling, DOJ bankruptcy firm, conversion therapy ruling, social engineering C-suite, CNN privacy suit, Eurail breach, energy industry AI, a16z podcast) | Not relevant to LSP lens at Tier 1/2 threshold. | **Discard** |
 
 ---
 
 ### Assessment
 
-No Tier 1 developments today.
-
-The feeds from April 18–20 are dominated by commentary, editorial analysis, vendor marketing, and non-legal-tech developments. The most potentially significant signal — a reference to "Claude Legal" in the Legaltech Week podcast — lacks sufficient specificity to confirm as a real product launch versus a discussion topic. If Anthropic has launched a legal-specific Claude offering, this would warrant immediate Tier 1 treatment in a subsequent ledger when confirmed.
-
----
-
 **No Tier 1 developments today.**
+
+The feeds for April 18-20, 2026 consist primarily of commentary, analysis pieces, incremental vendor integrations, and events already captured in the standing view or prior ledger. The single item warranting attention — a reference to "Claude Legal" in the Legaltech Week podcast — lacks sufficient specificity to confirm as a real product launch.
 
 ---
 
 ### Monitoring Note
 
-| Signal to Watch | Source | Why It Matters | Action |
-|---|---|---|---|
-| "Claude Legal" — possible Anthropic legal-specific product | Legaltech Week podcast (April 17, 2026) | If confirmed, Anthropic entering legal vertical with a branded product would be the most significant disintermediation signal since Harvey's Spectre. Would directly update H5 and the Frontier AI Vendors theme. | Seek primary source confirmation from Anthropic announcements or Artificial Lawyer coverage. Elevate to Tier 1 if confirmed as product launch. |
-| NY AI Disclosure Bill (A3411B) — headed to Governor | JD Supra (April 18, 2026) | If signed, adds another layer to NY's AI regulatory framework alongside RAISE Act. Consumer-facing, not governance-focused, but broadens the state regulatory surface. | Monitor for Governor's action; low priority unless paired with enforcement mechanism. |
-| PE investment in law firm AI adoption | Legal Tech Monitor (April 20, 2026) | If PE capital flows into law firm AI tooling, it could accelerate adoption beyond the 3-5 year consensus timeline and shift the capital dynamics for AI investment away from LSPs. | Monitor for named deals; currently speculative. |
+| Item | Source | Action |
+|---|---|---|
+| **"Claude Legal" — potential Anthropic legal-specific product** | Legaltech Week podcast (April 18, 2026) | **Elevated monitoring.** The podcast title references "Claude Legal" alongside confirmed stories (Legora/Jude Law campaign). If Anthropic has launched or announced a legal-specific Claude product, this would be a Tier 1 development — a second major platform vendor (after Microsoft Copilot) explicitly targeting lawyers within the same week. This would significantly strengthen H5 (disintermediation) and compound the Microsoft Copilot signal from April 15. Recommend obtaining full podcast transcript or confirming via Anthropic announcements. |
 
 ---
 
-*Next ledger will be produced when new Tier 1 signal emerges.*
+*No Tier 1 developments today. Next ledger will be produced when new Tier 1 signal emerges.*
