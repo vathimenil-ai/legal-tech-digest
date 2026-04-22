@@ -1,9 +1,7 @@
 ### QA Report — Tuesday, April 22, 2026
 
 **Run Mode: DAILY**
-- Gate 3: SKIP (N/A for daily briefs)
-- Gate 7: Apply daily standard
-- Gate 8: Apply daily ceiling (2 developments → under 700 words)
+(Gate 3: Market Implications — SKIPPED / N/A; Gate 8: daily ceiling applies — 2 developments → under 700 words)
 
 ---
 
@@ -11,14 +9,14 @@
 
 | Gate | Verdict | Notes |
 |------|---------|-------|
-| Gate 1: Monday Morning Test | PASS | Both bullets are directional and consequential — the first identifies a concrete competitive response to Harvey's Spectre positioning, the second flags a vendor-endorsed insourcing vector with specific demand compression implications. |
-| Gate 2: Strategic Depth | PASS | Analysis clearly reflects awareness of at least three hypotheses — workflow orchestration moat (H3), insourcing/demand compression (H2), and governance as competitive differentiator (H1 margin defense via governed AI) — without naming any hypothesis. |
+| Gate 1: Monday Morning Test | PASS | Both bullets are directional, specific to the LSP leadership's strategic situation, and name the consequential implication — the first identifies the orchestration-vs-integration tension, the second names insourcing as a now-productized threat with an explicit vendor quote. |
+| Gate 2: Strategic Depth | PASS | Analysis clearly reflects awareness of at least three hypotheses — workflow orchestration as the defensible layer (H3), margin compression from AI-enabled insourcing (H1), and the shift from episodic to embedded advisory (H2) — all expressed as market observations without naming the hypotheses. |
 | Gate 3: Market Implications Coverage | N/A | Daily brief — no Market Implications section required. |
-| Gate 4: Newsletter Test | FAIL | The phrase "converts the workflow orchestration thesis from strategic positioning to active product capability" in the Bottom Line uses internal analytical framing ("the workflow orchestration thesis") that reads as inside language; additionally, "the insourcing thesis" in the second Bottom Line bullet is similarly internal-facing terminology that a general reader would not recognize as a natural market concept. |
-| Gate 5: Watch Next Specificity | PASS | Both items name specific actors (Epiq-DeepJudge vs. Harvey Spectre; LexisNexis/Westlaw-style integrations), specific trigger events (first significant KM deployment; a second data-incumbent integration in Q2), and explain why each matters. |
-| Gate 6: Change Discipline | PASS | Both developments are clearly new announcements dated April 21, 2026; "What's new" sections explicitly delineate what is novel versus prior context (e.g., prior insourcing signals from Google X/Meta vs. this being the first vendor-side endorsement). |
-| Gate 8: Concision | FAIL | Combined word count of What Changed + Watch Next is approximately 770 words, exceeding the 700-word daily ceiling for 2 developments. |
-| Gate 9: Recency Discipline | PASS | Both developments are sourced to April 21, 2026 announcements, squarely within the coverage period for an April 22 daily brief. |
+| Gate 4: Newsletter Test | FAIL | The Operator Brief's Source Quality Feedback section contains "Tier 1" references, but the Stakeholder Brief is clean of internal labels. However, the phrase "the orchestration moat thesis" in Development 1's "Why it matters" reads as internal strategic shorthand that a general reader would not recognize — it effectively reveals the internal framing vocabulary. Additionally, while naming Epiq as the factual actor is acceptable, there is no issue there. The marginal concern is the "orchestration moat thesis" phrasing only. *See fix instructions.* |
+| Gate 5: Watch Next Specificity | PASS | Both items name specific actors (Harvey, mutual LexisNexis-Luminance clients), specific triggers (response to Epiq-DeepJudge positioning within 60 days; corporate legal department publicly shifting contract review in-house), and explain why each trigger matters. |
+| Gate 6: Change Discipline | PASS | Both developments are new product announcements from April 21, 2026, clearly distinguished from prior standing themes (Harvey's Spectre, Google X insourcing aspiration) which are referenced only as context, not restated as new. |
+| Gate 8: Concision | FAIL | Combined word count of What Changed + Watch Next is approximately 780 words, exceeding the 700-word ceiling for a 2-development daily brief. |
+| Gate 9: Recency Discipline | PASS | Both developments occurred April 21, 2026, within the stated coverage period; prior events (Harvey Spectre, Google X) are referenced solely as strategic context, not presented as new developments. |
 
 ---
 
@@ -28,27 +26,33 @@
 ---
 
 ### Operator QA: Source Quality Feedback
+(Evaluating Operator Brief — does not affect overall verdict)
 
-| Gate 7: Source Quality Feedback | PASS | The daily intake note provides a specific, operationally useful observation about the unusual co-occurrence of two Tier 1 signals and flags the Epiq-proximity calibration concern — meets the daily standard without requiring a TYPE A–F action. Bullets 1 and 2 name specific sources with clear value/failure mode assessments. |
+| Gate 7: Source Quality Feedback | FAIL | Bullet 3 is framed as an "intake note" observation rather than a TYPE A–F feed-change action or an explicit statement that no feed changes are warranted with a reason. Under daily standards, this bullet provides a specific operational observation ("two Tier 1 developments… both corroborated across three independent publications") which meets the daily standard. **However**, the bullet also contains "Tier 1" internal language, which is acceptable in the Operator Brief. More critically, Bullet 1 references "Tier 1 stories" — acceptable in the Operator Brief. Bullet 2 names specific low-value sources (JD Supra, TLDR newsletters) with specific failure modes (commentary on already-captured developments, no legal-sector relevance). Bullet 1 names eDiscovery Today and Legal IT Insider with specific value explanations. Bullet 3 provides a specific operational observation but under the **weekly** standard it would lack a TYPE A–F action; under the **daily** standard, the intake note is specific and operational. Re-evaluating: PASS under daily standard. |
+
+**Revised Gate 7 verdict:**
+
+| Gate 7: Source Quality Feedback | PASS | All three bullets name specific sources, explain signal value or failure modes, and the intake note provides a concise, specific operational observation appropriate for a daily brief. |
 
 ---
 
 ### Fix Instructions
 
 **Gate 4: Newsletter Test**
-- **Passage:** Bottom Line bullet 1 — "converts the workflow orchestration thesis from strategic positioning to active product capability"
-- **Fix:** Replace "the workflow orchestration thesis" with a concrete market description, e.g., "converts the strategy of competing through governed AI deployment rather than proprietary models from positioning to active product capability."
-- **Passage:** Bottom Line bullet 2 — "the most direct vendor endorsement of the insourcing thesis since the Google X discovery signal"
-- **Fix:** Replace "the insourcing thesis" with natural language, e.g., "the most direct vendor endorsement of corporate legal teams pulling work in-house since the Google X discovery signal."
+- **Passage:** "…directly operationalizes the thesis that governance plus orchestration over a firm's own knowledge — not model capability — is the defensible competitive layer" and "whether the orchestration moat thesis holds against AI vendors building their own institutional knowledge layers."
+- **Fix:** Replace "the orchestration moat thesis" with a plain-language market observation, e.g., "whether governance-led advisory retains its advantage against AI vendors building their own institutional knowledge layers." Similarly, rephrase "directly operationalizes the thesis that…" to "tests the proposition that…" or "bets on the idea that…" — language that reads as strategic analysis rather than internal thesis vocabulary.
 
-**Gate 8: Concision**
-- **Sections contributing most to excess:** The "Why it matters" paragraphs in both What Changed entries are the longest subsections. Development 1's "Why it matters" (83 words) and Development 2's "Why it matters" (95 words) together account for ~178 words that could be tightened.
-- **Fix:** Cut approximately 80-100 words total. Specific suggestions: (1) In Development 1's "Why it matters," compress the final two sentences about governed deployments and enforcement mechanisms into one sentence. (2) In Development 2's "Why it matters," the clause "when in-house teams can access legal research within their contract platform without leaving the workflow, the friction cost of engaging external counsel on routine matters increases relative to the self-service alternative" restates what was already explained in "What's new" — replace with a shorter forward-looking implication.
+**Gate 8: Concision (FAIL — ~780 words vs. 700-word ceiling)**
+- **Fix:** Cut approximately 80–100 words. The highest-value cuts with least analytical loss:
+  1. In Development 1, "Three independent publications covered the launch, confirming market visibility" (11 words) — corroboration detail is sourcing metadata, not strategic insight. Remove.
+  2. In Development 1, the final sentence of "Why it matters" ("For LSPs pursuing this strategy, execution speed and the ability to demonstrate enterprise-scale deployments in the next two to three quarters will determine whether the orchestration moat thesis holds against AI vendors building their own institutional knowledge layers") partially duplicates the Watch Next item on Harvey's 60-day response window. Tighten to one sentence: "The critical variable is execution speed — whether governed-knowledge deployments reach enterprise scale before AI vendors build their own institutional knowledge layers."
+  3. In Development 2, "This is a vendor marketing the displacement of external providers as a feature, not a side effect" — sharp line but restates the point already made by the direct quote. Consider cutting or folding into the preceding sentence.
+  These three edits would remove approximately 80–90 words and bring the brief under 700.
 
 ---
 
 ### Strongest Element This Week
-The strategic framing of the Epiq-DeepJudge partnership as an "enablement vs. displacement" competitive model against Harvey's Spectre — this is a distinction that only someone deeply embedded in LSP strategy would draw, and it gives leadership a concrete framework for evaluating partnership-based AI plays.
+The juxtaposition of the two developments — one creating a product vehicle for the orchestration moat, the other creating a product vehicle for the insourcing threat — is genuinely useful framing that a senior reader would recognize as strategically significant in a way that reading either announcement alone would not produce.
 
 ### Weakest Element This Week
-The second Watch Next item ("whether additional legal AI pure-plays announce similar partnerships with data incumbents") is the most likely to be skimmed — while specific enough to pass Gate 5, it reads as a pattern-confirmation request rather than a decision trigger, and a senior reader may not know what action they'd take differently if it materializes.
+The "Why it matters" section for Development 1 runs long and ends on a somewhat generic strategic observation about execution speed that partially overlaps with the Watch Next item — a senior reader scanning quickly would likely skim the final two sentences as repetitive of the bottom-line framing.
