@@ -1,8 +1,76 @@
 {
   "feed_type": "priority",
-  "fetched_at": "2026-04-21T15:12:04.241353+00:00",
-  "item_count": 9,
+  "fetched_at": "2026-04-22T13:28:50.224445+00:00",
+  "item_count": 13,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b677f4478",
+      "title": "Jeff Bezos Nears $10 Billion Funding for AI Lab, FT Says (2 minute read)",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3Njc0ODE3NiwiZXhwIjoxNzc3MzUyOTc2LCJhcnRpY2xlSWQiOiJURFRLU0dUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.sX-DZMr66hgD5DygNPFOhid8SRbXVApVC_dCvXKMmGw&utm_source=tldrai",
+      "author": "",
+      "source": "TLDR AI Feed",
+      "published_at": "2026-04-21T00:00:00+00:00",
+      "updated_at": "",
+      "summary": "Jeff Bezos' AI startup, which is aiming to develop models with the capability of understanding the physical world, is close to finalizing a $10 billion funding round. The company, code-named Project Prometheus, will use AI to accelerate engineering and manufacturing in fields like aerospace and automobiles. It was set up with an initial $6.2 billion in funding, sourced in part by Bezos himself. The new funding round, which is expected to close soon but has not been finalized, will include JPMorgan and BlackRock as investors.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI-digest-candidates",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6772f6b9",
+      "title": "Google DeepMind Partnerships in India: scaling AI in science and education",
+      "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "author": "",
+      "source": "News — Google DeepMind",
+      "published_at": "2026-04-22T12:08:26+00:00",
+      "updated_at": "",
+      "summary": "<div><p>Introducing our National Partnerships for AI and collaboration in India</p><p>We believe AI will be the most transformative technology in human history and that it should be deployed in ways that benefit all of humanity. This requires deep, strategic collaboration between frontier AI labs, governments, academia, and civil society.</p><p>To fully realise AI’s potential, Google DeepMind is working with governments through our <a href=\"https://deepmind.google/national-partnerships-for-ai/\">National Partnerships for AI</a> initiative to broaden access to our frontier AI capabilities, helping ensure they are deployed to serve citizens and meet national priorities in science, education, resilience, and public services.</p><p>Building on our collaborations with the <a href=\"https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/\">US</a> and <a href=\"https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/\">UK</a> governments, we are establishing a new partnership with Indian government bodies and local institutions. In the global AI transformation, India is showing exceptional leadership in applying the technology to tackle its own biggest challenges. But India is going even further, playing a critical international role by convening this week the fourth global AI summit of governments, companies and civil society. International dialogue and collaboration will guide positive impacts and create the global frameworks required to prepare society for a future with AI.</p><h2>Partnership in India to broaden AI access</h2><p>Our partnerships are designed to accelerate the pace of progress across India. Here are a few ways we are working together to unlock new possibilities in science and education.</p><h2>Advancing scientific breakthroughs</h2><p>Google DeepMind, Google Research and Google.org are partnering with the Anusandhan National Research Foundation (ANRF) to facilitate the adoption of AI models to advance science. We’re providing access to our frontier AI for Science models, supporting hackathons and community contests, and enabling training and mentorship to students, researchers, and those in the early stages of their careers.</p><p>Researchers and engineers in India will be able to use our AI tools, including:</p><ul><li><a href=\"https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/\">AlphaGenome</a>: An AI model to help scientists better understand how mutations in human DNA sequences impact a wide range of gene functions</li><li><a href=\"https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/\">AI Co-scientist</a>: A multi-agent AI system that acts as a virtual scientific collaborator</li><li><a href=\"https://ai.google/earth-ai/\">Earth AI:</a> A collection of models built on Gemini’s advanced reasoning that are helping enterprises, nonprofits, and cities with everything from environmental monitoring to disaster response</li></ul><p>Scientists around the world are already using <a href=\"https://deepmind.google/science/alphafold/\">AlphaFold</a> - our AI system capable of accurately predicting the structure and interactions of proteins, DNA, RNA, ligands and more - to accelerate discoveries. India stands as the fourth largest adopter of AlphaFold globally, with over 180,000 researchers using it today. We hope to see Indian scientists benefit even more from using AlphaGenome and the other AI systems we are now providing.</p><p>We're also working to support AI for science at a global level. This is why, today at the India Summit, we announced the $30 million <a href=\"https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-open-call/\">Google.org Impact Challenge: AI for Science</a>, an open call for researchers, nonprofits, and social enterprises in India, and around the world, using AI to achieve scientific breakthroughs. Selected awardees will also have the opportunity to participate in a Google.org Accelerator, receiving engineering support, expert mentorship, and infrastructure from Google DeepMind and Google Research to turn their concepts into scalable discoveries.</p><h2>Empowering India’s Students and Teachers with an AI-powered Future</h2><p><a href=\"https://static.googleusercontent.com/media/publicpolicy.google/en//resources/our_life_with_ai_2026.pdf\">Our recent survey</a> with Ipsos has shown that learning is the top motivation for using AI globally. This is especially true in India, which now leads the world in daily Gemini usage by students. We’re seeing AI can drive profound comprehension and critical thinking when it is purpose-built for learning and implemented as a supportive partner to educators.</p><p>At <a href=\"https://cmseducation.org/\">City Montessori School</a> in Lucknow, teachers are integrating <a href=\"https://blog.google/products-and-platforms/products/education/guided-learning/\">Guided Learning</a> into math classes for Grade 8-9 students and seeing a positive response. An early analysis of a randomized control study conducted by <a href=\"https://www.fab-ai.org/\">Fab AI</a> shows that students are demonstrating a desire for deeper learning, not just quick answers: in almost three out of every four conversations on Gemini, students sought to develop their understanding rather than a quick answer or shortcut.</p><p>That’s why we’re expanding efforts with additional partners to supercharge the potential of learning for more Indian students and teachers:</p><ul><li><strong>Powering innovation hubs with GenAI assistants:</strong> Together with Atal Tinkering Labs, which serves more than 10,000 Indian schools and 11 million students, we will help incorporate robotics and coding into local curricula, integrate Gemini thoughtfully into teacher workflows, and build a safely guardrailed AI assistant for students grounded in national curriculum standards that can act as an educational partner. Teachers can access real-time tips to help students fix a robot missing a part with readily available materials or mend a broken circuit design by simply pointing a camera to it or asking Gemini in chat.</li><li><strong>Transforming textbooks into interactive digital journeys:</strong> In a first-of-its-kind partnership with PM Publishers Pvt. Ltd., a K-12 textbook publisher in India, Gemini will be used to transform two million static textbooks into AI-powered interactive journeys across more than 250 titles and 2,000 schools. Each book features a QR code that can be scanned by students to access a custom Gem (specialized versions of the Gemini AI model), that acts as an expert assistant on the subject, providing summaries and responses on the contents of the respective book.</li><li><strong>Serving India’s linguistic diversity:</strong> There is incredible potential for AI to make a positive impact on education when built in close partnership with experts and grounded in local language and culture. Building on Google.org’s recent<a href=\"https://blog.google/intl/en-in/company-news/outreach-initiatives/powering-indias-ai-progress/\"> $2 million founding contribution</a> to establish the new Indic Language Technologies Research Hub at IIT Bombay, we’ll help incorporate India’s linguistic diversity into AI as it advances globally.</li></ul><p>These efforts build on the global success of existing AI literacy programs like <a href=\"https://experience-ai.org/en\">Experience AI</a>, a joint partnership developed by Google DeepMind with Raspberry Pi Foundation, which has already reached up to 300,000 students and 8,000 teachers in India.</p><h2>AI solutions for India’s agriculture and energy sectors</h2><p>Our new partnerships in science and education build on our ongoing collaboration with local Indian organizations to tackle global challenges in agriculture and energy security. Working with Indian startups, institutions like Council on Energy, Environment and Water (CEEW), and Indian state and central government entities are using the APIs of <a href=\"https://blog.google/intl/en-in/company-news/technology/sowing-seeds-of-agri-ai-models-from-india-to-apac/\">our freely available Agri AI models</a> to enhance agricultural resilience, crop productivity and farmer incomes. TerraStack is also using Google AI to combine satellite, crop, and weather data, into hyper-local insights that help farmers make better agricultural decisions.</p><p>We also recently announced a growing collaboration with Open Climate Fix to integrate our <a href=\"https://developers.google.com/weathernext\">WeatherNext AI models</a> into India’s electricity grid operations. We’re aiming to significantly improve the accuracy of renewable energy forecasts in India, help grid operators manage volatility, and support the country’s ambitious clean energy targets. When we tested the integration of WeatherNext into OCF’s wind generation forecast, results showed up to 8% accuracy improvement in forecast performance.</p><p>This partnership comes as India rapidly scales its renewable capacity, becoming the third largest generator of solar energy globally in 2023, with an ambitious target of installing 500 GW of renewable capacity by 2030. Working together on energy solutions has never been more important - we remain committed to working with experts in India to progress this effort together to prepare for the future.</p><h2>Preparing for the future together</h2><p>AI’s global impact is inevitable, but its success is not. To turn potential into prosperity, we are committing to deep, local collaboration with India's government bodies and institutions to ensure AI delivers tangible results across the subcontinent–and the world.</p></div>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI-digest-candidates",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b67040681",
+      "title": "Epiq and DeepJudge Partner To Scale AI Across Law Firm Institutional Knowledge",
+      "url": "https://ediscoverytoday.com/2026/04/21/epiq-and-deepjudge-partner-to-scale-ai-across-law-firm-institutional-knowledge/",
+      "author": "Doug Austin",
+      "source": "eDiscovery Today by Doug Austin",
+      "published_at": "2026-04-21T20:15:18+00:00",
+      "updated_at": "",
+      "summary": "<p>Congrats to Epiq for the announcement that Epiq and DeepJudge partner to scale AI across law firm institutional knowledge! Here’s part of the press release!</p> \n<p>The post <a href=\"https://ediscoverytoday.com/2026/04/21/epiq-and-deepjudge-partner-to-scale-ai-across-law-firm-institutional-knowledge/\">Epiq and DeepJudge Partner To Scale AI Across Law Firm Institutional Knowledge</a> appeared first on <a href=\"https://ediscoverytoday.com\">eDiscovery Today by Doug Austin</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b66d9e2e2",
+      "title": "DeepJudge partners with Epiq to help law firms apply AI at scale",
+      "url": "https://legaltechnology.com/2026/04/21/deepjudge-partners-with-epiq-to-help-law-firms-apply-ai-at-scale/",
+      "author": "Caroline Hill - Editor-in-Chief",
+      "source": "Legal IT Insider",
+      "published_at": "2026-04-21T14:44:02+00:00",
+      "updated_at": "",
+      "summary": "<p>DeepJudge has partnered with Epiq Advisory for Law Firms in a move aimed at helping law firms scale AI beyond experimentation and into firm‑wide, governed deployment.</p> \n<p>Announced today (21 April), the partnership responds to a growing challenge in the legal market: as law firms expand the use of AI in practice, the difficulty is applying it at enterprise scale using their own trusted knowledge. At the same time, the quality, governance, and accessibility of that knowledge are decidedly shaping competitive differentiation among firms.</p><div style=\"text-align:center;\"><div>Advertisement</div><div><a href=\"https://open.spotify.com/episode/54jMybEF8lsNbau8GbH9Pi?si=qN4vVo9RR86Whp9WTyYnfA\"><img src=\"https://legaltechnology.com/wp-content/uploads/2026/03/Website-In-content-ads-11.gif\" alt=\"\" width=\"800\" height=\"250\"></a></div></div> \n<p>The partnership equips firms to operationalize permission-aware agentic AI workflows grounded in their institutional knowledge. It allows firms to surface relevant insights across matters in real time, support drafting, and build on precedent-driven work, resulting in more informed legal advice. Through combining the intent-based search and AI workflows that DeepJudge offers and the strategic planning, knowledge management, and technical expertise of Epiq, firms can now harness documents, information, and metadata across all their systems to turn prior work product into a strategic advantage and measurable business impact.</p> \n<p>“The depth of collective intelligence that law firms possess is extraordinary—and a unique asset that’s built over decades,” said Paulina Grnarova, CEO and co-founder of DeepJudge. “DeepJudge helps firms put the full breadth of that knowledge to work through AI grounded in their own prior work and institutional context. Our partnership with Epiq strengthens firms’ ability to incorporate DeepJudge into a holistic AI strategy and translate that foundation into firm-wide adoption, measurable business value, and competitive advantage.”</p> \n<p>The post <a href=\"https://legaltechnology.com/2026/04/21/deepjudge-partners-with-epiq-to-help-law-firms-apply-ai-at-scale/\">DeepJudge partners with Epiq to help law firms apply AI at scale</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Legal Tech Core",
+        "High-Signal",
+        "Noise",
+        "Priority"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b66becd17",
       "title": "Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges (2 minute read)",
@@ -62,7 +130,7 @@
       "author": "Bob Ambrogi",
       "source": "Robert Ambrogi's LawSites",
       "published_at": "2026-04-21T12:00:36+00:00",
-      "updated_at": "",
+      "updated_at": "2026-04-21T17:06:54+00:00",
       "summary": "<img width=\"1024\" height=\"576\" src=\"https://www.lawnext.com/wp-content/uploads/2026/04/LexisNexis-Luminence-Partnership-1024x576.png\" alt=\"\" style=\"float:left;margin:0 15px 15px 0;\">LexisNexis and Luminance today announced a partnership that will let mutual in-house legal customers access LexisNexis’s Protégé AI assistant from inside Luminance’s contract negotiation platform, with a pathway to move into Lexis+ with Protégé for more involved legal work. Under the arrangement, users working in Luminance’s natural-language assistant, Lumi, can pose legal questions and receive […]",
       "content": "",
       "categories": [
