@@ -1,8 +1,40 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-04-23T16:50:43.598989+00:00",
+  "fetched_at": "2026-04-23T17:11:18.454334+00:00",
   "item_count": 98,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6865a6d5",
+      "title": "WARNing Signs: A Compliance Reminder for Modern Layoffs",
+      "url": "https://www.jdsupra.com/legalnews/warning-signs-a-compliance-reminder-for-9341556/",
+      "author": "Poyner Spruill LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-23T17:10:25+00:00",
+      "updated_at": "",
+      "summary": "Early 2026 layoffs have been dominating headlines with major employers announcing significant workforce reductions affecting thousands of U.S. employees. Last week, Disney cut approximately 1,000 jobs across multiple divisions as part of a restructuring effort. Disney joins companies such as Amazon, UPS, Meta, Nike, and Dell who have collectively cut tens of thousands of jobs as businesses are responding to economic pressures and technological changes, including the rise of artificial...<br>By: <a href=\"https://www.jdsupra.com/profile/Poyner_Spruill/\">Poyner Spruill LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b68645569",
+      "title": "Meta Verdict Poised to Shift Platform Liability and Sexual Abuse Litigation",
+      "url": "https://www.jdsupra.com/legalnews/meta-verdict-poised-to-shift-platform-6414649/",
+      "author": "DarrowEverett LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-23T16:56:24+00:00",
+      "updated_at": "",
+      "summary": "On March 24, 2026, a New Mexico jury delivered a verdict that may well define a new era of sexual abuse litigation. After six weeks of testimony, the jury found Meta Platforms, Inc. liable for failing to protect children from sexual predators and misleading users about the safety of its platforms, ordering the company to pay $375 million in civil penalties....<br>By: <a href=\"https://www.jdsupra.com/profile/darroweverett/\">DarrowEverett LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b6860a4bc",
       "title": "Remote work and occupational health and safety: New obligations for companies",
@@ -354,8 +386,8 @@
       "author": "Lauren Forristal",
       "source": "AI | TechCrunch",
       "published_at": "2026-04-23T12:00:00+00:00",
-      "updated_at": "",
-      "summary": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more.",
+      "updated_at": "2026-04-23T16:51:58+00:00",
+      "summary": "The announcement is a clear sign the company is trying to become an all-in-one hub for creators, reducing the hassle of juggling various tools and services to run their businesses.",
       "content": "",
       "categories": [
         "reading-list",
@@ -786,22 +818,6 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b67b7b91d",
-      "title": "AI meets the gavel: Key legal battles and regulatory trends in the United States",
-      "url": "https://www.jdsupra.com/legalnews/ai-meets-the-gavel-key-legal-battles-3126409/",
-      "author": "White &amp; Case LLP",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T19:19:25+00:00",
-      "updated_at": "",
-      "summary": "As generative artificial intelligence (“GenAI”) continues to be rapidly adopted by individuals and organizations across a wide range of industries, courts are seeing a corresponding surge in legal disputes arising from its development and use. These cases span a wide range of issues, primarily focusing on: (i) the nature and sourcing of input data used in AI model training and whether such use constitutes fair use; and (ii) the alleged harms created by the deployment of GenAI products and...<br>By: <a href=\"https://www.jdsupra.com/profile/white_case/\">White &amp; Case LLP</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
       "id": "tag:google.com,2005:reader/item/0000000b67b7b91c",
       "title": "Constitutional Collision: Questions to Assess the 2026 National AI Framework",
       "url": "https://www.jdsupra.com/legalnews/constitutional-collision-questions-to-3872203/",
@@ -810,6 +826,22 @@
       "published_at": "2026-04-22T19:19:25+00:00",
       "updated_at": "",
       "summary": "Building on Section 8 of the December 2025 Executive Order, the Trump administration’s “National Policy Framework for Artificial Intelligence,” (the “Framework”) released on March 20, 2026, provides a formal legislative blueprint for advancing the administration’s goal of a uniform, national policy for AI across the United States. While the Executive Order provided only the outline of a national legislative scheme, the current Framework provides......<br>By: <a href=\"https://www.jdsupra.com/profile/MBHB/\">McDonnell Boehnen Hulbert &amp; Berghoff LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b67b7b91d",
+      "title": "AI meets the gavel: Key legal battles and regulatory trends in the United States",
+      "url": "https://www.jdsupra.com/legalnews/ai-meets-the-gavel-key-legal-battles-3126409/",
+      "author": "White &amp; Case LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-22T19:19:25+00:00",
+      "updated_at": "",
+      "summary": "As generative artificial intelligence (“GenAI”) continues to be rapidly adopted by individuals and organizations across a wide range of industries, courts are seeing a corresponding surge in legal disputes arising from its development and use. These cases span a wide range of issues, primarily focusing on: (i) the nature and sourcing of input data used in AI model training and whether such use constitutes fair use; and (ii) the alleged harms created by the deployment of GenAI products and...<br>By: <a href=\"https://www.jdsupra.com/profile/white_case/\">White &amp; Case LLP</a>",
       "content": "",
       "categories": [
         "reading-list",
@@ -1574,40 +1606,6 @@
       "published_at": "2026-04-22T07:41:28+00:00",
       "updated_at": "",
       "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-at-07.09.45.png\" alt=\"Screenshot-2026-04-22-at-07.09.45.png\"></p>By Alex Tring, BigHand. For all the noise around AI reshaping legal work, one thing is clear: successful adoption is only possible in firms that <a href=\"https://www.artificiallawyer.com/2026/04/22/how-to-unlock-the-real-value-of-legal-ai/\" title=\"How To Unlock the Real Value of Legal AI\">...</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67433480",
-      "title": "How AI Will Transform The Legal Business Model",
-      "url": "https://www.artificiallawyer.com/2026/04/22/how-ai-will-transform-the-legal-business-model/",
-      "author": "artificiallawyer",
-      "source": "Artificial Lawyer",
-      "published_at": "2026-04-22T06:48:02+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-at-07.40.07.png\" alt=\"Screenshot-2026-04-22-at-07.40.07.png\"></p>Ahead of the landmark Legal Innovators Europe conference in Paris – June 24 and 25, AL spoke to Olivier Chaduteau, founder of the Day Two <a href=\"https://www.artificiallawyer.com/2026/04/22/how-ai-will-transform-the-legal-business-model/\" title=\"How AI Will Transform The Legal Business Model\">...</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "read",
-        "Legal Tech Core",
-        "High-Signal",
-        "Noise"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b672df441",
-      "title": "Georgia Ponzi-Scheme Guilty Plea Highlights Continued Federal Fraud Pressure",
-      "url": "https://www.legaltechmonitor.com/2026/04/georgia-ponzi-scheme-guilty-plea-highlights-continued-federal-fraud-pressure/",
-      "author": "brunoqueirozdocketalarm-com",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-04-21T22:01:33+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>Even on a day when Supreme Court and regulatory developments drew most of the legal-news attention, federal fraud enforcement continued to move forward in a way that should not be overlooked by practitioners. A recent guilty plea in a major Ponzi-scheme prosecution brought by federal prosecutors in Georgia is a reminder that the Department of Justice remains active in pursuing large-scale investor-fraud cases, particularly those involving prolonged alleged deception, significant financial losses, and broad victim pools.</p><p>The matter centers on Todd Burkhalter and proceedings in federal district court in Georgia, where prosecutors have advanced charges tied to an alleged Ponzi scheme. The guilty plea is significant not just because it marks progress in an individual prosecution, but because it reflects a broader enforcement backdrop: white-collar cases remain a core part of the federal criminal docket even when they are not the day’s headline story.</p><p>For legal professionals, the takeaway is practical. Fraud prosecutions of this kind often generate parallel exposure beyond the criminal case itself, including SEC scrutiny, receiver actions, bankruptcy disputes, civil investor suits, insurance coverage fights, and follow-on claims against professionals, affiliates, or third-party service providers. Litigators should expect guilty pleas and related admissions to shape discovery strategy, settlement leverage, and evidentiary arguments in collateral proceedings. In-house counsel and compliance teams, meanwhile, should view these cases as renewed proof that basic anti-fraud controls remain a priority enforcement area.</p><p>This also matters because Ponzi-scheme cases continue to offer prosecutors a relatively clear narrative for juries and judges: promises of returns, misuse of incoming investor funds, and efforts to conceal insolvency or losses. When the government secures a plea in that setting, it reinforces DOJ’s ability to resolve complex financial cases without trial while still preserving deterrence messaging. That can have ripple effects for how defense counsel evaluate cooperation, sentencing exposure, forfeiture issues, and restitution negotiations in other fraud matters.</p><p>For compliance officers, the lesson is equally straightforward. Internal controls around investor communications, fund flows, marketing representations, and escalation of financial irregularities remain essential. A case does not need to be tied to a blockbuster corporate name to create serious consequences for executives, advisers, and entities operating in adjacent markets.</p><p>In short, although the day’s most prominent legal developments may have arisen elsewhere, the Georgia prosecution is a useful signal that federal fraud enforcement remains very much alive. For attorneys tracking risk, enforcement trends, and downstream civil exposure, these cases continue to deserve close attention.</p>",
       "content": "",
       "categories": [
         "reading-list",
