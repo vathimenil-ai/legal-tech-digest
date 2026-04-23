@@ -1,8 +1,56 @@
 {
   "feed_type": "priority",
-  "fetched_at": "2026-04-23T12:46:10.998358+00:00",
-  "item_count": 10,
+  "fetched_at": "2026-04-23T16:50:41.991084+00:00",
+  "item_count": 7,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b683fd37b",
+      "title": "npx workos: From Auth Integration to Environment Management, Zero ClickOps (Sponsor)",
+      "url": "https://workos.com/docs/authkit/cli-installer?utm_source=tldrai&amp;utm_medium=newsletter&amp;utm_campaign=q22026",
+      "author": "",
+      "source": "TLDR AI Feed",
+      "published_at": "2026-04-22T00:00:00+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://og-images.workos.com/api/docs/?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6IkF1dGhLaXQiLCJ0aXRsZSI6IkFJIEluc3RhbGxlciAmIENMSSIsImRlc2NyaXB0aW9uIjoiSW50ZWdyYXRlIEF1dGhLaXQgd2l0aCBvbmUgY29tbWFuZCwgbWFuYWdlIHJlc291cmNlcywgcHJvdmlzaW9uIGVudmlyb25tZW50cywgYW5kIGVxdWlwIHlvdXIgY29kaW5nIGFnZW50cyDigJQgYWxsIGZyb20gdGhlIFdvcmtPUyBDTEkiLCJpYXQiOjE3NzY4ODMwOTd9.cfY7mCls_x82CXhy-6nMNZFBFsi1O_Q93nl6UNwOQdA\" alt=\"?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.\"></p>npx workos@latest launches an AI agent, powered by Claude, that reads your project, detects your framework, and writes a complete auth integration into your codebase. No signup required. It creates an environment, populates your keys, and you claim your account later when you're ready.But the CLI goes way beyond installation. WorkOS Skills make your coding agent a WorkOS expert. workos seed defines your environment as code. workos doctor finds and fixes misconfigurations. And once you're authenticated, your agent can manage users, orgs, and environments directly from the terminal. No more ClickOps.See how it works →",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI-digest-candidates",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b683fd34f",
+      "title": "Build, Deploy, and Scale AI Infrastructure faster with Runpod (Sponsor)",
+      "url": "https://www.runpod.io/?inflect=&amp;targetid=kwd-461794446387&amp;adgroupid=189724568342&amp;loc_interest=&amp;loc_physical=9012242&amp;utm_term=tldrai&amp;utm_campaign=homepage&amp;utm_source=fnf&amp;utm_medium=newsletter&amp;hsa_acc=4558579452&amp;hsa_cam=23516214656&amp;hsa_grp=189724568342&amp;hsa_ad=797799116312&amp;hsa_src=g&amp;hsa_tgt=kwd-461794446387&amp;hsa_kw=runpod&amp;hsa_mt=e&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gad_campaignid=23516214656&amp;gbraid=0AAAAAoZSBmm_mSAwIfhLEqmrXZN5buVzH&amp;gclid=CjwKCAjw7vzOBhBxEiwAc7WNr_bxZ7lF9pJE1bLS0pbFJ79N79Y2ltJ4iVWWnUb-AdHNb0lPSb2PpRoCPMQQAvD_BwE&amp;utm_content=homepage",
+      "author": "",
+      "source": "TLDR AI Feed",
+      "published_at": "2026-04-22T00:00:00+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://cdn.prod.website-files.com/67d20fb9f56ff2ec6a7a657d/6851a6263ab19185a7db2ae3_e3501b2e5eeac39a00cc46ddd17244b4_opengraph-cover-image.jpg\" alt=\"6851a6263ab19185a7db2ae3_e3501b2e5eeac39\"></p>Runpod is a GPU cloud developers use to launch pods, run inference, and autoscale on demand. Pay only for what you use. Start scaling today.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI-digest-candidates",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b683ed60c",
+      "title": "ChatGPT's Nano Banana",
+      "url": "https://www.bensbites.com/p/chatgpts-nano-banana",
+      "author": "Ben Tossell",
+      "source": "Ben's Bites",
+      "published_at": "2026-04-23T13:10:10+00:00",
+      "updated_at": "",
+      "summary": "<p>Hey folks, Keshav here.</p><p>For a few months, it felt like Google had won the image generation space. But OpenAI is back in the game. <strong><a href=\"https://openai.com/index/introducing-chatgpt-images-2-0/\">ChatGPT Images 2.0</a></strong> is miles ahead of anything. It’s beyond impressive at text, I haven’t seen any generation with typos, even with hundreds of words per image. See this example I created:</p><div><figure><a href=\"https://substackcdn.com/image/fetch/%24s_!jFHV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca4481fe-ef11-4f41-ba1b-b18b487d67a0_1448x1086.png\"></a><div><a href=\"https://substackcdn.com/image/fetch/%24s_!jFHV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca4481fe-ef11-4f41-ba1b-b18b487d67a0_1448x1086.png\"></a><source type=\"image/webp\"><a href=\"https://substackcdn.com/image/fetch/%24s_!jFHV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca4481fe-ef11-4f41-ba1b-b18b487d67a0_1448x1086.png\"><img src=\"https://substackcdn.com/image/fetch/%24s_!jFHV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca4481fe-ef11-4f41-ba1b-b18b487d67a0_1448x1086.png\" width=\"1448\" height=\"1086\" alt=\"\"></a></source><a href=\"https://substackcdn.com/image/fetch/%24s_!jFHV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca4481fe-ef11-4f41-ba1b-b18b487d67a0_1448x1086.png\"></a><div><a href=\"https://substackcdn.com/image/fetch/%24s_!jFHV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca4481fe-ef11-4f41-ba1b-b18b487d67a0_1448x1086.png\"></a><div><a href=\"https://substackcdn.com/image/fetch/%24s_!jFHV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca4481fe-ef11-4f41-ba1b-b18b487d67a0_1448x1086.png\"></a></div><a href=\"https://substackcdn.com/image/fetch/%24s_!jFHV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca4481fe-ef11-4f41-ba1b-b18b487d67a0_1448x1086.png\"></a></div><a href=\"https://substackcdn.com/image/fetch/%24s_!jFHV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca4481fe-ef11-4f41-ba1b-b18b487d67a0_1448x1086.png\"></a></div><a href=\"https://substackcdn.com/image/fetch/%24s_!jFHV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca4481fe-ef11-4f41-ba1b-b18b487d67a0_1448x1086.png\"></a></figure></div><p>It’s also really good at creating realistic pictures, like this one of Professor Ben. </p><div><figure><a href=\"https://x.com/bentossell/status/2046824877844238520\"></a><div><a href=\"https://x.com/bentossell/status/2046824877844238520\"></a><source type=\"image/webp\"><a href=\"https://x.com/bentossell/status/2046824877844238520\"><img src=\"https://substackcdn.com/image/fetch/%24s_!Yfpk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b503787-71b6-4605-b216-0423e09ca4be_1536x925.jpeg\" width=\"1536\" height=\"925\" alt=\"Image\" title=\"Image\"></a></source><a href=\"https://x.com/bentossell/status/2046824877844238520\"></a><div><a href=\"https://x.com/bentossell/status/2046824877844238520\"></a><div><a href=\"https://x.com/bentossell/status/2046824877844238520\"></a></div><a href=\"https://x.com/bentossell/status/2046824877844238520\"></a></div><a href=\"https://x.com/bentossell/status/2046824877844238520\"></a></div><a href=\"https://x.com/bentossell/status/2046824877844238520\"></a></figure></div><p>Oh, sorry, that one’s real. <a href=\"https://x.com/bentossell/status/2046824877844238520\">Ben was at Stanford</a> this Wednesday, teaching how to build with AI agents.</p><p>Image generation is also available in the Codex app as a skill. Use it with thinking models to get the best results—that lets it think and use code/tool calls (like creating a QR from a link, searching logos from the web) and then use them as reference images. It can also create images, reflect on them and improve the generation.</p><p>People are creating <a href=\"https://x.com/OpenAI/status/2046589828918317155\">realistic UI screenshots</a>, <a href=\"https://x.com/wolfejosh/status/2047028753445118445\">multi-page illustrated magazines</a>, <a href=\"https://x.com/clairevo/status/2046764362803867896\">personal style recommendations</a> and <a href=\"https://x.com/ann_nnng/status/2046888449664499805\">creative QR codes</a> using the new model. </p><p>The “generate UI as image” bit is interesting. Maybe there’s finally a solution to GPT-5.4’s lack of design taste. The latest coding models are fairly good at turning screenshots into code, but there are still gaps.</p><p>Last weekend, I tested a bunch of tools/models on <a href=\"https://x.com/Keshavatearth/status/2042529858249691590\">implementing a design</a> (for an ads storefront for Ben’s Bites) from a screenshot. I found:</p><ul><li><p><a href=\"https://x.com/Keshavatearth/status/2045390815154126892\">Claude Design &gt; Magicpath AI</a> &gt; Raw models (like Gemini 3.1 Pro/Opus 4.6 in their web apps), when it comes to understanding the concept and making something usable, not just copying the pixel-by-pixel look (ironically, Gemini won that).</p></li><li><p>When asked to turn designs into a real working app, there was a major drift in how the apps looked. <a href=\"https://x.com/Keshavatearth/status/2045385400295038997\">Opus 4.7</a> did better than <a href=\"https://x.com/Keshavatearth/status/2045629048320360452\">GPT-5.4</a> at visually matching the reference screenshot. Though GPT-5.4’s code was more functional, and the unseen pages (like the admin panel) had a consistent design with the rest of the app.</p></li></ul><p>Also, in many cases, the assets (hero image, icons, background textures) make the UI in a “generated image” stand out. When replicating that UI from a screenshot, you get the barebones UI with the correct buttons and the layout, but without those assets, and the output falls short of expectations.</p><div><hr></div><p><em>Ben’s Bites is brought to you by <a href=\"https://www.tinyfish.ai/?utm_source=newsletter&amp;utm_medium=paid-social&amp;utm_campaign=general-developer-2026q2&amp;utm_term=bensbites\">TinyFish</a></em></p><blockquote><p>Funny how AI agents can write entire apps but can’t work on the live web. Playwright scripts break, raw fetches eat your context, bot detection blocks you, nothing’s scalable. <strong><a href=\"https://www.tinyfish.ai/?utm_source=newsletter&amp;utm_medium=paid-social&amp;utm_campaign=general-developer-2026q2&amp;utm_term=bensbites\">TinyFish</a></strong> gives search, fetch, stealth browser, web agent, all managed in one API. <strong><a href=\"https://www.tinyfish.ai/?utm_source=newsletter&amp;utm_medium=paid-social&amp;utm_campaign=general-developer-2026q2&amp;utm_term=bensbites\">Try it free</a></strong>. Comes with a <strong><a href=\"https://github.com/tinyfish-io/tinyfish-cookbook\">CLI + Skill</a></strong>.</p></blockquote><div><hr></div><h4>Headlines</h4><ul><li><p>OpenAI has a new product for Business, Enterprise and Edu users - <strong><a href=\"https://openai.com/business/workspace-agents/\">Workspace Agents</a></strong>. Codex-powered agents inside ChatGPT with a persona, task and access to external tools (like Linear) and accessible for Slack as well. These agents will also replace custom GPTs down the line (finally). <a href=\"https://openai.com/index/introducing-workspace-agents-in-chatgpt/\">Read more</a>.</p></li><li><p><strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/\">Gemini Deep Research API</a></strong> now offers two configurations based on 3.1 Pro. It claims the best performance in web research and finding hard facts. Plus, it gets MCP support and can create charts using Nano Banana or HTML.</p></li><li><p><strong><a href=\"https://x.com/SpaceX/status/2046713419978453374\">Cursor and SpaceX are working together</a></strong> - Cursor will train coding models on SpaceX’s GPUs and likely share them with xAI. SpaceX can, in turn, acquire Cursor later this year for $60B, or pay $10B for the partnership if it doesn’t. On a similar note, <a href=\"https://x.com/TechCrunch/status/2046925764067573793\">Thinking Machines</a> also just signed a multi-billion-dollar Google Cloud deal.</p></li><li><p><strong><a href=\"https://factory.ai/news/droid-computers\">Give your Droid a computer</a></strong> - You can now give your Droid an always-on machine with its own filesystem, credentials, and config for it to keep working on your tasks. This can be in the cloud (managed by Factory), or you can bring your own device. </p></li></ul><div><hr></div><p><a href=\"https://www.bensbites.com/subscribe?\"><span>Subscribe now</span></a></p><div><hr></div><h4>My feed</h4><ul><li><p><a href=\"https://chr.so/notes-to-decks\">Chronicle</a> - <strong>Cursor for slides</strong>. Never build a deck from scratch again. Turn ideas into stunning presentations in minutes.*</p></li><li><p><a href=\"https://marketplace.microsoft.com/en-us/product/office/WA200010215\">ChatGPT for Excel</a> and <a href=\"https://workspace.google.com/marketplace/app/chatgpt/870214997678\">Google Sheets</a> are now in beta - build new sheets, fix formulas, explain models, and update workbooks in place. (<a href=\"https://help.openai.com/en/articles/20001063-chatgpt-for-excel\">read more</a>)</p></li><li><p><a href=\"https://x.com/ClaudeDevs/status/2046999435239133246\">/ultrareview in Claude Code</a> (research preview) lets you run bug-hunting agents in the cloud before merging riskier changes like auth, data migrations, or other critical code paths.</p></li><li><p>OpenAI built an open-source viewer for chat data and Codex session logs - <a href=\"https://x.com/OpenAIDevs/status/2046620363568890230\">Euphony</a>.</p></li><li><p>Sierra is piloting an <a href=\"https://sierra.ai/blog/the-ai-native-interview\">AI-native interview</a> - debugging/review focused interviews where candidates improve a medium-sized codebase with coding agents.</p></li><li><p><a href=\"https://github.com/huggingface/ml-intern/tree/main\">ml-intern</a> from Hugging Face - open-source research agent to come up with experiments, and run them.</p></li><li><p><a href=\"https://x.com/garrytan/status/2046650800752279906\">Clawputer</a> - Managed OpenClaw agent inside an always-on sandbox.</p></li><li><p><a href=\"https://github.com/tw93/kami\">Kami</a> - design skill for AI-native docs, resumes, portfolios, long docs, and slides.</p></li><li><p><a href=\"https://x.com/noscroll/status/2046644280798933406\">noscroll</a> - an AI that doomscrolls X for you and texts you just the signal. In my experience, this is easy to claim and hard to get right.</p></li><li><p><a href=\"https://x.com/usemonologue/status/2046624117278085461\">Monologue</a> has a new Notes feature for thinking out loud when you don’t know the exact words you want to dictate.</p></li><li><p><a href=\"https://x.com/destraynor/status/2046995005655429344\">Fin</a> is moving beyond customer support into sales - using the same business context and integrations to qualify leads and book meetings.</p></li><li><p><a href=\"https://x.com/AravSrinivas/status/2047019688920756504\">Perplexity post-trained a Qwen-based model</a> to handle search and tool calls for cheaper, and it’s already serving a meaningful chunk of traffic.</p></li><li><p><a href=\"https://x.com/brian_lovin/status/2046737425066786990\">The next Slack won’t look like Slack</a>, and <a href=\"https://x.com/startingfromnix/status/2046643706636456427\">Ando</a> looks like one early attempt at that.</p></li><li><p><a href=\"https://x.com/leerob/status/2046788389937000576\">Frontend in 2026</a> - for and against the frameworks and abstractions dominant today.</p></li></ul><div><hr></div><h4>Afters</h4><p></p><div></div><div></div><div></div><div></div><div></div><p></p><p><a href=\"https://www.bensbites.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share\"><span>Share Ben's Bites</span></a></p><div><hr></div><ul><li><p>Find me on <a href=\"https://x.com/bentossell/\">X</a>, <a href=\"https://www.linkedin.com/in/ben-tossell-70453537/\">Linkedin</a>, or <a href=\"https://www.youtube.com/@bentossell694\">YouTube</a></p></li><li><p>Read <a href=\"https://bensbites.substack.com/about\">about me</a> and Ben’s Bites</p></li><li><p>📷 thumbnail by <a href=\"https://www.x.com/keshavatearth\">@keshavatearth</a></p></li></ul><blockquote><h6><em>* sponsors who make this newsletter possible :)</em></h6><h6><em>Wanna partner with us for the next quarter? </em></h6><h6><em>Email us at <a href=\"mailto:shanice@bensbites.com\">shanice@bensbites.com</a> or <a href=\"mailto:k@bensbites.com\">k@bensbites.com</a></em></h6></blockquote><div><div><div><p>Ben's Bites is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.</p></div><div><div></div><div></div></div></div></div>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI-digest-candidates",
+        "Priority"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b67984c2f",
       "title": "Global Legal Tech Alliance forms to “shape the future of AI-enabled legal services”",
@@ -40,22 +88,6 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b677f4478",
-      "title": "Jeff Bezos Nears $10 Billion Funding for AI Lab, FT Says (2 minute read)",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3Njc0ODE3NiwiZXhwIjoxNzc3MzUyOTc2LCJhcnRpY2xlSWQiOiJURFRLU0dUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.sX-DZMr66hgD5DygNPFOhid8SRbXVApVC_dCvXKMmGw&utm_source=tldrai",
-      "author": "",
-      "source": "TLDR AI Feed",
-      "published_at": "2026-04-21T00:00:00+00:00",
-      "updated_at": "",
-      "summary": "Jeff Bezos' AI startup, which is aiming to develop models with the capability of understanding the physical world, is close to finalizing a $10 billion funding round. The company, code-named Project Prometheus, will use AI to accelerate engineering and manufacturing in fields like aerospace and automobiles. It was set up with an initial $6.2 billion in funding, sourced in part by Bezos himself. The new funding round, which is expected to close soon but has not been finalized, will include JPMorgan and BlackRock as investors.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI-digest-candidates",
-        "Priority"
-      ]
-    },
-    {
       "id": "tag:google.com,2005:reader/item/0000000b6772f6b9",
       "title": "Google DeepMind Partnerships in India: scaling AI in science and education",
       "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
@@ -84,95 +116,6 @@
       "categories": [
         "reading-list",
         "eDiscovery - Litigation",
-        "High-Signal",
-        "Priority"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b66d9e2e2",
-      "title": "DeepJudge partners with Epiq to help law firms apply AI at scale",
-      "url": "https://legaltechnology.com/2026/04/21/deepjudge-partners-with-epiq-to-help-law-firms-apply-ai-at-scale/",
-      "author": "Caroline Hill - Editor-in-Chief",
-      "source": "Legal IT Insider",
-      "published_at": "2026-04-21T14:44:02+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://legaltechnology.com/wp-content/uploads/2025/10/handshake-new-size.jpg\" alt=\"handshake-new-size.jpg\"></p><p>DeepJudge has partnered with Epiq Advisory for Law Firms in a move aimed at helping law firms scale AI beyond experimentation and into firm‑wide, governed deployment. Announced today (21 April), […]</p>  \n<p>The post <a href=\"https://legaltechnology.com/2026/04/21/deepjudge-partners-with-epiq-to-help-law-firms-apply-ai-at-scale/\">DeepJudge partners with Epiq to help law firms apply AI at scale</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "read",
-        "Legal Tech Core",
-        "High-Signal",
-        "Noise",
-        "Priority"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b66be202b",
-      "title": "DeepJudge + Epiq Advisory Partner For KM Implementation",
-      "url": "https://www.artificiallawyer.com/2026/04/21/deepjudge-epiq-advisory-partner-for-km-implementation/",
-      "author": "artificiallawyer",
-      "source": "Artificial Lawyer",
-      "published_at": "2026-04-21T13:02:52+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-at-13.40.46-1.png\" alt=\"Screenshot-2026-04-21-at-13.40.46-1.png\"></p>AI-driven KM startup DeepJudge is partnering with Epiq Advisory for Law Firms, the consulting group attached to the multi-capability legal tech conglomerate, Epiq. The partnership <a href=\"https://www.artificiallawyer.com/2026/04/21/deepjudge-epiq-advisory-partner-for-km-implementation/\" title=\"DeepJudge + Epiq Advisory Partner For KM Implementation\">...</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal",
-        "Priority"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b66bb93b1",
-      "title": "LexisNexis and Luminance form alliance to embed citation-backed legal AI into contract workflows",
-      "url": "https://legaltechnology.com/2026/04/21/lexisnexis-and-luminance-form-alliance-to-embed-citation-backed-legal-ai-into-contract-workflows/",
-      "author": "Caroline Hill - Editor-in-Chief",
-      "source": "Legal IT Insider",
-      "published_at": "2026-04-21T12:05:01+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://legaltechnology.com/wp-content/uploads/2026/04/Technology-jigsaw-1-1.png\" alt=\"Technology-jigsaw-1-1.png\"></p><p>Legal IT Insider speakers with Luminance’s CEO Eleanor Lightbody about the new partnership, which she says will help drive the trend towards in‑house teams deciding what to do internally and […]</p>  \n<p>The post <a href=\"https://legaltechnology.com/2026/04/21/lexisnexis-and-luminance-form-alliance-to-embed-citation-backed-legal-ai-into-contract-workflows/\">LexisNexis and Luminance form alliance to embed citation-backed legal AI into contract workflows</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "read",
-        "Legal Tech Core",
-        "High-Signal",
-        "Noise",
-        "Priority"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b66b4540d",
-      "title": "LexisNexis and Luminance Announce Partnership to Embed Protégé Inside Luminance’s Contract Platform",
-      "url": "https://www.lawnext.com/2026/04/lexisnexis-and-luminance-announce-partnership-to-embed-protege-inside-luminances-contract-platform.html",
-      "author": "Bob Ambrogi",
-      "source": "Robert Ambrogi's LawSites",
-      "published_at": "2026-04-21T12:00:36+00:00",
-      "updated_at": "2026-04-21T17:06:54+00:00",
-      "summary": "<img width=\"1024\" height=\"576\" src=\"https://www.lawnext.com/wp-content/uploads/2026/04/LexisNexis-Luminence-Partnership-1024x576.png\" alt=\"\" style=\"float:left;margin:0 15px 15px 0;\">LexisNexis and Luminance today announced a partnership that will let mutual in-house legal customers access LexisNexis’s Protégé AI assistant from inside Luminance’s contract negotiation platform, with a pathway to move into Lexis+ with Protégé for more involved legal work. Under the arrangement, users working in Luminance’s natural-language assistant, Lumi, can pose legal questions and receive […]",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal",
-        "Priority"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b668ba3bc",
-      "title": "AL TV Product Walk Through: AltaClaro - DepoSim, Virtual Legal Training for Depositions",
-      "url": "https://www.youtube.com/watch?v=USGx4BgwQCI",
-      "author": "Artificial Lawyer",
-      "source": "Artificial Lawyer",
-      "published_at": "2026-04-21T06:26:22+00:00",
-      "updated_at": "",
-      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=USGx4BgwQCI\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>AL TV Product Walk Through: AltaClaro - DepoSim, Virtual Legal Training for Depositions<br> \n<br> \nDepoSim is an AI-powered deposition simulator that enables attorneys to practice live oral depositions on demand in realistic litigation scenarios. AI agents act as the witness, opposing counsel, and court reporter, creating an interactive experience that delivers structured, rubric-based feedback within minutes. Built on detailed case facts, witness backstories, and a rigorous evaluation framework, it covers the full deposition process, including questioning, objections, exhibits, and opening and closing protocols.<br> \n<br> \nThe platform addresses a major gap in legal training: traditional deposition practice is costly, infrequent, and lacks consistent, objective feedback. DepoSim makes skill development repeatable and scalable, allowing attorneys to improve faster while giving firms better tools to coach performance.<br> \n<br> \nDeveloped in partnership with Verbit.ai, DepoSim combines advanced speech and language technology with AltaClaro’s simulation-based training expertise. Its guardrailed AI environment, adjustable difficulty, and unlimited practice opportunities enable deliberate, measurable skill development aligned with real-world litigation standards.<br> \n<br> \nvia Artificial Lawyer</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
         "High-Signal",
         "Priority"
       ]
