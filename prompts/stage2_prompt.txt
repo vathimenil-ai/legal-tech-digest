@@ -182,7 +182,59 @@ Feedback. The word "Epiq" should appear in the brief only when
 referring to a specific, named development that involves Epiq
 directly (e.g., "Epiq's acquisition of LitLingo").
 
-### 10) Never expose internal workflow language in the brief
+### 10) Write in plain business journalism prose, not consultant-speak
+
+The voice target is a senior writer at a quality business publication —
+*Wall Street Journal*, *Bloomberg Law*, or *New York Times Business*.
+Every sentence must land on the first read without re-parsing.
+
+**Four rules — apply to every sentence:**
+
+1. **Lead with the concrete fact, not the abstract category.**
+   Open with what happened before explaining why it matters. Avoid
+   sentences that begin with an abstract noun phrase or a gerund
+   describing a structural condition.
+
+2. **Break long sentences into two.**
+   If a sentence contains more than two clauses or runs past ~30 words,
+   split it. Simple declarative sentences are preferred.
+
+3. **Eliminate noun-stacking.**
+   Consecutive nouns used as modifiers become opaque. Convert them to
+   normal English: "cross-jurisdictional compliance architecture" →
+   "compliance across multiple states."
+
+4. **Replace empty abstractions with concrete claims.**
+   "Underpins significant commercial opportunity," "represents a
+   meaningful development," "positions players favorably" — these are
+   filler. Replace them with specific statements about who benefits,
+   how, and when.
+
+**Before / After examples:**
+
+❌ "The multi-state governance enforcement framework underpins
+   significant commercial opportunity for providers with
+   cross-jurisdictional compliance architectures."
+✅ "Several states are now enforcing AI governance rules. Legal
+   services firms that already operate across state lines are
+   best placed to help clients stay compliant."
+
+❌ "LSPs with governed AI environments are positioned to capture
+   recurring advisory and implementation revenue streams."
+✅ "Legal services firms with clear AI governance programs can turn
+   clients' compliance anxiety into an ongoing service line."
+
+❌ "The evidentiary weaponization of AI records represents a material
+   shift in the litigation risk calculus for organizations deploying
+   generative AI tools in operational contexts."
+✅ "Courts aren't just ruling that AI conversation logs are
+   discoverable — they're using them to win cases. That changes
+   how seriously organizations need to treat records management."
+
+This rule applies everywhere in the brief — Bottom Line, What Changed,
+Market Implications, Watch Next, and Source Quality Feedback.
+
+### 11) Never expose internal workflow language in the brief
 
 The reader-facing brief must contain no references to internal
 pipeline concepts, signal tiers, or analytical process steps.
