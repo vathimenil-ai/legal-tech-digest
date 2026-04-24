@@ -1,58 +1,33 @@
 # Legal Tech Intelligence — Thursday, April 24, 2026
-*Frontier models tighten their coupling to legal workflows; Sedona Conference moves to standardize AI evidence evaluation*
-
----
 
 ## Bottom Line
 
-- **OpenAI's GPT-5.5 release matters less for what the model does than for how fast Harvey translated it into legal-specific analysis — within hours, not weeks.** Each frontier model advance now propagates into legal AI tools almost immediately, compressing the timeline on which legal services providers must decide whether to build, partner, or cede ground.
-
-- **The Sedona Conference published a decision tree for evaluating AI-generated evidence — the first structured framework of its kind.** Sedona publications have a track record of becoming court-cited standards (as happened with their TAR guidance). If this follows the same path, it will define what "good" AI evidence handling looks like and create a concrete service line for providers that can operationalize it.
-
----
+- **Nearly half of corporate legal departments now report department-wide AI adoption**, according to the Thomson Reuters Institute's 2026 report — the first major legal-industry survey to quantify adoption at this level. This compresses the timeline for when LSPs must have AI-native service offerings and governance capabilities market-ready, and intensifies every open question about pricing, insourcing risk, and governance demand.
 
 ## What Changed
 
-### 1. GPT-5.5 launches; Harvey publishes legal analysis within hours
+### Thomson Reuters Institute: ~50% of legal departments report department-wide AI deployment
 
-**What happened:** OpenAI released GPT-5.5, which TechCrunch described as moving the company toward an AI "superapp" integrating reasoning, coding, and multimodal capabilities. Harvey immediately published an analysis of the model's implications for legal workflows.
+**What happened:** The Thomson Reuters Institute's 2026 State of the Corporate Law Department Report found that nearly half of corporate legal departments now have department-wide AI adoption, with technology rising to a top strategic priority for general counsel.
 
-**What's new:** The signal here is not the model itself — frontier releases are now routine. What's new is the near-zero latency between a frontier model launch and its absorption into legal AI products. Harvey is no longer evaluating new models over weeks; it is publishing legal-specific capability assessments on the same day. This tight coupling means that each capability step from OpenAI, Anthropic, or Google translates into upgraded legal AI tools almost immediately.
+**What's new:** Prior evidence pointed to cautious, experimental adoption — firms treating AI output as a first draft, accuracy below 70% on complex tasks, and a consensus 3–5 year horizon before AI-first workflows on significant matters. This is the first legal-specific industry survey to put a number on department-wide deployment, and it lands at roughly 50%. That figure converges with Anthropic's Economic Index finding that 40% of the broader US workforce now uses AI at work. Two independent data sources — one legal-specific, one economy-wide — now tell the same story: adoption is further along than the cautious professional consensus has assumed.
 
-**Why it matters:** The "3-5 year" consensus timeline for AI maturity in legal work is under pressure not from any single breakthrough but from a continuous drumbeat of frontier advances that legal AI vendors convert into practice tools in real time. For legal services providers competing on workflow orchestration and governance, the window to establish defensible positions narrows with each release cycle. Providers without a clear AI integration strategy risk falling behind not gradually but in discrete jumps that correspond to frontier model releases. [Sources: 1, 2]
+**Why it matters:** The practical question for legal services providers shifts from "when will clients adopt AI" to "how many of our clients are already operating AI-native departments, and are our offerings built for them?" If half of corporate legal departments are deploying AI at scale, three dynamics accelerate simultaneously. First, revenue-per-unit compression arrives sooner — departments using AI internally have both the data and the leverage to demand lower pricing or restructure engagements. Second, insourcing risk grows — departments with department-wide AI capability are the ones most likely to pull work in-house, as the Google X signal already suggested. Third, governance demand intensifies — more AI usage across more workflows generates a larger compliance surface, strengthening the case for managed governance services. The Robinson+Cole analysis framing this as a shift "from experimentation to strategy" at the GC level is the key interpretive point: this is no longer a technology conversation — it is a procurement and operating-model conversation.
 
-### 2. Sedona Conference publishes decision tree for AI-generated evidence
-
-**What happened:** The Sedona Conference Journal published a "Decision Tree for Evaluating AI-Generated Evidence," providing the first structured analytical framework for courts and practitioners to assess the reliability, admissibility, and weight of AI-generated evidence.
-
-**What's new:** Until now, the handling of AI evidence in litigation has been ad hoc — individual courts making case-by-case determinations without a shared methodology. The Sedona Conference's decision tree provides that methodology. This is significant because Sedona publications carry outsized weight in eDiscovery: their TAR guidelines shaped an entire generation of review practice and are regularly cited by courts.
-
-**Why it matters:** If this decision tree follows the adoption pattern of prior Sedona frameworks, it will become a de facto standard that courts reference when ruling on AI evidence disputes. That creates two immediate implications. First, it systematizes what was previously an unpredictable evidentiary risk — the kind of weaponization seen in the recent Fortis v. Krafton ruling, where AI conversation logs were used as dispositive adverse evidence in a $250M dispute, now has a structured evaluation path. Second, it creates a concrete service opportunity: legal services providers that can help clients evaluate, prepare, and defend AI-generated evidence using the Sedona framework will have a referenceable methodology to anchor their offerings. Discovery providers should obtain and analyze the full publication for product and service implications. [Sources: 3]
-
----
+An important caveat: "department-wide adoption" could mean anything from universal ChatGPT access to integrated AI across contract review, discovery, and compliance workflows. The headline number needs granular breakdown before it rewrites strategic plans. But even at the shallow end of that range, it signals that corporate legal buyers are further down the AI curve than many service providers have assumed. [Sources: 1]
 
 ## Watch Next
 
-- **Whether courts begin citing the Sedona AI Evidence Decision Tree** in rulings on AI-generated evidence within the next 6-12 months — early citations would confirm it is following the TAR-guidelines adoption pattern and becoming a binding practice standard.
-
-- **How quickly GPT-5.5 capabilities appear in legal AI vendor products beyond Harvey** — specifically, whether Thomson Reuters CoCounsel, Clio, or other platforms announce GPT-5.5 integrations in the coming weeks, which would confirm the tight-coupling pattern is industry-wide, not Harvey-specific.
-
----
+- **Whether the full Thomson Reuters Institute report breaks down adoption by workflow type, department size, and governance maturity.** The headline finding is striking but ambiguous. If the data shows integrated workflow adoption (not just chatbot licensing), it materially compresses the timeline for AI-native service design. If it shows broad but shallow adoption, the governance opportunity strengthens while the pricing pressure is less immediate.
 
 ## Source Quality Feedback
 
-- **Highest-value sources today:** *TechCrunch* broke the GPT-5.5 release with substantive product detail rather than marketing language. *eDiscovery Today* surfaced the Sedona Conference Decision Tree publication — a development with outsized practical significance that was not covered by other feeds.
+- **Highest-value source today:** Robinson+Cole via JD Supra — surfaced the Thomson Reuters Institute report finding with analytical framing that distinguished it from generic AI adoption commentary. This was the only source in today's feed that introduced a genuinely new, quantified data point with strategic implications.
 
-- **Lowest-value or most repetitive sources today:** *JD Supra* delivered multiple law firm commentaries on developments already captured in prior cycles (Alabama privacy law, BIPA damages cap, Meta verdict) without adding new primary signal. Several articles were repackaged client alerts.
+- **Lowest-value sources today:** Multiple outlets recycled previously captured stories (Freshfields-Anthropic, Sullivan & Cromwell hallucination, Global Legal Tech Alliance) without adding new information. Legal IT Insider and Legal Tech Monitor each ran duplicate coverage of developments already in the ledger from prior days.
 
-- **Today's intake note:** The most actionable signal today came from a specialist eDiscovery source (eDiscovery Today) rather than generalist legal tech publications — a reminder that domain-specific feeds punch above their weight for standards-body and practice-framework developments that generalist outlets often miss.
-
----
+- **Today's intake note:** Unusually high duplication rate — of ~20 candidates, only 2 were genuinely new, and only 1 cleared the materiality threshold. The Thomson Reuters Institute's full 2026 report is not yet in the feed directly; adding the Thomson Reuters Institute publication channel would allow primary-source capture rather than relying on secondary law firm commentary.
 
 ## Sources
 
-1. OpenAI GPT-5.5 "superapp" model release — TechCrunch, April 23, 2026 — https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/
-
-2. Harvey analysis of GPT-5.5 for legal AI — Artificial Lawyer, April 24, 2026 — https://www.artificiallawyer.com/2026/04/24/harvey-on-gpt-5-5-clio-vs-the-status-quo-legal-innovators/
-
-3. Sedona Conference Decision Tree for AI-Generated Evidence — eDiscovery Today, April 24, 2026 — https://ediscoverytoday.com/2026/04/24/decision-tree-for-evaluating-ai-generated-evidence-artificial-intelligence-practices/
+1. Thomson Reuters 2026 corporate legal department AI adoption data — Robinson+Cole via JD Supra, April 24, 2026 — https://www.jdsupra.com/legalnews/legal-ai-delivers-more-value-when-it-is-4610820/
