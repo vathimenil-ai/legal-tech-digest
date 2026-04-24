@@ -1,8 +1,282 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-04-24T14:41:17.052500+00:00",
-  "item_count": 97,
+  "fetched_at": "2026-04-24T17:02:24.900784+00:00",
+  "item_count": 98,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b691ed727",
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+      "author": "Sarah Perez",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-04-24T16:42:19+00:00",
+      "updated_at": "",
+      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b691e9500",
+      "title": "The Kitchen Sink for April 24, 2026: Legal Tech Trends",
+      "url": "https://ediscoverytoday.com/2026/04/24/the-kitchen-sink-for-april-24-2026-legal-tech-trends/",
+      "author": "Doug Austin",
+      "source": "eDiscovery Today by Doug Austin",
+      "published_at": "2026-04-24T16:15:14+00:00",
+      "updated_at": "",
+      "summary": "<p>This week’s kitchen sink for April 24, 2026 (with meme from Gates Dogfish) discusses the billable hour, “Mother Google”, AI taking yet more jobs &amp; more!</p> \n<p>The post <a href=\"https://ediscoverytoday.com/2026/04/24/the-kitchen-sink-for-april-24-2026-legal-tech-trends/\">The Kitchen Sink for April 24, 2026: Legal Tech Trends</a> appeared first on <a href=\"https://ediscoverytoday.com\">eDiscovery Today by Doug Austin</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b691d8d0f",
+      "title": "Artificial Intelligence and Copyright: Where Does the United Kingdom Stand?",
+      "url": "https://www.jdsupra.com/legalnews/artificial-intelligence-and-copyright-6836187/",
+      "author": "K&amp;L Gates LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-24T16:40:21+00:00",
+      "updated_at": "",
+      "summary": "The UK Government’s report on the copyright and AI consultation was recently published. While the report confirms that balancing the interests of copyrights holders and AI developers is a complex exercise, it also provides an indication of likely scenarios to consider in this fast-evolving environment....<br>By: <a href=\"https://www.jdsupra.com/profile/KL_Gates/\">K&amp;L Gates LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b691d6b69",
+      "title": "Stanford’s 2026 AI Index Highlights Rapid Growth and Widening Governance Gaps",
+      "url": "https://www.jdsupra.com/legalnews/stanford-s-2026-ai-index-highlights-7540386/",
+      "author": "HaystackID",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-24T16:22:34+00:00",
+      "updated_at": "",
+      "summary": "AI now scales faster than the institutions built to govern it. That is the through-line of Stanford’s 2026 AI Index Report, the ninth edition of the Institute for Human-Centered Artificial Intelligence’s annual audit, and the finding carries direct consequences for cybersecurity teams, information governance leaders, and discovery professionals who are being asked to stand behind technology whose inner workings their vendors disclose less and less about....<br>By: <a href=\"https://www.jdsupra.com/profile/haystackid/\">HaystackID</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b691d6b5b",
+      "title": "California Privacy Protection Agency Solicits Public Comments on Employee Data Requirements",
+      "url": "https://www.jdsupra.com/legalnews/california-privacy-protection-agency-1964938/",
+      "author": "BakerHostetler",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-24T16:35:26+00:00",
+      "updated_at": "",
+      "summary": "The California Consumer Privacy Act (CCPA) remains uniquely positioned as the only U.S. state comprehensive privacy law that regulates the personal data of employees, job applicants and independent contractors....<br>By: <a href=\"https://www.jdsupra.com/profile/baker_hostetler/\">BakerHostetler</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Information Governance",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b691d64c8",
+      "title": "China’s medical insurance enforcement in 2026: New rules, active campaign, and implications for pharmaceutical companies",
+      "url": "https://www.jdsupra.com/legalnews/china-s-medical-insurance-enforcement-4250769/",
+      "author": "Hogan Lovells",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-24T16:39:23+00:00",
+      "updated_at": "",
+      "summary": "The Implementing Rules and the concurrent enforcement Campaign introduce the most operationally detailed medical insurance fraud supervision framework China has seen. Phase 1 of the Campaign is active through July 2026.  Article 41 of the Implementing Rules creates a mandatory criminal referral mechanism. Medical insurance authorities must refer cases to the public security organs upon detecting specified behaviors, including organizing, participating in, or facilitating certain enumerated...<br>By: <a href=\"https://www.jdsupra.com/profile/Hogan_Lovells/\">Hogan Lovells</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b69187a8d",
+      "title": "The CAT’s Ninth Life: SEC’s Sweeping Review Could Fundamentally Reshape the Consolidated Audit Trail",
+      "url": "https://www.jdsupra.com/legalnews/the-cat-s-ninth-life-sec-s-sweeping-3822506/",
+      "author": "Katten Muchin Rosenman LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-24T15:44:17+00:00",
+      "updated_at": "",
+      "summary": "On April 16, the Securities and Exchange Commission (SEC) issued a concept release soliciting public comment on a comprehensive review of the Consolidated Audit Trail (CAT) and other audit trails and related data sources used in the regulation of US securities markets (the Concept Release). The Concept Release marks the most significant comprehensive reassessment of the CAT since the national market system plan governing it (the CAT NMS Plan) was approved in 2016, and it puts nearly every...<br>By: <a href=\"https://www.jdsupra.com/profile/Katten/\">Katten Muchin Rosenman LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b69187a89",
+      "title": "US v Heppner’s Lessons for Canada:  AI Use, Confidentiality and IP Exposure - Part 4 of the AI Insights and Fast Reads Series",
+      "url": "https://www.jdsupra.com/legalnews/us-v-heppner-s-lessons-for-canada-ai-8358716/",
+      "author": "Bennett Jones LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-24T15:50:12+00:00",
+      "updated_at": "",
+      "summary": "This AI Insights Quick Read series examines a growing risk for innovation-driven businesses: how routine generative AI use can weaken confidentiality, compromise legal review, and erode the value of intellectual property. Across four short pieces, we consider the issue through the lens of US v. Heppner, then turn to shadow AI, the dilution of innovation through AI-generated content and the implications for Canadian organizations....<br>By: <a href=\"https://www.jdsupra.com/profile/bennett_jones/\">Bennett Jones LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6913788c",
+      "title": "Global Data Protection Insights",
+      "url": "https://www.jdsupra.com/legalnews/global-data-protection-insights-2160852/",
+      "author": "K&amp;L Gates LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-24T15:18:33+00:00",
+      "updated_at": "",
+      "summary": "Our Global Data Protection Insights newsletter distills the most important regulatory, enforcement, and litigation developments from Australia, Europe, China, the United States, and beyond into one concise, practitioner-authored resource. Whether you are navigating new HIPAA cybersecurity requirements, children's privacy obligations, or cross-border data transfer rules, this newsletter gives you the clarity and context to act with confidence....<br>By: <a href=\"https://www.jdsupra.com/profile/KL_Gates/\">K&amp;L Gates LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b69134bb3",
+      "title": "FDAs Warning Letter Suggests Growing Scrutiny of AI Overreliance",
+      "url": "https://www.jdsupra.com/legalnews/fdas-warning-letter-suggests-growing-2660593/",
+      "author": "Morgan Lewis - As Prescribed",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-24T15:37:48+00:00",
+      "updated_at": "",
+      "summary": "A recently issued Food and Drug Administration (FDA) Warning Letter citing a drug manufacturer for improper use of artificial intelligence (AI) suggests FDA’s scrutiny of AI is expanding. Although not the first FDA Warning Letter related to AI, prior Warning Letters focused on issues surrounding the regulatory status of the AI systems themselves, namely whether a given AI system was a medical device subject to FDA oversight. This Warning Letter, however, indicates FDA is now scrutinizing the use...<br>By: <a href=\"https://www.jdsupra.com/profile/morgan_lewis_as_prescribed/\">Morgan Lewis - As Prescribed</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b690f4050",
+      "title": "AI Generated \"Slop\" and Overreliance on Summaries:  How IP Value Gets Diluted - Part 3 of the AI Insights and Fast Reads Series",
+      "url": "https://www.jdsupra.com/legalnews/ai-generated-slop-and-overreliance-on-2319854/",
+      "author": "Bennett Jones LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-24T15:12:23+00:00",
+      "updated_at": "",
+      "summary": "This AI Insights Quick Read series examines a growing risk for innovation-driven businesses: how routine generative AI use can weaken confidentiality, compromise legal review, and erode the value of intellectual property. Across four short pieces, we consider the issue through the lens of US v. Heppner, then turn to shadow AI, the dilution of innovation through AI-generated content and the implications for Canadian organizations....<br>By: <a href=\"https://www.jdsupra.com/profile/bennett_jones/\">Bennett Jones LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b690f4001",
+      "title": "Claude Mythos Preview Raises the Stakes for Cyber Risk and Security Vulnerabilities",
+      "url": "https://www.jdsupra.com/legalnews/claude-mythos-preview-raises-the-stakes-7486456/",
+      "author": "Lowenstein Sandler LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-24T15:12:23+00:00",
+      "updated_at": "",
+      "summary": "Anthropic’s Claude Mythos Preview (Mythos) signals a shift in cyber risk conditions—not because the new large language model version is just more powerful, but because it appears capable of accelerating how vulnerabilities are discovered and exploited. Frontier AI is moving faster than many companies’ security and governance programs....<br>By: <a href=\"https://www.jdsupra.com/profile/lowenstein_sandler/\">Lowenstein Sandler LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b690e9959",
+      "title": "SECURE Data Act: U.S. House Introduces New National Privacy Framework",
+      "url": "https://www.jdsupra.com/legalnews/secure-data-act-u-s-house-introduces-5172918/",
+      "author": "Wiley Rein LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-24T15:06:21+00:00",
+      "updated_at": "",
+      "summary": "House Republicans have introduced a new data privacy bill aimed at establishing a unified federal standard for consumer data privacy while preempting the growing patchwork of state laws. The Securing and Establishing Consumer Uniform Rights and Enforcement over Data Act (SECURE Act) was released on April 22, 2026 with support from the Chairs of the U.S. House Committee on Energy and Commerce and the U.S. House Committee on Financial Services....<br>By: <a href=\"https://www.jdsupra.com/profile/wiley_rein/\">Wiley Rein LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b690e7b65",
+      "title": "Expanding Dual-Use Export Controls and Enforcement",
+      "url": "https://www.jdsupra.com/legalnews/expanding-dual-use-export-controls-and-7103858/",
+      "author": "Barnea Jaffa Lande &amp; Co.",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-24T02:07:19+00:00",
+      "updated_at": "",
+      "summary": "In March 2026, the Ministry of Economy and Industry published a draft bill entitled Foreign Trade Regulation Law: Control of Dual-Use Exports (Civilian and Nuclear, Biological, Chemical), 2026. The bill seeks to replace the existing regime of regulatory control based on two orders—the Import and Export Order (Control of Dual-Use Goods, Services and Technology Exports) and the Import and Export Order (Control of Nuclear, Biological and Chemical Exports)—with broader and more detailed primary...<br>By: <a href=\"https://www.jdsupra.com/profile/barnea_jaffa_lande_co/\">Barnea Jaffa Lande &amp; Co.</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b690e6217",
+      "title": "Weathering the Winds of Change: How AI, access to justice and rule of law are challenging legal profession",
+      "url": "https://www.abajournal.com/columns/article/weathering-the-winds-of-change-how-ai-access-to-justice-and-the-rule-of-law-are-challenging-the-legal-profession/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "author": "webmaster@abajournal.com",
+      "source": "ABA Journal Daily News - Legal Technology",
+      "published_at": "2026-04-24T14:12:00+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.abajournal.com/images/main_images/NicoleBlack2.jpg\" alt=\"NicoleBlack2.jpg\"></p>The legal profession is at a crossroads. Unprecedented change is disrupting the practice of law and the institutions that support it. Generative artificial intelligence and…",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b690e6216",
+      "title": "How a London law firm measures return on investment of legal AI in practice",
+      "url": "https://www.abajournal.com/columns/article/measuring-the-roi-of-legal-ai-in-practice/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "author": "webmaster@abajournal.com",
+      "source": "ABA Journal Daily News - Legal Technology",
+      "published_at": "2026-04-24T14:14:00+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.abajournal.com/images/main_images/Ari_Kaplan_2022_headshot_Tori_Soper.jpg\" alt=\"Ari_Kaplan_2022_headshot_Tori_Soper.jpg\"></p>Ari Kaplan recently spoke with Nick West, a partner and chief strategy officer at Mishcon de Reya.They discussed the law firm’s approach to innovation; the…",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b690ab57f",
+      "title": "Shadow AI:  The Unmanaged Use That Creates Real IP Disclosure Risk - Part 2 of the AI Insights and Fast Reads Series",
+      "url": "https://www.jdsupra.com/legalnews/shadow-ai-the-unmanaged-use-that-5425077/",
+      "author": "Bennett Jones LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-24T14:42:40+00:00",
+      "updated_at": "",
+      "summary": "This AI Insights Quick Read series examines a growing risk for innovation-driven businesses: how routine generative AI use can weaken confidentiality, compromise legal review, and erode the value of intellectual property. Across four short pieces, we consider the issue through the lens of US v. Heppner, then turn to shadow AI, the dilution of innovation through AI-generated content and the implications for Canadian organizations....<br>By: <a href=\"https://www.jdsupra.com/profile/bennett_jones/\">Bennett Jones LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b6904ff59",
       "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
@@ -752,22 +1026,6 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b686e8ff2",
-      "title": "DOJ Stands Up a New Fraud-Fighting Division: What Government Contractors Need to Know About the National Fraud Enforcement Division",
-      "url": "https://www.jdsupra.com/legalnews/doj-stands-up-a-new-fraud-fighting-8221904/",
-      "author": "McCarter &amp; English Blog: Government Contracts &amp; Export Controls",
-      "source": "Compliance | JD Supra Law News",
-      "published_at": "2026-04-23T18:11:18+00:00",
-      "updated_at": "",
-      "summary": "On April 7, 2026, Acting Attorney General Todd Blanche issued a memorandum establishing the National Fraud Enforcement Division (“NFED”) within the U.S. Department of Justice (“DOJ”). Announced in a corresponding DOJ press release, the NFED is the Department’s first unified litigating division dedicated exclusively to investigating and prosecuting fraud against taxpayer dollars....<br>By: <a href=\"https://www.jdsupra.com/profile/mccarter_english_government_contracts_export_controls/\">McCarter &amp; English Blog: Government Contracts</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Compliance",
-        "High-Signal"
-      ]
-    },
-    {
       "id": "tag:google.com,2005:reader/item/0000000b686e8fef",
       "title": "When Creators Become Partners: Legal and Brand Protection Strategies in the Modern Creator Economy",
       "url": "https://www.jdsupra.com/legalnews/when-creators-become-partners-legal-and-3122263/",
@@ -776,6 +1034,22 @@
       "published_at": "2026-04-23T18:11:18+00:00",
       "updated_at": "",
       "summary": "As creator partnerships grow in scope, longevity and financial impact, the legal frameworks governing them are adjusting to keep pace. In this Q&amp;A, Libby O’Neill, deputy chair of the firm’s Advertising, Marketing &amp; Promotions practice, and Bess Morgan, deputy chair of the firm’s Brand Protection practice, share their insider perspectives on what brands and creators need to understand about ownership, compliance and the new negotiation environment we’re entering as these relationships become more...<br>By: <a href=\"https://www.jdsupra.com/profile/loeb_loeb1/\">Loeb &amp; Loeb LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b686e8ff2",
+      "title": "DOJ Stands Up a New Fraud-Fighting Division: What Government Contractors Need to Know About the National Fraud Enforcement Division",
+      "url": "https://www.jdsupra.com/legalnews/doj-stands-up-a-new-fraud-fighting-8221904/",
+      "author": "McCarter &amp; English Blog: Government Contracts &amp; Export Controls",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-23T18:11:18+00:00",
+      "updated_at": "",
+      "summary": "On April 7, 2026, Acting Attorney General Todd Blanche issued a memorandum establishing the National Fraud Enforcement Division (“NFED”) within the U.S. Department of Justice (“DOJ”). Announced in a corresponding DOJ press release, the NFED is the Department’s first unified litigating division dedicated exclusively to investigating and prosecuting fraud against taxpayer dollars....<br>By: <a href=\"https://www.jdsupra.com/profile/mccarter_english_government_contracts_export_controls/\">McCarter &amp; English Blog: Government Contracts</a>",
       "content": "",
       "categories": [
         "reading-list",
@@ -1312,22 +1586,6 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b681f83c7",
-      "title": "AI Won't Replace Judges, But It May Be the Only Way Justice Systems Survive at Scale",
-      "url": "https://www.legaltechmonitor.com/2026/04/ai-wont-replace-judges-but-it-may-be-the-only-way-justice-systems-survive-at-scale/",
-      "author": "Law.com&#039;s Legal Tech News",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-04-22T16:26:59+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>When it comes to courts and legal aid, the question is no longer whether AI belongs but rather whether justice systems can function without it.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
       "id": "tag:google.com,2005:reader/item/0000000b6815addc",
       "title": "Next Gen CoCounsel To Offer ‘Fiduciary-Grade’ Legal AI",
       "url": "https://www.artificiallawyer.com/2026/04/23/next-gen-cocounsel-to-offer-fiduciary-grade-legal-ai/",
@@ -1336,248 +1594,6 @@
       "published_at": "2026-04-23T09:08:05+00:00",
       "updated_at": "",
       "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-09.34.10.png\" alt=\"Screenshot-2026-04-23-at-09.34.10.png\"></p>Thomson Reuters’ Ragunath Ramanathan, President – Legal Professionals, has announced that the ‘next generation’ of CoCounsel Legal, now available in Beta, will provide ‘fiduciary-grade AI’ <a href=\"https://www.artificiallawyer.com/2026/04/23/next-gen-cocounsel-to-offer-fiduciary-grade-legal-ai/\" title=\"Next Gen CoCounsel To Offer ‘Fiduciary-Grade’ Legal AI\">...</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b6809cb53",
-      "title": "Why ‘Go to Trial’ AI Must Be Accurate",
-      "url": "https://www.artificiallawyer.com/2026/04/23/why-go-to-trial-ai-must-be-accurate/",
-      "author": "artificiallawyer",
-      "source": "Artificial Lawyer",
-      "published_at": "2026-04-23T07:48:07+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-08.41.53.png\" alt=\"Screenshot-2026-04-23-at-08.41.53.png\"></p>By Stephen Dowling, CEO, TrialView. Even the best-intentioned disputes lawyer will, at some point, encounter what might be called ‘superhero syndrome’; that instinct to win <a href=\"https://www.artificiallawyer.com/2026/04/23/why-go-to-trial-ai-must-be-accurate/\" title=\"Why ‘Go to Trial’ AI Must Be Accurate\">...</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67f3509f",
-      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
-      "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
-      "author": "Jagmeet Singh",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-04-23T04:38:45+00:00",
-      "updated_at": "",
-      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67e66df7",
-      "title": "Exploring Legal Trends in Social Media Liability",
-      "url": "https://www.jdsupra.com/legalnews/exploring-legal-trends-in-social-media-l-40582/",
-      "author": "Offit Kurman",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T20:49:41+00:00",
-      "updated_at": "",
-      "summary": "In this Litigators Lounge episode, Anders Sleight and Niall McMillan of Offit Kurman discuss recent jury verdicts in California and New Mexico holding Meta (Facebook/Instagram) and Alphabet/Google (YouTube) liable for alleged harms tied to social media platform design, including algorithm-driven, “never-ending” feeds and resulting emotional distress and mental health injuries, especially to children. They note thousands of similar cases pending, including roughly 1,300 in California, and explain...<br>By: <a href=\"https://www.jdsupra.com/profile/offitkurman/\">Offit Kurman</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67d60e89",
-      "title": "For Those About to Agentic, We Salute You! Of Mythos and Agentic AI.",
-      "url": "https://www.jdsupra.com/legalnews/for-those-about-to-agentic-we-salute-9610998/",
-      "author": "Nelson Mullins Riley &amp; Scarborough LLP",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T23:44:35+00:00",
-      "updated_at": "",
-      "summary": "Agentic AI holds as much promise as it does risk. Frontier models are becoming more and more powerful. In fact, on April 7, Anthropic published a 245-page system card for Claude Mythos Preview, a frontier AI model that the company disclosed was so capable that it successfully escaped a secured sandbox during testing and, without being asked, posted the details of its exploit to the open internet....<br>By: <a href=\"https://www.jdsupra.com/profile/nelson_mullins_riley_scarborough/\">Nelson Mullins Riley &amp; Scarborough LLP</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67d09829",
-      "title": "Google updates Workspace to make AI your new office intern",
-      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-      "author": "Lucas Ropek",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-04-22T22:44:26+00:00",
-      "updated_at": "",
-      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67ce64e4",
-      "title": "Hands on with X’s new AI-powered custom feeds",
-      "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-      "author": "Sarah Perez",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-04-22T22:25:53+00:00",
-      "updated_at": "",
-      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67cab220",
-      "title": "AI Quarterly | A Review of AI Law, Policy & Practice | April 2026",
-      "url": "https://www.jdsupra.com/legalnews/ai-quarterly-a-review-of-ai-law-policy-8425272/",
-      "author": "Alston &amp; Bird",
-      "source": "Privacy RSS Feed | JD Supra Law News",
-      "published_at": "2026-04-22T21:28:20+00:00",
-      "updated_at": "",
-      "summary": "Our AI Quarterly publication brings together the firm’s latest AI focused practical insights, key developments, and upcoming programs all in one place, including relevant writings, events, and firm news....<br>By: <a href=\"https://www.jdsupra.com/profile/alston_bird/\">Alston &amp; Bird</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Information Governance",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67c93ba3",
-      "title": "International AI Safety Report 2026 – UK litigation lessons from imperfect AI",
-      "url": "https://www.jdsupra.com/legalnews/international-ai-safety-report-2026-uk-4108585/",
-      "author": "Hogan Lovells",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T21:46:11+00:00",
-      "updated_at": "",
-      "summary": "The International AI Safety Report 2026 is an assessment of general-purpose AI capabilities, emerging risks and risk-management approaches, intended to support informed policymaking. It is sceptical of neat capability narratives, highlighting uneven performance, an evaluation gap between tests and real-world use, and rising autonomy through AI agents – all of which heighten dispute risk and complicate liability allocation. For litigators, the Report reads less like a technology forecast and more...<br>By: <a href=\"https://www.jdsupra.com/profile/Hogan_Lovells/\">Hogan Lovells</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67c93ba4",
-      "title": "Rogue AI Agents Won’t Be Testifying - You Will: Agentic AI, IP and Liability Risks, and a Path Forward",
-      "url": "https://www.jdsupra.com/legalnews/rogue-ai-agents-won-t-be-testifying-you-4159496/",
-      "author": "Venable LLP",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T21:46:11+00:00",
-      "updated_at": "",
-      "summary": "Increasingly, AI agents—in the operational sense, autonomous software designed to execute a range of tasks—can navigate interfaces, execute transactions, interact with customers, and operate across internal and external systems....<br>By: <a href=\"https://www.jdsupra.com/profile/venable/\">Venable LLP</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67c4d5ec",
-      "title": "Software review agent",
-      "url": "https://www.youtube.com/watch?v=TuzgusIxRzs",
-      "author": "OpenAI",
-      "source": "OpenAI",
-      "published_at": "2026-04-22T20:37:28+00:00",
-      "updated_at": "",
-      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=TuzgusIxRzs\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Watch a guided walkthrough of an agent that reviews software requests, checks policy, routes approvals, and opens IT tickets with clear next steps.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67c26b47",
-      "title": "AI-Based Hiring: 2026 Developments Employers Can’t Ignore",
-      "url": "https://www.jdsupra.com/legalnews/ai-based-hiring-2026-developments-4983992/",
-      "author": "Bricker Graydon Wyatt LLP",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T20:48:24+00:00",
-      "updated_at": "",
-      "summary": "Artificial intelligence (“AI”) is no longer theoretical in employment decisions—it is actively shaping the hiring process in 2026. Recent estimates suggest that 99% of Fortune 500 companies now use AI to filter job applicants and roughly 40% of companies expect to use AI to conduct screening interviews of job candidates....<br>By: <a href=\"https://www.jdsupra.com/profile/bricker_graydon_wyatt_llp/\">Bricker Graydon Wyatt LLP</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "read",
-        "Legal Tech Core",
-        "High-Signal",
-        "Noise"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67c18464",
-      "title": "User Beware: AI Tools May Waive Attorney Client Privilege and are Not Protected by the Work Product Privilege",
-      "url": "https://www.jdsupra.com/legalnews/user-beware-ai-tools-may-waive-attorney-2605370/",
-      "author": "Stark &amp; Stark",
-      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
-      "published_at": "2026-04-22T20:07:43+00:00",
-      "updated_at": "",
-      "summary": "Parties to litigation, or potential litigation, should take great caution when using Artificial Intelligence (“AI”) tools as the information shared with an AI tool or provided by an AI tool may be subject to court ordered disclosure....<br>By: <a href=\"https://www.jdsupra.com/profile/stark_stark/\">Stark &amp; Stark</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "eDiscovery - Litigation",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67bec50f",
-      "title": "State Legislatures Consider Oversight of Artificial Intelligence in Health Insurance Decisions",
-      "url": "https://www.jdsupra.com/legalnews/state-legislatures-consider-oversight-5000321/",
-      "author": "Sheppard, Mullin, Richter &amp; Hampton LLP",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T20:18:00+00:00",
-      "updated_at": "",
-      "summary": "As artificial intelligence (“AI”) continues to be deployed in new use cases, state legislatures are considering measures to oversee its use in health insurance, particularly in prior authorization and utilization review. Last year, legislatures in Arizona, Maryland, Nebraska, and Texas enacted bills to address AI use in health insurance determinations....<br>By: <a href=\"https://www.jdsupra.com/profile/Sheppard-Mullin/\">Sheppard, Mullin, Richter &amp; Hampton LLP</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67bc4864",
-      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
-      "author": "Marina Temkin",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-04-22T19:51:51+00:00",
-      "updated_at": "",
-      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67bb4c42",
-      "title": "Don’t Let Your Lawyer’s AI Problem Become Yours",
-      "url": "https://www.jdsupra.com/legalnews/don-t-let-your-lawyer-s-ai-problem-5362405/",
-      "author": "Ward and Smith, P.A.",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T19:48:46+00:00",
-      "updated_at": "",
-      "summary": "On March 10, 2026, a federal prosecutor with thirty years of experience stood before a magistrate judge in the United States District Court for the Eastern District of North Carolina and announced his resignation....<br>By: <a href=\"https://www.jdsupra.com/profile/Ward_and_Smith/\">Ward and Smith, P.A.</a>",
       "content": "",
       "categories": [
         "reading-list",
