@@ -1,8 +1,124 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-04-24T13:01:56.400435+00:00",
-  "item_count": 100,
+  "fetched_at": "2026-04-24T14:41:17.052500+00:00",
+  "item_count": 97,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6904ff59",
+      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+      "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+      "author": "TechCrunch Events",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-04-24T14:00:00+00:00",
+      "updated_at": "",
+      "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "AI General",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b690259a1",
+      "title": "US v Heppner:  The End of \"Just a Prompt\" and Emerging IP Risk - Part 1 of the AI Insights and Fast Reads Series",
+      "url": "https://www.jdsupra.com/legalnews/us-v-heppner-the-end-of-just-a-prompt-2669976/",
+      "author": "Bennett Jones LLP",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-24T13:06:43+00:00",
+      "updated_at": "",
+      "summary": "This AI Insights Quick Read series examines a growing risk for innovation-driven businesses: how routine generative AI use can weaken confidentiality, compromise legal review, and erode the value of intellectual property. Across four short pieces, we consider the issue through the lens of US v. Heppner, then turn to shadow AI, the dilution of innovation through AI-generated content and the implications for Canadian organizations....<br>By: <a href=\"https://www.jdsupra.com/profile/bennett_jones/\">Bennett Jones LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b6901abbd",
+      "title": "Nothing introduces an AI-powered dictation tool",
+      "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+      "author": "Ivan Mehta",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-04-24T13:41:42+00:00",
+      "updated_at": "",
+      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b690053c7",
+      "title": "The New DEI Crackdown: What Federal Contractors Must Do Now",
+      "url": "https://www.jdsupra.com/legalnews/the-new-dei-crackdown-what-federal-cont-47811/",
+      "author": "PilieroMazza PLLC",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-04-23T02:36:51+00:00",
+      "updated_at": "",
+      "summary": "On March 26, 2026, the Trump Administration issued a sweeping Executive Order targeting DEI policies, alongside DOJ’s plan to use the False Claims Act (FCA) to challenge such practices. The result: heightened scrutiny, required policy and subcontract changes, and real exposure to penalties—including contract termination.  Watch our webinar to learn what this means for your business and the practical steps you should take now to stay compliant and protect your contracts.  Learning objectives: -...<br>By: <a href=\"https://www.jdsupra.com/profile/PilieroMazza/\">PilieroMazza PLLC</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Compliance",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b69000f64",
+      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "author": "Ram Iyer",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-04-24T13:30:59+00:00",
+      "updated_at": "",
+      "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b68ff56e4",
+      "title": "Andrew Haslam’s eDisclosure Systems Buyers Guide at 14: What the 1H 2026 update reveals",
+      "url": "https://complexdiscovery.com/andrew-haslams-edisclosure-systems-buyers-guide-at-14-what-the-1h-2026-update-reveals/",
+      "author": "Rob Robinson",
+      "source": "ComplexDiscovery: eDiscovery Information",
+      "published_at": "2026-04-24T11:35:20+00:00",
+      "updated_at": "",
+      "summary": "<p>Editor’s Note: Andrew Haslam built the eDisclosure Systems Buyers Guide to help practitioners make better decisions, and as the guide enters its 14th year, the 1H 2026 update makes clear that mission remains firmly intact. What began as Andrew’s personal contribution—shared freely with the community as a practical resource and, in many ways, a gift to the industry—has matured into one of the most trusted reference points for eDiscovery professionals. Now published by ComplexDiscovery OÜ in collaboration with EDRM, this latest update leads with eight new long-form articles spanning market dynamics and technology coverage, including the Winter 2026 eDiscovery Pricing Survey, 2H 2025 Business Confidence Survey results, a running M&amp;A tracker, a new Total Success Predictor Rating framework for vendor viability, and timely analysis on deployment flexibility and product management in legal technology. Supported by ongoing curation—including 164 supplier listings and 68 software listings—this edition reflects the contributions of Holley Robinson, senior marketing operations manager at ComplexDiscovery OÜ, and the continued collaboration and support of Mary Mack and the EDRM community.</p> \n<p>Reader engagement tells the other half of the story. With more than 321,957 pageviews since the start of 2024 and over 70,000 in 2026 alone, the guide’s sustained audience underscores the value of its open-access, practitioner-first approach. That continued use reflects a broader need across cybersecurity, information governance, and eDiscovery disciplines for resources that do more than report change—they help interpret it.</p> \n<p>In that respect, the Buyers Guide functions as both a roadmap and a historical record. It provides a forward-looking lens on the decisions practitioners are making now while preserving a longitudinal view of how the industry has evolved over time. As frameworks like the Total Success Predictor Rating enter the conversation, the real test will be adoption—whether they become part of the shared vocabulary professionals use to evaluate vendors and strategies in the months ahead.</p> \n \n<p>Industry News – eDiscovery Beat</p> \n<h2>Andrew Haslam’s eDisclosure Systems Buyers Guide at 14: What the 1H 2026 update reveals</h2> \n<p><em>ComplexDiscovery Staff</em></p> \n<p>Andrew Haslam’s eDisclosure Systems Buyers Guide just entered its 14th year. It still reads like the project of a working practitioner who wanted peers to have better information than they could easily find anywhere else.</p> \n<p>That is not accidental. It is the inheritance of how the guide was built.</p> \n<p>The <a href=\"https://complexdiscovery.com/buyers-guide/\">1H 2026 update of the guide</a>, published by ComplexDiscovery OÜ in collaboration with <a href=\"https://edrm.net/\">EDRM</a>, leads with eight new long-form articles across market dynamics and technology area coverage, updates two items in the introduction section, and carries 164 supplier listings and 68 software listings as its running catalog of the eDiscovery market. Each addition reinforces what Haslam established in 2013 when he first compiled a PDF buyers guide in his own time and shared it at no cost — that the eDiscovery community benefits most when somebody takes responsibility for the connective tissue between vendors, practitioners, and emerging technology.</p> \n<p>Haslam stepped back from active authorship after the 2022 edition to reclaim weekends with family, entrusting stewardship of the guide to ComplexDiscovery OÜ. The transition from annual PDF to dynamic online knowledge base was not a retirement gesture. It was a generational one. Haslam knew the market had moved past what any single person could maintain at volume, and he wanted the guide to keep pace without losing its posture.</p> \n<h3>Four new market dynamics articles</h3> \n<p>The 1H 2026 update adds four new entries to the market dynamics section. “<a href=\"https://complexdiscovery.com/buyers-guide/a-complete-analysis-of-the-winter-2026-ediscovery-pricing-survey/\">A Complete Analysis of the Winter 2026 eDiscovery Pricing Survey</a>,” co-produced with EDRM across a December 2025 through February 2026 data collection window, surfaces findings from 53 respondents across 25 pricing questions spanning forensic collection, data processing and hosting, document review, and generative AI-assisted review. Forensic collection rates have stabilized in the $250 to $350 per hour range for standard work, infrastructure-level hosting has commoditized, and GenAI-assisted review pricing remains experimentally diverse, with hybrid billing and per-document models each claiming roughly 28 percent of reported primary models.</p> \n<p>“<a href=\"https://complexdiscovery.com/buyers-guide/the-ma-risk-of-confusing-market-velocity-with-marketing-capability/\">The M&amp;A Risk of Confusing Market Velocity with Marketing Capability</a>” examines a pattern that the Winter 2026 pricing data made newly visible. Technology acquirers often price target deals for brand strength when what they are actually buying is a time-bounded technology premium, and the distinction matters at the negotiation table. The piece provides readers with a practical framework for separating the two before underwriting terms.</p> \n<p>“<a href=\"https://complexdiscovery.com/buyers-guide/confidence-meets-complexity-full-results-from-the-2h-2025-ediscovery-business-confidence-survey/\">Confidence Meets Complexity: Full Results from the 2H 2025 eDiscovery Business Confidence Survey</a>” brings the sector-sentiment read. The 38th edition of the long-running benchmark captured responses from 64 industry leaders and found 59.38 percent rating current conditions as “good” — a decisive shift from the “normal” ceiling that defined prior cycles. The same respondents, however, reported opacity on day-to-day financial levers such as Days Sales Outstanding and Monthly Recurring Revenue. The analysis highlights the visibility gap and provides operators with a starting point for closing it.</p> \n<p>“eDiscovery Mergers, Acquisitions, and Investments” completes the market dynamics additions in the 1H 2026 cycle as the guide’s running tracker of deal activity across the sector. The article catalogs recent transactions, rolls them against a multi-year retrospective of industry consolidation, and gives buyers, sellers, and operators a single reference for the deal-flow that is actively reshaping the vendor landscape. Practitioners running a vendor evaluation this quarter should check the M&amp;A tracker first — a vendor mid-acquisition or mid-divestiture is a different operational risk profile than the same vendor a year earlier or later, and the tracker surfaces that context in time to act on it.</p> \n<h3>Four new technology area articles</h3> \n<p>The technology area coverage grows by four articles in the 1H 2026 update, and each one speaks to a current operating decision. “<a href=\"https://complexdiscovery.com/buyers-guide/making-the-subjective-objective-a-scoring-framework-for-evaluating-ediscovery-vendor-viability-in-2026/\">Making the Subjective Objective: A Scoring Framework for Evaluating eDiscovery Vendor Viability in 2026</a>” introduces the Total Success Predictor Rating, a four-category scoring model designed to translate subjective vendor impressions into comparable, defensible numbers. The companion piece, “<a href=\"https://complexdiscovery.com/buyers-guide/ediscovery-vendor-viability-scoring-tool-making-the-subjective-objective/\">eDiscovery Vendor Viability Scoring Tool: Making the Subjective Objective</a>,” provides the working tool that accompanies the framework so practitioners can score their own vendor shortlists rather than simply read about the method.</p> \n<p>“<a href=\"https://complexdiscovery.com/buyers-guide/beyond-public-cloud-the-enduring-case-for-deployment-flexibility-in-ediscovery/\">Beyond Public Cloud: The Enduring Case for Deployment Flexibility in eDiscovery</a>” makes an argument that current market coverage has largely missed. Cloud-first strategy dominates vendor messaging, but a substantial segment of the market continues to demand private cloud and on-premise deployment for regulatory, sovereignty, and operational reasons. Teams working regulated financial, healthcare, and government matters should not be told their deployment needs are legacy — they are current, and in some verticals, they are growing again. The overview equips buyers with the language to push back on cloud-only sales motions when their matter profiles call for it.</p> \n<p>The final addition, “<a href=\"https://complexdiscovery.com/buyers-guide/evolving-product-lifecycle-management-the-expanding-role-of-product-managers-and-democratized-prototyping-in-legal-technology/\">Evolving Product Lifecycle Management: The Expanding Role of Product Managers and Democratized Prototyping in Legal Technology</a>,” addresses the widening gap between legal tech delivery timelines and consumer technology development speed. As low-code tooling and vibe-coding platforms lower the barrier to functional prototypes, product managers in the legal technology space are being asked to run shorter feedback cycles against compliance-heavy requirements. The article provides a working model for practitioners who are being asked to modernize their development practices without sacrificing governance.</p> \n<h3>Two introduction items, updated for 2026</h3> \n<p>The update also revisits the Executive Summary and Foreword. The Executive Summary frames the year through three converging forces: stabilizing core pricing, fragmenting AI-assisted review economics, and an operational maturity gap between leadership confidence and financial visibility. The Foreword aligns Haslam’s original intent with the guide’s current form, preserving its voice while marking its evolution under ComplexDiscovery OÜ’s stewardship.</p> \n<p>For practitioners onboarding new team members, briefing executives, or structuring vendor evaluations, the introduction section serves as a concise and practical orientation.</p> \n<h3>164 supplier listings and 68 software listings</h3> \n<p>The operational core of the guide remains its listings. The 1H 2026 edition includes 164 suppliers and 68 software offerings, maintained as a continuous catalog rather than rebuilt each cycle. The listings are curated by Holley Robinson of ComplexDiscovery OÜ, with the support of Mary Mack and the EDRM community, reinforcing the guide’s practitioner-driven foundation.</p> \n<p>Experienced users treat each entry as a triangulation point rather than a definitive source—cross-referencing vendor claims with public information and peer experience. Alignment across those views builds confidence; divergence becomes a signal worth investigating.</p> \n<h3>Pageview data that validates the posture</h3> \n<p>What sets this update apart is not just breadth, but depth of insight. Since the beginning of 2024, the guide has drawn more than 321,957 pageviews, with over 70,280 recorded through March 2026 alone. That sustained engagement reflects continued demand from legal, compliance, and cybersecurity professionals for resources that cut through complexity with clarity.</p> \n<p>The traffic pattern also validates the stewardship model. Practitioners return to the guide as an ongoing reference, not a one-time read, and current trends suggest readership is pacing ahead of prior years. That level of engagement provides a meaningful signal for editorial direction and future coverage.</p> \n<h3>Part current roadmap, part historical record</h3> \n<p>One framing is worth naming directly. The Buyers Guide functions as two things at once. Part of it is a current roadmap — the new market dynamics articles, the pricing benchmarks, the Total Success Predictor Rating tool, and the deployment flexibility argument all point toward decisions practitioners are about to make. Part of it is a historical record — a running archive of how the industry has evolved across a decade-plus of listings, surveys, and editorial commentary.</p> \n<p>Readers who use only the roadmap layer miss the signal that comes from reading the archive. A supplier profile from 2019 read against the same supplier today tells its own story about consolidation, product positioning, and regional shifts. A pricing survey from 2022 read against the Winter 2026 survey marks where the floor moved and which line items commoditized. The guide rewards both uses, and the 1H 2026 update was assembled with both readers in mind.</p> \n<h3>A guide that continues because somebody cared enough to start it</h3> \n<p>What makes the 1H 2026 update worth attention is the same quality that defined the first edition: sustained, practitioner-focused stewardship. The guide remains openly accessible, reflecting Haslam’s original decision to offer it as a contribution to the community.</p> \n<p>For readers deciding how to approach it, the path is straightforward. Start with the Executive Summary and Foreword to establish context. Review the Winter 2026 pricing analysis to understand cost pressures shaping vendor conversations. Then apply the Total Success Predictor Rating to an active vendor evaluation. That sequence alone can produce a concise, defensible market assessment.</p> \n<p>Used alongside analyst research, practitioner communities, and trade reporting, the Buyers Guide helps complete the operating picture of the eDiscovery market.</p> \n<p><em>What does it say about an industry when its most trusted reference document is still, in its bones, a gift? And what should that tell buyers about where the next decade of eDiscovery intelligence will—and will not—come from?</em></p> \n<p>eDisclosure Buyers Guide Updates</p> \n<ul> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/\">Andres Haslam’s eDisclosure Systems Buyers Guide Archive</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/a-complete-analysis-of-the-winter-2026-ediscovery-pricing-survey/\">A Complete Analysis of the Winter 2026 eDiscovery Pricing Survey</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/the-ma-risk-of-confusing-market-velocity-with-marketing-capability/\">The M&amp;A Risk of Confusing Market Velocity with Marketing Capability</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/confidence-meets-complexity-full-results-from-the-2h-2025-ediscovery-business-confidence-survey/\">Confidence Meets Complexity: Full Results from the 2H 2025 eDiscovery Business Confidence Survey</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/making-the-subjective-objective-a-scoring-framework-for-evaluating-ediscovery-vendor-viability-in-2026/\">Making the Subjective Objective: A Scoring Framework for Evaluating eDiscovery Vendor Viability in 2026</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/ediscovery-vendor-viability-scoring-tool-making-the-subjective-objective/\">eDiscovery Vendor Viability Scoring Tool: Making the Subjective Objective</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/beyond-public-cloud-the-enduring-case-for-deployment-flexibility-in-ediscovery/\">Beyond Public Cloud: The Enduring Case for Deployment Flexibility in eDiscovery</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/evolving-product-lifecycle-management-the-expanding-role-of-product-managers-and-democratized-prototyping-in-legal-technology/\">Evolving Product Lifecycle Management: The Expanding Role of Product Managers and Democratized Prototyping in Legal</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/ediscovery-mergers-acquisitions-and-investments/\">eDiscovery Mergers, Acquisitions, and Investments</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/executive-summary/\">Executive Summary</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/foreward/\">Foreward</a></li> \n</ul> \n<hr> \n \n<hr> \n<p><a href=\"https://complexdiscovery.com/generative-artificial-intelligence-and-large-language-model-policy/\">Assisted by GAI and LLM Technologies</a></p> \n<p>Source: ComplexDiscovery OÜ</p> \n<p><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/04/Haslam-Two.jpg\" alt=\"\" width=\"850\" height=\"400\"></p> \n<blockquote><p>ComplexDiscovery’s mission is to enable clarity for complex decisions by providing independent, data‑driven reporting, research, and commentary that make digital risk, legal technology, and regulatory change more legible for practitioners, policymakers, and business leaders.</p></blockquote> \n<p>The post <a href=\"https://complexdiscovery.com/andrew-haslams-edisclosure-systems-buyers-guide-at-14-what-the-1h-2026-update-reveals/\">Andrew Haslam’s eDisclosure Systems Buyers Guide at 14: What the 1H 2026 update reveals</a> appeared first on <a href=\"https://complexdiscovery.com\">ComplexDiscovery</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b68fc7f02",
+      "title": "Podcast — The Growth Rocketship: Using AI and Human Expertise to Build Tomorrow’s Leading Brands With A-Frame",
+      "url": "https://www.jdsupra.com/legalnews/podcast-the-growth-rocketship-using-a-56909/",
+      "author": "Latham &amp; Watkins LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-24T05:08:28+00:00",
+      "updated_at": "",
+      "summary": "A-Frame Brands identifies emerging signals in culture, consumer behavior, and category white space — then moves fast to bring the right products to shelf. They work two ways: co-creating private-label and exclusive product lines with the world’s leading retailers, building a portfolio of standalone brands with world-class talent partners across beauty, personal care, fragrance, home care, and pet care.  In this episode of Connected With Latham, Haim Zaltzman, Global Vice Chair of Latham’s...<br>By: <a href=\"https://www.jdsupra.com/profile/Latham_Watkins/\">Latham &amp; Watkins LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b68f92e3f",
       "title": "AI-native law firm index hits 40 listings",
@@ -786,6 +902,22 @@
       ]
     },
     {
+      "id": "tag:google.com,2005:reader/item/0000000b685f0a1c",
+      "title": "Alabama Enacts Nation’s Twenty-First State Comprehensive Privacy Law",
+      "url": "https://www.jdsupra.com/legalnews/alabama-enacts-nation-s-twenty-first-4506781/",
+      "author": "WilmerHale",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-04-23T16:13:06+00:00",
+      "updated_at": "",
+      "summary": "On April 16, 2026, Alabama Governor Kay Ivey signed the Alabama Personal Data Protection Act (APDPA) into law, making Alabama the twenty-first state to enact a comprehensive privacy law. Alabama is the second state to pass a comprehensive privacy law this year, with Oklahoma passing a comprehensive privacy law last month....<br>By: <a href=\"https://www.jdsupra.com/profile/WilmerHale/\">WilmerHale</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
       "id": "tag:google.com,2005:reader/item/0000000b685f0a1d",
       "title": "Responding to a Data Breach: How to Preserve the Attorney-Client Privilege",
       "url": "https://www.jdsupra.com/legalnews/responding-to-a-data-breach-how-to-4635804/",
@@ -801,22 +933,6 @@
         "Information Governance",
         "High-Signal",
         "Noise"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b685f0a1c",
-      "title": "Alabama Enacts Nation’s Twenty-First State Comprehensive Privacy Law",
-      "url": "https://www.jdsupra.com/legalnews/alabama-enacts-nation-s-twenty-first-4506781/",
-      "author": "WilmerHale",
-      "source": "Privacy RSS Feed | JD Supra Law News",
-      "published_at": "2026-04-23T16:13:06+00:00",
-      "updated_at": "",
-      "summary": "On April 16, 2026, Alabama Governor Kay Ivey signed the Alabama Personal Data Protection Act (APDPA) into law, making Alabama the twenty-first state to enact a comprehensive privacy law. Alabama is the second state to pass a comprehensive privacy law this year, with Oklahoma passing a comprehensive privacy law last month....<br>By: <a href=\"https://www.jdsupra.com/profile/WilmerHale/\">WilmerHale</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Information Governance",
-        "High-Signal"
       ]
     },
     {
@@ -964,22 +1080,6 @@
       "categories": [
         "reading-list",
         "Compliance",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b684fbb58",
-      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-      "url": "https://deepmind.google/blog/decoupled-diloco/",
-      "author": "",
-      "source": "DeepMind Blog",
-      "published_at": "2026-04-22T10:20:03+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://lh3.googleusercontent.com/1-K_kcmoX-fIzTJ13T0-uF4gylS2tK00ZVvx87B2WSayzUS2fxDoDDXFq5hOhxptrBeG8AbjG_URN5OOTpGMqad9zILjMsTdAHWroiDKpziBQjzErw=w1200-h630-n-nu-rw\" alt=\"1-K_kcmoX-fIzTJ13T0-uF4gylS2tK00ZVvx87B2\"></p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
         "High-Signal"
       ]
     },
@@ -1292,24 +1392,6 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b67e66df9",
-      "title": "Taking The Pulse, A Health Care and Life Sciences Video Podcast | Episode 274: Advancing Cancer Immunotherapy with Dr. Besim Ogretmen of Lipo-Immuno Tech & MUSC",
-      "url": "https://www.jdsupra.com/legalnews/taking-the-pulse-a-health-care-and-life-83522/",
-      "author": "Maynard Nexsen",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T04:58:42+00:00",
-      "updated_at": "",
-      "summary": "Recorded at the 2026 SCbio Annual Conference in Charleston, Heather and Matthew are joined by Dr. Besim Ogretmen, an internationally recognized cancer researcher at MUSC and Co-Founder and CEO of Lipo-Immuno Tech. Dr. Ogretmen shares how his team is developing novel chemoimmunotherapy approaches designed to enhance immune cell function and improve outcomes for patients with advanced cancers. We also discussed building a biotech company from academic research, securing non-dilutive funding,...<br>By: <a href=\"https://www.jdsupra.com/profile/maynard_nexsen/\">Maynard Nexsen</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "read",
-        "Legal Tech Core",
-        "High-Signal",
-        "Noise"
-      ]
-    },
-    {
       "id": "tag:google.com,2005:reader/item/0000000b67d60e89",
       "title": "For Those About to Agentic, We Salute You! Of Mythos and Agentic AI.",
       "url": "https://www.jdsupra.com/legalnews/for-those-about-to-agentic-we-salute-9610998/",
@@ -1440,22 +1522,6 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b67c26b53",
-      "title": "AI Regulation: The New Compliance Frontier",
-      "url": "https://www.jdsupra.com/legalnews/ai-regulation-the-new-compliance-7296615/",
-      "author": "Holland &amp; Knight LLP",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T03:42:08+00:00",
-      "updated_at": "",
-      "summary": "Artificial intelligence (AI) utilization in healthcare has rapidly transformed from peripheral use cases to core clinical and operational infrastructure. It is increasingly embedded across clinical decision support (CDS), diagnostics and administrative workflows....<br>By: <a href=\"https://www.jdsupra.com/profile/Holland_Knight/\">Holland &amp; Knight LLP</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
       "id": "tag:google.com,2005:reader/item/0000000b67c18464",
       "title": "User Beware: AI Tools May Waive Attorney Client Privilege and are Not Protected by the Work Product Privilege",
       "url": "https://www.jdsupra.com/legalnews/user-beware-ai-tools-may-waive-attorney-2605370/",
@@ -1516,118 +1582,6 @@
       "categories": [
         "reading-list",
         "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67baad59",
-      "title": "DOJ’s Latest Enforcement Wave Puts Corporate Compliance and White-Collar Defense on Alert",
-      "url": "https://www.legaltechmonitor.com/2026/04/dojs-latest-enforcement-wave-puts-corporate-compliance-and-white-collar-defense-on-alert/",
-      "author": "brunoqueirozdocketalarm-com",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-04-22T15:28:39+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>A cluster of major Justice Department developments reported this week underscores a familiar but increasingly urgent reality for companies and counsel: federal enforcement risk remains high across multiple fronts, and the government continues to pair aggressive charging decisions with public messaging aimed at deterrence.</p><p>While the specific matters span different industries and statutes, the common thread is institutional significance. Recent DOJ activity highlights continued focus on corporate misconduct, fraud, public corruption, sanctions and export-control issues, and other priority areas that can quickly evolve from regulatory concern into criminal exposure. For legal professionals, that matters less as a headline trend than as a practical signal about where prosecutors are investing resources and how they are framing liability.</p><p>For litigators and white-collar defense teams, these developments are a reminder that early case assessment is critical. DOJ announcements often preview enforcement theories that later appear in indictments, plea agreements, deferred prosecution agreements, and related civil actions. Even where a matter begins with a criminal investigation, collateral litigation risk can follow fast: shareholder suits, contractual disputes, insurance coverage fights, and parallel agency inquiries are common next steps.</p><p>In-house counsel and compliance officers should read the latest enforcement wave as a warning against treating compliance as a static checklist. The department’s posture suggests continued interest in whether companies can demonstrate effective controls, prompt internal escalation, disciplined document retention, and credible remediation. Prosecutors increasingly scrutinize not just whether misconduct occurred, but whether management ignored red flags, whether employees were properly supervised, and whether the company can show a functioning culture of compliance.</p><p>There is also a broader institutional point. DOJ’s recent public actions arrive amid continuing debate over federal enforcement priorities, resource allocation, and the balance between deterrence and overreach. For the private bar, that means a more dynamic risk environment in which legal advice must account for both black-letter law and fast-moving policy signals from Main Justice and U.S. Attorneys’ Offices.</p><p>The takeaway is straightforward: companies operating in regulated sectors, using global supply chains, handling government funds, or facing whistleblower risk should assume that enforcement agencies are watching closely. Counsel should revisit internal reporting channels, preservation protocols, and investigation playbooks now, before a subpoena, search warrant, or grand jury request makes those decisions under pressure.</p><p>For Docket Alarm users, the practical value is in tracking how these headline enforcement actions translate into concrete filings, charging patterns, and judicial rulings. Today’s DOJ news is not just another roundup item; it is a roadmap for the disputes, investigations, and strategic decisions likely to shape the legal landscape in the months ahead.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67baad5f",
-      "title": "SEC Settles Insider-Trading Case Tied to Chimerix-Jazz Deal Due Diligence",
-      "url": "https://www.legaltechmonitor.com/2026/04/sec-settles-insider-trading-case-tied-to-chimerix-jazz-deal-due-diligence/",
-      "author": "brunoqueirozdocketalarm-com",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-04-22T12:06:30+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The SEC has settled insider-trading charges against Weizheng Zeng in an administrative proceeding arising from the acquisition of Chimerix, Inc. by Jazz Pharmaceuticals plc. In <a href=\"https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-105270-s\">SEC v. Weizheng Zeng (File No. 3-22627)</a>, the agency alleged that Zeng traded Chimerix stock while participating in due diligence work connected to Jazz’s acquisition of the company, before the deal was publicly announced on March 5, 2025.</p><p>According to the SEC, those trades generated roughly $69,011 in illicit profits. Without admitting or denying the findings, Zeng agreed to a cease-and-desist order and monetary relief including disgorgement, prejudgment interest, and a civil penalty equal to the alleged profits. The matter was brought as an administrative proceeding rather than a federal district court action, but it carries the same core message the SEC has been emphasizing for years: access to deal information through professional roles can create immediate and serious insider-trading exposure.</p><p>For legal and compliance teams, the case is a useful reminder that insider-trading risk in M&amp;A is not limited to executives, bankers, or board members. Anyone pulled into a transaction process—including consultants, diligence personnel, technical specialists, and other outside participants—may become a temporary insider once they receive material nonpublic information. That is especially relevant in life sciences deals, where small-cap public company targets can experience sharp stock movement on acquisition news.</p><p>The matter also underscores the compliance challenge around “need-to-know” access. In-house counsel overseeing strategic transactions should review who is brought into diligence, how confidentiality obligations are documented, whether restricted-list procedures are updated in real time, and whether trading blackout reminders extend beyond the core deal team. For litigators and enforcement lawyers, the case shows how the SEC continues to pursue relatively modest-profit trades where the facts fit a classic misappropriation or confidentiality-based theory.</p><p>The underlying transaction context—Jazz Pharmaceuticals’ acquisition of Chimerix—illustrates why deal diligence remains a recurring enforcement flashpoint. Once an acquisition process advances, information about valuation, timing, and strategic intent can quickly become market-moving. Even a single round of trading before announcement can produce a straightforward evidentiary narrative for the government, particularly where access logs, confidentiality agreements, and trading records line up.</p><p>For practitioners tracking SEC enforcement trends, this settlement is another example of the agency’s continued focus on policing trading around corporate events and on holding individuals accountable when they allegedly misuse information obtained through transactional work. Compliance officers and deal counsel may want to treat it as a prompt to revisit insider-trading controls before the next confidential M&amp;A process begins.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67b7b91c",
-      "title": "Constitutional Collision: Questions to Assess the 2026 National AI Framework",
-      "url": "https://www.jdsupra.com/legalnews/constitutional-collision-questions-to-3872203/",
-      "author": "McDonnell Boehnen Hulbert &amp; Berghoff LLP",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T19:19:25+00:00",
-      "updated_at": "",
-      "summary": "Building on Section 8 of the December 2025 Executive Order, the Trump administration’s “National Policy Framework for Artificial Intelligence,” (the “Framework”) released on March 20, 2026, provides a formal legislative blueprint for advancing the administration’s goal of a uniform, national policy for AI across the United States. While the Executive Order provided only the outline of a national legislative scheme, the current Framework provides......<br>By: <a href=\"https://www.jdsupra.com/profile/MBHB/\">McDonnell Boehnen Hulbert &amp; Berghoff LLP</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67b7b91d",
-      "title": "AI meets the gavel: Key legal battles and regulatory trends in the United States",
-      "url": "https://www.jdsupra.com/legalnews/ai-meets-the-gavel-key-legal-battles-3126409/",
-      "author": "White &amp; Case LLP",
-      "source": "Artificial Intelligence | JD Supra Law News",
-      "published_at": "2026-04-22T19:19:25+00:00",
-      "updated_at": "",
-      "summary": "As generative artificial intelligence (“GenAI”) continues to be rapidly adopted by individuals and organizations across a wide range of industries, courts are seeing a corresponding surge in legal disputes arising from its development and use. These cases span a wide range of issues, primarily focusing on: (i) the nature and sourcing of input data used in AI model training and whether such use constitutes fair use; and (ii) the alleged harms created by the deployment of GenAI products and...<br>By: <a href=\"https://www.jdsupra.com/profile/white_case/\">White &amp; Case LLP</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67b7028d",
-      "title": "DOL Opinion Letter Provides a Compliance Roadmap for Including Bonuses in Overtime Calculations",
-      "url": "https://www.jdsupra.com/legalnews/dol-opinion-letter-provides-a-4491776/",
-      "author": "Troutman Pepper Locke",
-      "source": "Compliance | JD Supra Law News",
-      "published_at": "2026-04-22T19:13:41+00:00",
-      "updated_at": "",
-      "summary": "In early 2026, the U.S. Department of Labor’s (DOL) Wage and Hour Division issued six opinion letters providing guidance on the federal labor standards under the Fair Labor Standards Act (FLSA) and the Family and Medical Leave Act. In one of these letters, the DOL addressed a key topic for employers: how and when bonuses are incorporated into overtime calculations. In particular, the DOL explained the circumstances under which bonus payments may be excluded from an employee’s regular hourly rate...<br>By: <a href=\"https://www.jdsupra.com/profile/troutman_pepper_locke/\">Troutman Pepper Locke</a>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Compliance",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67b34f08",
-      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
-      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
-      "author": "Julie Bort",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-04-22T18:39:27+00:00",
-      "updated_at": "",
-      "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67b346cc",
-      "title": "Product feedback routing agent",
-      "url": "https://www.youtube.com/watch?v=bk2H8WfHZZk",
-      "author": "OpenAI",
-      "source": "OpenAI",
-      "published_at": "2026-04-22T18:09:08+00:00",
-      "updated_at": "",
-      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=bk2H8WfHZZk\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Watch a guided walkthrough of an agent that gathers feedback from Slack, support, and public channels, prioritizes what matters, and turns signals into weekly product action.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
         "High-Signal"
       ]
     }
