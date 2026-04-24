@@ -1,8 +1,24 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-04-24T12:46:56.649428+00:00",
+  "fetched_at": "2026-04-24T12:54:24.950039+00:00",
   "item_count": 100,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b68f92e3f",
+      "title": "AI-native law firm index hits 40 listings",
+      "url": "https://legaltechnology.com/2026/04/24/ai-native-law-firm-index-hits-40-listings/",
+      "author": "Caroline Hill - Editor-in-Chief",
+      "source": "Legal IT Insider",
+      "published_at": "2026-04-24T11:58:30+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://legaltechnology.com/wp-content/uploads/2026/04/IPO-2-scaled.png\" alt=\"IPO-2-scaled.png\"></p><p>A directory dedicated to ‘AI native’ law firms launched in March by Lupl’s co-founder Matt Pollins has hit a 40-firm milestone, reflecting what many see as a fundamental shift in how […]</p>  \n<p>The post <a href=\"https://legaltechnology.com/2026/04/24/ai-native-law-firm-index-hits-40-listings/\">AI-native law firm index hits 40 listings</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b68f20896",
       "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
@@ -1608,22 +1624,6 @@
       "published_at": "2026-04-22T18:09:08+00:00",
       "updated_at": "",
       "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=bk2H8WfHZZk\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Watch a guided walkthrough of an agent that gathers feedback from Slack, support, and public channels, prioritizes what matters, and turns signals into weekly product action.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67b346c5",
-      "title": "Third-party risk management agent",
-      "url": "https://www.youtube.com/watch?v=jwkKbedaeYM",
-      "author": "OpenAI",
-      "source": "OpenAI",
-      "published_at": "2026-04-22T18:12:57+00:00",
-      "updated_at": "",
-      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=jwkKbedaeYM\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Watch a guided walkthrough of an agent that screens vendors for sanctions, financial, and reputational risk, then turns the findings into a clear report.</p>",
       "content": "",
       "categories": [
         "reading-list",
