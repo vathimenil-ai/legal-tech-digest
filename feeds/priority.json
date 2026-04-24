@@ -1,8 +1,42 @@
 {
   "feed_type": "priority",
-  "fetched_at": "2026-04-23T17:19:40.841383+00:00",
-  "item_count": 7,
+  "fetched_at": "2026-04-24T12:46:49.587151+00:00",
+  "item_count": 8,
   "items": [
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b68e57dd9",
+      "title": "Inside Freshfields' Partnership With Anthropic and What It Means for the Legal Industry",
+      "url": "https://www.legaltechmonitor.com/2026/04/inside-freshfields-partnership-with-anthropic-and-what-it-means-for-the-legal-industry/",
+      "author": "Law.com&#039;s Legal Tech News",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-04-23T20:36:06+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The partnership will allow Freshfields to give Anthropic feedback on their future AI offerings, helping to ensure they meet law firm needs.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b687bebc0",
+      "title": "Healthcare Trends & Transactions Q1 2026",
+      "url": "https://www.jdsupra.com/legalnews/healthcare-trends-transactions-q1-2026-8473465/",
+      "author": "Bass, Berry &amp; Sims PLC",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-04-23T19:53:34+00:00",
+      "updated_at": "",
+      "summary": "The first quarter of 2026 was characterized by steady healthcare mergers and acquisitions (M&amp;A) deal flow across a broad range of sectors, reflecting a maturing market in which consolidation, artificial intelligence (AI) integration, and cross-sector partnerships have emerged as defining themes....<br>By: <a href=\"https://www.jdsupra.com/profile/Bass_Berry_Sims/\">Bass, Berry &amp; Sims PLC</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal",
+        "Priority"
+      ]
+    },
     {
       "id": "tag:google.com,2005:reader/item/0000000b683fd37b",
       "title": "npx workos: From Auth Integration to Environment Management, Zero ClickOps (Sponsor)",
@@ -100,23 +134,6 @@
       "categories": [
         "reading-list",
         "AI-digest-candidates",
-        "Priority"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b67040681",
-      "title": "Epiq and DeepJudge Partner To Scale AI Across Law Firm Institutional Knowledge",
-      "url": "https://ediscoverytoday.com/2026/04/21/epiq-and-deepjudge-partner-to-scale-ai-across-law-firm-institutional-knowledge/",
-      "author": "Doug Austin",
-      "source": "eDiscovery Today by Doug Austin",
-      "published_at": "2026-04-21T20:15:18+00:00",
-      "updated_at": "",
-      "summary": "<p>Congrats to Epiq for the announcement that Epiq and DeepJudge partner to scale AI across law firm institutional knowledge! Here’s part of the press release!</p> \n<p>The post <a href=\"https://ediscoverytoday.com/2026/04/21/epiq-and-deepjudge-partner-to-scale-ai-across-law-firm-institutional-knowledge/\">Epiq and DeepJudge Partner To Scale AI Across Law Firm Institutional Knowledge</a> appeared first on <a href=\"https://ediscoverytoday.com\">eDiscovery Today by Doug Austin</a>.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "eDiscovery - Litigation",
-        "High-Signal",
         "Priority"
       ]
     }
