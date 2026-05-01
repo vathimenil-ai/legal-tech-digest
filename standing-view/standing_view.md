@@ -232,7 +232,7 @@
 - **What to watch:** All prior items plus: Epiq-DeepJudge signed engagement timeline; Harvey governance/compliance feature launches; Manifest OS first client wins.
 
 ### AI Privilege Protection vs. AI Privilege Risk
-- **Tension:** Unchanged this week. *Jones v. Delta Air Lines* (ChatGPT deposition ruling) adds a data point but limited precedential weight (pro se context).
+- **Tension:** Unchanged this week. *Jones v. Delta* adds a data point but limited precedential weight (pro se context).
 
 ### Agentic AI Capability vs. Agentic AI Governance
 - **Status:** New tension this week
