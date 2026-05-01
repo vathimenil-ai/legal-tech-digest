@@ -1,7 +1,7 @@
 {
   "feed_type": "priority",
-  "fetched_at": "2026-05-01T11:07:37.556532+00:00",
-  "item_count": 8,
+  "fetched_at": "2026-05-01T11:12:14.300921+00:00",
+  "item_count": 7,
   "items": [
     {
       "id": "tag:google.com,2005:reader/item/0000000b6d19e30e",
@@ -111,23 +111,6 @@
       "published_at": "2026-04-29T14:48:13+00:00",
       "updated_at": "",
       "summary": "<p><img src=\"https://legaltechnology.com/wp-content/uploads/2026/04/Dollars-1.png\" alt=\"Dollars-1.png\"></p><p>European Legal AI platform Noxtua has announced a partnership with US legal research challenger Midpage that its founders say marks a first for the market: access to American case law, […]</p>  \n<p>The post <a href=\"https://legaltechnology.com/2026/04/29/noxtua-and-midpage-partner-to-give-european-lawyers-local-access-to-us-law/\">Noxtua and Midpage partner to give European lawyers local access to US Law</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal",
-        "Priority"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b6c12173f",
-      "title": "Noxtua Integrates US Legal Data in Partnership with Midpage ",
-      "url": "https://www.artificiallawyer.com/2026/04/29/noxtua-integrates-us-legal-data-in-partnership-with-midpage/",
-      "author": "artificiallawyer",
-      "source": "Artificial Lawyer",
-      "published_at": "2026-04-29T11:08:19+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-12.02.15.png\" alt=\"Screenshot-2026-04-29-at-12.02.15.png\"></p>Europe’s ‘sovereign legal AI’ platform, Noxtua – which CMS and Dentons have invested in – and the legal research startup Midpage, are partnering to combine <a href=\"https://www.artificiallawyer.com/2026/04/29/noxtua-integrates-us-legal-data-in-partnership-with-midpage/\" title=\"Noxtua Integrates US Legal Data in Partnership with Midpage \">...</a>",
       "content": "",
       "categories": [
         "reading-list",
