@@ -251,7 +251,7 @@
 | Relativity Server sunset | Any official communication on 2028 deadline flexibility | Determines urgency of migration strategy | Monitor |
 | Harvey Spectre integration scope | Harvey announcing integration across firm technology stack (not just Harvey platform) | Determines whether Spectre is a feature or a platform displacement threat; Project Deal demonstrates underlying agent autonomy capability | Elevated |
 | Harvey agentic product delivery | Harvey announcing managed review or workflow delivery capability | Direct competition with LSP service layer | Elevated — Spectre + Magic Circle adoption escalates this |
-| Harvey governance/compliance features | Harvey launching governance or compliance capabilities competing with LSP orchestration products | Would limit the governance differentiation that is the primary LSP moat thesis | New — Elevated |
+| Harvey governance/compliance features | Harvey launching governance or compliance capabilities competing with LSP orchestration products | Would limit the governance differentiation that is the primary LSP moat thesis | Elevated |
 | AI-first review on large matter | Any major firm announcing AI-primary review on >1M documents | Adoption inflection point | Monitor |
 | Outcome-based pricing emergence | Any LSP announcing per-outcome or managed service AI pricing | Would validate new revenue model thesis | Monitor |
 | Microsoft Purview managed service | Any LSP announcing Purview implementation/managed service | Would validate information governance adjacency | Monitor |
@@ -292,14 +292,14 @@
 | Downstream legal AI vendor supply chain response | Harvey or other Claude-dependent vendors addressing supply chain qualification for government work | Would reveal whether supply chain fragmentation is being managed or ignored | Monitor |
 | DOJ DEI-FCA enforcement expansion | Additional DOJ FCA actions targeting DEI contract compliance beyond IBM settlement | Would expand enforcement-driven demand beyond cyber into employment/DEI compliance | Monitor |
 | ISO AI insurance exclusion adoption | Major carriers adopting ISO CG 40 47 01 26 generative AI CGL exclusion | Would mean AI-related liability actively carved out of standard insurance, increasing governance stakes | Monitor |
-| White v. Walmart citation | Other courts citing or adopting the "independent judgment and oversight" standard for AI-assisted discovery | Would confirm human-in-the-loop as industry-wide judicial requirement | New — Elevated |
-| Fannie Mae parallel GSE mandates | Freddie Mac or FHFA issuing parallel AI governance frameworks | Would confirm GSE-level governance as systemic enforcement pattern | New — Elevated |
-| Anthropic $50B/$900B round closure | Confirmation of Anthropic fundraising round closing at reported terms | Confirms capital asymmetry at near-$1T level; terms may address supply chain designation | New — Elevated |
-| Manifest OS first client wins | Manifest OS announcing client engagements, service delivery specifics, or legal outcomes | Would move AI-native law firm from venture thesis to market reality | New — Elevated |
-| Epiq-AWS product integration | Evidence that Epiq-DeepJudge and Epiq-AWS products share architecture or data layer | Determines whether dual-track AI strategy is integrated platform or parallel point solutions | New — Elevated |
-| Autonomous agent liability guidance | Bar association, regulatory, or judicial guidance on AI agent contracting liability | Would begin to close the autonomous agent governance gap | New — Monitor |
-| Anthropic Project Deal expansion | Anthropic expanding autonomous agent commerce to professional services domains | Would compress timeline for legal workflow disintermediation | New — Elevated |
-| xAI v. Colorado AI Act ruling | Court ruling on constitutionality/scope of Colorado AI Act following DOJ intervention | Would clarify state AI governance enforcement enforceability | New — Monitor |
+| White v. Walmart citation | Other courts citing or adopting the "independent judgment and oversight" standard for AI-assisted discovery | Would confirm human-in-the-loop as industry-wide judicial requirement | Elevated |
+| Fannie Mae parallel GSE mandates | Freddie Mac or FHFA issuing parallel AI governance frameworks | Would confirm GSE-level governance as systemic enforcement pattern | Elevated |
+| Anthropic $50B/$900B round closure | Confirmation of Anthropic fundraising round closing at reported terms | Confirms capital asymmetry at near-$1T level; terms may address supply chain designation | Elevated |
+| Manifest OS first client wins | Manifest OS announcing client engagements, service delivery specifics, or legal outcomes | Would move AI-native law firm from venture thesis to market reality | Elevated |
+| Epiq-AWS product integration | Evidence that Epiq-DeepJudge and Epiq-AWS products share architecture or data layer | Determines whether dual-track AI strategy is integrated platform or parallel point solutions | Elevated |
+| Autonomous agent liability guidance | Bar association, regulatory, or judicial guidance on AI agent contracting liability | Would begin to close the autonomous agent governance gap | Monitor |
+| Anthropic Project Deal expansion | Anthropic expanding autonomous agent commerce to professional services domains | Would compress timeline for legal workflow disintermediation | Elevated |
+| xAI v. Colorado AI Act ruling | Court ruling on constitutionality/scope of Colorado AI Act following DOJ intervention | Would clarify state AI governance enforcement enforceability | Monitor |
 
 ---
 
