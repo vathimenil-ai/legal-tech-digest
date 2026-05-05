@@ -1,5 +1,11 @@
-## Legal Tech Intelligence — Monday, May 5, 2026
+# Legal Tech Intelligence — Monday, May 12, 2026
 
-### Bottom Line
+## Bottom Line
 
-- No significant new developments today. The four major developments from last week — Anthropic's enterprise services JV with Blackstone/Houlihan/Goldman, Microsoft's Legal Agent inside Word, the multi-state AI legislative surge, and the Colorado AI Act federal court injunction — remain the operative signals. Next weekly brief: May 8, 2026.
+- No significant new developments today. The feed cycle is still drawing from the May 3–5 publication window, with all material items already covered in prior briefs. Next weekly brief: May 15, 2026.
+
+---
+
+## Sources
+
+No new sources cited today.
