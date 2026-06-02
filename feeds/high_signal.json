@@ -1,21 +1,1267 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-06-01T11:00:08.980113+00:00",
-  "item_count": 21,
+  "fetched_at": "2026-06-02T11:00:09.496430+00:00",
+  "item_count": 92,
   "items": [
     {
-      "id": "tag:google.com,2005:reader/item/0000000b81001e00",
-      "title": "The finance function is quietly becoming an agent stack, and the org chart has not caught up",
-      "url": "https://www.finextra.com/blogposting/31880/the-finance-function-is-quietly-becoming-an-agent-stack-and-the-org-chart-has-not-caught-up?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "id": "tag:google.com,2005:reader/item/0000000b81b0cfee",
+      "title": "transfermate moves on stablecoins",
+      "url": "https://www.finextra.com/pressarticle/109997/transfermate-moves-on-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
       "author": "",
       "source": "Finextra Research news",
-      "published_at": "2026-06-01T10:25:45+00:00",
+      "published_at": "2026-06-02T09:52:35+00:00",
       "updated_at": "",
-      "summary": "The change most banks and fintechs are bracing for in finance has already happened in the companies ...",
+      "summary": "TransferMate, the leading provider of embedded B2B payments, has selected BVNK as its stablecoin infrastructure partner in a new integration that will see TransferMate use BVNK to offer stablecoin capabilities across its global network for the first time.",
       "content": "",
       "categories": [
         "reading-list",
         "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81a9a9df",
+      "title": "MCP: The Standard that Decides Legal AI’s Future",
+      "url": "https://www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future/",
+      "author": "artificiallawyer",
+      "source": "Artificial Lawyer",
+      "published_at": "2026-06-02T08:59:51+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-at-09.54.29.png\" alt=\"Screenshot-2026-06-02-at-09.54.29.png\"></p>By Liam Reid, Senior Product Manager, Legatics. Most law firms now have at least one generative AI tool in production. Many have several. The frontier <a href=\"https://www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future/\" title=\"MCP: The Standard that Decides Legal AI’s Future\">...</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81a93b6e",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "author": "",
+      "source": "OpenAI Blog",
+      "published_at": "2026-06-02T02:00:00+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://images.ctfassets.net/kftzwdyauwt9/4W7LyNXXbMY32R9h4xxI7L/9bdd4188f7e7c50815df1e5218adc9c0/codex_for_knowledge_16x9.png?w=1600&amp;h=900&amp;fit=fill\" alt=\"codex_for_knowledge_16x9.png?w=1600&amp;h=90\"></p>The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81a7fe2c",
+      "title": "DBS introduces tap-to-phone tech for merchant sales",
+      "url": "https://www.finextra.com/pressarticle/109993/dbs-introduces-tap-to-phone-tech-for-merchant-sales?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-02T07:00:00+00:00",
+      "updated_at": "",
+      "summary": "DBS today announced a new ‘tap-to-phone’ feature for businesses to accept credit and debit card payments conveniently through their smartphones.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81a7fe2b",
+      "title": "KBank and Ant International turn to JPMorgan's Kinexys for real-time cross-border USD",
+      "url": "https://www.finextra.com/newsarticle/47841/kbank-and-ant-international-turn-to-jpmorgans-kinexys-for-real-time-cross-border-usd?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-02T08:53:00+00:00",
+      "updated_at": "",
+      "summary": "Kasikornbank has signed an MoU with Ant International to deploy blockchain rails for cross-border US Dollar transactions.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81a7fe2a",
+      "title": "DBS to launch 18 new wealth centres across Asia Pacific",
+      "url": "https://www.finextra.com/pressarticle/109992/dbs-to-launch-18-new-wealth-centres-across-asia-pacific?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-02T08:53:00+00:00",
+      "updated_at": "",
+      "summary": "Amid surging demand for wealth management services across Asia, DBS today announced that it will open 18 new wealth centres across the region by end-2027.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81a7fe27",
+      "title": "PayAngel taps Currencycloud to strengthen multicurrency accounts and payouts",
+      "url": "https://www.finextra.com/pressarticle/109995/payangel-taps-currencycloud-to-strengthen-multicurrency-accounts-and-payouts?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-02T08:53:00+00:00",
+      "updated_at": "",
+      "summary": "PayAngel, a cross-border payments platform built by migrants and shaped by a lived understanding of the migrant journey, today announced an expanded collaboration with Visa, a world leader in digital payments.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81a3c4a2",
+      "title": "Smartstream launches Smart Agents for back-office operations",
+      "url": "https://www.finextra.com/pressarticle/109989/smartstream-launches-smart-agents-for-back-office-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-02T08:23:28+00:00",
+      "updated_at": "",
+      "summary": "Smartstream, a trusted data solutions provider for leading global financial institutions and enterprises, today announced the availability of Smart Agents, its agentic AI solution designed for bank operations.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81a3c32c",
+      "title": "Napier AI delivers AML compliance module to Concentrix",
+      "url": "https://www.finextra.com/pressarticle/109991/napier-ai-delivers-aml-compliance-module-to-concentrix?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-02T08:23:28+00:00",
+      "updated_at": "",
+      "summary": "Concentrix Corporation (NASDAQ: CNXC), a global technology and services leader, has joined forces with Napier AI as part of its broader financial crime compliance ecosystem to deliver advanced, AI-powered anti-money laundering (AML) solutions for banking, financial services and Tranche 2–impacted entities across Australia and New Zealand (ANZ).",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8183bf81",
+      "title": "Wiretap Litigation Update",
+      "url": "https://www.jdsupra.com/legalnews/wiretap-litigation-update-8801181/",
+      "author": "Coblentz Patch Duffy &amp; Bass",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-02T03:14:35+00:00",
+      "updated_at": "",
+      "summary": "Plaintiffs have continued to file privacy litigation at a furious pace, asserting claims under the California Invasion of Privacy Act (CIPA), the federal Video Privacy Protection Act (VPPA), and, increasingly, the federal Electronic Communications Privacy Act (ECPA)....<br>By: <a href=\"https://www.jdsupra.com/profile/Coblentz_Patch_Duffy_Bass/\">Coblentz Patch Duffy &amp; Bass</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b817db08a",
+      "title": "HIPAA Modernization: HHS’s Proposed Privacy and Security Rule Updates",
+      "url": "https://www.jdsupra.com/legalnews/hipaa-modernization-hhs-s-proposed-2234631/",
+      "author": "K&amp;L Gates LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-02T02:54:37+00:00",
+      "updated_at": "",
+      "summary": "In this episode, Gabe Scott, Sarah Carlins, and Myia Pretty discuss two significant proposed HIPAA rulemakings, including updates to the HIPAA Security Rule and proposed modifications to the HIPAA Privacy Rule. They outline the key policy changes and their underlying rationale, as well as what stakeholders should watch for as these processes move forward....<br>By: <a href=\"https://www.jdsupra.com/profile/KL_Gates/\">K&amp;L Gates LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b817a142d",
+      "title": "Five Risks GCs Should Know About Frontier AI and Cybersecurity",
+      "url": "https://www.jdsupra.com/legalnews/five-risks-gcs-should-know-about-2922341/",
+      "author": "Alston &amp; Bird",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-02T02:20:01+00:00",
+      "updated_at": "",
+      "summary": "Our Privacy, Cyber &amp; Data Strategy Group explores how frontier AI models are changing the cybersecurity landscape and what general counsel need to know about the risks and challenges for organizations.w...<br>By: <a href=\"https://www.jdsupra.com/profile/alston_bird/\">Alston &amp; Bird</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81771794",
+      "title": "Claiming the Attention Layer: A Framework for Transformer-Based Bioinformatics Patents in the AI Space",
+      "url": "https://www.jdsupra.com/legalnews/claiming-the-attention-layer-a-3769261/",
+      "author": "Fenwick &amp; West LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-02T01:49:45+00:00",
+      "updated_at": "",
+      "summary": "The transformer architecture has reshaped modern artificial intelligence, powering large language models (LLMs), multimodal models, and bioinformatics platforms. Transformers rely on a defining computational operation: the attention mechanism....<br>By: <a href=\"https://www.jdsupra.com/profile/fenwick/\">Fenwick &amp; West LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81750c50",
+      "title": "CCO/CECO salaries spiked in 2025, according to Inside the Mind survey",
+      "url": "https://www.complianceweek.com/surveys-benchmarking/cco-ceco-salaries-spiked-in-2025-according-to-inside-the-mind-survey/",
+      "author": "Adrianne Appel",
+      "source": "Latest articles from Compliance Week Compliance and Technology",
+      "published_at": "2026-06-02T00:53:34+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.complianceweek.com/wp-content/uploads/2019/07/salary_395109.jpg\" alt=\"salary_395109.jpg\"></p><p>Compliance officer salaries spiked in 2025 by between 25 and 35 percent over 2024, according to the results of Compliance Week’s seventh annual Inside the Mind of the CCO survey. </p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8171d736",
+      "title": "Embed the Librarian Intelligence",
+      "url": "https://www.legaltechmonitor.com/2026/06/embed-the-librarian-intelligence/",
+      "author": "David Whelan",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-06-01T12:30:00+00:00",
+      "updated_at": "",
+      "summary": "<p></p><p>Reading Time: 7 minutes</p><p>I am a little bit fascinated by the Anthropic-initiated Skills concept. In my mind’s eye, it fixes two of the significant problems with professional use of agentic AI (and generative AI): lack of expertise and lack of re-usability. The gap that I am unsure how to cross is moving from theory to application.</p><p><span></span></p><p>One of the challenges of teaching people how to gather information is dealing with the fact-specific nature of that gathering. We fall back on literacy as a baseline. The assumption being that we can teach someone how to fish, and they can adapt that knowledge to whatever body of water they happen to be working in. </p><blockquote> \n<p>That’s not entirely true. Law librarians most often will teach people how to use products from companies like Thomson Reuters or RELX or Alphabet. We stray from teaching universal approaches in order to move law students and researchers further along from literacy <a href=\"https://ofaolain.com/legal-information-access-is-messy/\">even though mastery is unlikely</a>.</p> \n</blockquote><p>The goal up until now is for the learner to become the learned, for them to develop expertise through repetition and practice and increased understanding. This assumes the learner is doing the work. The change wrought by artificial intelligence is that that learning can be avoided. Organizations like law firms see artificial intelligence as having already achieved that learning. Meanwhile, law students, new graduates, and the public may be discouraged from engaging in the learning, with AI as a shortcut.</p><p>In some ways, it is the same issue that librarians have had ever since the emergence of internet web search. When people can ask an answer machine, they may disintermediate an information professional who had filled that role previously. It is not the librarian’s only role but web search narrowed the field of questions we answer and the types of reference materials we might collect.</p><p>The shortcoming with literacy is that, shorn of practice and repetition, it is unable to lead to expertise. When an AI is asked for information, the finding and retrieval is delegated. When an agentic AI is performing the task, that delegation occurs in an automated mode at an even greater distance from the potential learner.</p><h2>Agentic Skills</h2><p>One of the artificial intelligence companies created <a href=\"http://web.archive.org/web/20260527183204/https://agentskills.io/home\">a “standard” called Skills</a>. Anthropic designed it for people working with their product called Claude and released a specification that may provide a foundation for others to mimic. It’s a dumb name, almost as dumb as naming your platform X. I’m going to capitalize it for this post but hopefully it will spread and someone will call it something smarter.</p><p>The idea is that you can create templates that capture some of the know-how of more expert users. These Skills resources can then be exposed to AI agents who can determine whether to use them and, if they invoke them, will follow the deeper knowledge embedded in them. <a href=\"https://github.com/anthropics/skills\">Anthropic has a GitHub site for Skills </a>and defines them this way on the site:</p><figure style=\"height:auto;\"> \n<blockquote> \n<p>Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that’s creating documents with your company’s brand guidelines, analyzing data using your organization’s specific workflows, or automating personal tasks.</p> \n<p><cite><a href=\"https://github.com/anthropics/skills\">Anthropics/Skills</a> Public Github Repository</cite></p></blockquote> \n</figure><p>This <a href=\"http://web.archive.org/web/20260528085801/https://www.oreilly.com/radar/agent-skills/\">re-post over on O’Reilly’s Radar is a great explainer for what agent skills are</a> from the perspective of someone using them. It notes that agentic AI is focused on completing tasks and not on the steps that a more experienced developer might take getting to the same result.</p><figure style=\"height:auto;\"> \n<blockquote> \n<p>The default behavior of any AI coding agent is to take the shortest path to “done.” Ask for a feature and it writes the feature. It doesn’t ask whether you have a spec, write a test before the implementation, consider whether the change crosses a trust boundary, or check what the PR will look like to a reviewer. It produces code, declares victory, and moves on.</p> \n<p>This is the same failure mode every senior engineer has spent their career learning to avoid. The senior version of any task includes work that doesn’t show up in the diff: surfacing assumptions, writing the spec, breaking the work into reviewable chunks, choosing the boring design, leaving evidence that the result is correct, sizing the change so a human can actually review it. Those steps are most of what separates engineers who ship reliable software at scale from people who push code that breaks.</p> \n<p><cite><a href=\"http://web.archive.org/web/20260528085801/https://www.oreilly.com/radar/agent-skills/\">Agents Skills</a>, Addy Osmani, May 27, 2026, O’Reilly Radar</cite></p></blockquote> \n</figure><p>It is not a great leap to go from contemplating a “senior engineer” to “experienced librarian”. We know what we know. We cannot always impart everything we know to learners as we engage in developing information literacy. An expert researcher may have a suitcase full of tricks, any one of which will only be pulled out in a very specific context. Unless the limited options to teach and share skills touch on that context, they may never get an airing.</p><p>A Skill has a couple of components that will make sense to a librarian. The basic file—Skill.md (md for Markdown)—contains a metadata section and then the definition. It’s a bit like a catalog record or a web page. There is underlying metadata that describes the object that is ingested by the AI agent. If it decides the Skill is relevant based on the metadata, it then explores the rest of the object record (the Skill.md file).</p><figure style=\"height:auto;\"> \n<table> \n<thead> \n<tr> \n<th>Field</th> \n<th>Required</th> \n<th>Constraints</th> \n</tr> \n</thead> \n<tbody> \n<tr> \n<td> \n<p><code>name</code></p></td> \n<td>Yes</td> \n<td>Max 64 characters. Lowercase letters, numbers, and hyphens only. Must not start or end with a hyphen.</td> \n</tr> \n<tr> \n<td><code>description</code></td> \n<td>Yes</td> \n<td>Max 1024 characters. Non-empty. Describes what the skill does and when to use it.</td> \n</tr> \n<tr> \n<td><code>license</code></td> \n<td>No</td> \n<td>License name or reference to a bundled license file.</td> \n</tr> \n<tr> \n<td><code>compatibility</code></td> \n<td>No</td> \n<td>Max 500 characters. Indicates environment requirements (intended product, system packages, network access, etc.).</td> \n</tr> \n<tr> \n<td><code>metadata</code></td> \n<td>No</td> \n<td>Arbitrary key-value mapping for additional metadata.</td> \n</tr> \n<tr> \n<td><code>allowed-tools</code></td> \n<td>No</td> \n<td>Space-separated string of pre-approved tools the skill may use. (Experimental)</td> \n</tr> \n</tbody> \n</table><figcaption>The so-called “Frontmatter” metadata that goes into a Skill.md file, table from the <a href=\"http://web.archive.org/web/20260527183204/https://agentskills.io/home\">AI skills specification</a></figcaption></figure><p>If you’re curious about all of this, <a href=\"https://anthropic.skilljar.com/introduction-to-agent-skills\">Anthropic has partnered with Skilljar</a> on some very simple tutorials. A lot of it will be bafflegab to people who do not develop software with Claude but you can put the videos on 2x speed, read the text, and get a good general understanding. I took one session and that was plenty for me.</p><p>I found it more interesting to read through some of the samples. This really sparked my interest. For example, <a href=\"http://web.archive.org/web/20260407020658/https://github.com/anthropics/skills/blob/main/skills/pptx/SKILL.md\">Anthropic has a sample Skill called PPTX</a> for creating Microsoft PowerPoint slide decks. The creation involves design instructions, color branding specifications (in HEX), visual guidance, copy editing steps, and so on.</p><figure style=\"height:auto;\"><img style=\"height:auto;\" width=\"628\" height=\"236\" src=\"https://www.legaltechmonitor.com/files/2026/06/image-1.png\" alt=\"A screenshot of text from a document. The text is in a list under the heading Verification Loop and includes items like &quot;generate slides&quot; and &quot;fix issues&quot;\"><figcaption>A section from the <a href=\"http://web.archive.org/web/20260407020658/https://github.com/anthropics/skills/blob/main/skills/pptx/SKILL.md\">PPTX Skill.md</a> that is called Verication Loop</figcaption></figure><p>Note that the Anthropic training says to limit a Skill.md to 500 words and the PPTX Skill is 1200. It makes me think this is an idea that hasn’t fully been baked. Or the bean counters don’t want Skill.md files to become unwieldy and costly since, once they’re invoked, they use resources that have a cost. Also, the PPTX file has an alert that the agent should use “subagents — even for 2-3 slides. You’ve been staring at the code and will see what you expect”, as if the agent is a person. <a href=\"https://perma.cc/V66L-PEN4\">Nevermind that researchers think that being rude will actually get you better AI results</a>.</p><h2>A Basic Legal Research Skill</h2><p>It made me wonder what a basic legal research Skill might look like. If I was going to boil down my process for searching for case law on a specific topic, what would go into that process? At the end of the day, Skill.md files look like process documents to me. You provide an agentic AI with the raw input (“what have Illinois courts held in disputes involving property owners where a tree extends across a property line and causes damage?”) and it runs off through the process.</p><p>So what might that look like in a Skill.md file?</p><ul> \n<li>You might want to start with a section that ensures it is focusing on the correct jurisdiction. For example, explain which courts are binding on others or unusual names for courts or tribunals that might not be clear.</li> \n<li>A verification step that addresses hallucinations: test for citations, test for verbatim existence of text.</li> \n<li>A note up step that determines whether cases are good law.</li> \n<li>A step that puts the case citations into a Bluebook format or some other structure preparatory to being used in a document.</li> \n<li>A step that ensures that unpublished opinions are recognized as such and included or excluded based on local court rules.</li> \n<li>Guidance that prioritized types of resource (free v. commercial, in-plan v. out, a case law search-and-filter v. repeated case law searches when they are billed differently) to be used.</li> \n</ul><p>And so on. The Skill.md file could incorporate the expertise of a law librarian so that a lawyer who is doing a case law search would leverage that expertise even if a law librarian wasn’t involved. As the legal research tool set changes, the Skill resources would be updated (a new Python script to adapt to Bluebook changes when a new edition comes out, for example) to take that into account.</p><p>One concept I love is that this could be a template. As the Anthropic training showed, Skills can be shared across a team. Each lawyer would not need to create their own. A team of librarians could create and manage Skills to focus on specific types of research—cases, statutes, regulations, tribunals, boards, secondary sources, court rules—that an agentic AI could invoke depending on the search initiated by the lawyer.</p><h2>Rubber, Meet Road</h2><p>This is where I get stuck. I can see, from the Anthropic training, how this would work in a development environment. I do not see it from a legal professional environment and so there must be pieces missing for me. I think it’s the need to connect the agents with the legal research platforms. [Seriously, if I am getting any of this wrong, comments are open below]</p><figure style=\"height:auto;\"><img style=\"height:auto;\" width=\"1100\" height=\"430\" src=\"https://www.legaltechmonitor.com/files/2026/06/image-2.png\" alt=\"A chart with three boxes on the left and on the right and a central box connecting the two wings. The central box says MCP. The boxes on the left include AI apps like Claude Desktop and Claude Code. The right side boxes include common apps and data sources like Google Maps, Git, SQLite, Slack, and Google Drive.\"><figcaption>A chart showing the place the MCP standardized protocol has in between, on the left, AI applications and, on the right, data sources and tools</figcaption></figure><p>Bob Ambrogi had <a href=\"http://web.archive.org/web/20260527054642/https://www.lawnext.com/2026/05/claude-for-legal-and-access-to-justice-the-good-the-bad-and-the-unknown.html\">a good piece about Anthropic and access to justice recently</a>. It made me finally try to dig a bit further into how the pieces connect. It sounds like the <a href=\"http://web.archive.org/web/20260528110547/https://modelcontextprotocol.io/docs/getting-started/intro\">model context protocol</a> (MCP) is the missing ingredient. <a href=\"http://web.archive.org/web/20260521190602/https://www.thomsonreuters.com/en/press-releases/2026/may/thomson-reuters-and-anthropic-expand-partnership-to-connect-claude-with-cocounsel-legal\">Thomson Reuters has recently announced an MCP connection with Anthropic</a>, and <a href=\"http://web.archive.org/web/20260528144734/https://claude.com/blog/claude-for-the-legal-industry\">Anthropic has posted about a bunch of other MCP “connectors” it has developed with law-related services</a>. <a href=\"http://web.archive.org/web/20260211014237/https://developers.redhat.com/articles/2025/08/12/how-build-simple-agentic-ai-server-mcp\">This post about building a simple agentic AI weather app</a> using MCP has some clear graphics that explain how the process flows.</p><p>Frankly, it all starts to sound a lot like <a href=\"https://en.wikipedia.org/wiki/API\">API</a>s all over again. Sure, sure, I get it, they’re not the same. But that’s where my brain went when I started reading about them. Also, I get how an agent would get from the left of that chart, above, using Claude Desktop, to the right side to an app like Thomson Reuters Westlaw, but I’m not sure why the connector has to be with Thomson Reuters CoCounsel, which would be on the ... left side? The <a href=\"http://web.archive.org/web/20260514044731/https://free.law/2026/05/12/courtlistener-is-now-available-inside-claude/\">inclusion of CourtListener as an MCP connector for Anthropic is much clearer to me</a> (and they explicitly say the “free new tool uses your <strong><em>API</em></strong> access on the CourtListener platform”).</p><p>I’d love to hear how a law firm deployed Skills. I also wish I had an environment where I could test them out more but the reality is the cost and complexity for experimentation remains outside of my reach. As Bob Ambrogi pointed out:</p><figure style=\"height:auto;\"> \n<blockquote> \n<p>Fourth, there is a minor but real affordability question. While the CourtListener piece is genuinely free, the Anthropic piece on top of it is not. Use of these MCPs requires a Claude Pro subscription. Access to Claude for Nonprofits requires qualifying as a nonprofit. Even though a Claude Pro subscription is just $20 a month, even that might be a stretch for a self-represented litigant in a foreclosure or custody case. And there is always the risk of a two-tiered AI justice system, with better-resourced organizations running on Claude Enterprise, while unrepresented litigants rely on the free tier of whatever chatbot a friend told them about — which may or may not be the one with the verified primary-law connector turned on.</p> \n<p><cite><a href=\"https://www.lawnext.com/2026/05/claude-for-legal-and-access-to-justice-the-good-the-bad-and-the-unknown.html\">Claude for Legal and Access to Justice: the Good, the Bad, and the Unknown</a>, Bob Ambrogi, LawNext.com, May 21, 2026</cite></p></blockquote> \n</figure><p>MCP is an open standard so it shouldn’t require a researcher to adopt a specific vendor. However, we may not see law-related connectors turned on for every AI agent platform. I’m assuming each one will require licensing or access management at the very least. On top of that, Skills would need to become just as common (and renamed).</p><p>Hopefully, over time, opportunities to try out Skills—if I have CoCounsel or Lexis Protege’, couldn’t they be exposed as part of my organization’s legal research interface; we can already share documents—will broaden. I think there is an interesting opportunity for experts like law librarians to pull up a chair to a research and retrieval table in a way that we may not have been able to for the last 20 years.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Legal Tech Core",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b816e436e",
+      "title": "SEC Moves to Unwind Winklevoss Crypto Judgment in Major Enforcement Reversal",
+      "url": "https://www.legaltechmonitor.com/2026/06/sec-moves-to-unwind-winklevoss-crypto-judgment-in-major-enforcement-reversal/",
+      "author": "brunoqueirozdocketalarm-com",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-06-01T12:01:08+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The SEC’s reported move to withdraw a judgment against the Winklevoss-linked crypto exchange Gemini marks one of the more consequential digital-asset enforcement developments now circulating in the legal market. Even without a fully public merits ruling to dissect, the significance is clear: a federal securities regulator appears to be stepping back from a previously obtained result in a high-profile crypto matter, underscoring how quickly the enforcement landscape can shift as policy priorities, litigation risk, and legal theories evolve.</p><p>For legal professionals, the immediate takeaway is not simply that one company may get relief. It is that the government’s posture in crypto cases remains fluid, particularly where courts, agencies, and market participants are still testing the boundary between securities regulation and newer digital-asset products. A withdrawn or vacated judgment can reshape leverage in parallel matters, alter settlement expectations, and embolden defendants facing similar allegations involving exchange operations, yield products, or token-related services.</p><p>For litigators, this development is a reminder to revisit assumptions baked into pending enforcement defenses. Arguments that once seemed uphill—such as challenges to the fit between legacy securities doctrines and crypto platforms—may gain renewed traction when the SEC itself reassesses a litigated outcome. Defense counsel will also be watching for procedural details: whether the withdrawal stems from a negotiated resolution, a strategic agency recalibration, or concerns about the sustainability of the judgment on appeal or in future proceedings.</p><p>In-house counsel and compliance teams should be cautious about reading this as broad deregulation. A retreat in one case does not eliminate securities, commodities, anti-fraud, AML, sanctions, or state-law exposure. Instead, it reinforces the need for risk assessments that are product-specific and regulator-specific. Firms in the digital-asset space should be reviewing offering structures, disclosures, custody arrangements, retail communications, and institutional lending or staking programs with an eye toward inconsistent enforcement signals across agencies.</p><p>The broader legal significance is institutional. When a major regulator moves to undo a judgment in a marquee crypto case, it affects not only the defendant but the credibility and predictability of enforcement doctrine. That matters for courts managing related cases, companies deciding whether to litigate or settle, and insurers and investors pricing legal risk. In the near term, practitioners should expect this development to be cited in negotiations, briefing, and boardroom discussions as a sign that crypto enforcement strategy remains very much in flux.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b816e4222",
+      "title": "Supreme Court Ends Mexico’s $10 Billion Gunmaker Suit",
+      "url": "https://www.legaltechmonitor.com/2026/06/supreme-court-ends-mexicos-10-billion-gunmaker-suit/",
+      "author": "brunoqueirozdocketalarm-com",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-06-01T12:03:30+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The U.S. Supreme Court has unanimously rejected Mexico’s effort to hold American gun manufacturers liable for cartel violence, shutting down a closely watched suit that sought roughly $10 billion in damages. The decision is a significant win for the firearms industry and a forceful reaffirmation of the Protection of Lawful Commerce in Arms Act, or PLCAA, the federal statute that broadly shields gunmakers and sellers from many civil claims arising from criminal misuse of their products.</p><p>Mexico had argued that U.S. manufacturers and distributors knowingly facilitated illegal trafficking by designing, marketing, and distributing firearms in ways that predictably supplied cartel networks. The Court, however, concluded that those theories could not overcome PLCAA’s protections on the allegations presented. In practical terms, the ruling narrows the path for plaintiffs seeking to recast downstream criminal conduct as actionable misconduct by lawful manufacturers upstream.</p><p>For litigators, the opinion is an important pleading-stage decision. It signals that courts are likely to scrutinize efforts to fit firearms claims within PLCAA exceptions, including theories tied to alleged statutory violations or aiding-and-abetting style conduct. Plaintiffs will need more than broad allegations about foreseeability, market conditions, or generalized knowledge of trafficking risks. Defense counsel, meanwhile, will view the ruling as strong authority for early dismissal in suits attempting to impose liability for third-party crimes.</p><p>The decision also matters well beyond the firearms space. In-house counsel and compliance teams should read it as part of a broader judicial trend limiting attempts to extend product-liability and public-nuisance theories across long causal chains involving criminal actors. Where a federal immunity statute applies, the Court appears unwilling to allow creative pleading to erode that protection absent clear, well-supported allegations that fit a statutory exception.</p><p>For companies operating in regulated industries, the case is a reminder that compliance records, distribution controls, dealer oversight, and marketing practices still matter. Even when immunity defenses are available, plaintiffs and regulators will continue testing the boundaries through allegations focused on sales channels, red-flag customers, and internal knowledge. A robust compliance framework remains the best first line of defense.</p><p>Cross-border litigation strategy is another takeaway. Mexico’s suit was closely watched because it attempted to use U.S. courts to address harms occurring largely outside the United States. The Supreme Court’s ruling makes clear that, at least in the PLCAA context, foreign sovereign plaintiffs face the same statutory barriers as private claimants. That has implications for future transnational suits seeking to connect domestic commercial conduct with violence, trafficking, or public harms abroad.</p><p>Expect this decision to be cited quickly in firearms cases nationwide, particularly where plaintiffs seek to proceed under novel negligence, nuisance, or statutory-violation theories despite PLCAA’s broad shield.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b816e4103",
+      "title": "PTAB Institutes IPR2026-00189, Signaling Strong Preliminary Obviousness Showing",
+      "url": "https://www.legaltechmonitor.com/2026/06/ptab-institutes-ipr2026-00189-signaling-strong-preliminary-obviousness-showing/",
+      "author": "brunoqueirozdocketalarm-com",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-06-01T15:58:39+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The Patent Trial and Appeal Board granted institution in <em>IPR2026-00189</em>, finding that the petitioner made the required threshold showing that at least one challenged claim is reasonably likely to be unpatentable. At the institution stage, that is the key question under 35 U.S.C. § 314(a): not whether the patent is ultimately invalid, but whether the petition presents a sufficiently strong merits case to justify full trial before the Board.</p><p>Although an institution decision is preliminary, it is often the first meaningful read on how the PTAB views the parties’ invalidity theories, prior art combinations, and claim construction disputes. Here, the Board’s grant indicates that the petition was not merely facially adequate; it persuaded the panel that the asserted grounds—typically anticipation and/or obviousness based on printed publications and expert support—warrant a full inter partes review.</p><p>For practitioners, the most important takeaway is procedural as much as substantive. PTAB panels continue to scrutinize whether a petition ties each claim limitation to the prior art with precision and whether any rationale for combining references is supported by record evidence rather than attorney argument alone. A granted institution generally means the petitioner successfully connected those dots. On the patent owner side, this underscores the importance of using the preliminary response strategically: arguments aimed at evidentiary gaps, weak motivation-to-combine theories, and claim construction can still defeat institution, but only where they materially undercut the petitioner’s likelihood of success.</p><p>The decision also matters because institution orders shape the remainder of the case. Once review is instituted, the proceeding moves into the trial phase, where the patent owner must decide whether to file a full response, submit expert testimony, pursue amendment, or coordinate PTAB strategy with parallel district court litigation or ITC proceedings. Even though the Board’s institution analysis is not a final merits determination, parties and co-pending courts frequently treat it as a practical signal about the strength of the challenged patent claims.</p><p>This decision does not, by itself, appear to announce a new rule of law or change PTAB precedent. Instead, it reflects continued application of the post-SAS institution framework: if at least one challenge satisfies the statutory threshold, the Board institutes review on the petition as presented. That makes the ruling significant less for doctrinal novelty than for what it shows about current PTAB expectations for a well-supported petition.</p><p>For patent litigators, the broader lesson is familiar but important: institution is won or lost in the petition record. Detailed claim charts, credible expert analysis, and a coherent obviousness narrative remain essential. <a href=\"https://www.docketalarm.com/cases/Patent_Trial_and_Appeal_Board/IPR2026-00189/Board_Institution_Decision-_Grant_16-_Institution_Decision-_Grant_(Public)/\">View full case on Docket Alarm</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b816d3a25",
+      "title": "Incident Response and Data Retention Protocols at Center of NYDFS Enforcement Action Against Delta Dental",
+      "url": "https://www.jdsupra.com/legalnews/incident-response-and-data-retention-2549345/",
+      "author": "WilmerHale",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T23:04:44+00:00",
+      "updated_at": "",
+      "summary": "On April 30, the New York State Department of Financial Services (“NYDFS” or the “Department”) announced a $2.25 million settlement with Delta Dental Insurance Company and Delta Dental of New York, Inc. (an accident and health insurer and non-profit dental expense indemnity, respectively) (collectively, “Delta Dental” or the “Company”) for alleged violations of NYDFS’s cybersecurity regulation (23 New York Codes, Rules and Regulations (“NYCRR”) Part 500, also known as the “Part 500 Regulation”)....<br>By: <a href=\"https://www.jdsupra.com/profile/WilmerHale/\">WilmerHale</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b816ab68c",
+      "title": "OpenAI gives UK banks access to cybersecurity model",
+      "url": "https://www.finextra.com/newsarticle/47838/openai-gives-uk-banks-access-to-cybersecurity-model?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-01T23:29:35+00:00",
+      "updated_at": "",
+      "summary": "OpenAI has offered the UK's biggest banks access to its new cybersecurity AI model. The decision contrasts with the approach taken by rival Anthropic, which continues to keep its Mythos model out of the hands of non-US lenders.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b816ab68b",
+      "title": "Gradient Labs raises fresh funds to build specialist AI agents for finance",
+      "url": "https://www.finextra.com/newsarticle/47840/gradient-labs-raises-fresh-funds-to-build-specialist-ai-agents-for-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-01T23:29:35+00:00",
+      "updated_at": "",
+      "summary": "Gradient Labs, the startup founded by Monzo alumni to create AI agents for the financial services industry, has doubled its Series A round with $13 million in fresh funding.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81678e3b",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "author": "Lucas Ropek",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-06-01T22:55:09+00:00",
+      "updated_at": "2026-06-01T23:28:22+00:00",
+      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8161b066",
+      "title": "Why Your Organization Needs an eDiscovery Playbook… Today.",
+      "url": "https://www.jdsupra.com/legalnews/why-your-organization-needs-an-7030733/",
+      "author": "Exterro, Inc.",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T21:21:44+00:00",
+      "updated_at": "",
+      "summary": "Modern legal and compliance teams are currently navigating a profound data reckoning. The equation is daunting: more data, more scrutiny, and less margin for error. Despite years of investment, adding one solution here for legal holds, another one for collection, and shipping out ESI for review hasn’t helped....<br>By: <a href=\"https://www.jdsupra.com/profile/Exterro/\">Exterro, Inc.</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8160de7d",
+      "title": "2026 NAAG Spring Consumer Protection Conference: Pricing, Meet and Confers, & Age Verification",
+      "url": "https://www.jdsupra.com/legalnews/2026-naag-spring-consumer-protection-1672521/",
+      "author": "Kelley Drye &amp; Warren LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T21:14:09+00:00",
+      "updated_at": "",
+      "summary": "Recently, consumer protection staff from State AG offices around the country convened for the NAAG Spring Consumer Protection Conference. Topics included discussions of algorithmic pricing, compliance monitors, consumer outreach, and a keynote by NAAG President Connecticut Attorney General William Tong, highlighting the importance of consumer staff and how their roles may differ from executive administration (“front office”)....<br>By: <a href=\"https://www.jdsupra.com/profile/Kelley_Drye_Warren/\">Kelley Drye &amp; Warren LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Information Governance",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815eeb99",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "author": "Julie Bort",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-06-01T21:35:00+00:00",
+      "updated_at": "2026-06-01T22:27:24+00:00",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815e86c4",
+      "title": "How to Obtain a Declination: Understanding the CFTC’s New Self-Reporting and Cooperation Policy",
+      "url": "https://www.jdsupra.com/legalnews/how-to-obtain-a-declination-2239362/",
+      "author": "Husch Blackwell LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-06-01T21:33:51+00:00",
+      "updated_at": "",
+      "summary": "On May 19, 2026, the Commodity Futures Trading Commission’s (CFTC) Division of Enforcement (Division) issued CFTC Letter No. 26-15, a staff advisory establishing a comprehensive new policy on self-reporting, cooperation, and remediation. The policy creates clear incentives for proactive compliance and early disclosure of potential misconduct....<br>By: <a href=\"https://www.jdsupra.com/profile/husch_blackwell/\">Husch Blackwell LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815cc2ae",
+      "title": "Content: Optimizing Legal Content for AI-Powered Search",
+      "url": "https://www.jdsupra.com/legalnews/content-optimizing-legal-content-for-ai-4886576/",
+      "author": "Poston Communications",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T21:18:35+00:00",
+      "updated_at": "",
+      "summary": "Law firm websites are being evaluated differently than they were even a year ago. The shift is not just about how people search, but how answers are delivered. Increasingly, potential clients are not browsing – they are asking. And AI systems are deciding which law firm content is clear and credible specific enough to inform those answers....<br>By: <a href=\"https://www.jdsupra.com/profile/poston_communications/\">Poston Communications</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815cc2a9",
+      "title": "New Connecticut Law Restricts Employer AI Use, Mandates Notice for AI-Caused RIFs",
+      "url": "https://www.jdsupra.com/legalnews/new-connecticut-law-restricts-employer-7483920/",
+      "author": "Ogletree, Deakins, Nash, Smoak &amp; Stewart, P.C.",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T21:18:35+00:00",
+      "updated_at": "",
+      "summary": "On May 29, 2026, Connecticut Governor Ned Lamont signed into law landmark bipartisan artificial intelligence (AI) legislation that will, among other things, restrict employers’ use of AI-powered tools in employment decisions and require employers to provide disclosures to employees before AI-related reductions in force (RIFs)....<br>By: <a href=\"https://www.jdsupra.com/profile/ogletree_deakins/\">Ogletree, Deakins, Nash, Smoak &amp; Stewart,</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815cc2a8",
+      "title": "AI Antitrust Issues Checklist - June 2026",
+      "url": "https://www.jdsupra.com/legalnews/ai-antitrust-issues-checklist-june-2026-3162042/",
+      "author": "Vinson &amp; Elkins LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T21:18:35+00:00",
+      "updated_at": "",
+      "summary": "As artificial intelligence (“AI”) transitions from a nascent technology into a central pillar of the global economy, public and private antitrust enforcement related to AI has likewise exploded....<br>By: <a href=\"https://www.jdsupra.com/profile/vinson_elkins/\">Vinson &amp; Elkins LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815c2331",
+      "title": "Ironclad Founder Jason Boehmig Joins OpenAI For Legal Vertical Launch",
+      "url": "https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/",
+      "author": "artificiallawyer",
+      "source": "Artificial Lawyer",
+      "published_at": "2026-06-01T21:08:17+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/06/Screenshot-2026-06-01-at-22.01.21.png\" alt=\"Screenshot-2026-06-01-at-22.01.21.png\"></p>Jason Boehmig, the founder of CLM pioneer Ironclad, has joined OpenAI to ‘lead product for the legal vertical’. As first revealed by Artificial Lawyer on <a href=\"https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/\" title=\"Ironclad Founder Jason Boehmig Joins OpenAI For Legal Vertical Launch\">...</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815aa787",
+      "title": "Deepfake Photos Admitted – Proponent Held in Contempt – 45-Day Incarceration",
+      "url": "https://www.jdsupra.com/legalnews/deepfake-photos-admitted-proponent-held-8912399/",
+      "author": "EDRM - Electronic Discovery Reference Model",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T20:40:18+00:00",
+      "updated_at": "",
+      "summary": "<p><img title=\"Deepfake Photos Admitted – Proponent Held in Contempt – 45-Day Incarceration by Michael D. Berman, E-Discovery LLC.\" src=\"https://edrm.net/wp-content/uploads/2026/05/Berman-Deepfake-Photos-Admitted-%E2%80%93-Proponent-Held-in-Contempt-%E2%80%93-45-Day-Incarceration-1.png\" alt=\"Berman-Deepfake-Photos-Admitted-%E2%80%9\"></p>Adams v. Anderson, 2026 WL 1501021 (Ct. Apls. Ky. May 29, 2026)(unpublished), was an unsuccessful appeal from a holding of criminal contempt with a sentence of 45 days incarceration.  It arose out of a divorce action. Ms. Adams and Mr. Anderson were parents of two minors....<br>By: <a href=\"https://www.jdsupra.com/profile/edrm_electronic_discovery_reference_model/\">EDRM - Electronic Discovery Reference Model</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815969cd",
+      "title": "ICO publishes blog on AI-powered cyber threats",
+      "url": "https://www.jdsupra.com/legalnews/ico-publishes-blog-on-ai-powered-cyber-1036196/",
+      "author": "A&amp;O Shearman",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T20:48:55+00:00",
+      "updated_at": "",
+      "summary": "On May 14 2026, the ICO published a blog post setting out five practical steps that organisations can take to strengthen their resilience against AI-powered cyber threats (the Article)....<br>By: <a href=\"https://www.jdsupra.com/profile/a_o_shearman/\">A&amp;O Shearman</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815969c9",
+      "title": "California Executive Order Signals More Scrutiny of AI’s Workplace Impact",
+      "url": "https://www.jdsupra.com/legalnews/california-executive-order-signals-more-2576088/",
+      "author": "Jackson Lewis P.C.",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T20:48:55+00:00",
+      "updated_at": "",
+      "summary": "California Governor Gavin Newsom has issued Executive Order N-6-26, a “first-in-the-nation” order aimed at preparing workers, businesses, and communities for potential workforce disruption associated with artificial intelligence. While the order does not create immediate new compliance obligations for employers, it is an important development for California businesses because it previews where state policy, regulation, and enforcement attention may be headed....<br>By: <a href=\"https://www.jdsupra.com/profile/Jackson_Lewis/\">Jackson Lewis P.C.</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8157b66d",
+      "title": "China’s Counter-Sanctions Framework Raises More Questions for Multinational Companies",
+      "url": "https://www.jdsupra.com/legalnews/china-s-counter-sanctions-framework-1355566/",
+      "author": "Morgan Lewis",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-06-01T20:33:06+00:00",
+      "updated_at": "",
+      "summary": "China’s recently issued Regulations on the Security of Industrial and Supply Chains (Decree No. 834) and Regulations on Countering Foreign Improper Extraterritorial Jurisdiction (Decree No. 835) continue to raise significant operational and compliance questions for multinational companies navigating overlapping sanctions, export controls, supply chain, and regulatory obligations....<br>By: <a href=\"https://www.jdsupra.com/profile/morgan-lewis/\">Morgan Lewis</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815515e3",
+      "title": "The Texas Town at the forefront of OpenAI's Stargate Project",
+      "url": "https://www.youtube.com/watch?v=dnzxcYl4xYI",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-06-01T19:40:47+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=dnzxcYl4xYI\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Abilene, Texas wasn't known as a technology hub.<br> \n<br> \nNow it's the first home of Stargate, one of the most ambitious AI infrastructure projects ever built.<br> \n<br> \nLocal leaders share what Stargate means for their community, from new investment and infrastructure improvements to the opportunities it could create for generations to come.<br> \n<br> \nThis is the story of how a West Texas town became an early part of the future of AI.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8154408a",
+      "title": "The AI Privilege Problem Is Control, Not Code: eDiscovery Best Practices",
+      "url": "https://ediscoverytoday.com/2026/06/01/the-ai-privilege-problem-is-control-not-code-ediscovery-best-practices/",
+      "author": "Doug Austin",
+      "source": "eDiscovery Today by Doug Austin",
+      "published_at": "2026-06-01T19:05:00+00:00",
+      "updated_at": "",
+      "summary": "<p>Referencing two recent notable cases, Reuben Miller of TransPerfect Legal discusses that the AI privilege problem is control, not code!</p> \n<p>The post <a href=\"https://ediscoverytoday.com/2026/06/01/the-ai-privilege-problem-is-control-not-code-ediscovery-best-practices/\">The AI Privilege Problem Is Control, Not Code: eDiscovery Best Practices</a> appeared first on <a href=\"https://ediscoverytoday.com\">eDiscovery Today by Doug Austin</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81541634",
+      "title": "From Hire to Retire - Governing AI Employees: Part 2 – Onboarding: Your AI’s Probation Period",
+      "url": "https://www.finextra.com/blogposting/31889/from-hire-to-retire---governing-ai-employees-part-2--onboarding-your-ais-probation-period?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-01T17:17:06+00:00",
+      "updated_at": "",
+      "summary": "A few weeks back, my co-founder and I were discussing about onboarding engineers to AISSURED – when ...",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8152eaec",
+      "title": "Beauty & fashion tech tools: AI-driven hyper-personalization and rising data privacy litigation exposure",
+      "url": "https://www.jdsupra.com/legalnews/beauty-fashion-tech-tools-ai-driven-9840302/",
+      "author": "White &amp; Case LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T19:23:10+00:00",
+      "updated_at": "",
+      "summary": "Advanced AI-driven technologies have become essential tools in the Beauty and Fashion industry. As e-commerce dominance grows, global brands are increasingly deploying individual size-fitting, virtual try-on tools for their products, and hyper-personalized recommendations for skincare, cosmetics, and fashion....<br>By: <a href=\"https://www.jdsupra.com/profile/white_case/\">White &amp; Case LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815273cc",
+      "title": "AI in Private Credit: Key Considerations for Market Participants",
+      "url": "https://www.jdsupra.com/legalnews/ai-in-private-credit-key-considerations-5777836/",
+      "author": "Katten Muchin Rosenman LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T19:47:35+00:00",
+      "updated_at": "",
+      "summary": "The private credit market is navigating a complex environment, one in which artificial intelligence (AI) is emerging as a potentially transformative force in how private credit transactions are sourced, evaluated, documented and managed throughout the investment lifecycle. The increased focus on AI coincides with continued growth across the private credit industry, driven by demand for non-bank financing solutions and the deepening sophistication of private debt platforms. Geopolitical and...<br>By: <a href=\"https://www.jdsupra.com/profile/Katten/\">Katten Muchin Rosenman LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b815273bb",
+      "title": "The Market’s Lack of Midstream Understanding is Impeding America’s Competitiveness",
+      "url": "https://www.jdsupra.com/legalnews/the-market-s-lack-of-midstream-9757388/",
+      "author": "Opportune LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T19:47:35+00:00",
+      "updated_at": "",
+      "summary": "Understandably, the public discussion about artificial intelligence has centered on the “Tech Bros”, the chips, the software, and the geopolitical issues. However, investors, regulators, and policymakers need to recognize that AI extends far beyond digital concerns. The growing excitement around AI’s current and future capabilities is overshadowing fundamental problems in power infrastructure that must be addressed immediately. Some policymakers are beginning to recognize this, but many outside...<br>By: <a href=\"https://www.jdsupra.com/profile/opportune/\">Opportune LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b814b7355",
+      "title": "Federal Courts Issue Diverging Rulings on the Use of Generative AI in the Context of Privilege, Work Product and Protective Orders",
+      "url": "https://www.jdsupra.com/legalnews/federal-courts-issue-diverging-rulings-1384120/",
+      "author": "Akin Gump Strauss Hauer &amp; Feld LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T18:46:28+00:00",
+      "updated_at": "",
+      "summary": "The rapid adoption of generative AI platforms (such as ChatGPT, Claude and Gemini) has led litigants and counsel to increasingly use these tools for analyzing documents, drafting strategy and synthesizing facts. However, public AI platforms often collect user inputs and associated outputs to train their underlying machine-learning models, raising confidentiality, data privacy and privilege waiver concerns. In Q1 2026, federal courts were forced to address......<br>By: <a href=\"https://www.jdsupra.com/profile/Akin_Gump/\">Akin Gump Strauss Hauer &amp; Feld LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b814a71a9",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://www.youtube.com/watch?v=XwsTXmnB2oI",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-06-01T18:15:11+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=XwsTXmnB2oI\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>A conversation between Erik Roen, Travelers Senior Vice President and CIO, Claim and Denise Dresser, OpenAI Chief Revenue Officer.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81433c9c",
+      "title": "When Departing Employees Take Key Records With Them: Prevention Strategies",
+      "url": "https://www.jdsupra.com/legalnews/when-departing-employees-take-key-5847720/",
+      "author": "Hanzo",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T17:40:23+00:00",
+      "updated_at": "",
+      "summary": "Employee transitions can create unexpected risks for organizations that rely on digital collaboration and communication tools. For legal and compliance teams responsible for protecting enterprise data, it is important to consider what happens when departing employees take key records with them. When communications and documents exist across messaging platforms, project management systems, and cloud storage, losing access to key records may create operational and legal challenges....<br>By: <a href=\"https://www.jdsupra.com/profile/hanzo/\">Hanzo</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8142d7b5",
+      "title": "FAQs About Responsible Use of AI in Legal Practice",
+      "url": "https://www.jdsupra.com/legalnews/faqs-about-responsible-use-of-ai-in-9463942/",
+      "author": "Levenfeld Pearlstein, LLC",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T17:46:24+00:00",
+      "updated_at": "",
+      "summary": "As lawyers continue to give AI tools a greater role in their work for clients, law firms and legal departments must navigate new risks around data privacy, confidentiality, and professional responsibility. The frequently asked questions below highlight key areas of concern and best practices for responsible use in AI....<br>By: <a href=\"https://www.jdsupra.com/profile/Levenfeld_Pearlstein/\">Levenfeld Pearlstein, LLC</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8141305d",
+      "title": "Mastercard joins Tips cross-currency pilot",
+      "url": "https://www.finextra.com/newsarticle/47839/mastercard-joins-tips-cross-currency-pilot?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-01T17:34:32+00:00",
+      "updated_at": "",
+      "summary": "Mastercard is working with Denmark's and Sweden's central banks to pilot instant cross-currency payments on the Eurosystem’s Target Instant Payment Settlement (Tips) platform.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b813c7bf0",
+      "title": "The Flight Simulator for Lawyers: Abdi Shayesteh and Jeanine Conley Daves on AI, Deliberate Practice, and the Future of Legal Training",
+      "url": "https://www.legaltechmonitor.com/2026/06/the-flight-simulator-for-lawyers-abdi-shayesteh-and-jeanine-conley-daves-on-ai-deliberate-practice-and-the-future-of-legal-training/",
+      "author": "Greg Lambert and Marlene Gebauer",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-06-01T11:50:24+00:00",
+      "updated_at": "2026-06-02T00:48:58+00:00",
+      "summary": "<p></p><p>This week on The Geek in Review, we talk with <a href=\"https://www.linkedin.com/in/abdishayesteh/\">Abdi Shayesteh</a>, CEO of <a href=\"https://www.altaclaro.com/\">AltaClaro</a>, and <a href=\"https://www.linkedin.com/in/jeanineconleydaves/\">Jeanine Conley Daves</a>, <a href=\"https://www.littler.com/\">Littler’s</a> New York office managing shareholder, about a different question in the legal AI conversation. Instead of asking whether AI will write the brief, summarize the contract, or replace the junior associate, they focus on whether AI might help lawyers learn how to practice law. Their recent work around AltaClaro’s DepoSim points toward a model of legal training built less on passive observation and more on structured repetition, feedback, and skill development.</p><p>Shayesteh traces the origin of AltaClaro back to his own early years at King &amp; Spalding, where he benefited from proximity to a mentor willing to explain the work. That experience also showed him the unevenness of the old apprenticeship model. Access to assignments, feedback, and sponsorship often depended on luck, relationships, and office geography. For Shayesteh, the idea of a “flight simulator for lawyers” grew out of the realization that pilots, athletes, and musicians all practice in structured environments before performance, while lawyers too often learn in front of clients, courts, and opposing counsel.</p><p><a href=\"https://www.altaclaro.com/deposim\">DepoSim</a> applies this flight simulator concept to one of litigation’s highest-pressure skills: taking and defending depositions. The platform gives attorneys a simulated witness, opposing counsel, court reporter, and feedback system, with options to vary the difficulty and personalities involved. Conley Daves explains why this kind of realism matters. In a real deposition, a lawyer might face an evasive witness, a hostile witness, an aggressive opposing counsel, or a combination of all three. The simulator lets lawyers practice those moments repeatedly, receive targeted feedback, and return to specific skills such as exhibit handling, follow-up questions, or managing objections.</p><p>The conversation also connects AI training to equity in professional development. Conley Daves notes that access to high-quality assignments and sponsorship has not always been distributed evenly across firms. A standardized, rubric-based feedback system gives more lawyers a chance to build core skills without waiting to be selected by the right partner or assigned to the right matter. Shayesteh adds that firms seeing the strongest results are not treating training as an after-hours side quest. They are creating protected time for deliberate practice, pairing AI feedback with human mentorship, and using simulation as a bridge rather than a substitute for coaching.</p><p>Looking ahead, Shayesteh and Conley Daves see simulation moving well beyond depositions. Oral argument, cross-examination, meet-and-confer sessions, negotiations, client interviews, and even Supreme Court preparation all fit within this training model. The larger shift is not automation for its own sake. It is the use of AI to help lawyers build judgment before the stakes are real. For law firms, that means better preparation, more consistent training, stronger associate development, and a clearer path toward delivering value to clients. For the profession, it suggests a future where competence is practiced deliberately, measured thoughtfully, and taught more fairly.</p><p><span><span><strong>Listen on mobile platforms:  </strong></span></span><a href=\"https://podcasts.apple.com/us/podcast/the-geek-in-review/id1401505293\">⁠<span><span>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</span></span>⁠</a><span><span><strong> |  </strong></span></span><a href=\"https://open.spotify.com/show/53J6BhUdH594oTMuGLvANo?si=XeoRDGhMTjulSEIEYNtZOw\">⁠<span><span>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</span></span>⁠</a><span><span> | </span></span><a href=\"https://www.youtube.com/@thegeekinreview\">⁠<span><span>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</span></span></a> | <a href=\"https://thegeekinreview.substack.com/\">Substack</a></p><p><span><span>[Special Thanks to </span></span><a href=\"https://www.legaltechnologyhub.com/\">⁠<span><span>Legal Technology Hub</span></span>⁠</a><span><span> for their sponsoring this episode.]</span></span></p><p><a href=\"https://www.youtube.com/watch?v=GjScCl6Kq_4\"><img style=\"height:auto;\" width=\"480\" height=\"360\" src=\"https://www.legaltechmonitor.com/files/2026/06/GjScCl6Kq_4.png\" alt=\"GjScCl6Kq_4.png\"></a></p><p>⁠⁠⁠⁠⁠Email: geekinreviewpodcast@gmail.com<br> \nMusic: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Jerry David DeCicca⁠⁠⁠⁠⁠⁠⁠⁠⁠</p><h5>Transcript:</h5><p><span></span></p><p>Greg Lambert (00:00)<br> \nHi, I’m Greg Lambert from The Geek in Review and I have Nikki Shaver with us from Legal Technology Hub. Nikki, I know you guys do a lot of surveys and one of the most recent ones is a survey of the European legal market on AI usage. So, do you mind filling us in on that one?</p><p>Nikki Shaver (00:17)<br> \nThanks, Greg. Yeah. We really find we’re getting a lot of outreach from firms asking for benchmarking. They want to know how they’re doing in the market, how mature their AI program is compared to other firms. So we do a lot of surveying. We find it’s one of the things that people are most interested in. What is the data on the market? We’ve done that for a number of different verticals within the US legal market. So we’ve surveyed mid-law, we’ve surveyed large law.</p><p>We haven’t really seen this kind of data coming out of continental Europe yet. We partnered with Lexpo, an organization that runs an annual conference out of Amsterdam. This year, it’s on June 8th and 9th. And we have now surveyed the European law firm market for AI maturity and also to understand how significant their AI adoption rollout has been and what they’re using, who is using what for what types of use cases.</p><p>We have seen early data on this and it’s very interesting to see in which ways the European law firm market is different from the US law firm market and where AI maturity differs, where different tool use differs. So fascinating outcomes. We will be presenting on this. Chris Ford from Legal Tech Hub will be presenting on stage at Lexpo. So if you’re going, look out for that.</p><p>Any participating firms get the full report ahead of time, but we’ll also be doing content on this on Legal Tech Hub, both on the European law firm survey itself, but also comparatively with the US market. So it’s one you will not want to miss. Look out in June for some content coming on that. We are at legaltechnologyhub.com. Thanks, Greg.</p><p>Greg Lambert (02:01)<br> \nYou’re welcome. We do love to see what our competitors are doing. Thanks for setting that benchmark.</p><p>Nikki Shaver (02:06)<br> \nIt’s a good driver of adoption.</p><p>Greg Lambert (02:08)<br> \nYes, it is.</p><p>Marlene (02:16)<br> \nWelcome to The Geek in Review, the podcast focused on innovative and creative ideas in the legal profession. I’m Marlene Gebauer.</p><p>Greg Lambert (02:23)<br> \nAnd I’m Greg Lambert.</p><p>Marlene (02:25)<br> \nSo Greg, we have spent the better part of two years debating whether AI is going to draft our briefs or summarize our contracts. But I think we’ve been missing the most important question. You know, can AI actually teach us how to be lawyers?</p><p>Greg Lambert (02:43)<br> \nYeah, that’s an interesting and critical point that I think we’re running into now. And the old sink-or-swim apprenticeship model, where you’re kind of trying to look over the partner’s shoulders to learn the practice, is effectively dead, although, you know, between us, I think it’s been dead for a while now. But between the billable hour work and remote work, the osmosis training has kind of vanished. So it’s leaving associates in these high-stakes gaps between law school theory and actually being able to perform in the courtroom.</p><p>Marlene (03:22)<br> \nSo we’re tackling that today. You know, our guests are building the, the, the flight simulator, if you will, to bridge that gap. They recently co-authored a piece in New York Law Journal, arguing that the real promise of AI isn’t automation, it’s deliberate practice.</p><p>Joining us is Abdi Shayesteh, the CEO of AltaClaro. Abdi is a serial entrepreneur who started his first company at 17 and spent 15 years as a lawyer at firms like King &amp; Spalding and as a deputy GC at MUFG before launching a platform used by nearly 80 of the Am Law 200.</p><p>Greg Lambert (03:59)<br> \nAnd I will say, Abdi and I worked at King &amp; Spalding together back in the day. And joining Abdi is Jeanine Conley Daves, who is a top tier trial lawyer and the office managing shareholder of Littler’s New York office. So, a little small office in New York there, right Jeanine? Jeanine is a leader who spent her career not just winning defense verdicts, but actively interrupting bias.</p><p>Marlene (04:03)<br> \nYeah, that’s right.</p><p>Jeanine Conley Daves (04:18)<br> \nYeah.</p><p>Abdi Shayesteh (AltaClaro) (04:19)<br> \nThank you.</p><p>Greg Lambert (04:27)<br> \nand opening doors for the next generation of diverse talent through our work with the New York Urban League and Association of Black Women Lawyers. So, Abdi and Jeanine, thank you very much for being on the show and welcome.</p><p>Jeanine Conley Daves (04:40)<br> \nYou’re welcome. Thank you for having us.</p><p>Abdi Shayesteh (AltaClaro) (04:43)<br> \nThank you, great to be here. Good to see you both again.</p><p>Greg Lambert (04:46)<br> \nYeah.</p><p>Marlene (04:47)<br> \nYes.</p><p>So Abdi, you said your success as a young lawyer felt like it really depended more on luck than on a structured system. Specifically, being lucky enough to have an office right next to a mentor who would actually explain things to you. And I think a lot of people who came up around the same time feel the same way. I know I do. So how did those early years at firms like King &amp; Spalding</p><p>shape your conviction that the guild tradition of legal training was really withering away and why did you pick depositions as the first high-stakes skill to tackle with a simulator?</p><p>Abdi Shayesteh (AltaClaro) (05:29)<br> \nYeah, no, thank you Marlene. A great place to start is back in the day at King &amp; Spalding, I got lucky. I had a mentor or sort of, I don’t think he knew he was my mentor, but I made him my mentor. And he was always available, going over things. And I realized very quickly that the pathway to becoming a better practitioner is all about assignment feedback, assignment feedback. The more assignments you get, the more feedback you get, the better you become, the better your judgment skills develop.</p><p>and the diverse set of assignments you get as well. And I realized that not everybody had the same access as I did. And in particular, I mean, you know, law school doesn’t teach you any of this stuff, right? So you come in after spending hundreds of thousands of dollars on your education thinking this is it, I’m gonna learn everything here. But unfortunately, even back then, the apprenticeship model started withering away and that you saw many people after four years doing the grunt work and being asked to leave or they just kind of gave up, right?</p><p>And usually those were, unfortunately, diverse lawyers and female lawyers because the same people were getting the same deals over and over again. And I thought right there and then, 1185 Avenue of the Americas, New York office of King &amp; Spalding, wouldn’t it be great if there was a flight simulator for lawyers? And I was just thinking about pilots get to put in hours and get feedback before taking off. Of course, was a fantasy of mine.</p><p>And it wasn’t until I was in-house counsel, almost a decade and a half later, that I really realized the pain point, that I didn’t want associates spinning their wheels, spending 10 hours on drafting my NDA, where it only should take an hour. And that’s where I got the entrepreneurial bug again to launch AltaClaro, a place where attorneys can practice safely in simulated environments on assignments that are taken from the real world and get feedback.</p><p>And since then, this was 2016, when the cracks started happening, when this apprenticeship model was on its way out, we have continued to grow. We only had like five courses back then. Today we have over 60 across a variety of practice areas, from corporate to litigation, real estate, lending, all this good stuff. And we have now, actually you said 80, it’s over 100, Am Law 200 firms. I’m very grateful for this growth.</p><p>A few years ago, three years ago, we started experimenting with AI and giving immediate feedback on these simulated assignments so that associates could become aware, like an athlete becomes aware, or a musician who is practicing and getting feedback on where their strengths are and where their gaps are. And AI can be used as your friend in this way, not random AI, not ChatGPT, but a very structured rubric framework where those things are consistent and they’re evaluating you in an objective way on how to improve. And this was a hit. We deployed it for all of our clients and associates loved it. And the firms also had analysis on where gaps were so that when it came time to internal training or mentoring, they were building on top of it, but very targeted, right? So it became very efficient for partners to not start from ground zero. We won an award for this last year at Legal Week by ALM. Very grateful for that.</p><p>Right around that time when we started thinking, this is how we got to depositions. How can we use this technology, because up to now our courses and programs have focused on the written work product of a lawyer, drafting motions, drafting deposition outlines, contracts and things like that. How can we use it for the human-to-human parts of a lawyer’s job? The things like oral negotiation, taking a deposition, defending a deposition.</p><p>How can we leverage it for those things that hopefully AI will never replace and build the human muscle for judgment? Something like deposition. And this story started with Jeanine and me, believe it or not. This is the first time I’m talking about it. So Jeanine was representing us in a case. The case name is not mentioned here.</p><p>And there I was, and we were right around that time thinking about what to do next in our product roadmap. And I was watching Jeanine depose somebody. We went in with our set of questions, and right away we saw how hostile this witness was, very frivolous case, and how rude, and this and that. And then how this opposing counsel even made it past law school. It was just this obscure situation. And I thought, how do you train for this? How do you train for thinking on your feet, reworking your questions?</p><p>and how do you get an associate? Because I would not want a junior associate on something like that. And that’s when I realized this could be a great opportunity to leverage AI for this. So that’s when we went to work and leveraged AI to build a deposition simulator. So we built an AI witness, AI opposing counsel, AI court reporter, and guardrail framework leveraging the technology we had used with our benchmark tool. And you can go in and toggle and say, give me a hostile witness, or you can say, give me an opposing counsel who is super aggressive as many times as you want, like a flight simulator and practice your deposition. You get feedback. You go as little as 10 minutes or as long as six hours if you want.</p><p>And get that feedback so that you can become better and help you think on your feet in these situations when the real one comes. So we launched that recently, but before we launched it, we went to some of our clients that are big on investing in technology and big on investing in training, like Littler Mendelsohn, and together, six firms put in over 160 hours of testing it and giving us feedback. And they loved it. They loved it to even use as a warm-up tool. And so now anyway, this deposition simulator is being used in the market.</p><p>Greg Lambert (11:26)<br> \nI did want to go back to one thing that we kind of made a comment on you being lucky as an associate to have a mentor. Having known you, I know sometimes you make your own luck. It’s one thing to have that proximity. It’s another thing to make that step to make sure you build that relationship and kind of inject yourself in there and then having the EQ.</p><p>to read the room and know how to do that, yeah.</p><p>Marlene (11:51)<br> \nLuck favors the prepared.</p><p>Greg Lambert (11:53)<br> \nSpeaking of EQ, in your co-authored article, I saw where you...</p><p>leaned really heavily into the research of K. Anders Ericsson, which looks at how elite athletes and musicians achieved their greatness through what’s called deliberate practice. And so from your perspective as a very prominent trial lawyer,</p><p>You know, what’s the legal equivalent of this deliberate practice where, you know, violinists may practice scales 50 times and, and why do you think this, you know, traditional law firm training that we’ve instilled like this passive CLE, you know, it’s like, okay, you got to have X hours of CLE and get them all in this month before your birthday this year. You know, what, why do you, why do you think that that’s</p><p>Abdi Shayesteh (AltaClaro) (12:42)<br> \nI’m sorry.</p><p>Jeanine Conley Daves (12:44)<br> \nRight.</p><p>Greg Lambert (12:47)<br> \nfailed to provide the same kind of intensity and results in the law firm environment.</p><p>Jeanine Conley Daves (12:54)<br> \nI think, Greg, it’s really the act of doing that really helps you to grow and develop.</p><p>when you’re looking over someone’s shoulders, you’re looking at what they are doing, but not always are you really thinking about how would I respond to that? What would I say? And so, it’s while you’re having a chance, and what DepoSim is so helpful and useful to do, is that you have a real-life opportunity to practice. And not only to just do repetitions of one thing, but to</p><p>hone in on those skills to really focus on what am I doing well, what am I not doing well given the feedback that you are provided. And that is an opportunity that unfortunately, associates just, you know, haven’t had up until now to get that continuous practice in and to think about, okay, how do I want to improve on this? How could I have done better on this?</p><p>It’s having that ability to really focus on those areas. I think also, you know, from the</p><p>article in Anders Ericsson, who we talk about, he talks about, Mozart was a prodigy, but it really came from this rigorous training that made him as great as he was. And that’s exactly what we want from our associates. We want them to be able to build the skills when, as we see, AI is taking some of those other tasks in terms of memos, you know, research, even though you always have to check the research.</p><p>But this is a way for them to become strong litigators.</p><p>Greg Lambert (14:39)<br> \nAmen.</p><p>Yeah,</p><p>and I would assume that one of the most valuable things, and we bill by it, is time. And so I imagine that the past 15, 20 years it’s been this crunch on time being able to, for the people that need to be leading this type of training and teaching by doing just really haven’t looked like they’ve had the time. Is that a correct assumption on why we think that that has fallen a little short over the past decade and a half?</p><p>Jeanine Conley Daves (15:18)<br> \nYeah, time is difficult and I will say that this giving...</p><p>associates the opportunity to go in and do it, you know, when they have time themselves to focus on this area without requiring another $1,000 biller or whatever the rate is to have to or $3,000 biller to have to take the time to not only train but to, you know, learn a sample or example of</p><p>Greg Lambert (15:36)<br> \nor $3,000 billers.</p><p>Jeanine Conley Daves (15:49)<br> \nsort of a case outline and all of that is actually going through the technology. I think you’re absolutely right, Greg. The time that it saves is critical.</p><p>Marlene (16:01)<br> \nJeanine, Littler was one of the six early adopter firms that logged over 160 hours of testing during the DepoSim pilot this past February. I’m curious, you know, what did your associates like, you know, what aspects did they feel helped them most?</p><p>Jeanine Conley Daves (16:21)<br> \nI think that...</p><p>One of the biggest things for them is how real it is. Abdi talked about a deposition that he saw me take. And when you go into a deposition, you really don’t know what you’re going to get. There are some opposing counsel who don’t object a lot, some that do object a lot. And so the fact that you can get all of these different personalities so that you really have an</p><p>understanding and can get more comfort with whatever, not only opposing counsel that you get, but whatever witness that you get. And if that person is being evasive, being able to practice, how exactly do I handle that type of situation, I think is really helpful with DepoSim and is what I think a lot of the associates really got out of it.</p><p>with, again, getting that feedback. So, not only am I practicing, but I’m figuring out where do I need to change? Where can I tweak? Where can I make better responses and make sure to get the answers that I’m actually looking for? Having those two things, I think, has been a huge help. And you’ve had associates, we’ve gotten sort of direct feedback.</p><p>Great feedback in terms of it’s a 10 out of 10. Associates saying like this is really true to life in terms of the witnesses and the opposing counsel that you are dealing with. And just having, you know, the experience I think has been really helpful to the attorneys that have had an opportunity to do this.</p><p>Marlene (18:05)<br> \nI’ve seen DepoSim and I can vouch for the realism of the simulator. There’s a number of different types of clients and counsel and you can kind of mix and match those things as you would in real life.</p><p>Abdi Shayesteh (AltaClaro) (18:22)<br> \nYeah, yeah, that’s right. K&amp;L Gates was also a part of that 160 hours. It was great to see the partners getting into it, even with opposing counsel, which you can do. And even the court reporter, just in case something, which, yeah, even the court reporter.</p><p>Marlene (18:39)<br> \nThat’s right, I forgot about the court reporter.</p><p>Jeanine Conley Daves (18:41)<br> \nThat’s right.</p><p>Greg Lambert (18:43)<br> \nAll kinds of stuff.</p><p>Marlene (18:43)<br> \nNow, how are the evaluations used? So, like, I know that you get a feedback evaluation, but, you know, after that, so what do folks do with those, you know, after they get them? Do they sort of focus on certain parts? Do they do the whole thing over? Like, what have you found is best?</p><p>Abdi Shayesteh (AltaClaro) (19:03)<br> \nYeah, it’s all up to the learner and where they are and what they’re using it for. But all of the experiences inside the simulator is just for the learner. So if they wanted to, they could share the transcript, the feedback report, even the audio with a mentor. And so talk about getting efficiency with mentorship time. Let’s say you’ve done this, and then at least a few times, and you got your best one. Now you want to go in and talk with a mentor about some of the things you’re working</p><p>on and they can now add on top of it more efficiently because you already got these other things out of the way. Let’s target where you can improve. So it can definitely be used in that way. If you get the report and it says, let’s say, your exhibit handling needs to improve.</p><p>You could say, all right, I’m going to go back in this time, and I’m just going to toggle and say, I’m going to just practice the exhibit handling. And I’m going to pick these exhibits. And I’m going to go in and do this for 30 minutes. So you can be able to do that. And that was part of the feedback we received from the first go-round, the ability to keep going back in and selecting what you actually want to practice. Jeanine mentioned evasiveness. One of the key things is following up when they’re being evasive, when the witness is being evasive.</p><p>or they say something and you should have asked more, right? And so that’s gonna show up on your feedback report saying, you know, they said this about their, I don’t know, education or their experience, but you could have followed up and gone deeper and you didn’t. It’s like, oh, okay. And so you can go back in and even just isolate that and practice and get feedback on it.</p><p>Greg Lambert (20:39)<br> \nYou know, there’s one thing that I’ve been mentioning to almost anyone who will listen to me lately, and that’s I was listening to a podcast a few months ago and</p><p>Mark Andreessen had a quote that really kind of stuck with me and that was, he said, throughout history, the number one thing that moves people from the 50th percentile to the 99th percentile the fastest has been individual tutoring. And,</p><p>There’s not a lot I agree with Mark Andreessen on, but this was one of the things that I did agree with him on. And so I see a system like this and I see that individual tutoring. And one of the interesting things that I was noticing was this wasn’t just the first years that were using the tool, that, you know, the partners, as you mentioned, Abdi, were also, you know, using it for their pregame rep.</p><p>getting ready for real depositions. So why do you think that the seasoned litigators are seeking out these types of synthetic reps in order to help get them prepared, build past the stigma of being afraid to say that they may not be completely ready for it. How do I get better?</p><p>Abdi Shayesteh (AltaClaro) (21:41)<br> \nYeah.</p><p>Marlene (21:53)<br> \nkicking the tires beforehand.</p><p>Abdi Shayesteh (AltaClaro) (22:04)<br> \nYeah.</p><p>That was a cool discovery, because we went in thinking this is just for juniors, mid-levels, great. But when we got the feedback, the specific question was, will you use this again? 94% of all participants said they would use it again for deposition practice. We said, wait a minute, the seniors said they were using it. So we leaned and went back to them and asked, tell us a little bit more. I said, yeah, I need to warm up. And it kind of makes sense, right? An athlete, right? They’re a professional athlete.</p><p>But they’re going to have to warm up before they go in the arena. Right? And same with the musician. They’re going to have to practice the scales, practice the songs right before the recital. And it started to make sense. Some of them told us that they just don’t do it as often. It doesn’t happen often. And others said, sometimes I just want to target practice. I’m anticipating this witness to be polished. So this would be cool, because this is going to remind me, get me in the zone of following up, digging deeper, because the person is polished. So it started to make sense when it was, yeah, of course, even if you’ve practiced for 20 years, you’d like something like this to leverage to warm up. So as a result, the firms asked us to deploy it across all their litigators, including their partners and seniors, which was cool.</p><p>But we also saw other things come out of the pilot. A chair of one of the law firms said, I want to use this. I want to pull up DepoSim in front of all my associates during a training session. And I want to practice. I’m going to toggle for the hostile witness, toggle for the aggressive counsel. And I’m going to teach my techniques.</p><p>using the AI bots. And as I teach a technique, I’m gonna then say, watch me do it. And then I’m gonna, when the witness reacts, I’m gonna pause and say, you see what he did? Watch what I do in return. And so like they’re using it that way, which is cool. And then after their session, they’re saying, all right, you all go out and do this for an hour, get your feedback reports, let’s come back and let’s review it together. So that’s been cool because now the AI is, it’s not just, I’m in my room and no more human connection. This is actually bringing people together for in-person training. Some firms are saying, you associates pair up and divide the deposition amongst you and go practice against DepoSim afterwards, exchange your feedback notes, and then let’s come back. So it’s actually bringing people together, which is cool.</p><p>Yeah, so anyway, that partner’s reaction was a real positive in many ways just to see how they were using it.</p><p>Marlene (24:36)<br> \nI think the rise of tools like DepoSim are quite timely because as Greg was mentioning earlier, sort of the old ways of learning are going away. You’re not going to be able to go through production as much and sort of draft and understand what the arguments are and what the evidence is saying as you used to because you were sort of poring through that stuff before a deposition happened. So, Jeanine, what do you think about that? Is associate development, is this gonna sort of be the new way of doing that to consider them practice ready?</p><p>Jeanine Conley Daves (25:20)<br> \nI think so, Marlene. I think that we will be using...</p><p>simulators to help us train our associates going forward. And I’m just so ecstatic, you know, that Abdi had this vision and that we as a firm are utilizing DepoSim because I think it’s going to be so helpful for our attorneys in terms of how they learn, in terms of their trajectory. Particularly, I think about</p><p>first-year associates. And like you said Marlene, there were a lot of things that we used to do, that we used to focus on. You used to have to be the master of the documents. And now a lot of that, the document review and memos, like you said, all of that, a lot of firms will now move through AI. And so to your point, I think that this is a wonderful</p><p>way to ensure that our attorneys are getting the types of trainings that they need. As an office managing shareholder, I mean, this is one of my biggest focuses right now on how do we make sure in a law firm that is an apprenticeship model and how we used to learn looking over someone’s shoulders and things of that sort, how do we make sure that we are still having critical-thinking associates</p><p>and associates who are able to grow and develop just like we were able to as junior attorneys. So I think it is transformational and I think that you definitely are going to see law firms using simulators and these types of synthetic environments for training going forward.</p><p>Greg Lambert (27:10)<br> \nAnd Jeanine, I know one of the recurring themes that has followed you throughout your career has been this ability to ensure that sponsorship and assignments are handled equitably. But we know traditionally that we’ve kind of fallen a little short on that and it tends to be who do I go to that I know that I have the connection with.</p><p>So I’m wondering, can a standardized rubric-based AI feedback system like a Benchmark 360 or DepoSim act as almost a leveling type of agent in this to make sure that every associate gets kind of the same high-level coaching, you know, regardless of their background, regardless of who they know, but it’s part of the process?</p><p>Jeanine Conley Daves (28:08)<br> \nI think it’s one of the biggest benefits that...</p><p>we have here is the fact that you are going to get as many associates across the board at varying levels having this opportunity. And now again, as you heard Abdi talking about, you even have partners saying, I’m going to use it to warm up. And so I think it does create a more equitable playing ground in an environment that quite frequently it has been about sort of relationships and as Abdi talked</p><p>about it being part of the impetus of where he thought to really focus on training associates in this way is making sure that it’s not just about you’ve developed or gotten the eye of a partner who is now taking you under their umbrella, making sure you get great assignments. This type of training is going out across</p><p>the board and you can choose as an attorney how much you put into it to help develop your future.</p><p>Greg Lambert (29:16)<br> \nYeah.</p><p>Let me pull on that just a little bit because there’s like in the software development world, especially in the age of AI, there’s this expectation that this sort of going and learning new things is kind of something you do outside the normal hours of</p><p>business, and one of the things that I’ve heard is a concern is that that’s going to hit kind of the non-traditional people. You know, people with families, maybe people that, you know, have outside obligations, that they just don’t have that extra time to do that and that those are the folks that are going to get kind of hammered.</p><p>you know, if this becomes part of the evaluation, is this something, Jeanine, at Littler, is it built into the process of training, or is this something that is expected that people will just kind of take on as extra work? How do you balance that?</p><p>Jeanine Conley Daves (30:24)<br> \nI think it’s a good question. I will say, Greg, that I think that part of the issue that a lot of people in those roles had is that quite frequently things are rigid. So unfortunately, they could only do it at certain times. I think having the opportunity to actually be able to work it into your own schedule is something that is going to be</p><p>more helpful than harmful. And so you give people the opportunity to really set their own schedule instead of saying, we’re going to this happy hour after work in terms of developing those networks and relationships when it can be difficult for those groups. So I think it’s going to end up being more helpful for that purpose.</p><p>Greg Lambert (31:18)<br> \nDo you have any?</p><p>Abdi Shayesteh (AltaClaro) (31:19)<br> \nYeah, no, I want to add to that because it’s great to see firms like Littler giving attorneys this tool to be able to train, like Jeanine said, at any time you want. But they’re also creating the space for training for deliberate practice, which is great to see. And we see that in firms who are successful in getting their attorneys in this next era of building judgment.</p><p>And that is, for example, in our regular training programs, Littler Mendelson created Fridays and Mondays to do the AltaClaro program. Friday, they watch an hour of video, they do a two-hour assignment, and it’s blocked on their calendar, they turn it in. On Monday, it’s the live review session, and they get the report. So they’ve blocked it on their calendar so they can do it, and then they have other priorities the rest of the month. The next month, it’s repeated. Things like that, that we’re seeing at firms create the space to give</p><p>their attorneys and associates the space to engage in deliberate practice really becomes the pathway of differentiating the firms who are going to be ahead of the pack in terms of having associates with good judgment.</p><p>Greg Lambert (32:28)<br> \nGood to have that intention set forth, you know, upfront on that because there’s so many that I think just kind of tack it on and it’s like we’ll put this wherever it fits and it typically doesn’t fit in the eight to five and so yeah it’s good to see that.</p><p>Abdi Shayesteh (AltaClaro) (32:46)<br> \nYeah, and then they try to sandwich it all in and then they say, well, you’re not up to snuff. I said, we didn’t give you the chance to even learn.</p><p>Greg Lambert (32:53)<br> \nYeah.</p><p>Marlene (32:55)<br> \nSo, Abdi, I’m gonna expand a little bit on your answer, because I know that you have shared advice that you’ve gotten was to lead with empathy and care. And while I, I’m not gonna go down the road of the stereotype of, it’s like the evil partner and all of that. But.</p><p>I think, because I do think a lot of partners and senior associates, you know, do care and they do try and help junior people. But I do think there’s always the issue of, I don’t want to look silly. I don’t want to look uncomfortable. You know, I don’t want to make a mistake in front of people who I work with and supervise. But, you know, DepoSim,</p><p>gives sort of a safe space, if you will. Like this is a simulation that they do themselves. They get their own report. And you know, it’s okay to fail and to practice until you get better. So do you feel that that has an impact on, you know, the cultural tone of a firm, you know, the way associates view their own careers?</p><p>Abdi Shayesteh (AltaClaro) (33:59)<br> \nAbsolutely, yeah, I think for me, I learned this because I don’t think I had it in the early days. It was just like they threw you in and they expected that you knew this. And then you’re like, I just got here. What do you mean you don’t know? No, I don’t know. You shouldn’t know.</p><p>Marlene (34:11)<br> \nIt’s true. Sink or swim, as we said.</p><p>Greg Lambert (34:17)<br> \nGo figure</p><p>it out.</p><p>Abdi Shayesteh (AltaClaro) (34:18)<br> \nSo it was painful, it worked. Back in our day, we grinded it out. And I think when I caught myself as a senior lawyer doing the same thing to a junior lawyer, I realized this is not good. The junior lawyer said, well, yeah, your charter document, you can’t do this, can’t do that. And he’s like, it’s my first one I’ve ever seen in my life.</p><p>And so it was like, wow, okay, I’m doing this. I got to break this habit. And yeah, if you can have empathy, actually it will end up serving you better. If you actually accept, first of all, no one is going to be a star attorney for the first few years. The way to get them there is to invest. And now our time is limited. That’s the other thing I saw when I was a senior associate, because I had good intentions. I wanted to train, but I just never got to it.</p><p>right?</p><p>Marlene (35:07)<br> \nI think that’s the big crux of the issue.</p><p>Abdi Shayesteh (AltaClaro) (35:07)<br> \nYeah, the best that I got to was a few slides, which is terrible. It’s like, here are a few slides on how to swim, now go out there and I’ll see you out there. That goes to the luck.</p><p>Greg Lambert (35:19)<br> \nYeah,</p><p>read up on it, now go do it.</p><p>Abdi Shayesteh (AltaClaro) (35:20)<br> \nread up on it and</p><p>go swim. And so I was like, okay, so this is where firms are leading with empathy who are giving their associates the space and the tools to practice, to make mistakes, to get feedback so that they can be better prepared. It will serve them, they know it will serve them better. It has an ROI. This is the ROI. The ROI is, first of all, you’re not gonna spend $1,000-an-hour people, or more, to create slides and teach the foundations, right? You don’t ask Michael Phelps to teach you frontstroke, backstroke, or float on the water. It just doesn’t make any sense. And then, and you know that doesn’t work anyway, right, by showing slides. So then you see this work, you have to rework, right? So partner time, redoing the whole thing at 11 o’clock, at 12 o’clock at night, this thing is new, right? And you have to write that time off. You can’t charge the client.</p><p>Right? You start calculating all this, right? And then, OK, I’m going to actually be a good lawyer and mentor. I’m going to sit down with the associate and explain what they did wrong, if I get that chance. Again, 12 o’clock at night. So this is the cost of not doing it right. And then in this day and age, when you have buyers of legal services, they have options, right? They can see which firms are making this investment, and they can see it in the work product. They’re going to move away.</p><p>And they’re going to go to those firms who invest in their associates and are creating better work product at a more efficient rate, whether they’re giving them better tools or giving them better training. So leading with empathy has rewards. And it’s better for you as a person too. But I think that’s where you start. You have to realize it’s just not going to work the old way.</p><p>Greg Lambert (37:02)<br> \nWell, I know both of you are at the top of your game for what you both do and it takes a lot of energy just to kind of keep up with things today. So one of the questions we’ve been asking our guests are what kind of resources, whether it’s blogs or articles or authors, how do you kind of stay up?</p><p>and ahead of the curve when it comes to legal AI and education and what you do. So, Jeanine, do you want to kick us off?</p><p>Jeanine Conley Daves (37:40)<br> \nWell, I would say that in terms of publications,</p><p>We’ve already talked about Anders Ericsson and I think taking a look at his Peak: Secrets from the New Science of Expertise that we quoted in the article, think are definitely is a good place to start as well as it’s hard to keep up with all the podcasts and the blogs that are going on today. But we also put out quite a bit of publications.</p><p>Greg Lambert (38:06)<br> \nI can’t even keep up with my own.</p><p>Abdi Shayesteh (AltaClaro) (38:09)<br> \nI’m</p><p>Jeanine Conley Daves (38:16)<br> \nhere at Littler and are staying on top of AI, which is why we’re part of this project and recognize that the innovativeness of what Abdi has created is going to help our attorneys going forward. We continue to do a lot with AI, just hired a new chief AI officer, and I think it’s important that you stay abreast because times are changing.</p><p>Greg Lambert (38:42)<br> \nSure. Abdi,</p><p>how about you?</p><p>Abdi Shayesteh (AltaClaro) (38:44)<br> \nI was gonna say, The Geek in Review, that’s the one I watch.</p><p>Greg Lambert (38:47)<br> \nOf course. Thank you. That’s really why we asked the question.</p><p>Marlene (38:51)<br> \nLike and subscribe</p><p>everybody.</p><p>Greg Lambert (38:52)<br> \nHahaha</p><p>Jeanine Conley Daves (38:53)<br> \nHahaha!</p><p>Abdi Shayesteh (AltaClaro) (38:54)<br> \nAbsolutely, but yeah, I’m a big fan obviously of Peak: Secrets from the New Science of Expertise, really good stuff in there. I mean, it talks about applying this in the professional world. That’s really his point. He does list examples of the medical profession. Radiologists, and I’ll just say this one example, because Jeanine’s example of Mozart was great, but this radiologist example is really cool.</p><p>They studied radiologists five years out versus 20, 30 years out in terms of their skills in predicting because the problem with radiology is that you see something and you’re supposed to predict if it’s cancer, tumor, and so forth, right? And they were trying to see who has better predictions, the five-year-out or a 30-year-out? Who do you think did better?</p><p>Greg Lambert (39:42)<br> \nWell, logic would say the 30-year-out.</p><p>Marlene (39:44)<br> \nThis is a trick</p><p>question, right. Five-year-out.</p><p>Abdi Shayesteh (AltaClaro) (39:45)<br> \nThere’s a question here.</p><p>Jeanine Conley Daves (39:45)<br> \nJust a quick question.</p><p>Abdi Shayesteh (AltaClaro) (39:47)<br> \nThey were so experienced,</p><p>right? It was the five-year-out. And the reason was, the reason was was that in their residency, they were getting feedback on their, you know, did they predict it right or not? Was this an actual tumor or not? They were getting feedback on the simulated assignments as well as real assignments. And so they were able to produce better. And then they noticed that these folks in the 20-, 30-year-out, they just say, yeah, this is a tumor, hopefully it’s not, off you go. They don’t get the feedback.</p><p>And so this transformed the certification process for the radiology medicine, medical industry that they now have to every year go through case files and predict and get feedback on their prediction.</p><p>And now all radiologists have to go through this. Anyway, Ericsson argues to leverage this stuff for professionals. And that’s where I think there’s a lot we can do in the legal profession, especially in this day and age. So that’s why I love that book. I want to keep going back to it. But there is a new book that it’s on my reading list that Jeremy, our co-founder, chief innovation officer, has read and recommended, Brave New Words, How AI Will Revolutionize Education, and Why That’s a Good Thing. Salman Khan from the Khan Academy. And when you read it, and then you go back to our article, but basically Khan emphasizes that with customized and accessible learning tools that encourage creative problem-solving skills and prepare students for an increasingly digital world, AI can be leveraged to help build these judgment skills for them, right?</p><p>So that’s exactly what we’re trying, that’s what we’re doing here, is to leverage AI for that. And it’s not just us, it’s the rest of the education world that’s using it. So anyway, that’s on my list to read.</p><p>Greg Lambert (41:32)<br> \nYeah, Khan Academy taught me statistics, so.</p><p>Abdi Shayesteh (AltaClaro) (41:35)<br> \nThat’s great.</p><p>Marlene (41:37)<br> \nIt’s like, well now it’s on my reading list too. So it is time for our crystal ball question where we ask our guests to look a little bit into the future. And, you know, will, you know, do you think like every legal task, you know, could be from a client interview to Supreme Court argument, you know, is that first going to be rehearsed in a simulator? You know, what’s the single biggest shift you see coming?</p><p>Abdi Shayesteh (AltaClaro) (41:39)<br> \nYeah, it’s a good book.</p><p>Jeanine Conley Daves (41:39)<br> \nYeah.</p><p>Marlene (42:03)<br> \nin that regard.</p><p>Jeanine Conley Daves (42:04)<br> \nI think that you will see individuals preparing for Supreme Court arguments to depositions in simulators. And you’re going to see that, I think, more and more and more. As Abdi with DepoSim has shown, you can get, and probably something you need to think about, Abdi, various Supreme Court justice personalities.</p><p>when you’re trying to prepare for those given obviously all the arguments and content we have there. And so how better to prepare than to have that realism again that helps you just get better, that of course will help attorneys be more efficient. I think so much about the junior associates who don’t get an opportunity to take a deposition until they’ve been out several years. For them to have this opportunity to do it from day one is incredible. And so I think it really is going to change how our attorneys are trained and really advance their skills at an even earlier age.</p><p>Marlene (43:11)<br> \nAnd I think...</p><p>Greg Lambert (43:11)<br> \nAre you going to package</p><p>the negotiation experience into a Supreme Court argument?</p><p>Abdi Shayesteh (AltaClaro) (43:15)<br> \nYeah.</p><p>Jeanine Conley Daves (43:17)<br> \nYeah.</p><p>Abdi Shayesteh (AltaClaro) (43:17)<br> \nAbsolutely.</p><p>It’s all on the roadmap. It’s all in the roadmap. And we got this feedback from all the design partner participants of what else they can use this for. And that’s exactly what we’re looking towards. First of all, this deposition is just the beginning. We just launched the employment case. We have a commercial litigation case. But the next few months, we’re going to have an IP case, an antitrust case, securities, all the key areas. And then after that, we’re going to look at other simulation types in the trial process, oral advocacy, cross-examination.</p><p>to meet and confer, this technology can be used for all of that and even negotiating a deal. And eventually the technology is there, especially in our partnership with Verbit, where, by next year, we’ll be able to simulate real cases. Obviously they’ll have a security apparatus for that and we’re prepared to do that. So this is all on the roadmap. And yeah, we will be able to, by feeding in the right information to the AI bot,</p><p>be able to have these types of predictability. But just to your point, or Jeanine’s point about the impact of all of this is that I think one of the positive impacts is that we’re actually gonna have...</p><p>a better cost analysis of what things should cost. Because I think if you have associates doing these reps, doing these reps, being better prepared, and you’ve equalized these skills across the firm, you’re now going to optimize the time it takes to do something like this in the real world. And that’s going to be a great value-add for your clients. And this is kind of like the Intel inside, right? You know, you go back in time, that ad, that Intel, make sure your computer has an Intel inside.</p><p>It’s not that Intel was selling the computers, but they just wanted the world to know, make sure your computer has Intel inside. So it’s going to be the same thing, that make sure your law firm has these tools inside that they’re better preparing their associates for so that it’s going to be more efficient, it’s going to be better, it’s going to cost you less. And I think that’s going to differentiate. All those things, yeah.</p><p>Marlene (45:11)<br> \nbetter outcomes, better preparation, all those things.</p><p>Greg Lambert (45:16)<br> \nIt’s exciting times, there’s more exciting times to come. So Abdi Shayesteh and Jeanine Conley Daves, thank you very, very much for joining us today and helping us rethink what it means to be a competent advocate.</p><p>Jeanine Conley Daves (45:30)<br> \nThank you.</p><p>Abdi Shayesteh (AltaClaro) (45:31)<br> \nThank you.</p><p>Marlene (45:32)<br> \nAnd thanks to all of our listeners for taking the time to listen to The Geek in Review podcast. If you enjoyed the show, please share it with a colleague and we would love to hear from you on LinkedIn and Substack.</p><p>Greg Lambert (45:45)<br> \nAnd Abdi and Jeanine, where’s the best place for listeners to learn more about the DepoSim rollout? So Abdi, you want to take that one?</p><p>Abdi Shayesteh (AltaClaro) (45:55)<br> \nSure, you can go to altaclaro.com and there’s a special page for DepoSim and you can click there to see and watch a video and even reach out to us by booking a call to learn more about it.</p><p>Greg Lambert (46:07)<br> \nThank you.</p><p>Jeanine Conley Daves (46:07)<br> \nAnd we just put out a post on LinkedIn about our use of DepoSim.</p><p>Greg Lambert (46:12)<br> \nAll right.</p><p>Marlene (46:13)<br> \nThank you both. And as always, the music you hear is from Jerry David DeCicca. Thank you, Jerry, and bye everybody.</p><p> </p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Legal Tech Core",
+        "High-Signal",
+        "Noise",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b813b8bd6",
+      "title": "Discovery of ESI in the Age of Artificial Intelligence",
+      "url": "https://www.jdsupra.com/legalnews/discovery-of-esi-in-the-age-of-4579797/",
+      "author": "Maynard Nexsen",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T16:29:45+00:00",
+      "updated_at": "",
+      "summary": "Years ago, the creation of online search engines, instant messaging, and social media revolutionized discovery. Now, the prevalence of Artificial Intelligence (“AI”) has caused a similar technology-fueled upheaval. AI tools are being automatically integrated onto devices, even where users never explicitly enable them. Oftentimes, such AI functionality includes the ability to access everything shared on that device – from chats, to screenshots, to voice recordings or browser content....<br>By: <a href=\"https://www.jdsupra.com/profile/maynard_nexsen/\">Maynard Nexsen</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b813a2d69",
+      "title": "Proposed State Privacy and AI Law Update: June 1, 2026",
+      "url": "https://www.jdsupra.com/legalnews/proposed-state-privacy-and-ai-law-1440009/",
+      "author": "Troutman Pepper Locke",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T18:45:49+00:00",
+      "updated_at": "2026-06-01T18:45:50+00:00",
+      "summary": "Vermont’s legislature passed a consumer data privacy bill, Illinois’ legislature passed an AI frontier model bill, and eight bills crossed chambers in California.    Below is the twentieth update on the status of proposed state privacy and AI legislation in 2026. With the state legislative activity slowing, we have combined our weekly privacy and AI posts....<br>By: <a href=\"https://www.jdsupra.com/profile/troutman_pepper_locke/\">Troutman Pepper Locke</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b813a2d6d",
+      "title": "NYDFS issues dual advisories on ‘frontier AI’ cybersecurity risks and heightened threat preparedness",
+      "url": "https://www.jdsupra.com/legalnews/nydfs-issues-dual-advisories-on-5567241/",
+      "author": "Orrick, Herrington &amp; Sutcliffe LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T16:46:45+00:00",
+      "updated_at": "",
+      "summary": "On May 21, NYDFS issued two industry letters addressing cybersecurity risks in a “heightened threat environment.” The first advisory warns regulated entities about heightened cybersecurity risks associated with advanced “frontier AI” models, which the department said “amplify the potency, scale, and speed of identifying vulnerabilities and exploits in information systems.”...<br>By: <a href=\"https://www.jdsupra.com/profile/orrick_herrington_sutcliffe/\">Orrick, Herrington &amp; Sutcliffe LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81353a8c",
+      "title": "Orange Rag Legal Tech Clinic: Law Firms Can’t AI Their Way Out of a Talent Strategy Problem",
+      "url": "https://legaltechnology.com/orange-rag-legal-tech-clinic-law-firms-cant-ai-their-way-out-of-a-talent-strategy-problem/",
+      "author": "Caroline Hill - Editor-in-Chief",
+      "source": "Legal IT Insider",
+      "published_at": "2026-06-01T14:11:16+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://legaltechnology.com/wp-content/uploads/2026/06/Legal-Tech-Clinic.png\" alt=\"Legal-Tech-Clinic.png\"></p><p>Our latest Orange Rag industry expert is Patrick Hurley, global lead for applications management solutions at Harbor, based in London. Hurley says that the question for law firms now, more than ever, is what […]</p>  \n<p>The post <a href=\"https://legaltechnology.com/orange-rag-legal-tech-clinic-law-firms-cant-ai-their-way-out-of-a-talent-strategy-problem/\">Orange Rag Legal Tech Clinic: Law Firms Can’t AI Their Way Out of a Talent Strategy Problem</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8133dc1e",
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "author": "Tim Fernholz",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-06-01T16:00:00+00:00",
+      "updated_at": "2026-06-01T19:45:39+00:00",
+      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b813335d8",
+      "title": "Relativity Launches Relativity FOIA to Streamline Public Disclosure Operations for Government Agencies",
+      "url": "https://ediscoverytoday.com/2026/06/01/relativity-launches-relativity-foia-to-streamline-public-disclosure-operations-for-government-agencies/",
+      "author": "Doug Austin",
+      "source": "eDiscovery Today by Doug Austin",
+      "published_at": "2026-06-01T15:45:00+00:00",
+      "updated_at": "",
+      "summary": "<p>Congrats to Relativity for the announcement that Relativity launches Relativity FOIA to streamline public disclosure operations for government agencies! Here’s a portion of the press release!</p> \n<p>The post <a href=\"https://ediscoverytoday.com/2026/06/01/relativity-launches-relativity-foia-to-streamline-public-disclosure-operations-for-government-agencies/\">Relativity Launches Relativity FOIA to Streamline Public Disclosure Operations for Government Agencies</a> appeared first on <a href=\"https://ediscoverytoday.com\">eDiscovery Today by Doug Austin</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81320efc",
+      "title": "FDA one-day inspections pilot: What to expect and how to prepare",
+      "url": "https://www.jdsupra.com/legalnews/fda-one-day-inspections-pilot-what-to-6113804/",
+      "author": "Hogan Lovells",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-06-01T15:56:01+00:00",
+      "updated_at": "",
+      "summary": "The U.S. Food and Drug Administration (FDA) recently announced the launch of a pilot program involving abbreviated, one-day inspectional assessments at manufacturing and other lower-risk facilities. FDA said the pilot, which began in April 2026, applies to domestic and foreign manufacturing facilities, and that it complements—not replaces—the agency's standard inspection program....<br>By: <a href=\"https://www.jdsupra.com/profile/Hogan_Lovells/\">Hogan Lovells</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81320efd",
+      "title": "FINRA launches review of higher-risk structured product recommendations and concentration practices",
+      "url": "https://www.jdsupra.com/legalnews/finra-launches-review-of-higher-risk-5173655/",
+      "author": "Orrick, Herrington &amp; Sutcliffe LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-06-01T15:56:01+00:00",
+      "updated_at": "",
+      "summary": "On May 19, FINRA announced that it will conduct a review of how certain member firms oversee and recommend higher-risk structured products, with a particular focus on non-principal protected “worst-of” structured notes. In its letter to affected firms, FINRA defined “worst-of” structured notes as “principal-at-risk structured notes that may result in a reduction or cessation in interest payments, and/or a reduced return of principal at maturity, based on the worst-performing asset in a group of...<br>By: <a href=\"https://www.jdsupra.com/profile/orrick_herrington_sutcliffe/\">Orrick, Herrington &amp; Sutcliffe LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81308bc3",
+      "title": "California announces landmark US $12.75 million CCPA settlement with General Motors, the largest settlement to date",
+      "url": "https://www.jdsupra.com/legalnews/california-announces-landmark-us-12-75-1427687/",
+      "author": "White &amp; Case LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T15:19:54+00:00",
+      "updated_at": "",
+      "summary": "California Attorney General Rob Bonta, together with the California Privacy Protection Agency (“CalPrivacy”) and local district attorneys, has announced a US$12.75 million CCPA settlement with General Motors (“GM”) over allegations of unlawful collection and sale of Californians’ driving and location data. This is the largest CCPA fine ever issued. The settlement is also California’s first data minimization enforcement action....<br>By: <a href=\"https://www.jdsupra.com/profile/white_case/\">White &amp; Case LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81308ddf",
+      "title": "Where to Stand and Fight: How the New Circuit Split In Session-Replay Class Actions Reshapes Defense Strategy",
+      "url": "https://www.jdsupra.com/legalnews/where-to-stand-and-fight-how-the-new-4899732/",
+      "author": "Loeb &amp; Loeb LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T15:07:29+00:00",
+      "updated_at": "",
+      "summary": "TL;DR: In privacy class actions, it is often an open legal question whether there is an injury at all. On May 11, 2026, the Third Circuit issued In re BPS Direct, LLC; Cabela's, LLC Wiretapping Litigation, which held that plaintiffs whose credit card information was captured via session-replay code adequately alleged Article III injury-in-fact. The ruling creates an explicit appellate-level split. The same allegations in the Ninth Circuit would have been dismissed....<br>By: <a href=\"https://www.jdsupra.com/profile/loeb_loeb1/\">Loeb &amp; Loeb LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81308972",
+      "title": "SECURE Data Act: Congress introduces new federal privacy framework",
+      "url": "https://www.jdsupra.com/legalnews/secure-data-act-congress-introduces-new-8419239/",
+      "author": "Freeman Mathis &amp; Gary",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T15:20:33+00:00",
+      "updated_at": "",
+      "summary": "On April 21, 2026, Representative John Joyce (R‑PA) introduced the Securing and Establishing Consumer Uniform Rights and Enforcement over Data Act (the “SECURE Data Act”) in the House of Representatives. The bill represents the latest effort to establish a comprehensive national framework for consumer privacy rights....<br>By: <a href=\"https://www.jdsupra.com/profile/freeman_mathis_and_gary/\">Freeman Mathis &amp; Gary</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b812dcda8",
+      "title": "Retaliation Against Compliance Officers: What the Numbers Really Say",
+      "url": "https://www.complianceweek.com/scheduled-webcast/retaliation-against-compliance-officers-what-the-numbers-really-say/",
+      "author": "By Case IQ",
+      "source": "Latest articles from Compliance Week Compliance and Technology",
+      "published_at": "2026-06-01T14:43:10+00:00",
+      "updated_at": "2026-06-02T00:27:04+00:00",
+      "summary": "<figure><img width=\"900\" height=\"600\" src=\"https://i0.wp.com/www.complianceweek.com/wp-content/uploads/2026/06/June25.jpg?fit=900%2C600&amp;ssl=1\" alt=\"\"></figure><div><p><strong>Webcast details: June 25, 2026 – 2:00 pm ET<br>CPE Credit(s): 1</strong></p></div> \n \n \n \n<div> \n<div><a>Register for this webcast</a></div> \n</div> \n \n \n \n<p>It’s no secret that compliance officers sometimes suffer retaliation for raising misconduct concerns to management. Now, for the first time ever, we have a sense of how prevalent such retaliation actually is. Join us as we present the findings of our groundbreaking Retaliation Against Compliance Officers survey, and have a lively discussion of what they mean for the corporate compliance profession and of compliance officers’ own career challenges. We will discuss:</p> \n \n \n \n<ul> \n<li>How often compliance officers suffer retaliation, and what types of retaliation they encounter;</li> \n \n \n \n<li>The alarming number of compliance officers afraid to raise concerns at their employer right now; and</li> \n \n \n \n<li>Strategies that compliance officers can use to improve their standing within the company and reduce retaliation risk in the first place.</li> \n</ul> \n \n \n \n<p><strong>Speakers:</strong><br>Matt Kelly, Editor &amp; CEO – Radical Compliance</p> \n<p>The post <a href=\"https://www.complianceweek.com/scheduled-webcast/retaliation-against-compliance-officers-what-the-numbers-really-say/\">Retaliation Against Compliance Officers: What the Numbers Really Say</a> appeared first on <a href=\"https://www.complianceweek.com\">Compliance Week</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Compliance",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b812cfaf8",
+      "title": "The Importance of Timely Product Safety Reporting",
+      "url": "https://www.jdsupra.com/legalnews/the-importance-of-timely-product-safety-8794233/",
+      "author": "Blank Rome LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-06-01T15:25:26+00:00",
+      "updated_at": "",
+      "summary": "On March 16, 2026, the U.S. Consumer Product Safety Commission (CPSC) announced that Shimano, Inc., and Shimano North America Holding, Inc., agreed to pay an $11.5 million civil penalty for failing to immediately report defective bicycle cranksets that posed a crash hazard to consumers. Per the CPSC, Shimano received thousands of warranty claims between 2013 and 2022 about its 11-speed Bonded Hollowtech II bicycle cranksets separating during use, along with dozens of complaints from consumers...<br>By: <a href=\"https://www.jdsupra.com/profile/Blank_Rome/\">Blank Rome LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b812b7f79",
+      "title": "Navigating AI Investment and Adoption in a Maturing Market",
+      "url": "https://www.jdsupra.com/legalnews/navigating-ai-investment-and-adoption-7067767/",
+      "author": "Davies Ward Phillips &amp; Vineberg LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T15:16:42+00:00",
+      "updated_at": "",
+      "summary": "Zain Rizvi recently moderated a panel titled “AI Investment Decisions in Practice” at Invest Canada 26. The panel, which included Kory Jeffrey from Inovia Capital and Laura Moss from Cohere, focused on how investors (Inovia) and operators (Cohere) are evaluating AI companies in practice, particularly as the market moves from broad excitement around AI to a more disciplined focus on adoption and durability....<br>By: <a href=\"https://www.jdsupra.com/profile/davies_ward_phillips_vineberg/\">Davies Ward Phillips &amp; Vineberg LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b812b7f7d",
+      "title": "MoFo's Financial Markets & Innovation #15",
+      "url": "https://www.jdsupra.com/legalnews/mofo-s-financial-markets-innovation-15-8093682/",
+      "author": "Morrison &amp; Foerster LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T15:16:42+00:00",
+      "updated_at": "",
+      "summary": "Please see below for this week’s Financial Markets &amp; Innovation Weekly Update from Morrison Foerster, tracking how emerging technologies are reshaping financial markets and how U.S. and global regulators are responding. Covering developments across digital assets, prediction markets, artificial intelligence, and next-generation trading infrastructure, this update highlights key regulatory actions, enforcement activity, policy signals, and related market structure implications....<br>By: <a href=\"https://www.jdsupra.com/profile/Morrison_Foerster/\">Morrison &amp; Foerster LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8129bd41",
+      "title": "Equals Money and Railsr rebrand as Equals",
+      "url": "https://www.finextra.com/pressarticle/109988/equals-money-and-railsr-rebrand-as-equals?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-01T15:06:22+00:00",
+      "updated_at": "",
+      "summary": "Equals Money and Railsr rebrands as Equals, the next-generation global money movement platform.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8127f563",
+      "title": "[Webinar] From Transcript to Strategy: The New Standard for Modern Court Reporting - June 25th, 1:00 pm - 1:45 pm CT",
+      "url": "https://www.jdsupra.com/legalnews/webinar-from-transcript-to-strategy-the-2894957/",
+      "author": "Array",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T14:02:50+00:00",
+      "updated_at": "",
+      "summary": "The court reporting industry continues to evolve as legal teams adapt to changing expectations around accessibility, collaboration, remote proceedings, and realtime case support.  Join us for a practical discussion led by Array’s court reporting experts on how testimony workflows are evolving across today’s legal landscape, from traditional stenography and realtime reporting to newer digital workflows and litigation support tools....<br>By: <a href=\"https://www.jdsupra.com/profile/array/\">Array</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "eDiscovery - Litigation",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8127f1dc",
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "author": "Sarah Perez",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-06-01T14:49:10+00:00",
+      "updated_at": "",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8126bca9",
+      "title": "AAA ICDR® Introduces an AI Arbitrator: A New Tool in Commercial Dispute Resolution",
+      "url": "https://www.jdsupra.com/legalnews/aaa-icdr-r-introduces-an-ai-arbitrator-3461219/",
+      "author": "Kohrman Jackson &amp; Krantz LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T14:47:26+00:00",
+      "updated_at": "",
+      "summary": "The American Arbitration Association–International Centre for Dispute Resolution (AAA‑ICDR®) has introduced an AI‑enabled arbitrator as part of its broader effort to modernize and streamline arbitration. The initiative represents a notable development in alternative dispute resolution, raising important considerations for parties and practitioners evaluating efficiency, cost and process integrity in commercial arbitration....<br>By: <a href=\"https://www.jdsupra.com/profile/kohrman_jackson_krantz/\">Kohrman Jackson &amp; Krantz LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8126bcac",
+      "title": "Sounding Right, Being Wrong: The Growing Threat of AI-Generated Court Pleadings",
+      "url": "https://www.jdsupra.com/legalnews/sounding-right-being-wrong-the-growing-2370705/",
+      "author": "Rumberger | Kirk",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T14:47:26+00:00",
+      "updated_at": "",
+      "summary": "Courts in Florida and across the country are grappling with a rapidly growing crisis: the submission of court filings produced with the assistance of generative artificial intelligence that cite nonexistent cases or cite actual cases for inaccurate legal propositions. As the Florida Supreme Court recently noted: “Generative artificial intelligence tools—including large language models and other systems that produce text or citations in response to prompts—are being used as drafting or research...<br>By: <a href=\"https://www.jdsupra.com/profile/Rumberger_Kirk_Caldwell/\">Rumberger | Kirk</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8126bcae",
+      "title": "IOSCO publishes final report on AI supervisory toolkit",
+      "url": "https://www.jdsupra.com/legalnews/iosco-publishes-final-report-on-ai-9214283/",
+      "author": "A&amp;O Shearman",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T14:47:26+00:00",
+      "updated_at": "",
+      "summary": "The International Organization of Securities Commissions (IOSCO) has published its final report on a Supervisory Toolkit for AI Use in Capital Markets. The report is based on IOSCO's previous work, and provides supervisors with a practical, multi-phased approach to monitoring ongoing advancements in AI, the concentration and dependency on AI service providers, and AI's expanding range of applications and risks in capital markets....<br>By: <a href=\"https://www.jdsupra.com/profile/a_o_shearman/\">A&amp;O Shearman</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8126bcb3",
+      "title": "Employer Checklist for June 2026",
+      "url": "https://www.jdsupra.com/legalnews/employer-checklist-for-june-2026-1670753/",
+      "author": "Fisher Phillips",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T14:47:26+00:00",
+      "updated_at": "",
+      "summary": "Here are the top 10 workplace compliance items you should tackle in June 2026, based on the latest labor and employment law updates....<br>By: <a href=\"https://www.jdsupra.com/profile/fisher_phillips/\">Fisher Phillips</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8126672d",
+      "title": "Southeastern Privacy Laws Taking Shape: Current and Upcoming Omnibus Laws for Alabama, Georgia, Florida, and Tennessee",
+      "url": "https://www.jdsupra.com/legalnews/southeastern-privacy-laws-taking-shape-6041158/",
+      "author": "Seyfarth Shaw LLP",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T14:13:27+00:00",
+      "updated_at": "",
+      "summary": "It has been a busy spring for data privacy in the Southeast. On April 17, 2026, Alabama Governor Kay Ivey signed the Alabama Personal Data Protection Act (HB 351). Weeks later, on May 11, 2026, Governor Kemp signed Georgia’s SB 111. There is an important caveat there: although the Senate-passed version of SB 111 carried the title “Georgia Consumer Privacy Protection Act,” the House substituted the bill’s entire text with unrelated amendments to the rural hospital tax credit....<br>By: <a href=\"https://www.jdsupra.com/profile/Seyfarth_Shaw/\">Seyfarth Shaw LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81266247",
+      "title": "Mintz Privacy Team Secures Landmark Ruling in California Invasion of Privacy Act Case",
+      "url": "https://www.jdsupra.com/legalnews/mintz-privacy-team-secures-landmark-6492590/",
+      "author": "Mintz - Employment Viewpoints",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-06-01T14:23:33+00:00",
+      "updated_at": "",
+      "summary": "On May 27, 2026, Judge Gary Roberts of the Los Angeles, California Superior Court ruled, in a notable decision, that the California Invasion of Privacy Act’s pen register and trap and trace device provisions apply only to telephone communications and not to software on commercial websites.  The Court dismissed, with prejudice (notably), claims against Mintz client NetScout Systems, Inc. premised on deployment of a data collection software development kit (or SDK) on its website......<br>By: <a href=\"https://www.jdsupra.com/profile/MintzEmploymentViewpoints/\">Mintz - Employment Viewpoints</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Information Governance",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8124e22f",
+      "title": "Beyond survival: How Canadian Credit Unions can turn a platform crisis into a competitive edge",
+      "url": "https://www.finextra.com/blogposting/31885/beyond-survival-how-canadian-credit-unions-can-turn-a-platform-crisis-into-a-competitive-edge?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-01T12:54:22+00:00",
+      "updated_at": "",
+      "summary": "With the sunset of Forge, Canadian credit unions face a critical decision  about their digital banki...",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8124e231",
+      "title": "The 10 Non-obvious Ways Digital Financial Services Can Win 2026",
+      "url": "https://www.finextra.com/blogposting/31883/the-10-non-obvious-ways-digital-financial-services-can-win-2026?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-01T12:24:01+00:00",
+      "updated_at": "",
+      "summary": "You are great in financial services. You have innovative products. Strong compliance. Experienced te...",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8124e234",
+      "title": "Latvia: The Strategic Gateway for MiCA Compliance – A Business Case Analysis",
+      "url": "https://www.finextra.com/blogposting/31882/latvia-the-strategic-gateway-for-mica-compliance--a-business-case-analysis?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-01T11:41:28+00:00",
+      "updated_at": "",
+      "summary": "The Markets in Crypto-Assets (MiCA) regulation has fundamentally re-engineered the European digital ...",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8121c9d1",
+      "title": "Episode 420 -- DOJ Announces New West Coast Health Care Fraud Strike Force",
+      "url": "https://www.jdsupra.com/legalnews/episode-420-doj-announces-new-west-co-67947/",
+      "author": "The Volkov Law Group",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-06-01T12:52:26+00:00",
+      "updated_at": "",
+      "summary": "The Department of Justice has announced a new West Coast Health Care Fraud Strike Force, signaling an expansion of federal enforcement efforts targeting health care fraud, telemedicine schemes, kickback arrangements, and technology-enabled billing misconduct. In this episode, Michael Volkov examines DOJ’s evolving enforcement strategy, including the growing use of data analytics and AI-driven investigations, increased scrutiny of private equity-backed health care entities, and heightened...<br>By: <a href=\"https://www.jdsupra.com/profile/michael_volkov/\">The Volkov Law Group</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b811edb36",
+      "title": "AmLaw 200 Firm Hanson Bridgett Goes All-In with Claude",
+      "url": "https://www.artificiallawyer.com/2026/06/01/amlaw-200-firm-hanson-bridgett-goes-all-in-with-claude/",
+      "author": "artificiallawyer",
+      "source": "Artificial Lawyer",
+      "published_at": "2026-06-01T13:48:43+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/06/Screenshot-2026-06-01-at-14.31.51.png\" alt=\"Screenshot-2026-06-01-at-14.31.51.png\"></p>San Francisco-based AmLaw 200 firm, Hanson Bridgett, has announced it has gone all-in with Claude, with the general model – plus legal add-ons – adopted <a href=\"https://www.artificiallawyer.com/2026/06/01/amlaw-200-firm-hanson-bridgett-goes-all-in-with-claude/\" title=\"AmLaw 200 Firm Hanson Bridgett Goes All-In with Claude\">...</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b811b5bca",
+      "title": "Finastra helps lenders turn more applications into loans with new analytics tool",
+      "url": "https://www.finextra.com/pressarticle/109986/finastra-helps-lenders-turn-more-applications-into-loans-with-new-analytics-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-01T13:36:16+00:00",
+      "updated_at": "",
+      "summary": "Finastra today announced the launch of Data Insights 2.0, a powerful analytics solution designed to help mortgage lenders convert more applications into funded loans by turning complex data into decision-ready insights.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b810d2f1c",
+      "title": "The AI Doc: Or How I Became an Apocaloptimist: Artificial Intelligence Trends",
+      "url": "https://ediscoverytoday.com/2026/06/01/the-ai-doc-or-how-i-became-an-apocaloptimist-artificial-intelligence-trends/",
+      "author": "Doug Austin",
+      "source": "eDiscovery Today by Doug Austin",
+      "published_at": "2026-06-01T11:30:00+00:00",
+      "updated_at": "",
+      "summary": "<p>Are you influenced more by the promise of the peril of AI? If you watch The AI Doc: Or How I Became an Apocaloptimist, you might be both.</p> \n<p>The post <a href=\"https://ediscoverytoday.com/2026/06/01/the-ai-doc-or-how-i-became-an-apocaloptimist-artificial-intelligence-trends/\">The AI Doc: Or How I Became an Apocaloptimist: Artificial Intelligence Trends</a> appeared first on <a href=\"https://ediscoverytoday.com\">eDiscovery Today by Doug Austin</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b8107fe0a",
+      "title": "Market Intelligence: eDiscovery cloud software – SaaS, PaaS, and IaaS, 2025 to 2030",
+      "url": "https://complexdiscovery.com/market-intelligence-ediscovery-cloud-software-saas-paas-and-iaas-2025-to-2030/",
+      "author": "Rob Robinson",
+      "source": "ComplexDiscovery: eDiscovery Information",
+      "published_at": "2026-06-01T09:12:19+00:00",
+      "updated_at": "",
+      "summary": "<p>Editor’s Note: The eDiscovery cloud software category is rebalancing across 2025-2030. Reconciled estimates place worldwide cloud spending at approximately $5.29 billion in 2025 – 79 percent of the software segment – and project growth to $8.87 billion in 2030 at a reconciled compound annual rate of 10.93 percent. Inside the cloud category, SaaS holds approximately 67 percent of spend in 2025 and 63 percent in 2030, while platform-as-a-service rises from 15 percent to 17 percent and infrastructure-as-a-service from 18 percent to 20 percent. The four-percentage-point SaaS share decline reflects a structural rebalance toward platform and infrastructure tiers as advanced eDiscovery workloads run against those services directly.</p> \n<p>The driving force is concrete: AI inference at scale, vector search, large-scale processing pipelines, and multi-source ingestion architectures increasingly engage platform and infrastructure services rather than terminating at packaged SaaS endpoints. Some of that activity appears in vendor SaaS revenue when wrapped into packaged offerings; some appears as direct PaaS or IaaS spend by service providers and enterprise customers operating against hyperscaler accounts.</p> \n<p>For cybersecurity, data privacy, regulatory compliance, and eDiscovery professionals, three observations follow. First, the cloud bill of materials for advanced eDiscovery work now spans SaaS, PaaS, and IaaS simultaneously – and procurement evaluation needs to extend across the full stack rather than terminate at the SaaS subscription line. Second, AI inference economics specifically deserve their own line in vendor evaluation and contract review, because the inference cost component is increasingly material. Third, the SaaS-anchored cloud category is not retreating – it is growing alongside an expanding platform and infrastructure tier that procurement frameworks and vendor evaluation criteria are still adapting to.</p> \n \n<p>Industry Research – eDiscovery Market Sizing Beat</p> \n<h2>Market Intelligence: eDiscovery cloud software – SaaS, PaaS, and IaaS, 2025 to 2030</h2> \n<p><em>Cloud software grows from $5.29 billion in 2025 to $8.87 billion in 2030 at a reconciled 10.93 percent CAGR, with SaaS holding two-thirds of the category but losing share as PaaS and IaaS components compound at faster rates</em></p> \n<p><em>ComplexDiscovery Staff</em></p> \n<p>SaaS still dominates eDiscovery cloud spending, and will throughout the 2025-2030 cycle. Reconciled estimates place worldwide SaaS spending at approximately $3.54 billion in 2025 against $0.79 billion for platform-as-a-service and $0.95 billion for infrastructure-as-a-service – a 67-15-18 split inside the off-premise software category. By 2030, the split rebalances to 63-17-20 as PaaS and IaaS components compound at faster rates than SaaS. The headline cloud growth – 10.93 percent CAGR, taking the category from $5.29 billion to $8.87 billion – hides a more interesting story about where AI workloads are landing inside the cloud stack.</p> \n<h3>The 2025 cloud composition baseline</h3> \n<p>In 2025, reconciled estimates place worldwide eDiscovery cloud software spending at approximately $5.29 billion – the off-premise category that already holds 79 percent of total software spend. Inside the cloud category, SaaS accounts for approximately $3.54 billion (67 percent), platform-as-a-service for approximately $0.79 billion (15 percent), and infrastructure-as-a-service for approximately $0.95 billion (18 percent). The starting composition is recognizable: SaaS dominates because it is the cloud delivery model that vendors built their eDiscovery products around during the prior decade. PaaS and IaaS appear as distinct line items because customers and providers increasingly engage with cloud services at the platform and infrastructure tiers directly, alongside packaged SaaS subscriptions.</p> \n<hr> \n<p><strong>Chart: </strong><em>eDiscovery Cloud Software Market (2025-2030)</em></p> \n<a href=\"https://complexdiscovery.com/wp-content/uploads/2026/06/eDiscovery-Cloud-Software-Market-2025-2030.pdf\">eDiscovery Cloud Software Market (2025-2030)<br></a> \n<hr> \n<h3>SaaS: still dominant, but losing share</h3> \n<p>SaaS grows from $3.54 billion in 2025 to approximately $5.59 billion in 2030 at a reconciled compound annual rate of approximately 9.6 percent. The growth is meaningful in absolute terms – a five-year increase of close to 58 percent – but the SaaS CAGR runs below the overall cloud CAGR (10.93 percent), which means SaaS share of cloud spend declines from 67 percent to approximately 63 percent across the period. SaaS continues to anchor the cloud category because most eDiscovery vendor products ship as SaaS subscriptions, and most buyer evaluation cycles default to SaaS pricing. The share decline is gradual, the absolute growth is durable, and SaaS will remain the largest cloud sub-category throughout the cycle and well past it.</p> \n<h3>PaaS and IaaS: where AI inference workloads are landing</h3> \n<p>Platform-as-a-service grows from $0.79 billion in 2025 to approximately $1.51 billion in 2030 at a reconciled compound annual rate of approximately 13.8 percent – the fastest-growing cloud sub-category by CAGR. Infrastructure-as-a-service grows from $0.95 billion to approximately $1.77 billion at roughly 13.3 percent. Both compound materially faster than SaaS, and the reason is concrete: advanced eDiscovery workloads increasingly run against platform and infrastructure services rather than against packaged SaaS endpoints. AI inference at scale, vector search and retrieval-augmented generation, large-scale processing pipelines, multi-source ingestion architectures, and AI model fine-tuning each touch platform and infrastructure layers directly. Some of this spend appears in vendor SaaS revenue when the vendor wraps the underlying services into a packaged offering. Some appears as direct PaaS or IaaS spend by service providers building their own pipelines or by enterprise customers operating eDiscovery work in-house against hyperscaler accounts.</p> \n<h3>The composition rebalances by 2030</h3> \n<p>The 2030 cloud composition is 63 percent SaaS, 17 percent PaaS, and 20 percent IaaS – a four-percentage-point share decline for SaaS and a four-percentage-point combined share gain for PaaS and IaaS across five years. The cloud category remains SaaS-anchored, but the platform and infrastructure tiers have grown into meaningful line items rather than rounding adjustments. The rebalance matters because the cloud bill of materials for advanced eDiscovery work increasingly spans all three layers simultaneously. A managed-review engagement may run on SaaS, but the AI inference behind that review may run on PaaS, and the underlying compute may bill at the IaaS tier. Procurement evaluation, contract structure, and cost transparency increasingly extend across the full stack rather than terminating at the SaaS subscription line.</p> \n<h3>What it means for vendors, providers, and buyers</h3> \n<p>For software vendors, the SaaS share decline does not undermine the SaaS business; it simply means the cloud category has expanded around SaaS rather than only through SaaS. Vendors that wrap PaaS and IaaS services into transparent SaaS offerings retain pricing power. Vendors that leave platform and infrastructure exposure unwrapped should expect customers to ask procurement-level questions about the split. For service providers, direct hyperscaler relationships – operating large-scale processing, AI inference, and data pipelines on PaaS and IaaS infrastructure – become an increasingly visible category of spend that influences operating margin and competitive positioning. For buyers, cloud cost transparency now spans all three layers, and AI inference economics specifically deserve their own line in vendor evaluation and contract review.</p> \n<h3>What comes next in the Market Intelligence series</h3> \n<p>Subsequent Market Intelligence analyses move beyond the software view into the geography and demand-sector lenses, examining where international markets compound faster than the United States and how government and regulatory demand differs from non-government in deployment, contract structure, and pricing. The direct delivery approach view examines how corporate, government, law firm, and service provider channels each consume eDiscovery work. The series will close with the consolidated 2025-2030 eDiscovery Marketplace Mashup as the synthesis point.</p> \n<p>The figures presented here are reconciled estimates aligned to a common scope (worldwide eDiscovery cloud software, including SaaS, PaaS, and IaaS components within the off-premise category), a common geography, and a common timeframe (calendar years 2025 through 2030). They draw on publicly available third-party research, vendor disclosures, and analyst evaluation aggregated within the underlying market model. Forward estimates from past and present industry data sources are included in the model and presented as the current reconciled view. The 2025-2030 eDiscovery Marketplace Mashup is complete in its underlying analysis but remains unpublished in its consolidated form at this time. It will be published as the culmination of the Market Intelligence series, with the full source list, citation guidance, and methodology disclosure included at that time.</p> \n<p>If PaaS and IaaS continue to compound faster than SaaS, will the cloud bill of materials for advanced eDiscovery workloads eventually shift the procurement conversation away from SaaS-centric subscription pricing and toward stack-level transparency – or will eDiscovery vendors successfully wrap platform and infrastructure exposure inside packaged SaaS offerings that preserve the simpler buyer evaluation cycle that SaaS pricing has historically enabled?</p> \n<h3>About the eDiscovery Market Size Mashup from ComplexDiscovery OÜ</h3> \n<p>The eDiscovery Market Size Mashup from ComplexDiscovery OÜ is an annual analytical report that provides a comprehensive overview of eDiscovery market trends, task-based expenditures, and technological advancements. Drawing on data from historical studies, market modeling, and future forecasting, the Mashup offers actionable insights for legal, business, and technology professionals. By examining key factors such as data growth, task allocation, and the impact of emerging technologies like generative AI, the Mashup serves as a citable resource for understanding the evolving dynamics of eDiscovery. The 2025-2030 edition of the report is complete in its underlying analysis and will be published in its consolidated form as the culmination of the Market Intelligence series.</p> \n<p>News sources</p> \n<p><em>The following list is a directional resource set rather than an exact bibliography. It identifies representative inputs that shape this analysis; the core source listing, which provides a general understanding of data point sources over the lifecycle of the model, will publish with the consolidated 2025-2030 eDiscovery Market Size Mashup at the culmination of the Market Intelligence series.</em></p> \n<ul> \n<li>ComplexDiscovery OÜ. (2026). 2025-2030 eDiscovery market size mashup: Reconciled market size and task allocation trends (Unpublished working paper). ComplexDiscovery OÜ.</li> \n<li><a href=\"https://complexdiscovery.com/the-workstream-of-ediscovery-considering-processes-and-tasks/\">The workstream of eDiscovery: Considering processes and tasks</a> (ComplexDiscovery)</li> \n<li><a href=\"https://complexdiscovery.com/complete-look-complexdiscoverys-2024-2029-ediscovery-market-size-mashup/\">Complete Look: ComplexDiscovery’s 2024-2029 eDiscovery Market Size Mashup</a> (ComplexDiscovery)</li> \n<li><a href=\"https://www.rand.org/pubs/monographs/MG1208.html\">Where the money goes: Understanding litigant expenditures for producing electronic discovery</a> (RAND Institute for Civil Justice)</li> \n<li><a href=\"https://complexdiscovery.com/market-intelligence-ediscovery-market-growth-from-2012-to-2030/\">Market Intelligence: eDiscovery market growth from 2012 to 2030</a></li> \n<li><a href=\"https://complexdiscovery.com/market-intelligence-the-ediscovery-task-composition-shift-from-2025-to-2030/#\">Market Intelligence: The eDiscovery task composition shift from 2025 to 2030</a></li> \n<li><a href=\"https://complexdiscovery.com/market-intelligence-the-ediscovery-software-market-from-2025-to-2030/\">Market Intelligence: The eDiscovery software market from 2025 to 2030</a></li> \n<li><a href=\"https://complexdiscovery.com/market-intelligence-the-ediscovery-services-market-from-2025-to-2030/\">Market Intelligence: The eDiscovery services market from 2025 to 2030</a></li> \n<li><a href=\"https://complexdiscovery.com/market-intelligence-ediscovery-software-deployment-on-premise-versus-off-premise-2025-to-2030/#\">Market Intelligence: eDiscovery software deployment, on-premise versus off-premise, 2025 to 2030</a></li> \n</ul> \n<hr> \n \n<hr> \n<p><a href=\"https://complexdiscovery.com/generative-artificial-intelligence-and-large-language-model-policy/\">Assisted by GAI and LLM Technologies</a></p> \n<p>Additional reading</p> \n<ul> \n<li><a href=\"https://complexdiscovery.com/stakeholder-governance-gets-a-stricter-audit/#\">Stakeholder governance gets a stricter audit</a></li> \n<li><a href=\"https://complexdiscovery.com/andrew-haslams-edisclosure-systems-buyers-guide-at-14-what-the-1h-2026-update-reveals/\">Andrew Haslam’s eDisclosure Systems Buyers Guide at 14: What the 1H 2026 update reveals</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/a-complete-analysis-of-the-winter-2026-ediscovery-pricing-survey/\">A Complete Analysis of the Winter 2026 eDiscovery Pricing Survey</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/the-ma-risk-of-confusing-market-velocity-with-marketing-capability/\">The M&amp;A Risk of Confusing Market Velocity with Marketing Capability</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/confidence-meets-complexity-full-results-from-the-2h-2025-ediscovery-business-confidence-survey/\">Confidence Meets Complexity: Full Results from the 2H 2025 eDiscovery Business Confidence Survey</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/making-the-subjective-objective-a-scoring-framework-for-evaluating-ediscovery-vendor-viability-in-2026/\">Making the Subjective Objective: A Scoring Framework for Evaluating eDiscovery Vendor Viability in 2026</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/ediscovery-vendor-viability-scoring-tool-making-the-subjective-objective/\">eDiscovery Vendor Viability Scoring Tool: Making the Subjective Objective</a></li> \n<li><a href=\"https://complexdiscovery.com/buyers-guide/beyond-public-cloud-the-enduring-case-for-deployment-flexibility-in-ediscovery/\">Beyond Public Cloud: The Enduring Case for Deployment Flexibility in eDiscovery</a></li> \n</ul> \n<p>Source: ComplexDiscovery OÜ</p> \n<p><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/06/Cloud-Software.jpg\" alt=\"\" width=\"850\" height=\"400\"></p> \n<blockquote><p>ComplexDiscovery’s mission is to enable clarity for complex decisions by providing independent, data‑driven reporting, research, and commentary that make digital risk, legal technology, and regulatory change more legible for practitioners, policymakers, and business leaders.</p></blockquote> \n<p>The post <a href=\"https://complexdiscovery.com/market-intelligence-ediscovery-cloud-software-saas-paas-and-iaas-2025-to-2030/\">Market Intelligence: eDiscovery cloud software – SaaS, PaaS, and IaaS, 2025 to 2030</a> appeared first on <a href=\"https://complexdiscovery.com\">ComplexDiscovery</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
         "High-Signal"
       ]
     },
@@ -28,6 +1274,22 @@
       "published_at": "2026-06-01T10:39:20+00:00",
       "updated_at": "",
       "summary": "The AI Transformation area, which sits at the top level of the organization and will be led by Antonio Bravo combines the current Data area with critical technological capabilities to industrialize the creation, deployment and management of artificial intelligence (AI) agents across the organization.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b81001e00",
+      "title": "The finance function is quietly becoming an agent stack, and the org chart has not caught up",
+      "url": "https://www.finextra.com/blogposting/31880/the-finance-function-is-quietly-becoming-an-agent-stack-and-the-org-chart-has-not-caught-up?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-06-01T10:25:45+00:00",
+      "updated_at": "",
+      "summary": "The change most banks and fintechs are bracing for in finance has already happened in the companies ...",
       "content": "",
       "categories": [
         "reading-list",
@@ -116,22 +1378,6 @@
         "Legal Tech Core",
         "High-Signal",
         "Priority"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b80ee6eef",
-      "title": "Deep Dive: Inside Wise’s Product Stack",
-      "url": "https://www.finextra.com/blogposting/31875/deep-dive-inside-wises-product-stack?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "author": "",
-      "source": "Finextra Research news",
-      "published_at": "2026-05-31T09:37:10+00:00",
-      "updated_at": "",
-      "summary": "On  May 11, 2026, Wise began trading on Nasdaq under the ticker WSE, a dual listing alongside its ex...",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Compliance",
-        "High-Signal"
       ]
     },
     {
@@ -246,107 +1492,6 @@
         "reading-list",
         "Compliance",
         "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b808d648a",
-      "title": "Making sense of the debate over AI psychosis",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "author": "Anthony Ha",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-05-31T15:30:00+00:00",
-      "updated_at": "",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b8030042e",
-      "title": "Judge Brinkema Freezes Trump Administration’s $1.776 Billion “Anti-Weaponization Fund”",
-      "url": "https://www.legaltechmonitor.com/2026/05/judge-brinkema-freezes-trump-administrations-1-776-billion-anti-weaponization-fund/",
-      "author": "brunoqueirozdocketalarm-com",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-05-30T12:04:06+00:00",
-      "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>A federal judge in Virginia has temporarily blocked the Trump administration from taking further steps to establish or operate a proposed $1.776 billion “Anti-Weaponization Fund,” a program designed to compensate individuals the administration says were harmed by government “weaponization.” U.S. District Judge Leonie Brinkema’s order pauses the initiative for at least two weeks while the court considers a broader legal challenge alleging political discrimination and unlawful government action.</p><p>The dispute is now playing out in the Eastern District of Virginia in <a href=\"https://www.docketalarm.com/cases/Virginia_Eastern_District_Court/1-26-cv-01399/Floyd_et_al_v_Department_of_Justice_et_al/\">Floyd et al v. Department of Justice et al</a>. At this early stage, the court’s intervention is significant less for what it finally decides than for what it immediately prevents: the administration cannot move forward with implementing a fund of substantial size and political consequence until the legality of the program is tested.</p><p>For litigators, the order is a reminder that courts remain willing to scrutinize fast-moving executive programs when challengers frame concrete constitutional or administrative harms. Temporary restraining orders and preliminary injunction fights often become the real battleground in cases involving new federal initiatives, especially where the alleged injury includes unequal treatment, viewpoint discrimination, or the misuse of public funds. A short-term pause can reshape the practical stakes of a case by preventing agencies from creating facts on the ground before judicial review is complete.</p><p>For in-house counsel and compliance teams, the case is also worth watching because it sits at the intersection of government funding, political criteria, and program administration. If a compensation mechanism is alleged to favor certain claimants based on ideology or political identity, the litigation could raise broader questions about how federal agencies design eligibility standards, document decision-making, and defend those standards in court. Organizations interacting with government grant, reimbursement, or claims programs should note how quickly implementation can be derailed when a court sees a credible argument that the underlying structure may be unlawful.</p><p>Judge Brinkema’s order does not resolve the merits, but it signals serious judicial attention to the challengers’ claims. Practitioners following the case should watch the upcoming briefing for how the parties address standing, the statutory basis for the fund, the source of appropriated money, and whether the plaintiffs can show likely success on constitutional or administrative law theories. The docket in <a href=\"https://www.docketalarm.com/cases/Virginia_Eastern_District_Court/1-26-cv-01399/Floyd_et_al_v_Department_of_Justice_et_al/\">Floyd et al v. Department of Justice et al</a> will be the place to monitor whether this temporary pause becomes a longer injunction—and whether the court ultimately treats the fund as a permissible executive response or an impermissible politically targeted program.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Legal Tech Core",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b801cf6c7",
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "author": "Lucas Ropek",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-05-30T16:30:00+00:00",
-      "updated_at": "",
-      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b8019bdfb",
-      "title": "Meta is reportedly developing an AI pendant",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "author": "Anthony Ha",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-05-30T15:59:58+00:00",
-      "updated_at": "",
-      "summary": "Meta seems to be making big bets on AI-powered hardware.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b80177ac4",
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "author": "Sarah Perez",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-05-30T15:30:00+00:00",
-      "updated_at": "",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "read",
-        "AI General",
-        "High-Signal",
-        "Noise"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b800a2263",
-      "title": "Terence Tao on How AI Is Changing Mathematics",
-      "url": "https://www.youtube.com/watch?v=cdflu9ZXZGE",
-      "author": "OpenAI",
-      "source": "OpenAI",
-      "published_at": "2026-05-30T13:19:23+00:00",
-      "updated_at": "",
-      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=cdflu9ZXZGE\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Fields Medal recipient Terence Tao explains how AI is changing the way mathematicians work, making it easier to experiment, explore new ideas, and collaborate on difficult problems.<br> \nThe video also features OpenAI Chief Research Officer Mark Chen, who discusses OpenAI's broader goal of building tools that help scientists and researchers achieve breakthroughs at scale.<br> \nTogether, they explore how AI can expand what's possible in mathematics and science while preserving the creativity, curiosity, and discovery that drive human progress.<br> \nTerence Tao was interviewed at an OpenAI Forum event held in partnership with IPAM (the Institute for Pure and Applied Mathematics) in March 2026.</p>",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "read",
-        "AI General",
-        "High-Signal",
-        "Noise",
-        "Priority"
       ]
     }
   ]
