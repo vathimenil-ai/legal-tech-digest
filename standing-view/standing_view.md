@@ -1,7 +1,7 @@
 # Legal Tech Intelligence — Standing View
 **Audience:** President/GM and Head of Product, Epiq Global Legal Solutions
 **Purpose:** Cumulative strategic market memory, updated weekly
-**Last updated:** Week of June 15, 2026
+**Last updated:** Week of June 21, 2026
 
 ---
 
@@ -9,11 +9,11 @@
 
 | # | Hypothesis | Current Status | Confidence |
 |---|-----------|---------------|------------|
-| H1 | Value in legal AI is shifting from model capability to workflow orchestration and defensibility | Strengthened this week on a new axis: the Anthropic worldwide shutoff makes model-agnostic orchestration a continuity requirement, not just a governance differentiator. Prior week's narrowing-perimeter dynamics (Exterro ARMOUR, Claude for Legal MCP self-assembly) remain — but self-assembled MCP chains would have broken in this week's shutoff, reinforcing the value of the governed orchestration wrapper. Cross-workflow, model-agnostic auditability is now the defensible perimeter | High |
-| H2 | RelativityOne migration represents a structural margin reset for LSPs, not a temporary headwind | Stable — no new evidence this week. Note: the model-concentration lesson generalizes to platform concentration | Medium |
+| H1 | Value in legal AI is shifting from model capability to workflow orchestration and defensibility | Strengthened on a new axis this week: the EU CADA framework adds jurisdiction-awareness to the orchestration requirement. Model-agnostic, jurisdiction-aware, auditable orchestration is now backed by a published EU compliance instrument, not just continuity logic. Prior continuity dimension (Anthropic shutoff) remains | High |
+| H2 | RelativityOne migration represents a structural margin reset for LSPs, not a temporary headwind | Stable — no new direct evidence this week. The concentration lesson (model and jurisdiction) continues to generalize to platform concentration | Medium |
 | H3 | AI will compress revenue per unit of discovery work without reducing overall demand | Stable — no new direct evidence this week | High |
-| H4 | The path to recurring revenue runs through investigation readiness and AI-ready data governance | Strengthened — Anthropic shutoff generates continuity/vendor-qualification advisory demand; transatlantic off-channel enforcement (HaystackID COMET) productizes recurring capture; multi-state OpenAI investigation (health data) feeds governance advisory | High |
-| H5 | The primary disintermination risk comes from frontier AI vendors moving up the stack, not from LSP competitors | Reframed and broadened this week. Frontier-vendor risk is no longer only up-stack disintermediation — it now includes vendor-as-single-point-of-failure under government action. The Anthropic shutoff and multi-state OpenAI investigation hit both primary labs simultaneously. The Consilio/Wordsmith embed shows incumbents can absorb frontier vendors rather than be bypassed | Very High |
+| H4 | The path to recurring revenue runs through investigation readiness and AI-ready data governance | Strengthened modestly — CADA sovereignty tiers and the GSA LLM data-handling clause both create recurring compliance-spec advisory demand | High |
+| H5 | The primary disintermination risk comes from frontier AI vendors moving up the stack, not from LSP competitors | Stable, with sovereign dimension reinforced. CADA operationalizes the jurisdictional/sovereignty pathway of frontier-vendor risk first raised by the G7 alarm | Very High |
 
 ---
 
@@ -21,43 +21,39 @@
 
 ### LSP Margin Structure: Compression from Multiple Directions
 - **Status:** Core
-- **Claim:** Unchanged in structure. New this week: the Anthropic shutoff and dual-lab government pressure create a near-term, recurring advisory offset (continuity planning, multi-model architecture, vendor qualification) that partially counters per-matter compression. The offset is real but smaller than the review/research revenue under direct threat.
-- **Latest evidence:** BIS Anthropic worldwide shutoff (June 12); multi-state OpenAI AG investigation (June 13). All prior evidence remains.
-- **Counter-evidence:** Unchanged.
+- **Claim:** Unchanged in structure. The continuity/sovereignty advisory offset (continuity planning, multi-model architecture, vendor qualification, and now jurisdiction-tier mapping) is reinforced but remains smaller than the review/research revenue under direct threat.
+- **Latest evidence:** EU CADA framework (June 3, surfacing June 19); GSA LLM clause (June 17). All prior evidence remains.
 - **Confidence:** High
 
 ### Relativity Dependency: Structural Risk, Not Just Pricing Friction
 - **Status:** Core
-- **Claim:** Unchanged. The model-concentration lesson from the Anthropic shutoff generalizes: single-vendor dependency at any layer (model or platform) is now a vividly demonstrated business-continuity risk.
-- **Latest evidence:** Indirect — the Anthropic shutoff as a concentration cautionary tale.
+- **Claim:** Unchanged. The concentration lesson — now demonstrated on both the model layer and the jurisdictional layer — continues to generalize to single-vendor platform dependency.
+- **Latest evidence:** Indirect — concentration risk as a cross-layer cautionary pattern.
 - **Confidence:** High
 
 ### Workflow Orchestration as the Emerging Competitive Moat
 - **Status:** Core
-- **Claim:** Strengthened this week on the continuity axis. The defensible perimeter — cross-workflow, cross-system auditability — now explicitly includes model-agnostic continuity: the ability to swap the underlying model without breaking the workflow or the audit trail. The Anthropic shutoff demonstrated that self-assembled MCP chains and single-model point solutions fail exactly this test. The Consilio/Wordsmith embed shows the durable position is the governed managed-delivery wrapper, not the model inside it.
-- **Latest evidence:** BIS Anthropic shutoff (June 12); Consilio/Wordsmith managed-services embed (June 15). All prior evidence (Exterro ARMOUR, Claude for Legal MCP, Wolters Kluwer, Harvey Legal Agent Bench).
-- **Counter-evidence:** Unchanged from prior week.
+- **Claim:** Strengthened this week on the jurisdiction-awareness axis. The defensible perimeter now includes the ability to demonstrate which model processed which data, in which jurisdiction, against which sovereignty tier — and to swap model or hosting region without breaking the workflow or audit trail. CADA gives this perimeter a published EU compliance rationale, complementing the continuity rationale established by the Anthropic shutoff.
+- **Latest evidence:** EU CADA (June 19); prior — Anthropic shutoff, Consilio/Wordsmith embed, Exterro ARMOUR, Claude for Legal MCP, Wolters Kluwer, Harvey Legal Agent Bench.
 - **Confidence:** High
-- **What to watch:** Whether buyers begin writing multi-model continuity into RFPs; whether other incumbents follow the embed-the-vendor model.
+- **What to watch:** Whether buyers write multi-model continuity AND sovereignty-tier language into RFPs; whether incumbents continue the embed-the-vendor model.
 
 ### Enterprise AI Adoption: Behind the Hype, Ahead of Comfort
 - **Status:** Core
-- **Claim:** Unchanged this week. The Anthropic shutoff may inject new caution into procurement among regulated firms, marginally reinforcing the slow-operational-adoption pattern.
+- **Claim:** Unchanged this week.
 - **Confidence:** High
 
 ### AI Governance Doctrine: Multi-Front Enforcement Reality
 - **Status:** Core
-- **Claim:** Updated. The enforcement landscape now includes export-control action against a frontier lab and a multi-state AG investigation spanning advertising and health-data handling. Both leading US frontier labs are under simultaneous, distinct government pressure. Enforcement is no longer only state-AI-statute and court-driven — it now includes federal export control and multi-state investigatory coalitions targeting the model layer directly.
-- **Why it matters:** Government action against the model layer is a new enforcement front that flows downstream to every LSP and law firm building on those models.
-- **Evidence:** BIS Anthropic shutoff (June 12); multi-state OpenAI investigation (June 13). All prior evidence (CT enactment, CO repeal, EU AI Act amendments, nine enforcement mechanism types).
+- **Claim:** Updated. The enforcement and compliance landscape now spans court rulings, state AI statutes, federal export control, multi-state AG coalitions, and — new this week — an EU sovereignty-tier framework plus a federal procurement LLM data-handling clause. The compliance surface is broadening across both supranational (EU sovereignty) and federal-contracting layers.
+- **Evidence:** EU CADA (June 19); GSA LLM clause (June 17); prior — BIS Anthropic shutoff, multi-state OpenAI investigation, CT enactment, CO repeal, EU AI Act amendments.
 - **State count:** Three states with enacted comprehensive AI governance (CA, NY, CT); Colorado transparency-only.
 - **Confidence:** High
 
 ### Frontier AI Vendors as Disintermediation Threat
 - **Status:** Core
-- **Claim:** Reframed and broadened this week. The threat now operates on a fourth pathway beyond the three prior (frontier vendor platform launch, technology platform vertical integration, legal tech vendor orchestration claims): **frontier vendor as single point of failure under government action.** The Anthropic worldwide shutoff and multi-state OpenAI investigation show that depending on a frontier lab carries political and continuity risk that no amount of capability mitigates. The Consilio/Wordsmith embed adds a counter-pattern: incumbents can absorb frontier vendors into governed channels rather than be bypassed.
-- **Why we believe it:** BIS Anthropic shutoff (June 12); multi-state OpenAI investigation (June 13); Consilio/Wordsmith embed (June 15). All prior evidence (Claude for Legal, Carta Law, Exterro ARMOUR, Harvey, Manifest OS, Moritz/Parlai).
-- **What would weaken this:** Designation reversed or narrowly scoped; frontier labs demonstrating reliable continuity guarantees; buyers showing indifference to model-layer government risk.
+- **Claim:** Stable this week, sovereign dimension reinforced. The four pathways remain (platform launch, technology-platform vertical integration, legal-tech orchestration claims, vendor-as-single-point-of-failure under government action). CADA hardens the jurisdictional/sovereignty aspect of the single-point-of-failure pathway: dependence on a US frontier lab now carries a classifiable EU compliance disadvantage, not just a continuity risk.
+- **Evidence:** EU CADA (June 19); prior — BIS Anthropic shutoff, multi-state OpenAI investigation, Consilio/Wordsmith embed, Claude for Legal, Carta Law, Exterro ARMOUR, Harvey, Manifest OS.
 - **Confidence:** Very High
 
 ---
@@ -66,20 +62,27 @@
 
 ### Information Governance as a Growth Adjacency
 - **Status:** Emerging — strong candidate for promotion to Core
-- **Signal:** Strengthened modestly. HaystackID COMET productizes off-channel capture as a recurring service, with transatlantic enforcement convergence widening the addressable market.
-- **Early evidence:** HaystackID COMET launch (June 15). All prior evidence.
+- **Signal:** Unchanged this week. HaystackID COMET and prior evidence remain.
 - **Confidence:** Medium-High
 
 ### Upstream AI Model Provider Risk as LSP Compliance Variable
-- **Status:** **Promoted toward Core — realized this week**
-- **Signal:** The previously abstract Anthropic supply-chain designation produced an actual worldwide shutoff of Fable 5 and Mythos 5 on June 12. This converts upstream model-provider risk from a monitoring item into a realized, high-severity business-continuity and vendor-concentration risk. Combined with the multi-state OpenAI investigation, both primary frontier labs now carry concrete government risk.
-- **Early evidence:** BIS Anthropic shutoff (June 12); reporting that an Amazon executive raised the underlying concern; multi-state OpenAI investigation (June 13). All prior evidence (Thomson Reuters model-agnostic strategy).
-- **What would confirm full Core promotion:** Disclosure of affected downstream legal tools; buyers writing multi-model continuity into procurement; a second frontier-vendor continuity disruption.
-- **Confidence:** High (realized event)
+- **Status:** Promoted toward Core — realized recently
+- **Signal:** Reinforced with a sovereign dimension. CADA adds a jurisdictional/regulatory complement to the continuity risk demonstrated by the Anthropic shutoff: EU-exposed clients may be classified against sovereignty tiers tied to their model/cloud provider's jurisdiction.
+- **Early evidence:** EU CADA (June 19); prior — BIS Anthropic shutoff, multi-state OpenAI investigation, Thomson Reuters model-agnostic strategy.
+- **What would confirm full Core promotion:** Buyers writing sovereignty-tier or multi-model continuity into procurement; a second frontier-vendor continuity disruption.
+- **Confidence:** High
 
 ### Autonomous Agent Governance Gap
 - **Status:** Emerging
-- **Signal:** Unchanged this week.
+- **Signal:** Strengthened modestly. Estonia's proposed AI-agent digital IDs are the first national-level framework for agent identity, permissions, and liability — converting the gap from abstract concern into an emerging policy primitive.
+- **Early evidence:** Estonia AI agent digital IDs (June 17); prior agent-architecture evidence.
+- **Confidence:** Medium
+
+### Sovereign AI as Compliance Architecture
+- **Status:** Emerging — new sub-thread this week
+- **Signal:** The G7 sovereign-AI alarm acquired a regulatory instrument within days via EU CADA's four-tier cloud sovereignty assurance framework. The thread matured concern → diplomacy → regulation in a single week.
+- **Early evidence:** EU CADA (June 19); prior G7 sovereign-AI escalation.
+- **What would confirm:** EU clients writing sovereignty-tier requirements into RFPs; additional jurisdictions publishing parallel frameworks.
 - **Confidence:** Medium
 
 ### Microsoft Purview: Unfulfilled Threat or Slow-Burn Disruptor
@@ -99,13 +102,12 @@
 
 ### Legal Services Absorption by Technology Platforms
 - **Status:** Emerging
-- **Signal:** Unchanged on the absorption-by-platforms axis. New counter-data this week: the Consilio/Wordsmith embed shows incumbent LSPs can absorb frontier vendors into their own channels, a defensive counterpattern to disintermediation.
-- **Early evidence:** Consilio/Wordsmith embed (June 15). All prior evidence (Carta Law, Manifest OS, Moritz/Parlai).
+- **Signal:** Unchanged this week.
 - **Confidence:** Medium
 
 ### OpenAI Vertical Deployment Capability
 - **Status:** Emerging
-- **Signal:** Unchanged this week. Note the multi-state AG investigation adds regulatory headwind to OpenAI's enterprise/vertical ambitions.
+- **Signal:** Unchanged this week.
 - **Confidence:** Low
 
 ---
@@ -113,10 +115,9 @@
 ## 3. Weakening Themes
 
 ### LSP Differentiation Based on Technology
-- **Status:** Weakening — but partially counterbalanced this week
-- **Prior view:** LSPs could differentiate meaningfully on proprietary technology platforms.
-- **Update:** The Anthropic shutoff partially counterbalances the weakening trend on one specific dimension: model-agnostic, governed orchestration is now demonstrably valuable in a way generic single-model tools are not. This does not revive technology differentiation broadly, but it sharpens the one remaining defensible dimension — continuity and cross-workflow auditability.
-- **Confidence:** High that the broad theme is weakening; the orchestration/continuity dimension is the exception.
+- **Status:** Weakening — but partially counterbalanced
+- **Update:** Unchanged this week. The orchestration/continuity/jurisdiction-awareness dimension remains the sharpened exception to the broad weakening trend.
+- **Confidence:** High that the broad theme is weakening; the orchestration dimension is the exception.
 
 ---
 
@@ -124,15 +125,14 @@
 
 - **Current patterns:**
   - All prior patterns unchanged
-  - **Emerging continuity concern:** The Anthropic shutoff is likely to prompt buyers to ask about model dependency, multi-model fallback, and vendor qualification — a new procurement question
-  - **Model-agnostic procurement:** Reinforced — single-vendor model risk is now a demonstrated event, not a hypothetical
+  - **Continuity concern:** Reinforced — single-vendor model risk is a demonstrated event
+  - **Emerging sovereignty concern:** EU-exposed buyers may begin asking about jurisdiction tier and cloud/model sovereignty classification
 - **Changes this week:**
-  - Frontier-vendor continuity risk realized; expect downstream procurement-language shifts
-  - Regulated-sector buyers face government risk on both primary frontier labs simultaneously
+  - CADA introduces a potential new procurement variable (sovereignty tier) for EU-exposed multinationals
 - **Open questions:**
   - All prior questions remain
-  - Will buyers write multi-model continuity requirements into RFPs?
-  - Will the OpenAI health-data theory pull HIPAA-adjacent clients into governance advisory?
+  - Will buyers write multi-model continuity AND sovereignty-tier requirements into RFPs?
+  - Will the GSA clause pull federal-contractor clients into AI-data-governance advisory?
 
 ---
 
@@ -140,27 +140,23 @@
 
 - **Current patterns:**
   - All prior patterns unchanged
-  - **Incumbent LSPs embedding frontier vendors:** Consilio/LOD partnering with Wordsmith shows incumbents absorbing frontier AI into managed-services channels rather than being bypassed
-  - **Competitors productizing investigation readiness:** HaystackID COMET extends off-channel capture into Europe
+  - **Incumbents embedding frontier vendors:** Consilio/Wordsmith pattern remains the counter to disintermediation
 - **Changes this week:**
-  - Consilio/LOD + Wordsmith managed-services partnership
-  - HaystackID launches COMET
-  - Frontier-vendor risk realized via government action (Anthropic shutoff; OpenAI investigation)
+  - No new vendor moves; the week's developments are regulatory/policy rather than vendor-driven
 - **Open questions:**
   - All prior questions remain
   - Will other incumbents follow the embed-the-vendor model?
-  - Will Claude-dependent vendors (Harvey, Everlaw, Claude for Legal) disclose continuity responses?
+  - Will Claude-dependent vendors disclose continuity responses?
 
 ---
 
 ## 6. Tensions / Contradictions
 
 ### AI as Margin Opportunity vs. AI as Margin Threat
-- **Tension:** The Anthropic shutoff adds to the opportunity side via continuity/vendor-qualification advisory demand, while the broader compression threat is unchanged. The opportunity remains smaller in scale than the threatened revenue.
-- **What to watch:** Whether continuity advisory converts to recurring engagements.
+- **Tension:** Unchanged. CADA adds modestly to the opportunity side via sovereignty-tier advisory demand; the broader compression threat is unchanged and larger in scale.
 
 ### Relativity as Dependency vs. Relativity as Partner
-- **Tension:** Unchanged directly; the model-concentration lesson reinforces the dependency-risk side by analogy.
+- **Tension:** Unchanged directly; the cross-layer concentration lesson reinforces the dependency-risk side by analogy.
 
 ### Scale as Moat vs. Scale as Vulnerability
 - **Tension:** Unchanged this week.
@@ -169,24 +165,22 @@
 - **Tension:** Unchanged this week.
 
 ### Cautious Adoption Timeline vs. Frontier Capability Signals
-- **Tension:** Marginally shifted toward caution — the Anthropic shutoff is a concrete reason for regulated firms to slow single-model commitments.
+- **Tension:** Unchanged this week.
 
 ### State Governance Mandates vs. Federal Preemption Framework
-- **Tension:** Broadened. Federal export-control action against a frontier lab and a multi-state AG investigation add new enforcement fronts. The fragmentation now spans federal export control, multi-state investigatory coalitions, and divergent state statutes.
+- **Tension:** Broadened further. The compliance fragmentation now spans federal export control, multi-state AG coalitions, divergent state statutes, federal procurement clauses, and EU sovereignty tiers. The surface area is widening across both supranational and federal-contracting layers.
 
 ### Orchestration Exclusivity vs. Multi-Party Competition
-- **Tension:** The Anthropic shutoff strengthens the LSP orchestration position on the continuity dimension: self-assembled MCP chains and single-model point solutions failed exactly this week's test, while governed model-agnostic orchestration did not.
-- **What to watch:** Whether buyers value continuity-proven orchestration in procurement.
+- **Tension:** Unchanged. CADA reinforces the LSP orchestration position on the jurisdiction-awareness dimension.
 
 ### AI Privilege Protection vs. AI Privilege Risk
 - **Tension:** Unchanged this week.
 
 ### Agentic AI Capability vs. Agentic AI Governance
-- **Tension:** Unchanged this week.
+- **Tension:** Marginally sharpened. Estonia's agent-ID proposal shows governance frameworks beginning to chase agent capability, but liability mechanics remain high-level.
 
 ### Frontier Vendor Partner vs. Frontier Vendor Disintermediator
-- **Tension:** **New/sharpened this week.** The Consilio/Wordsmith embed shows incumbents can absorb frontier vendors into governed channels (partner), while the Anthropic shutoff shows that depending on a frontier vendor — whether as partner or substitute — carries continuity risk. The resolution favors model-agnostic governed delivery over deep single-vendor partnership.
-- **What to watch:** Whether the embed-the-vendor pattern spreads; whether embedded-vendor partnerships build in multi-model fallback.
+- **Tension:** Unchanged this week. The resolution continues to favor model-agnostic governed delivery over deep single-vendor partnership.
 
 ---
 
@@ -194,12 +188,15 @@
 
 | Item | Trigger | Why It Matters | Status |
 |------|---------|---------------|--------|
-| Claude-dependent tool continuity disclosure | Harvey, Everlaw MCP, or Claude for Legal disclosing outages/continuity gaps from the Anthropic shutoff | Reveals downstream blast radius of frontier-vendor concentration | Elevated — new this week |
-| Multi-model continuity in RFPs | Buyers writing model-fallback/vendor-qualification language into procurement | Converts continuity concern into procurement criterion favoring governed orchestration | Elevated — new this week |
-| Multi-state OpenAI investigation scope | States named; health-data theory pulling in HIPAA-adjacent clients | Determines regulated-sector advisory demand | Elevated — new this week |
-| Embed-the-vendor LSP pattern | Other incumbent LSPs partnering to put frontier AI inside managed-services channels | Confirms absorption as dominant counter to disintermediation | Elevated — new this week |
-| Transatlantic off-channel enforcement | Additional EU action on personal-device business messaging | Validates off-channel capture as durable cross-border recurring revenue | Elevated — new this week |
-| BIS designation scope/reversal | Whether the export-control directive is narrowed, reversed, or extended | Determines durability of frontier-vendor continuity risk | Elevated — new this week |
+| EU CADA sovereignty-tier adoption | EU clients writing sovereignty-tier requirements into RFPs; CADA tier definitions firming up | Converts sovereign-AI concern into procurement criterion favoring jurisdiction-aware orchestration | Elevated — new this week |
+| GSA LLM data-safeguarding clause | Finalization and scope of GSAR clause 552.239-7001 | Federal-contractor AI data-handling compliance spec feeding advisory demand | Elevated — new this week |
+| National agent-identity frameworks | Other jurisdictions following Estonia on agent digital IDs | Converts autonomous-agent governance gap into concrete liability primitive | Monitor — new this week |
+| Claude-dependent tool continuity disclosure | Harvey, Everlaw MCP, or Claude for Legal disclosing outages/continuity gaps | Reveals downstream blast radius of frontier-vendor concentration | Elevated |
+| Multi-model continuity in RFPs | Buyers writing model-fallback/vendor-qualification language into procurement | Converts continuity concern into procurement criterion favoring governed orchestration | Elevated |
+| Multi-state OpenAI investigation scope | States named; health-data theory pulling in HIPAA-adjacent clients | Determines regulated-sector advisory demand | Elevated |
+| Embed-the-vendor LSP pattern | Other incumbent LSPs partnering to put frontier AI inside managed-services channels | Confirms absorption as dominant counter to disintermediation | Elevated |
+| Transatlantic off-channel enforcement | Additional EU action on personal-device business messaging | Validates off-channel capture as durable cross-border recurring revenue | Elevated |
+| BIS designation scope/reversal | Whether the export-control directive is narrowed, reversed, or extended | Determines durability of frontier-vendor continuity risk | Elevated |
 | Relativity Server sunset | Any official communication on 2028 deadline flexibility | Determines urgency of migration strategy | Monitor |
 | Harvey Spectre integration scope | Integration across firm technology stack | Feature vs. platform displacement | Elevated |
 | Harvey agentic product delivery | Managed review or workflow delivery capability | Direct LSP service competition | Elevated |
@@ -219,9 +216,9 @@
 | Epiq-DeepJudge pipeline conversion | Signed law firm engagements within two quarters | Tests orchestration moat conversion to revenue | Elevated |
 | Anthropic $50B/$900B round closure | Confirmation of round at reported terms | Confirms capital asymmetry near-$1T | Elevated |
 | Manifest OS first client wins | Client engagements/service delivery specifics | AI-native law firm from thesis to reality | Elevated |
-| Governance-first agentic AI vendor pattern | Additional vendors shipping governance-first agentic AI | Confirmed (Exterro + Wolters Kluwer); watch expansion | Elevated |
+| Governance-first agentic AI vendor pattern | Additional vendors shipping governance-first agentic AI | Confirmed; watch expansion | Elevated |
 | Fannie Mae parallel GSE mandates | Freddie Mac/FHFA parallel frameworks | GSE-level governance as systemic pattern | Elevated |
-| Competitor governance mandate wins | HaystackID or others winning governance engagements | Governance positioning window closing | Monitor — HaystackID COMET adds data point |
+| Competitor governance mandate wins | HaystackID or others winning governance engagements | Governance positioning window | Monitor |
 
 ---
 
@@ -229,19 +226,20 @@
 
 | Area | Assessment | Evidence Quality |
 |------|-----------|-----------------|
-| LSP margin compression | High — directional clarity strong; continuity advisory adds modest offset | Very Strong |
-| Relativity dependency risk | High — model-concentration lesson reinforces by analogy | Strong |
-| AI adoption pace in legal | High — slow operational; shutoff adds procurement caution | Strong |
-| Workflow orchestration as moat | High — continuity dimension strengthens the defensible perimeter | Strong |
-| Information governance adjacency | Medium-High — HaystackID COMET adds data point | Moderate-Strong |
-| Frontier AI disintermediation | Very High — reframed to include vendor-as-single-point-of-failure | Very Strong |
-| Upstream AI model provider risk | High — realized this week via Anthropic worldwide shutoff | Strong (primary analysis + two corroborating reports) |
-| AI governance doctrine | High — new federal export-control and multi-state AG enforcement fronts | Strong |
-| Frontier vendor partner vs. disintermediator | Medium — Consilio/Wordsmith is one data point | Moderate (single source) |
-| Legal services absorption by technology platforms | Medium — counterpattern (embed-the-vendor) adds nuance | Moderate |
+| LSP margin compression | High — continuity/sovereignty advisory adds modest offset | Very Strong |
+| Relativity dependency risk | High — cross-layer concentration lesson reinforces by analogy | Strong |
+| AI adoption pace in legal | High — slow operational | Strong |
+| Workflow orchestration as moat | High — jurisdiction-awareness dimension strengthens the perimeter | Strong |
+| Information governance adjacency | Medium-High — unchanged | Moderate-Strong |
+| Frontier AI disintermediation | Very High — sovereign dimension reinforced | Very Strong |
+| Upstream AI model provider risk | High — sovereign/regulatory dimension added via CADA | Strong |
+| AI governance doctrine | High — EU sovereignty tier and federal procurement clause broaden fronts | Strong |
+| Sovereign AI as compliance architecture | Medium — single law-firm source, proposal stage | Moderate (single source) |
+| Frontier vendor partner vs. disintermediator | Medium — unchanged | Moderate |
+| Legal services absorption by technology platforms | Medium — unchanged | Moderate |
+| Autonomous agent governance gap | Medium — Estonia adds first national framework | Moderate |
 | AI adjudication precedent | Medium — unchanged | Moderate |
 | Trilateral pricing tension | Medium — unchanged | Moderate |
-| Autonomous agent governance gap | Medium — unchanged | Moderate |
 
 ---
 
@@ -252,9 +250,11 @@
 | AI compresses LSP revenue per unit | AI reduces per-matter revenue without reducing demand | Major LSP reporting AI-driven volume growth with stable pricing |
 | Relativity dependency is structural | LSPs cannot credibly threaten departure | Multiple large LSPs announcing accelerated alternative migration |
 | Enterprise AI adoption is 3-5 years from maturity | Profession moves slowly on operational integration | Am Law 50 firm announcing AI-primary review on a significant matter |
-| Workflow orchestration will be the durable moat | Value shifts from model to governed, model-agnostic orchestration | Competing models achieving dominant adoption before governed orchestration scales; or buyers showing indifference to model-continuity risk |
-| Frontier AI vendors are a multi-vector risk | Up-stack disintermediation plus vendor-as-single-point-of-failure | Anthropic designation reversed/narrowed; frontier labs offering reliable continuity guarantees; buyers indifferent to model-layer government risk |
-| Upstream model-provider risk is real and realized | Anthropic shutoff demonstrates concrete continuity exposure | Shutoff quickly resolved with no downstream legal-tool impact; buyers not changing procurement |
+| Workflow orchestration will be the durable moat | Value shifts to governed, model-agnostic, jurisdiction-aware orchestration | Competing models achieving dominant adoption before governed orchestration scales; buyers indifferent to continuity/sovereignty risk |
+| Frontier AI vendors are a multi-vector risk | Up-stack disintermediation plus vendor-as-single-point-of-failure (continuity and sovereignty) | Anthropic designation reversed/narrowed; frontier labs offering reliable continuity guarantees; CADA failing to advance |
+| Upstream model-provider risk is real and realized | Anthropic shutoff plus CADA sovereignty tiers demonstrate concrete exposure | Shutoff resolved with no downstream impact; CADA abandoned; buyers not changing procurement |
 | Information governance is the adjacency | Recurring revenue through data governance | Off-channel capture failing to convert to recurring contracts |
-| AI governance doctrine is building toward hard requirements | Courts, regulators, GSEs, and now federal export control creating standards | Enforcement fronts dissolving; government model-layer action proving one-off |
+| AI governance doctrine is building toward hard requirements | Courts, regulators, GSEs, federal export control, EU sovereignty, and procurement clauses creating standards | Enforcement fronts dissolving; CADA and procurement clauses stalling |
 | Incumbents can absorb frontier vendors | Embed-the-vendor is a viable counter to disintermediation | Embedded-vendor partnerships failing or buyers preferring direct frontier-vendor relationships |
+
+---
