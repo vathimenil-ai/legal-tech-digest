@@ -1,17 +1,17 @@
 {
   "feed_type": "high_signal",
-  "fetched_at": "2026-06-29T11:00:09.876143+00:00",
-  "item_count": 19,
+  "fetched_at": "2026-07-09T11:00:12.024975+00:00",
+  "item_count": 99,
   "items": [
     {
-      "id": "tag:google.com,2005:reader/item/0000000b93120772",
-      "title": "Former ECB board member named as chair of Reform Technologies",
-      "url": "https://www.finextra.com/newsarticle/48004/former-ecb-board-member-named-as-chair-of-reform-technologies?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "id": "tag:google.com,2005:reader/item/0000000b998b3eec",
+      "title": "How to Scale Trust in Agentic Commerce and Digital Money",
+      "url": "https://www.finextra.com/videoarticle/3549/how-to-scale-trust-in-agentic-commerce-and-digital-money?utm_medium=rssfinextra&utm_source=finextrafeed",
       "author": "",
       "source": "Finextra Research news",
-      "published_at": "2026-06-29T10:11:11+00:00",
+      "published_at": "2026-07-09T10:16:29+00:00",
       "updated_at": "",
-      "summary": "Anti money laundering (AML) technology platform Reform Technologies has named Elizabeth McCaul as its new chair.",
+      "summary": "Joining the FinextraTV studio at EBAday 2026 in Copenhagen, Federico Aondio, Accenture Payments and Digital Assets Lead for Italy and Greece, discussed the future of agentic commerce. Federico provides interesting statistics surrounding the reality of agentic transactions currently and described the need for invisible payments and 'visible trust'. Discussing further on the element of trust, Federico said that digital identity is critical to making trust scalable in an agentic world, referencing the importance of standardisation and how it provides more transparency and ease of integration.  \n \nTo learn more, read Accenture's article on agentic commerce and payments:",
       "content": "",
       "categories": [
         "reading-list",
@@ -20,30 +20,31 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b9310870d",
-      "title": "Beyond P(doom): Marc Andreessen - Betting on America",
-      "url": "https://a16z.simplecast.com/episodes/beyond-pdoom-marc-andreessen-betting-on-america-2WMkJzvN",
-      "author": "content+a16zpodcast@a16z.com (Marc Andreessen, Navin Girishankar)",
+      "id": "tag:google.com,2005:reader/item/0000000b998953b3",
+      "title": "Mark Zuckerberg & Priscilla Chan: How AI Will Help Cure Disease",
+      "url": "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-help-cure-disease-J_rYFGCM",
+      "author": "content+a16zpodcast@a16z.com (Ben Horowitz, Erik Torenberg, Vineeta Agarwala, Mark Zuckerberg, Dr. Priscilla Chan)",
       "source": "a16z",
-      "published_at": "2026-06-29T10:00:00+00:00",
+      "published_at": "2026-07-09T10:00:00+00:00",
       "updated_at": "",
-      "summary": "<p>Marc Andreessen joins CSIS's Navin Girishankar for a wide-ranging conversation on artificial intelligence, productivity growth, industrial policy, and America's technological future.</p> \n<p>Andreessen argues that while AI has already begun reshaping the economy, the largest impacts are still ahead. He explores how AI could dramatically expand access to expertise, improve productivity, and transform industries ranging from healthcare and education to law and software development. At the same time, he warns that many of the biggest barriers to progress are not technological but institutional, driven by regulation, policy choices, and infrastructure constraints.</p> \n<p>The discussion also covers the global AI race, U.S.-China competition, export controls, data centers, energy, reindustrialization, defense technology, and the role of government in fostering innovation. Along the way, Andreessen shares his views on technological progress, national competitiveness, and why he believes America still has an opportunity to lead the next wave of economic growth.</p> \n<p> </p> \n<p>Resources:</p> \n<p>Follow Marc Andreessen on X:<a href=\"https://x.com/pmarca\"> https://x.com/pmarca</a></p> \n<p>Follow Navin Girishankar on X:<a href=\"https://x.com/ngirishankar\"> https://x.com/ngirishankar</a></p> \n<p>Follow CSIS on X:<a href=\"https://x.com/CSIS\"> https://x.com/CSIS</a></p> \n<p></p><p><strong>Stay Updated:</strong></p><p>Find a16z on YouTube: <a href=\"https://www.youtube.com/@a16z\">YouTube</a></p><p>Find a16z on <a href=\"https://x.com/a16z\">X</a></p><p>Find a16z on<a href=\"https://www.linkedin.com/company/a16z\"> LinkedIn</a></p><p>Listen to the a16z Show on <a href=\"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX?si=3E8B3qT9TyiwAHJ7JnaKbg\">Spotify</a></p><p>Listen to the a16z Show on <a href=\"https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711\">Apple Podcasts</a></p><p>Follow our host: <a href=\"https://twitter.com/eriktorenberg\">https://twitter.com/eriktorenberg</a></p><p> </p><p>Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures.</p><br> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+      "summary": "<p>As part of our summer replay series, we're revisiting one of our favorite conversations from the past year.</p> \n<p>Mark Zuckerberg and Dr. Priscilla Chan join Ben Horowitz, Vineeta Agarwala, and Erik Torenberg to discuss the Chan Zuckerberg Initiative's ambitious effort to help cure, prevent, and manage disease by the end of the century.</p> \n<p>Rather than funding individual breakthroughs, CZI is focused on building the tools and infrastructure that can accelerate scientific discovery across entire fields. The conversation explores Biohub, Cell Atlas, virtual cell models, open biological datasets, and the growing role of AI in helping researchers better understand human biology.</p> \n<p>They discuss why biology still lacks a \"periodic table of elements,\" how AI could help scientists test hypotheses before running expensive experiments, and why pairing frontier biology with frontier AI may unlock a new era of medical discovery.</p> \n<p> </p> \n<p>Resources:</p> \n<p>Follow Mark Zuckerberg on X:<a href=\"https://x.com/finkd\"> https://x.com/finkd</a></p> \n<p>Follow Dr. Priscilla Chan on Instagram:<a href=\"https://www.instagram.com/priscillachan\"> https://www.instagram.com/priscillachan</a></p> \n<p>Follow Ben Horowitz on X:<a href=\"https://x.com/bhorowitz\"> https://x.com/bhorowitz</a></p> \n<p>Follow Vineeta Agarwala on X:<a href=\"https://x.com/vintweeta\"> https://x.com/vintweeta</a></p> \n<p></p><p><strong>Stay Updated:</strong></p><p>Find a16z on YouTube: <a href=\"https://www.youtube.com/@a16z\">YouTube</a></p><p>Find a16z on <a href=\"https://x.com/a16z\">X</a></p><p>Find a16z on<a href=\"https://www.linkedin.com/company/a16z\"> LinkedIn</a></p><p>Listen to the a16z Show on <a href=\"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX?si=3E8B3qT9TyiwAHJ7JnaKbg\">Spotify</a></p><p>Listen to the a16z Show on <a href=\"https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711\">Apple Podcasts</a></p><p>Follow our host: <a href=\"https://twitter.com/eriktorenberg\">https://twitter.com/eriktorenberg</a></p><p> </p><p>Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures.</p><br> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
       "content": "",
       "categories": [
         "reading-list",
         "AI General",
-        "High-Signal"
+        "High-Signal",
+        "Priority"
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b930d9d80",
-      "title": "Mynt plans $1.5bn IPO for Philippines mobile payment platform",
-      "url": "https://www.finextra.com/newsarticle/48003/mynt-plans-15bn-ipo-for-philippines-mobile-payment-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "id": "tag:google.com,2005:reader/item/0000000b9986d808",
+      "title": "Revolut cleans house in Lithuania",
+      "url": "https://www.finextra.com/newsarticle/48063/revolut-cleans-house-in-lithuania?utm_medium=rssfinextra&utm_source=finextrafeed",
       "author": "",
       "source": "Finextra Research news",
-      "published_at": "2026-06-29T09:40:32+00:00",
+      "published_at": "2026-07-09T09:47:20+00:00",
       "updated_at": "",
-      "summary": "Philippines-based fintech Mynt is planning the country's largest ever listing for its mobile wallet GCash.",
+      "summary": "Revolut is moving agressively to clean up its financial operations in Lithuania, after the country's Financial Crime Investigation Service (FNTT) revealed that 80% of all suspicious transaction reports it receives come from the fintech super app.",
       "content": "",
       "categories": [
         "reading-list",
@@ -52,14 +53,32 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b93050b1d",
-      "title": "Quantifind raises $200m for AI-powered risk management",
-      "url": "https://www.finextra.com/pressarticle/110259/quantifind-raises-200m-for-ai-powered-risk-management?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "id": "tag:google.com,2005:reader/item/0000000b9982a8e6",
+      "title": "What Most Fintech Leaders Get Wrong When Hiring a Development Partner",
+      "url": "https://www.finextra.com/blogposting/31893/what-most-fintech-leaders-get-wrong-when-hiring-a-development-partner?utm_medium=rssfinextra&utm_source=finextrafeed",
       "author": "",
       "source": "Finextra Research news",
-      "published_at": "2026-06-29T08:38:55+00:00",
+      "published_at": "2026-07-08T23:30:40+00:00",
       "updated_at": "",
-      "summary": "Quantifind, the leader in AI-native Risk Intelligence for modern financial crime and national security operations, today announced a $200 million growth investment led by Summit Partners, with participation from existing investors Citi Ventures, S&amp;P Global, Deloitte, and Stephens Group.",
+      "summary": "Choosing a development partner for a fintech product is one of the more consequential decisions a te...",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Compliance",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9982a8e2",
+      "title": "AI-based fincrime startup Tangos raises $20 million",
+      "url": "https://www.finextra.com/newsarticle/48062/ai-based-fincrime-startup-tangos-raises-20-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-09T09:17:59+00:00",
+      "updated_at": "",
+      "summary": "Financial crime prevention platform Tangos AI has closed a $20 million seed financing round led by Red Dot Capital Partners, with participation from Leaders Fund, Clarim Ventures, VentureIsrael, Signal Fire, Clutch Capital and Selah Ventures and a strategic investment by Bright Data.",
       "content": "",
       "categories": [
         "reading-list",
@@ -68,14 +87,14 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b93050b1a",
-      "title": "Shield extends agentic AI comms surveillance tool",
-      "url": "https://www.finextra.com/pressarticle/110260/shield-extends-agentic-ai-comms-surveillance-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "id": "tag:google.com,2005:reader/item/0000000b9982a8e0",
+      "title": "Raiffeisen Bank International deploys Broadridge reconciliattion platform",
+      "url": "https://www.finextra.com/pressarticle/110383/raiffeisen-bank-international-deploys-broadridge-reconciliattion-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
       "author": "",
       "source": "Finextra Research news",
-      "published_at": "2026-06-29T08:38:55+00:00",
+      "published_at": "2026-07-09T09:17:59+00:00",
       "updated_at": "",
-      "summary": "Shield, the global Communication Risk Management platform for financial services, today added two new AI agents to AmplifAI, its agentic suite for digital communications surveillance and investigations.",
+      "summary": "Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that Centralised Raiffeisen International Services &amp; Payments S.R.L. (CRISP), the shared service centre for Raiffeisen Bank International (RBI), has upgraded to Broadridge's next-generation reconciliation platform BRx Match.",
       "content": "",
       "categories": [
         "reading-list",
@@ -84,14 +103,31 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b93050b17",
-      "title": "Tackling fraud as an ecosystem: Exploring the shift needed in regulation and the industry",
-      "url": "https://www.finextra.com/event-info/623/tackling-fraud-as-an-ecosystem-exploring-the-shift-needed-in-regulation-and-the-industry?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "id": "tag:google.com,2005:reader/item/0000000b9982a8df",
+      "title": "HeirWealth switches on MCP server",
+      "url": "https://www.finextra.com/pressarticle/110384/heirwealth-switches-on-mcp-server?utm_medium=rssfinextra&utm_source=finextrafeed",
       "author": "",
       "source": "Finextra Research news",
-      "published_at": "2026-06-29T08:38:55+00:00",
+      "published_at": "2026-07-09T09:17:59+00:00",
       "updated_at": "",
-      "summary": "What ecosystem and regulatory changes are needed to create true industry-wide collaboration to fight fraud?",
+      "summary": "HeirWealth today announced the launch of an MCP (Model Context Protocol) server for its wealth management suite, allowing financial advisers, accountants, and family offices to interrogate consolidated client data through AI assistants using plain language.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9982a8d8",
+      "title": "Nium acquires crypto wallet Cypher",
+      "url": "https://www.finextra.com/pressarticle/110385/nium-acquires-crypto-wallet-cypher?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-09T09:17:59+00:00",
+      "updated_at": "",
+      "summary": "Nium, the global leader in cross-border payments infrastructure, today announced the acquisition of Cypher, a crypto-native non-custodial wallet and issuing company.",
       "content": "",
       "categories": [
         "reading-list",
@@ -100,14 +136,81 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b92f7f151",
-      "title": "AI Sovereignty: Taking Control of Your Legal Tech Future",
-      "url": "https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/",
+      "id": "tag:google.com,2005:reader/item/0000000b997e5a54",
+      "title": "Volt enables Profee wallet top-ups via USDC",
+      "url": "https://www.finextra.com/pressarticle/110378/volt-enables-profee-wallet-top-ups-via-usdc?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-09T08:47:34+00:00",
+      "updated_at": "",
+      "summary": "Volt, the real-time, rail-agnostic money movement platform, has gone live with its stablecoin checkout for Profee, a Cyprus-based electronic money institution focusing on cross-currency money transfers.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b997a37b6",
+      "title": "Darrow Cuts Roles as Part of Strategic Restructure",
+      "url": "https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/",
       "author": "artificiallawyer",
       "source": "Artificial Lawyer",
-      "published_at": "2026-06-29T06:52:42+00:00",
+      "published_at": "2026-07-09T08:12:33+00:00",
       "updated_at": "",
-      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-07.36.32.png\" alt=\"Screenshot-2026-06-29-at-07.36.32.png\"></p>Think of all the things you need to do your job that you have little control over. What happens when those things are suddenly unavailable, <a href=\"https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/\" title=\"AI Sovereignty: Taking Control of Your Legal Tech Future\">...</a>",
+      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-09.00.25.png\" alt=\"Screenshot-2026-07-09-at-09.00.25.png\"></p>Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and <a href=\"https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/\" title=\"Darrow Cuts Roles as Part of Strategic Restructure\">...</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99699fef",
+      "title": "Suited Announces Launch of Lateral Hiring Platform",
+      "url": "https://www.legaltechmonitor.com/2026/07/suited-announces-launch-of-lateral-hiring-platform/",
+      "author": "Law.com&#039;s Legal Tech News",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-07-08T13:59:59+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The platform leverages generative AI as well as market and behavioral data to narrow prospects for professionals and law firms looking to fill lateral roles.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Legal Tech Core",
+        "High-Signal",
+        "Noise",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99699fe1",
+      "title": "LTA Just-In-Time: Cosmo Quiz Energy Meets Legal Ops Self-Awareness",
+      "url": "https://www.legaltechmonitor.com/2026/07/lta-just-in-time-cosmo-quiz-energy-meets-legal-ops-self-awareness/",
+      "author": "Stephanie Carty",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-07-08T18:28:40+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>From : <a href=\"https://www.iltanet.org/browse/blogs\">Blog Entry</a> &gt;&gt; <a href=\"https://iltanet.org/people/stephanie-carty\">Stephanie’s Blog Entry</a><br>Please enjoy this feature quiz created by Stephanie Carty, Senior Practice Manager, McCarter &amp; English.       Think you may be burned out? Take this seven-question quiz to find out!    Working in legal operations is a lot. You’re juggling technology, vendors, process improvement, and attorney demands all while trying to carve out something resembling a work-life balance. Add to that a global pandemic, economic whiplash, political upheaval, and a complete reinvention of how and where we work and it’s <a href=\"https://iltanet.org/blogs/stephanie-carty/2026/07/08/lta-just-in-time-cosmo-quiz-energy-meets-legal-ops\">[More]</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99699fdc",
+      "title": "Kalshi Takes State-Law Preemption Fight to the Second Circuit",
+      "url": "https://www.legaltechmonitor.com/2026/07/kalshi-takes-state-law-preemption-fight-to-the-second-circuit/",
+      "author": "Bruno Queiroz",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-07-08T22:03:44+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>Kalshi has opened a new appellate front in the fast-developing fight over prediction-market regulation, asking the Second Circuit to review a New York federal court decision that refused to shield the company from state gaming-law enforcement. The appeal raises a central question for event-contract platforms: when a federally regulated derivatives product looks like wagering to state officials, which legal regime controls?</p><p>The underlying suit, <a href=\"https://www.docketalarm.com/cases/New_York_Southern_District_Court/1-25-cv-08846/KalshiEX_LLC_v_Williams_et_al/\">KalshiEX LLC v. Williams et al</a>, puts that issue squarely before the courts. Kalshi’s position is that federal commodities law occupies the field for its event contracts, limiting the ability of states to characterize those contracts as unlawful gambling. New York regulators, by contrast, have argued for room to enforce state gaming restrictions even where the platform operates in a federally regulated space.</p><p>That dispute is not just about one company or one state. A Second Circuit ruling could help define the boundary between the Commodity Exchange Act framework and state gambling laws for a broad class of products tied to elections, sports, economics, and other real-world events. For operators, exchanges, and fintech companies exploring event-driven contracts, the case may shape whether federal authorization is enough to proceed nationally, or whether state-by-state enforcement risk remains a core business constraint.</p><p>For litigators, the appeal is worth watching as a preemption case with significant commercial implications. The court’s treatment of federal exclusivity, agency oversight, and the scope of state police powers could influence future challenges involving not only prediction markets, but also adjacent products that blend financial innovation with regulated gaming concepts. Parties on both sides will likely frame the case in terms that resonate beyond the immediate dispute: market integrity, consumer protection, and the allocation of authority between federal and state regulators.</p><p>In-house counsel and compliance teams should also pay close attention. If the Second Circuit endorses broader federal preemption, companies may gain a stronger basis for national rollout strategies and enforcement defenses. If it affirms the district court’s narrower view, businesses may need to reassess product design, user access controls, licensing analyses, and state enforcement exposure. Either way, the appeal underscores a practical reality for legal departments advising on prediction markets: regulatory classification remains unsettled, and appellate decisions are likely to set the rules before legislatures do.</p><p>With parallel debates continuing around event contracts and market oversight, this case is poised to become a key reference point for lawyers advising clients at the intersection of commodities, gaming, and emerging financial products.</p>",
       "content": "",
       "categories": [
         "reading-list",
@@ -118,14 +221,48 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b92f2ad9e",
-      "title": "Thorne Research IPR2026-00400 Puts Supplement Patent Strategy in Focus",
-      "url": "https://www.legaltechmonitor.com/2026/06/thorne-research-ipr2026-00400-puts-supplement-patent-strategy-in-focus/",
-      "author": "brunoqueirozdocketalarm-com",
+      "id": "tag:google.com,2005:reader/item/0000000b99699fe5",
+      "title": "Judicial Conference Presses Congress for More Judges as Federal Court Funding Tightens",
+      "url": "https://www.legaltechmonitor.com/2026/07/judicial-conference-presses-congress-for-more-judges-as-federal-court-funding-tightens/",
+      "author": "Bruno Queiroz",
       "source": "Legal Tech Monitor",
-      "published_at": "2026-06-28T17:06:51+00:00",
+      "published_at": "2026-07-08T17:02:02+00:00",
       "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>A new inter partes review, <strong>IPR2026-00400</strong>, was filed on June 22, 2026, at the Patent Trial and Appeal Board against <strong>Thorne Research, Inc.</strong> The proceeding is one to watch for companies operating at the intersection of dietary supplements, formulations, and health-focused consumer products, where patent value often turns on how broadly claims are drafted and how well they withstand validity attacks based on published prior art.</p><p>At this stage, the publicly available docket information identifies <strong>Thorne Research, Inc.</strong> as the patent owner, but practitioners should review the petition and related filings to confirm the specific challenged patent, the real parties in interest, and the exact claims at issue as the record develops. In most PTAB proceedings, those details quickly become central to both the institution decision and any parallel district court or competitive disputes. <a href=\"https://www.docketalarm.com/cases/Patent_Trial_and_Appeal_Board/IPR2026-00400/Thorne_Research_Inc/\">View full case on Docket Alarm</a></p><p>What makes this filing notable is the likely importance of the <strong>grounds for review</strong>. As with many IPR petitions involving formulation or composition patents, challengers frequently rely on combinations of printed publications asserting that the claimed invention is <strong>anticipated under 35 U.S.C. § 102</strong> or <strong>obvious under 35 U.S.C. § 103</strong>. For patent owners in the life sciences and wellness sectors, these cases often test whether a claimed composition, dosage, delivery format, or method of use reflects a true inventive step—or an optimization that the PTAB may view as predictable in light of prior art references.</p><p>Patent practitioners should follow this case for several reasons. First, it may offer another data point on how the PTAB evaluates patents in the supplement and nutraceutical space, where prior art can include scientific literature, product references, and international publications. Second, if the challenged claims involve ingredient combinations or treatment-related methods, the Board’s treatment of motivation to combine, reasonable expectation of success, and objective indicia could be particularly useful for prosecution and post-grant strategy. Third, for in-house IP counsel, the proceeding may underscore how vulnerable commercially important formulation patents can be if the specification and prosecution history do not clearly support nonobviousness.</p><p>As the petition, preliminary response, and any institution decision are filed, this matter should provide a useful window into PTAB scrutiny of health-product patents and the continuing role of IPRs in competitive product markets. For attorneys advising patent owners or challengers, this is the kind of docket that can help sharpen both claim drafting and invalidity strategy.</p>",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The federal judiciary is signaling that two pressures are converging: too few judges and too little money. In its latest policy action, the Judicial Conference of the United States warned that funding shortfalls could worsen and urged Congress to authorize additional district and appellate judgeships. For lawyers and court users, that is more than an institutional budget debate—it is a direct statement about docket congestion, hearing availability, and the pace of civil and criminal litigation.</p><p>The request matters because judgeships are one of the clearest structural tools for addressing overloaded courts. When filings rise but judicial capacity does not, the effects show up everywhere: longer times to disposition, fewer available trial dates, heavier motion calendars, and increased pressure on settlement timing. A recommendation for new judgeships from the judiciary’s principal policymaking body suggests that these strains are not isolated, but broad enough to warrant congressional action.</p><p>The funding warning adds another layer. Even apart from staffing on the bench, constrained appropriations can affect core court operations, including clerk’s office support, probation and pretrial services, courthouse security, technology, and the day-to-day administration that keeps cases moving. For litigants, those operational limitations can translate into procedural delays and less flexibility in scheduling. For judges, they can compound already demanding caseloads.</p><p>For litigators, this development should be read as a practical case-management issue. Counsel may need to build longer timelines into litigation budgets, reassess assumptions about motion practice and trial scheduling, and prepare clients for slower resolution in especially busy districts and circuits. In-house counsel should pay attention as well: when court capacity tightens, dispute exposure can remain on the books longer, affecting reserves, reporting, and business planning. Compliance teams may also see downstream effects where enforcement actions or follow-on civil suits take longer to progress through federal court.</p><p>There is also a broader access-to-justice implication. Federal courts are handling a wide range of high-stakes matters, from complex commercial disputes to constitutional challenges and criminal cases. If judicial vacancies, insufficient judgeships, and budget pressure continue to intersect, the burden will be felt not only by institutional litigants but by individual parties waiting for decisions that can affect liberty, business operations, or legal rights.</p><p>The immediate takeaway for legal professionals is straightforward: court administration is becoming a larger strategic variable. If Congress does not respond with additional judgeships and more stable funding, delay and capacity concerns are likely to remain central considerations in federal litigation planning.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Legal Tech Core",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b995b80e2",
+      "title": "Illumination Zone: Episode 236 | Exterro's Bobby Balachandran sits down with Mary Mack and Holley Robinson",
+      "url": "https://www.jdsupra.com/legalnews/illumination-zone-episode-236-exterro-s-8743687/",
+      "author": "EDRM - Electronic Discovery Reference Model",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-09T02:53:41+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://jdsupra-html-images.s3-us-west-1.amazonaws.com/93957e87-e162-4a12-8fc6-f98c296201db-image_1783565451_1.png\" alt=\"93957e87-e162-4a12-8fc6-f98c296201db-ima\"></p>Bobby Balachandran, Founder and CEO of EDRM Trusted Partner Exterro, sits down with Mary Mack and Holley Robinson. In this episode, Bobby talks about his journey to Exterro and his team's laser focus on building a platform that brings siloed functions together. He also explains ARMOUR, Exterro's agentic framework, and their first stress-test-level application of the framework in Subpoena Manager, their agentic AI app that saves time for legal teams organizing their responses to subpoenas. We...<br>By: <a href=\"https://www.jdsupra.com/profile/edrm_electronic_discovery_reference_model/\">EDRM - Electronic Discovery Reference Model</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9956e794",
+      "title": "AI Lessons: What Eminent Domain Practitioners and Litigants Should Learn from Emerging Case Law",
+      "url": "https://www.jdsupra.com/legalnews/ai-lessons-what-eminent-domain-6714949/",
+      "author": "Nossaman LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-09T02:54:46+00:00",
+      "updated_at": "",
+      "summary": "We’ve come a long way from the viral “I’m not a cat” court appearance video.  Now, beyond manipulating video appearances with filters, technology allows for the creation of entire legal documents using generative AI.  However, as recent case law highlights, beyond the whimsy generated by the cat video, there are real risks associated with the uninformed or undisciplined use of these tools....<br>By: <a href=\"https://www.jdsupra.com/profile/Nossaman/\">Nossaman LLP</a>",
       "content": "",
       "categories": [
         "reading-list",
@@ -134,14 +271,64 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b92f2ad9d",
-      "title": "Thorne Research Faces New PTAB Challenge in IPR2026-00400",
-      "url": "https://www.legaltechmonitor.com/2026/06/thorne-research-faces-new-ptab-challenge-in-ipr2026-00400/",
-      "author": "brunoqueirozdocketalarm-com",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-06-28T22:01:13+00:00",
+      "id": "tag:google.com,2005:reader/item/0000000b99561928",
+      "title": "Data Mining in the Age of Class Actions: What Privacy Teams Need to Know",
+      "url": "https://www.jdsupra.com/legalnews/data-mining-in-the-age-of-class-actions-4327145/",
+      "author": "Integreon",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-09T02:44:00+00:00",
       "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>A new inter partes review filed at the Patent Trial and Appeal Board could be one to watch for companies operating at the intersection of life sciences, nutraceuticals, and consumer health. In <strong>IPR2026-00400</strong>, the proceeding is captioned <strong>Thorne Research, Inc.</strong> and was filed on <strong>June 22, 2026</strong>.</p><p>At this early stage, the PTAB docket signals that a patent challenge involving Thorne Research is underway, but practitioners should note that key details—including the specific patent claims at issue, the identity of the petitioner and patent owner as reflected in the styled papers, and the precise invalidity combinations asserted—may develop as the record fills out. That is often where the strategic significance of a case becomes clear: the petition, preliminary response, and any institution decision will frame both the scope of the challenge and the Board’s appetite for the asserted theories.</p><p>What is already clear is why this filing matters. Thorne Research is a well-known name in the health and wellness space, and PTAB disputes involving companies in that sector can raise recurring issues around formulation claims, method-of-treatment claims, ingredient combinations, and obviousness arguments built from scientific and commercial literature. Depending on the patent ultimately challenged here, counsel may see disputes over whether prior art teaches motivation to combine known compounds, whether secondary considerations can carry weight in a crowded field, or whether the claims are vulnerable under anticipation or obviousness grounds supported by patents, printed publications, or both.</p><p>For patent practitioners, this case is worth following for another reason: PTAB proceedings often become a pressure point in parallel enforcement or licensing campaigns. Even before institution, an IPR can affect settlement posture, district court scheduling, and valuation of a portfolio. For in-house IP counsel, especially those managing consumer health or supplement-related assets, the case may offer useful insight into how challengers are framing prior-art attacks against product and formulation patents in a competitive market.</p><p>As the docket develops, the most important documents to watch will be the petition itself, any patent owner preliminary response, and the Board’s institution decision. Those filings should reveal the challenged patent, the parties, and the exact statutory grounds for review under 35 U.S.C. §§ 102 and/or 103, along with the prior art references being used to support the attack.</p><p><a href=\"https://www.docketalarm.com/cases/Patent_Trial_and_Appeal_Board/IPR2026-00400/Thorne_Research_Inc/\">View full case on Docket Alarm</a></p>",
+      "summary": "Data breach class actions are no longer a distant risk—they’re a near-certainty. With $70 billion in class action settlements in 2025 and more than 1,800 data breach class actions filed that year alone, the old playbook of “when in doubt, notify everyone” is quickly becoming a liability rather than a safeguard....<br>By: <a href=\"https://www.jdsupra.com/profile/integreon/\">Integreon</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9950b695",
+      "title": "Another A.I. Protective Order",
+      "url": "https://www.jdsupra.com/legalnews/another-a-i-protective-order-7246817/",
+      "author": "EDRM - Electronic Discovery Reference Model",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-09T00:46:19+00:00",
+      "updated_at": "",
+      "summary": "<p><img title=\"Another A.I. Protective Order by Michael Berman, E-Discovery LLC.\" src=\"https://edrm.net/wp-content/uploads/2026/07/Berman-Blog-Another-A.I.-Protective-Order.png\" alt=\"Berman-Blog-Another-A.I.-Protective-Orde\"></p>Protective orders addressing the use of A.I. to review materials produced to an opponent in discovery are becoming routine.  The stipulated protective order in RMME LLC v. Majestic Steel USA, Inc., 2026 WL 1831063, at *7 (D. Nev. Jun. 24, 2026), covered that topic and added a provision regarding other uses of A.I....<br>By: <a href=\"https://www.jdsupra.com/profile/edrm_electronic_discovery_reference_model/\">EDRM - Electronic Discovery Reference Model</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9950b694",
+      "title": "Passing the Controls: The Art of Legal Judgment, Mentorship, and the Next Generation in the Age of AI",
+      "url": "https://www.jdsupra.com/legalnews/passing-the-controls-the-art-of-legal-5647547/",
+      "author": "EDRM - Electronic Discovery Reference Model",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-09T01:24:28+00:00",
+      "updated_at": "",
+      "summary": "<p><img title=\"Passing the Controls: The Art of Legal Judgment, Mentorship, and the Next Generation in the Age of AI, by Hon. Ralph Artigliere (ret.) and Zara Russell.\" src=\"https://edrm.net/wp-content/uploads/2026/07/Artigliere-Russell-Passing-the-Controls.png\" alt=\"Artigliere-Russell-Passing-the-Controls.\"></p>Like it or not. Ready or not. The legal profession is in a state of transition, from the business end to the delivery of justice, with an urgency and scope unlike anything I have seen in a lengthy career. For lawyers and judges who work under constant pressure in a deadline-driven arena, the prospect of relief through technology is genuinely welcome. But the emergence of generative AI since 2023 is different. It is a transformative and complex transition visited at warp speed on a profession...<br>By: <a href=\"https://www.jdsupra.com/profile/edrm_electronic_discovery_reference_model/\">EDRM - Electronic Discovery Reference Model</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "eDiscovery - Litigation",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b994c67f8",
+      "title": "USPTO Releases Additional NIL Trademark Resources for Student-Athletes and Brand Owners",
+      "url": "https://www.jdsupra.com/legalnews/uspto-releases-additional-nil-trademark-9045226/",
+      "author": "Holland &amp; Knight LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-09T00:54:56+00:00",
+      "updated_at": "",
+      "summary": "Over the past five years, name, image and likeness (NIL) rights have become increasingly important for student-athletes, entertainers, influencers, entrepreneurs and other public-facing individuals whose names, voices and likenesses are used to promote the brands, products and services of others. With artificial intelligence (AI) beginning to reshape how content is created and distributed, those rights face new and evolving challenges, making proactive brand protection more critical than ever....<br>By: <a href=\"https://www.jdsupra.com/profile/Holland_Knight/\">Holland &amp; Knight LLP</a>",
       "content": "",
       "categories": [
         "reading-list",
@@ -150,62 +337,14 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b92d0473b",
-      "title": "Canadian fintech Float raises C$85m",
-      "url": "https://www.finextra.com/newsarticle/48002/canadian-fintech-float-raises-c85m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "author": "",
-      "source": "Finextra Research news",
-      "published_at": "2026-06-28T23:24:59+00:00",
-      "updated_at": "",
-      "summary": "Canadian business finance platform Float Financial has raised C$85 million (US$60 million) in a Series C funding round led by Inovia Capital with participation from Goldman Sachs.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "Compliance",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b92bcc6f8",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "author": "Anthony Ha",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-06-28T19:05:39+00:00",
-      "updated_at": "",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b92ae215b",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "author": "Kirsten Korosec",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-06-28T15:00:00+00:00",
-      "updated_at": "",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "content": "",
-      "categories": [
-        "reading-list",
-        "AI General",
-        "High-Signal"
-      ]
-    },
-    {
-      "id": "tag:google.com,2005:reader/item/0000000b92a293f9",
-      "title": "Success bred complacency: a NASA warning for security and discovery leaders",
-      "url": "https://complexdiscovery.com/success-bred-complacency-a-nasa-warning-for-security-and-discovery-leaders/",
+      "id": "tag:google.com,2005:reader/item/0000000b9947ad43",
+      "title": "The three silent hours: How Russia’s cyber war targets Ukraine’s newsrooms",
+      "url": "https://complexdiscovery.com/the-three-silent-hours-how-russias-cyber-war-targets-ukraines-newsrooms/",
       "author": "Rob Robinson",
       "source": "ComplexDiscovery: eDiscovery Information",
-      "published_at": "2026-06-28T13:18:20+00:00",
+      "published_at": "2026-07-08T23:02:17+00:00",
       "updated_at": "",
-      "summary": "<p>Editor’s Note: A keynote that never mentioned a single legal technology product may prove the most useful talk at LegalTechTalk 2026. John Saiz, former chief technologist at NASA’s Johnson Space Center, used the Columbia disaster to show how a long run of success can quietly mute dissent and bury risk inside layers of management, a familiar pattern that precedes many breaches, sanctions and governance failures.</p> \n<p>For cybersecurity, data privacy, regulatory compliance and eDiscovery professionals, the relevance is direct. The control that lapses without consequence, the escalation that dies in middle management, the legal hold that goes out late: these are not technology defects. They are cultural ones, and they map precisely onto the normalization of deviance that NASA paid for twice. Programs governed by audit obligations, preservation duties and breach-notification clocks depend on the frontline voice reaching a decision-maker before a loss occurs.</p> \n<p>Watch for leaders who treat culture as a control. The organizations that shorten the path from the analyst to the executive, and that reward the dissenting voice rather than the on-schedule consensus, are the ones that will absorb the next shock. Saiz’s closing line is the one to keep: don’t forget about the people.</p> \n \n<p>Industry News – Leadership Beat</p> \n<h2>Success bred complacency: a NASA warning for security and discovery leaders</h2> \n<p><em>ComplexDiscovery Staff</em></p> \n<p>“Risk was gradually redefined as acceptable. Dissent was muted. Success bred complacency.”</p> \n<p>That sentence, delivered to legal technology professionals from about 80 countries, was not a verdict on any law firm or security program. It was John Saiz describing how NASA lost a space shuttle, and why the people who run cybersecurity, information governance and eDiscovery functions should hear it as a warning for their own organizations.</p> \n<p>Saiz, a former senior technology leader at NASA’s Johnson Space Center, opened LegalTechTalk 2026 in London. He did not talk about the technology that took a picture from the far side of the moon, which is what the colleague who invited him to speak had asked him to do. He talked about people, and about the slow cultural drift that turns a long record of wins into the conditions for catastrophe.</p> \n<h3>A five-year story in 17 minutes</h3> \n<p>Saiz set out to compress a five-year story into 17 minutes. He walked the audience through Columbia, the orbiter that broke apart on re-entry on Feb. 1, 2003, killing all seven astronauts aboard. He had known and worked with two of them. It had been 23 years, he said, and the loss was still painful to discuss.</p> \n<p>NASA had been burned before. Challenger broke apart shortly after launch on Jan. 28, 1986. Both times, the agency recovered with formidable engineering. After Columbia, it redesigned bolt catchers, added heater strips to feed lines, upgraded the camera systems that monitor each launch, and placed sensors inside the wings, the project Saiz himself worked on, climbing into the wing cavities to install wireless acoustic emission sensors. The fleet returned to flight in about two and a half years.</p> \n<p>The engineers in the room had noticed something uncomfortable. Two and a half years was about how long the Challenger recovery had taken, too. “Are we just going down the same path?” Saiz recalled the workforce asking. The rocket science was solvable; give a rocket scientist an equation and the answer comes back. The people problem was harder, and it was the people problem that the investigators kept circling.</p> \n<h3>How deviance becomes normal</h3> \n<p>The Columbia Accident Investigation Board, made up of astronauts, military officers, physicists and engineers, issued its report in Aug. 2003. Saiz distilled its cultural findings to a phrase the board drew from sociology: the normalization of deviance.</p> \n<p>Columbia University sociologist Diane Vaughan coined the term in her 1996 study of the Challenger launch decision, defining it as the gradual process through which an unacceptable practice or standard becomes acceptable. When a deviation from the rule repeats without disaster, it quietly becomes the organization’s new norm. NASA had flown about 100 shuttle missions by the time of Columbia. Confidence hardened into comfort. The shuttle was asked to operate outside its certification range, and a record of success made that feel reasonable.</p> \n<p>The board faulted NASA for reliance on past success as a substitute for sound engineering, and for organizational barriers that stifled professional disagreement and blocked the flow of safety information. For a security or governance leader, the test that follows is uncomfortable but simple: name the control your team has quietly stopped enforcing because nothing has gone wrong yet. The expired access review that keeps slipping. The legal hold that went out late and caused no visible harm. The retention shortcut that saved a week. Each is a small redefinition of acceptable risk, and each is invisible precisely because it has not yet produced a loss.</p> \n<hr> \n<h3><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/06/success-bred-complacency-header.jpg\" alt=\"\" width=\"1700\" height=\"800\"></h3> \n<hr> \n<h3>The layers between the alarm and the decision</h3> \n<p>Schedule pressure made the drift worse. NASA was racing to finish the International Space Station, and because it is a public agency, any cost overrun was visible to taxpayers. Flights were turning around every four to six weeks. Under that pressure, Saiz said, decision-making shifted subtly to favor group consensus over the individual voice expressing a dissenting opinion.</p> \n<p>Then came the structural problem. A mature agency, by then 30 to 40 years old, had added layer upon layer of management control. “Those additional layers of management made it difficult for the people at the coalface to elevate the issues,” Saiz said. Compartmentalization, the quiet accumulation of filters between the person who sees the problem and the person who can act on it, is where his diagnosis lands hardest on corporate leadership.</p> \n<p>The analyst who flags an anomaly, the records manager who questions a retention schedule, the associate who urges a legal hold usually sits several reporting layers below the executive empowered to respond. Every layer is a filter, and every filter is a chance for the signal to be softened, reframed or dropped. Leaders who actually want the signal can shorten the path: build a route for a frontline analyst or paralegal to escalate a concern without it being pre-digested by three intermediaries who each have a reason to keep the project on schedule.</p> \n<h3>What the breach and the spoliation sanction share</h3> \n<p>Here is the translation Saiz invited his audience to make. A breach, a spoliation sanction or a compliance miss is often not only a technology failure. Each often traces back to a warning the organization had already been handed and chose not to hear, a concern raised one reporting layer too far below the person who could have acted on it.</p> \n<p>Saiz was candid that the middle is where good intentions die. Executives tell their people to challenge convention, he said, “but the problem is middle management.” Those managers are conflicted, because the same leaders who ask them to encourage dissent are also telling them to make the delivery next week. The message a frontline employee actually receives is the one their direct manager reinforces, not the one on the leadership slide.</p> \n<p>In security, information governance and eDiscovery, the cost of not listening is counted in breaches, regulatory sanctions and lost client trust rather than in lost spacecraft. The stakes look different. The failure mode is identical.</p> \n<h3>Three translations from rockets to risk</h3> \n<p>Saiz offered three lessons he called rockets-to-roads translations. Innovation depends on cultures where people feel safe to challenge. The most effective risk cultures are built on continuous learning rather than on a demand for zero failure. And progress accelerates when knowledge moves freely across boundaries.</p> \n<p>The second lesson deserves attention from a profession where the consequences of failure can be catastrophic and the instinct is therefore to forbid failure outright. Saiz’s argument is that a zero-failure mandate does not produce zero failure. It produces hidden failure, the kind that surfaces only after the foam strike, the missed preservation notice, the unreviewed access grant. The practical alternative is to design scenarios where teams can take calculated risks and learn from small, survivable mistakes, tabletop exercises and red-team drills among them, so the organization builds the muscle to surface problems before they compound.</p> \n<p>The third lesson speaks to compartmentalization directly. At Johnson, Saiz built creative spaces and put collaboration centers where people from different departments would collide, at the cafeteria and at building entrances. He pushed open innovation to reach problem-solvers outside the fence line, and he revived institutional storytelling, bringing in the veterans the agency called gray beards to recount how earlier programs had solved the same problems. For a governance program, the equivalent is straightforward: have security, legal and records teams review the same incident in one room rather than passing it down a chain, so the knowledge that prevents the next failure does not die at a departmental boundary.</p> \n<h3>Don’t forget about the people</h3> \n<p>The fixes worked. After return to flight, the shuttle completed 22 more missions without a fatal accident, ending with Atlantis on mission STS-135 in July 2011. The space station was finished and remains in operation today, a point Saiz made with deliberate emphasis on the word international.</p> \n<p>His closing instruction stripped the lesson to its core. “Don’t forget about the people,” he said. The people built the organization. Encourage them to challenge convention, to experiment with new approaches, to pursue meaningful change.</p> \n<p>The question Saiz left hanging is worth carrying back to every security operations center, governance committee and discovery team in the room and beyond: which dissenting voice in your organization has already gone quiet, and what has its silence cost you that you have not yet measured?</p> \n<hr> \n<p><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/06/success-bred-complacency-footer.jpg\" alt=\"\" width=\"1700\" height=\"800\"></p> \n<hr> \n<p>News sources</p> \n<ul> \n<li><a href=\"https://s3.amazonaws.com/akamai.netstorage/anon.nasa-global/CAIB/CAIB_lowres_full.pdf\">Columbia Accident Investigation Board Report, Volume One</a>  (NASA)</li> \n<li><a href=\"https://magazine.columbia.edu/article/challenger-disaster-normalization-deviance\">How the Challenger Disaster Became a Case Study of the ‘Normalization of Deviance’</a>  (Columbia Magazine)</li> \n<li><a href=\"https://www.nasa.gov/mission/sts-107/\">Remembering the Columbia STS-107 Mission</a>  (NASA)</li> \n<li><a href=\"https://www.nasa.gov/mission/sts-135/\">STS-135: The Final Mission of the Space Shuttle Program</a>  (NASA)</li> \n<li><a href=\"https://www.linkedin.com/in/johnsaiz/\">John Saiz, Former NASA JSC Chief Technologist</a>  (LinkedIn)</li> \n<li><a href=\"https://www.legaltechtalk.com/\">Opening keynote, featuring John Saiz (former NASA Johnson Space Center), introduced by Bradley Collins (LegalTechTalk)</a>  (LegalTechTalk live session, Day One, June 17, 2026, author’s session notes and transcript)</li> \n</ul> \n<hr> \n \n<hr> \n<p><a href=\"https://complexdiscovery.com/generative-artificial-intelligence-and-large-language-model-policy/\">Assisted by GAI and LLM Technologies</a></p> \n<p>Additional Reading</p> \n<ul> \n<li><a href=\"https://complexdiscovery.com/at-legaltechtalk-the-password-is-blueberry-hot-dogs/\">At LegalTechTalk, the password is blueberry hot dogs</a></li> \n<li><a href=\"https://complexdiscovery.com/relativity-bets-legal-teams-will-talk-to-their-data-not-just-search-it/\">Relativity bets legal teams will talk to their data, not just search it</a></li> \n<li><a href=\"https://complexdiscovery.com/europes-off-channel-reckoning-haystackid-bets-comet-on-a-messaging-crackdown-crossing-the-atlantic/\">Europe’s off-channel reckoning: HaystackID bets COMET on a messaging crackdown crossing the Atlantic</a></li> \n<li><a href=\"https://complexdiscovery.com/haystackid-brings-ai-privacy-and-discovery-stack-to-dublin-as-european-compliance-pressure-mounts/\">HaystackID brings AI privacy and discovery stack to Dublin as European compliance pressure mounts</a></li> \n<li><a href=\"https://complexdiscovery.com/the-new-face-of-discovery-haystackids-coreflex-brings-ai-slack-and-enterprise-data-into-one-legal-workflow/#\">The New Face of Discovery: HaystackID’s CoreFlex Brings AI, Slack, and Enterprise Data into One Legal Workflow</a></li> \n<li><a href=\"https://complexdiscovery.com/show-your-work-haystackid-brings-ediscovery-rigor-to-ai-governance/\">Show Your Work: HaystackID Brings eDiscovery Rigor to AI Governance</a></li> \n<li><a href=\"https://complexdiscovery.com/redefining-global-advisory-how-jeff-shapiros-london-leadership-anchors-haystackids-2026-european-strategy/#\">Redefining Global Advisory: How Jeff Shapiro’s London Leadership Anchors HaystackID’s 2026 European Strategy</a></li> \n<li><a href=\"https://complexdiscovery.com/haystackid-names-chad-pinson-ceo-as-hal-brooks-becomes-executive-chair/\">HaystackID Names Chad Pinson CEO as Hal Brooks Becomes Executive Chair</a></li> \n</ul> \n<p>Source: ComplexDiscovery OÜ</p> \n<p><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/06/John-Saiz-Image-Banner-TWO.png\" alt=\"\" width=\"850\" height=\"400\"></p> \n<blockquote><p>ComplexDiscovery’s mission is to enable clarity for complex decisions by providing independent, data‑driven reporting, research, and commentary that make digital risk, legal technology, and regulatory change more legible for practitioners, policymakers, and business leaders.</p></blockquote> \n<p>The post <a href=\"https://complexdiscovery.com/success-bred-complacency-a-nasa-warning-for-security-and-discovery-leaders/\">Success bred complacency: a NASA warning for security and discovery leaders</a> appeared first on <a href=\"https://complexdiscovery.com\">ComplexDiscovery</a>.</p>",
+      "summary": "<p>Editor’s Note: Russia’s summer offensive has stalled on the ground, so the Kremlin has shifted weight to the layer where it still moves freely: information. In the first week of July, as missiles hit Kyiv and diplomats gathered for a NATO summit in Turkey, Russian operators kept a parallel campaign running against the systems that carry Ukraine’s account of the war, its television stations, newsrooms and digital records. The reporting here connects a three-hour application-layer DDoS attack, a thwarted attempt to hijack a broadcaster’s voice, and Europe’s accelerating cyber support into a single story about information integrity under fire.</p> \n<p>For cybersecurity, data privacy, regulatory compliance and eDiscovery professionals, the relevance is direct. Credential theft aimed at publishing rights, floods built to imitate human traffic, and disinformation synced to diplomatic calendars are not distant wartime exotica; they are the same techniques that test corporate communications, law firms and regulated institutions.</p> \n<p>Watch two threads next: how the EU Cybersecurity Reserve performs under real load, and whether newsroom-grade defenses, tamper-evident logging and provable publishing records become a baseline expectation well beyond Ukraine.</p> \n<p></p> \n<p>Industry News – Geopolitics Beat</p> \n<h2>The three silent hours: How Russia’s cyber war targets Ukraine’s newsrooms</h2> \n<p><em>ComplexDiscovery Staff</em></p> \n<p>For three hours, the weapon aimed at a Ukrainian television station made no sound at all.</p> \n<p>It arrived as 200,000 requests a minute, a flood of counterfeit traffic engineered to drown a newsroom’s website until no reader in Ukraine could reach it.</p> \n<p>That attack, which the Security Service of Ukraine (SSU) described as one of the largest of the year, sits at the quiet center of a war usually counted in missiles and miles of front line. On the night of July 5 to 6, Russian forces launched their fourth large-scale missile and drone strike against Ukraine since June 1, hitting Kyiv. President Volodymyr Zelensky later reported that the death toll had risen to 22. Beneath the explosions, a second campaign kept running: a contest over who controls Ukraine’s information, its newsrooms and the record of the war itself.</p> \n<h3>A strike timed for the cameras</h3> \n<p>The two campaigns are connected. The Institute for the Study of War said Russia likely timed its early-July strike package to shape perceptions ahead of the July 7 to 8 NATO summit in Turkey, where U.S. President Donald Trump was set to meet Ukrainian and European leaders. Moscow has cast itself as a willing negotiator and Kyiv as the obstacle to peace, a posture aimed less at the trenches than at the audiences watching them.</p> \n<p>That framing carries weight because Russia’s summer offensive has bought little ground. The Institute for the Study of War has assessed in recent reporting that the spring and summer 2026 offensive failed to produce operationally meaningful gains, even as Moscow keeps shaping narratives around claimed battlefield progress. When territory stalls, the message becomes the maneuver, and the fastest way to shape a message is to control, or corrupt, the channels that carry it.</p> \n<hr> \n<h3><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/07/ukraine-infowar-header-1.jpg\" alt=\"\" width=\"1700\" height=\"800\"></h3> \n<h3></h3> \n<hr> \n<h3>Why Ukraine’s newsrooms became targets</h3> \n<p>Since the full-scale invasion began in February 2022, the SSU’s Cyber Security Department has neutralized over 16,000 cyberattacks and cyber incidents, said Brigadier General Volodymyr Karastelyov, who heads the department. Government agencies, banks and defense structures draw steady fire. So do the media, which Karastelyov named a priority target for Russian operations.</p> \n<p>The television station attack showed the method. “The botnet generated up to 200,000 requests per minute from nodes in Asia, Europe, and the US,” Karastelyov said. The traffic hit the site’s application layer, mimicking real users to exhaust the server rather than simply flooding it with raw volume. SSU specialists kept the site online. The aim was denial: to make it harder for a Ukrainian audience to reach a Ukrainian source, creating the kind of information vacuum that invites something else to fill it.</p> \n<h3>When the goal is the byline, not the outage</h3> \n<p>Knocking a site offline is the blunt approach. Stealing its voice is the subtler one. In 2025, the SSU said, attackers struck another Ukrainian television group with a phishing campaign while probing adjacent systems, working to seize the outlet and publish propaganda under its own trusted name. Investigators caught the intrusion before the takeover succeeded.</p> \n<p>For information governance and eDiscovery professionals, that scenario should read as both familiar and alarming. An adversary that captures a publisher’s content management system does not just steal data; it manufactures a false but authentic-looking record, signed with a legitimate credential. Separating the real article from the forgery afterward becomes a forensic exercise, one that leans on preserved logs, version history and defensible chain of custody. The strongest defense is assembled before the breach: strict access controls, tamper-evident logging and archived snapshots that let an organization prove what it published, and when.</p> \n<h3>Europe moves to shore up the defense</h3> \n<p>The institutional response has quickened. On June 10, the European Union launched EU4CyberUA, a €10 million, four-year program running from 2026 to 2029 to align Ukraine’s cyber defenses with EU standards. Days later, the Council of the European Union approved Ukraine’s entry into the EU Cybersecurity Reserve, giving Kyiv access to incident-response help from vetted private providers, coordinated through the EU Agency for Cybersecurity, during large-scale attacks.</p> \n<p>Ukraine is also pushing defense down to the newsroom floor. The SSU and the National Council of Ukraine on Television and Radio Broadcasting ran cybersecurity training at 20 venues across 21 regions in 2026, reaching about 450 editors, journalists and technical staff. “The main aim of the joint project is not only to respond to cyber-attacks after they have already occurred, but also to build up the practical capacity of regional newsrooms to independently detect threats,” said Olha Herasymiuk, who chairs the National Council.</p> \n<h3>What the record demands of practitioners</h3> \n<p>Strip away the geography and the lesson travels. The tactics tested against Ukrainian media, credential theft aimed at publishing rights, DDoS floods engineered to pass as human traffic, and disinformation timed to diplomatic calendars, reach corporate communications teams, law firms and regulated institutions far from any front line. A DDoS built to imitate real users slips past defenses tuned only for crude volume. A propaganda takeover of a trusted account is a data-integrity incident with legal and evidentiary tails.</p> \n<p>The practical steps are unglamorous and portable: keep tamper-evident logs, preserve the metadata that establishes authenticity, rehearse incident response before it is needed, and treat the integrity of the published record as an asset worth defending. The organizations that weather the next information operation will be the ones that can show, quickly and defensibly, what they said and what they did not.</p> \n<p>Which returns the story to those three silent hours. The attackers blew nothing up; they tried to erase a signal and, failing that, to counterfeit one. As the fighting grinds toward another round of talks, the sharper question for anyone who manages information is not whether the next attack will land, but this: when someone tries to speak in your name, will you be able to prove they did not?</p> \n<hr> \n<p><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/07/ukraine-infowar-footer-1.jpg\" alt=\"\" width=\"1700\" height=\"800\"></p> \n<hr> \n<p>News sources</p> \n<ul> \n<li><a href=\"https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260701-ukraine-ssu01.htm\">SSU neutralised over 16,000 russian cyberattacks and cyber incidents since war started</a>  (GlobalSecurity.org)</li> \n<li><a href=\"https://euromaidanpress.com/2026/07/01/ukraines-media-are-top-russian-cyber-target-hackers-hit-ukrainian-tv-site-with-200000-requests-in-minute/\">Ukraine’s media are top Russian cyber target: Hackers hit Ukrainian TV site with 200,000 requests in minute</a>  (Euromaidan Press)</li> \n<li><a href=\"https://therecord.media/ukraine-media-organizations-priority-hacking-targets-russia\">Ukrainian media outlets now among ‘priority targets’ for Russian hackers</a>  (The Record)</li> \n<li><a href=\"https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-7-2026/\">Russian Offensive Campaign Assessment, July 7, 2026</a>  (Institute for the Study of War)</li> \n<li><a href=\"https://www.kyivpost.com/post/79400\">Russian Offensive Campaign Assessment, July 1, 2026</a>  (Institute for the Study of War via Kyiv Post)</li> \n<li><a href=\"https://www.ukrinform.net/amp/rubric-society/4136570-ukraine-gains-access-to-eu-cybersecurity-reserve.html\">Ukraine gains access to EU Cybersecurity Reserve</a>  (Ukrinform)</li> \n<li><a href=\"https://www.helpnetsecurity.com/2026/06/17/ukraine-eu-cybersecurity-reserve-support/\">Ukraine can now tap EU cyber support during major attacks</a>  (Help Net Security)</li> \n<li><a href=\"https://www.fiap.gob.es/en/noticias/eu-launches-eu4cyberua-project-to-strengthen-ukraines-cybersecurity-and-resilience/\">EU launches EU4CyberUA project to strengthen Ukraine’s cybersecurity and resilience</a>  (FIIAPP)</li> \n</ul> \n<hr> \n \n<hr> \n<p><a href=\"https://complexdiscovery.com/generative-artificial-intelligence-and-large-language-model-policy/\">Assisted by GAI and LLM Technologies</a></p> \n<p>Additional reading</p> \n<ul> \n<li><a href=\"https://complexdiscovery.com/confirmed-versus-claimed-reading-the-gap-in-russias-june-offensive/\">Confirmed versus claimed: reading the gap in Russia’s June offensive</a></li> \n<li><a href=\"https://complexdiscovery.com/when-the-flag-may-be-fake-ukraines-june-war-and-the-new-burden-of-proof/\">When the flag may be fake: Ukraine’s June war and the new burden of proof</a></li> \n<li><a href=\"https://complexdiscovery.com/when-the-drone-war-reaches-the-reactor-fence-ukraine-and-the-cyber-physical-front/\">When the drone war reaches the reactor fence: Ukraine and the cyber-physical front</a></li> \n<li><a href=\"https://complexdiscovery.com/when-the-refineries-burn-ukraines-strikes-turn-russias-energy-backbone-into-a-cautionary-tale/\">When the refineries burn: Ukraine’s strikes turn Russia’s energy backbone into a cautionary tale</a></li> \n<li><a href=\"https://complexdiscovery.com/the-night-ukrainian-drones-exposed-gaps-in-moscows-defenses-and-state-tv-gave-it-60-seconds/\">The night Ukrainian drones exposed gaps in Moscow’s defenses and state TV gave it 60 seconds</a></li> \n<li><a href=\"https://complexdiscovery.com/from-warning-to-funding-russias-expanding-media-machine-and-the-risk-signals-ahead/#\">From warning to funding: Russia’s expanding media machine and the risk signals ahead</a></li> \n<li><a href=\"https://complexdiscovery.com/invisible-by-design-natos-2026-cognitive-warfare-paper-and-the-crisis-of-discovery/\">Invisible by design: NATO’s 2026 cognitive warfare paper and the crisis of discovery</a></li> \n<li><a href=\"https://complexdiscovery.com/when-your-legal-tech-vendor-gets-breached-docketwise-incident-exposes-116666-immigration-records-and-a-professions-blind-spot/#\">When Your Legal Tech Vendor Gets Breached: DocketWise Incident Exposes 116,666 Immigration Records and a Profession’s Blind Spot</a></li> \n<li><a href=\"https://complexdiscovery.com/the-dojs-cyber-fca-playbook-is-working-as-enforcement-triples-and-shows-no-signs-of-slowing/#\">The DOJ’s Cyber FCA Playbook Is Working as Enforcement Triples and Shows No Signs of Slowing</a></li> \n<li><a href=\"https://complexdiscovery.com/ftcs-okcupid-action-reframes-ai-training-data-as-a-consumer-protection-issue/#\">FTC’s OkCupid Action Reframes AI Training Data as a Consumer Protection Issue</a></li> \n<li><a href=\"https://complexdiscovery.com/white-house-ai-framework-signals-new-compliance-stakes-for-legal-cybersecurity-and-ediscovery/#\">White House AI Framework Signals New Compliance Stakes for Legal, Cybersecurity, and eDiscovery</a></li> \n<li><a href=\"https://complexdiscovery.com/the-gatekeepers-key-how-the-conformity-assessment-unlocks-the-eu-ai-market/\">The Gatekeeper’s Key: How the Conformity Assessment Unlocks the EU AI Market</a></li> \n</ul> \n<p>Source: ComplexDiscovery OÜ</p> \n<p><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/07/Cyber-Newsroom-Two.png\" alt=\"\" width=\"2550\" height=\"1200\"></p> \n<blockquote><p>ComplexDiscovery’s mission is to enable clarity for complex decisions by providing independent, data‑driven reporting, research, and commentary that make digital risk, legal technology, and regulatory change more legible for practitioners, policymakers, and business leaders.</p></blockquote> \n<p>The post <a href=\"https://complexdiscovery.com/the-three-silent-hours-how-russias-cyber-war-targets-ukraines-newsrooms/\">The three silent hours: How Russia’s cyber war targets Ukraine’s newsrooms</a> appeared first on <a href=\"https://complexdiscovery.com\">ComplexDiscovery</a>.</p>",
       "content": "",
       "categories": [
         "reading-list",
@@ -215,14 +354,62 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b929ff441",
-      "title": "Sunday Snapshot: The 8 Legal Developments Shaping U.S. Litigation at the End of June 2026",
-      "url": "https://www.legaltechmonitor.com/2026/06/sunday-snapshot-the-8-legal-developments-shaping-u-s-litigation-at-the-end-of-june-2026/",
-      "author": "brunoqueirozdocketalarm-com",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-06-28T09:58:39+00:00",
+      "id": "tag:google.com,2005:reader/item/0000000b994462e7",
+      "title": "JPMorgan Chase picks SambaNova for on-prem AI inference",
+      "url": "https://www.finextra.com/newsarticle/48057/jpmorgan-chase-picks-sambanova-for-on-prem-ai-inference?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T23:25:11+00:00",
       "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The legal news cycle does not fully stop for the weekend, and this Sunday’s landscape reflects a familiar reality for practitioners: the most consequential developments often emerge over several days and quickly reshape litigation risk, enforcement expectations, and appellate strategy.</p><p>As of June 28, 2026, the biggest U.S. legal stories span multiple fronts rather than a single blockbuster filing. Recent developments have centered on high-impact court rulings, federal enforcement activity, and politically charged disputes that are likely to generate follow-on motion practice, emergency appeals, and significant compliance review. For legal professionals, the practical takeaway is less about any one headline and more about the convergence of pressure points across the system: courts, agencies, and private litigants are all moving at once.</p><p>For litigators, this kind of week matters because “weekend news” often becomes Monday-morning docket activity. Major decisions issued in the final days of a court session can alter pleading standards, available remedies, timing for injunctive relief, or the likelihood of removal and appeal. Even where a story is still developing, counsel should expect clients to ask immediate questions about exposure, preservation obligations, insurance notice, and whether pending cases need to be re-evaluated in light of new precedent or enforcement posture.</p><p>In-house teams should be paying particular attention to the cumulative effect of these developments. A cluster of significant legal stories in areas such as agency power, consumer protection, corporate accountability, election-related disputes, or criminal enforcement can create operational consequences before any formal rule or final judgment lands. Companies may need to revisit disclosure language, compliance training, internal reporting channels, or escalation protocols if recent legal activity suggests a more aggressive litigation or regulatory environment in the second half of the year.</p><p>Compliance officers likewise should treat this moment as an early-warning signal. When several major legal stories break within a short period, regulators and plaintiffs’ lawyers alike often use the momentum to test new theories. That can mean more civil investigative demands, more state-federal overlap, and more pressure to document good-faith controls. The organizations best positioned for that environment are usually the ones that respond quickly to legal trendlines, not just final outcomes.</p><p>In short, the significance of today’s legal news is systemic. The end-of-June docket is setting the tone for summer litigation strategy, and legal teams that monitor these developments closely will be better prepared to advise on risk, preserve optionality, and react when the next filing drops.</p>",
+      "summary": "JPMorgan Chase has picked artificial intelligence chip startup SambaNova as an infrastructure partner, deploying its systems to power on-premises AI inference.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99432997",
+      "title": "How Bain Capital Is Scaling AI with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=8xqQzrLf0co",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T22:51:23+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=8xqQzrLf0co\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>For businesses, AI is most powerful when everyone can use it.<br> \n<br> \n“Having 2,700 employees, all of whom now have an enterprise ChatGPT license, has just been a giant force multiplier for the business.” -James Mackey, Bain Capital<br> \n<br> \nSee how Bain Capital portfolio company Zelis is using ChatGPT to streamline claims processing and help reduce costs across the healthcare system.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b993bb878",
+      "title": "No new rules as U.K. financial services sector champions AI",
+      "url": "https://www.complianceweek.com/artificial-intelligence/no-new-rules-as-u-k-financial-services-sector-champions-ai/",
+      "author": "Neil Hodge",
+      "source": "Latest articles from Compliance Week Compliance and Technology",
+      "published_at": "2026-07-08T21:30:30+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.complianceweek.com/wp-content/uploads/2023/01/financialconductauthority_953124.jpg\" alt=\"financialconductauthority_953124.jpg\"></p><p>There are no new rules on the horizon as U.K. financial services firms embrace “AI-enabled, continuous and delegated services,” but a report warns that the technology could reshape the sector by 2030 in terms of how firms operate, consumers make decisions, markets compete, and risks emerge.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b993b21ad",
+      "title": "Trademark & Brand Protection Update | June 2026",
+      "url": "https://www.jdsupra.com/legalnews/trademark-brand-protection-update-june-7313166/",
+      "author": "Knobbe Martens",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T21:55:24+00:00",
+      "updated_at": "",
+      "summary": "While the legal landscape is continuing to take shape, a number of recent court decisions indicate that unlicensed use of copyrighted data to train AI models generally constitutes fair use. Each fair use inquiry depends on the facts at play, however, including, among other things, how the AI model’s output compares to the copyrighted data that was input into the model....<br>By: <a href=\"https://www.jdsupra.com/profile/Knobbe_Martens/\">Knobbe Martens</a>",
       "content": "",
       "categories": [
         "reading-list",
@@ -231,14 +418,14 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b9252500e",
-      "title": "DOJ Charges 15 in Direct Action Minnesota Case With Conspiracy, Threats, and Assault on Federal Officers",
-      "url": "https://www.legaltechmonitor.com/2026/06/doj-charges-15-in-direct-action-minnesota-case-with-conspiracy-threats-and-assault-on-federal-officers/",
-      "author": "brunoqueirozdocketalarm-com",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-06-27T12:14:23+00:00",
+      "id": "tag:google.com,2005:reader/item/0000000b993b21a9",
+      "title": "China Introduces Rules for AI Companion and Emotional Interaction Services",
+      "url": "https://www.jdsupra.com/legalnews/china-introduces-rules-for-ai-companion-2211874/",
+      "author": "Latham &amp; Watkins LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T21:55:24+00:00",
       "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The Justice Department has announced a sweeping federal prosecution against 15 alleged members and associates of Direct Action Minnesota, a Minneapolis-based activist group the government describes as having antifa ties. According to the DOJ, the defendants face a mix of serious charges, including conspiracy to impede federal officers, interstate stalking and threats, solicitation of violence, assault on federal officers, and destruction of government property.</p><p>The matter appears in the District of Minnesota as <a href=\"https://www.docketalarm.com/cases/Minnesota_District_Court/0-25-cr-00289/USA_v_Alm_et_al/\">USA v. Alm, et al</a>, and it stands out not only because of the number of defendants, but also because of the government’s emphasis on alleged coordinated action against federal personnel. Multi-defendant indictments of this type often bring procedural complexity from the outset: detention disputes, severance motions, discovery management, admissibility fights over online communications, and inevitable constitutional arguments touching on speech, association, and protest activity.</p><p>For criminal practitioners, the case is worth watching as a test of how aggressively federal prosecutors are willing to frame protest-adjacent conduct as a coordinated criminal enterprise. Charges such as conspiracy to impede federal officers and solicitation of violence can give the government substantial room to present evidence about group planning, communications, and ideology. Defense counsel, in turn, are likely to press hard on intent, causation, and the line between protected advocacy and criminal conduct.</p><p>The federal-officer allegations are especially significant. Cases involving assaults or threats against federal personnel tend to draw close attention from Main Justice and can influence charging posture, bail arguments, and sentencing advocacy. If prosecutors allege targeted stalking or threats across state lines, that also raises the stakes by expanding the scope of digital evidence, metadata review, and jurisdictional issues.</p><p>For legal professionals beyond the criminal bar, the prosecution offers several practical takeaways. In-house counsel and compliance teams should note how online organizing, encrypted messaging, and public-facing rhetoric may be scrutinized when the government alleges a conspiracy. Organizations with politically active employees or volunteers may want to revisit policies on use of company systems, record retention, and threat-escalation reporting. Litigators following civil unrest, protest response, or government-enforcement matters should also keep an eye on how the court handles joinder, First Amendment defenses, and evidentiary disputes in <a href=\"https://www.docketalarm.com/cases/Minnesota_District_Court/0-25-cr-00289/USA_v_Alm_et_al/\">USA v. Alm, et al</a>.</p><p>Given the politically charged framing and the breadth of the alleged conduct, this is the kind of federal criminal case that can quickly become a reference point for future prosecutions involving activist networks, threats against public officials, and the outer boundaries of protest-related criminal liability.</p>",
+      "summary": "The targeted rules impose content requirements, safety assessments, anti-addiction measures, and heightened protections for minors and elderly users of AI companion services....<br>By: <a href=\"https://www.jdsupra.com/profile/Latham_Watkins/\">Latham &amp; Watkins LLP</a>",
       "content": "",
       "categories": [
         "reading-list",
@@ -247,14 +434,46 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b9252500d",
-      "title": "New PGR Targets Ugreen Patent at the PTAB",
-      "url": "https://www.legaltechmonitor.com/2026/06/new-pgr-targets-ugreen-patent-at-the-ptab/",
-      "author": "brunoqueirozdocketalarm-com",
-      "source": "Legal Tech Monitor",
-      "published_at": "2026-06-27T17:00:51+00:00",
+      "id": "tag:google.com,2005:reader/item/0000000b9937a183",
+      "title": "DoD Considers Certification-Based Framework for Restricting Certain Printed Circuit Boards in Defense Systems",
+      "url": "https://www.jdsupra.com/legalnews/dod-considers-certification-based-9805448/",
+      "author": "Wiley Rein LLP",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-07-08T21:22:38+00:00",
       "updated_at": "",
-      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>A new post-grant review, <strong>PGR2026-00062</strong>, was filed at the Patent Trial and Appeal Board on June 25, 2026, in a matter captioned <em>America Ugreen Limited</em>. While the publicly available docket caption immediately identifies Ugreen as a party, patent professionals will want to watch for the petition, mandatory notices, and patent owner filings to clarify the full party alignment, the challenged claims, and the commercial context behind the dispute.</p><p>At this stage, the key takeaway is procedural as much as substantive: a <strong>post-grant review</strong> is only available for patents subject to the AIA’s first-inventor-to-file regime and allows challengers to press a broader range of invalidity theories than inter partes review. In addition to anticipation and obviousness based on patents and printed publications, PGR can reach issues such as <strong>subject-matter eligibility under Section 101, written description and enablement under Section 112, and indefiniteness</strong>. That makes a newly filed PGR especially important for patent prosecutors, portfolio managers, and in-house IP counsel assessing risk around recently issued patents.</p><p>The challenged patent is not yet fully described in the brief docket summary, but once the petition is available it should identify the <strong>specific patent number, challenged claims, and asserted statutory grounds</strong>. Those details will matter. If the petition leans heavily on Section 112 theories, the case may offer insight into how petitioners are framing disclosure and claim-clarity attacks in the PGR context. If it includes Section 101 arguments, practitioners will be watching closely to see how the Board handles patent-eligibility challenges after institution trends in recent PTAB practice. And if the petition focuses on prior-art-based unpatentability, the case may still be notable for how the petitioner combines traditional Sections 102 and 103 theories with broader PGR-only arguments.</p><p>Why follow this proceeding? First, early PTAB filings often preview a party’s larger enforcement or defense strategy, including parallel district court litigation, licensing pressure, or product-clearance positioning. Second, because PGR estoppel can be sweeping, the petition may reveal how aggressively challengers are willing to use the full statutory toolbox at the outset. Third, any institution decision could provide useful guidance on the Board’s appetite for mixed-ground petitions that blend prior art and non-prior-art validity attacks.</p><p>For practitioners tracking PTAB developments, this is the kind of newly filed proceeding worth placing on a watchlist now, before the more detailed papers shape the real battleground.</p><p><a href=\"https://www.docketalarm.com/cases/Patent_Trial_and_Appeal_Board/PGR2026-00062/America_Ugreen_Limited/\">View full case on Docket Alarm</a></p>",
+      "summary": "WHAT: The U.S. Department of Defense (DoD) issued an advance notice of proposed rulemaking (ANPR) seeking input on an anticipated Defense Federal Acquisition Regulation Supplement (DFARS) rule implementing 10 U.S.C. § 4873, which incorporates Section 841 of the National Defense Authorization Act (NDAA) for Fiscal Year 2021 and Section 851 of the FY 2022 NDAA and prohibits DoD from acquiring “covered printed circuit boards” from entities located in or controlled by China, Russia, Iran, or North...<br>By: <a href=\"https://www.jdsupra.com/profile/wiley_rein/\">Wiley Rein LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99338cda",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "author": "Russell Brandom",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-07-08T20:37:03+00:00",
+      "updated_at": "2026-07-08T21:18:26+00:00",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b992d4451",
+      "title": "From a Daily Shutdown Ritual, Checklists And AI, Steps Can Aid Work-Life Balance",
+      "url": "https://www.jdsupra.com/legalnews/from-a-daily-shutdown-ritual-checklists-1303138/",
+      "author": "Health Care Compliance Association (HCCA)",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T19:54:26+00:00",
+      "updated_at": "",
+      "summary": "Does everything that crosses your desk (or email or cell phone text) seem urgent? Are you pulled in 10 directions and unable to complete needed tasks? Having trouble relaxing after your workday ends? Do you laugh (or, let’s be honest, cry) when someone talks about work-life balance?...<br>By: <a href=\"https://www.jdsupra.com/profile/health_care_compliance_association/\">Health Care Compliance Association (HCCA)</a>",
       "content": "",
       "categories": [
         "reading-list",
@@ -263,14 +482,94 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b92441105",
-      "title": "[Video] Episode 428 -- Michael Volkov Guest Appearance on Collin McKee's Podcast Endavors AI",
-      "url": "https://www.jdsupra.com/legalnews/episode-428-michael-volkov-guest-appe-58550/",
-      "author": "The Volkov Law Group",
+      "id": "tag:google.com,2005:reader/item/0000000b992d4450",
+      "title": "Singapore AI Guidance Governance Data Protection and Legal Responsibility",
+      "url": "https://www.jdsupra.com/legalnews/singapore-ai-guidance-governance-data-7830610/",
+      "author": "Latham &amp; Watkins LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T19:54:26+00:00",
+      "updated_at": "",
+      "summary": "Singapore shows strong commitment to developing practical guidance and addressing the complex legal challenges posed by emerging AI technologies....<br>By: <a href=\"https://www.jdsupra.com/profile/Latham_Watkins/\">Latham &amp; Watkins LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b992af82b",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "author": "Lucas Ropek",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-07-08T19:30:16+00:00",
+      "updated_at": "",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b992aa61a",
+      "title": "Anthropic’s Anti-Surveillance Stance Rings Hollow with Secret Claude Tracker Discovery: Artificial Intelligence Trends",
+      "url": "https://ediscoverytoday.com/2026/07/08/anthropics-anti-surveillance-stance-rings-hollow-with-secret-claude-tracker-discovery-artificial-intelligence-trends/",
+      "author": "Doug Austin",
+      "source": "eDiscovery Today by Doug Austin",
+      "published_at": "2026-07-08T18:35:00+00:00",
+      "updated_at": "",
+      "summary": "<p>Discovery of a tracker secretly monitoring Claude Code users in China means that Anthropic’s anti-surveillance stance rings a bit hollow.</p> \n<p>The post <a href=\"https://ediscoverytoday.com/2026/07/08/anthropics-anti-surveillance-stance-rings-hollow-with-secret-claude-tracker-discovery-artificial-intelligence-trends/\">Anthropic’s Anti-Surveillance Stance Rings Hollow with Secret Claude Tracker Discovery: Artificial Intelligence Trends</a> appeared first on <a href=\"https://ediscoverytoday.com\">eDiscovery Today by Doug Austin</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b992a5df4",
+      "title": "Alight and BNY launch integrated retirement plan",
+      "url": "https://www.finextra.com/pressarticle/110377/alight-and-bny-launch-integrated-retirement-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T19:29:36+00:00",
+      "updated_at": "",
+      "summary": "Alight (NYSE: ALIT), a leading benefits administration provider of health, wealth and leave solutions, today announced a collaboration with BNY (NYSE: BNY), a global financial services platforms company, to launch a retirement solution designed to offer defined contribution (DC) and defined benefit (DB) plan sponsors and participants deeper support for plan administration and investing.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9929b3b5",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "author": "Rebecca Bellan",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-07-08T19:19:15+00:00",
+      "updated_at": "",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9928ac70",
+      "title": "Website Tracking Technologies Remain a Litigation Target",
+      "url": "https://www.jdsupra.com/legalnews/website-tracking-technologies-remain-a-4675900/",
+      "author": "Winthrop &amp; Weinstine, P.A.",
       "source": "Privacy RSS Feed | JD Supra Law News",
-      "published_at": "2026-06-27T18:09:10+00:00",
+      "published_at": "2026-07-08T18:41:56+00:00",
       "updated_at": "",
-      "summary": "Most companies think they have a handle on AI. Most don't.  Compliance attorney Michael Volkov has sat across the table from Fortune 500 compliance teams, major law firms, and Berkshire Hathaway subsidiaries — and what he keeps finding is \"shadow AI\": people using AI at work that leadership has no idea about. In this conversation with host Collin McKee, he breaks down where the real legal risk lives, how to protect your business, and why the smart move isn't to slow down — it's to deploy AI the...<br>By: <a href=\"https://www.jdsupra.com/profile/michael_volkov/\">The Volkov Law Group</a>",
+      "summary": "Most websites collect information about visitors to enhance user experience and support marketing and sales efforts. Common website technologies – such as cookies, pixels, session replay tools, and chatbots – help businesses improve their website functionality, analytics, and advertising.  However, businesses of all sizes that use these technologies are increasingly becoming targets of website wiretapping claims....<br>By: <a href=\"https://www.jdsupra.com/profile/Winthrop_Weinstine/\">Winthrop &amp; Weinstine, P.A.</a>",
       "content": "",
       "categories": [
         "reading-list",
@@ -279,14 +578,14 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b9228dfc7",
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "author": "Connie Loizos",
+      "id": "tag:google.com,2005:reader/item/0000000b9923113f",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "author": "Aisha Malik",
       "source": "AI | TechCrunch",
-      "published_at": "2026-06-27T14:00:00+00:00",
+      "published_at": "2026-07-08T18:30:08+00:00",
       "updated_at": "",
-      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
       "content": "",
       "categories": [
         "reading-list",
@@ -295,20 +594,1024 @@
       ]
     },
     {
-      "id": "tag:google.com,2005:reader/item/0000000b922713ea",
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "author": "Kate Park",
-      "source": "AI | TechCrunch",
-      "published_at": "2026-06-27T12:00:00+00:00",
+      "id": "tag:google.com,2005:reader/item/0000000b9920e499",
+      "title": "Virginia To Establish Guidance for Artificial Intelligence in Schools",
+      "url": "https://www.jdsupra.com/legalnews/virginia-to-establish-guidance-for-2708964/",
+      "author": "Williams Mullen",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-08T17:39:41+00:00",
       "updated_at": "",
-      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "summary": "Effective July 1, 2026, new Virginia laws require the Virginia Department of Education to develop statewide guidance for the use of artificial intelligence systems in elementary and secondary public schools, with local school boards required to adopt policies consistent with that guidance....<br>By: <a href=\"https://www.jdsupra.com/profile/Williams_Mullen/\">Williams Mullen</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991ea9de",
+      "title": "The second request pulse: what FY2025’s 41 investigations signal for FY2026",
+      "url": "https://complexdiscovery.com/the-second-request-pulse-what-fy2025s-41-investigations-signal-for-fy2026/",
+      "author": "Rob Robinson",
+      "source": "ComplexDiscovery: eDiscovery Information",
+      "published_at": "2026-07-08T15:23:14+00:00",
+      "updated_at": "2026-07-09T00:00:57+00:00",
+      "summary": "<p>Editor’s Note: Forty-one second requests in fiscal year 2025 sounds like a quiet number until you price what each one carries: months of compliance work, millions of documents, and eDiscovery engagements that anchor entire provider practices. The FTC and DOJ released the 48th annual Hart-Scott-Rodino report July 2, and the decade of data inside it reveals a demand pulse that has held between 37 and 66 investigations per year no matter how wildly deal volume has swung.</p> \n<p>For cybersecurity, data privacy, regulatory compliance, and eDiscovery professionals, the pulse is a planning tool. Second requests are where information governance discipline meets a statutory clock, where collaboration data and chat platforms enter regulatory productions, and where AI-assisted review is proving itself at scale.</p> \n<p>Watch the FTC’s monthly transaction postings through September. Fiscal year 2026 filings are running 29 percent ahead of last year’s pace through May, and if the historical rate holds, the second request count is heading back toward 60. Providers that staffed for a quiet market may need to move first.</p> \n \n<p>Industry News – Antitrust Beat</p> \n<h2>The second request pulse: what FY2025’s 41 investigations signal for FY2026</h2> \n<p><em>ComplexDiscovery Staff</em></p> \n<p>Federal antitrust regulators issued 41 second requests in fiscal year 2025, a 2.1 percent rate that lands squarely inside the narrow band the merger review process has occupied for a decade. The count matters less than the cadence. For the litigation support providers who staff these document-intensive investigations, the annual second request tally is one of the most important demand signals in the antitrust eDiscovery economy, and fiscal year 2026 filing data suggests the signal is strengthening.</p> \n<p>The Federal Trade Commission and the Department of Justice Antitrust Division released their 48th annual Hart-Scott-Rodino report July 2, covering the fiscal year that ended Sept. 30, 2025. Companies notified the agencies of 2,006 transactions under the HSR Act during the year. Of the 1,944 adjusted transactions in which a second request could have been issued, 618, or 31.8 percent, were valued above $1 billion; the FTC issued 20 second requests and the Antitrust Division issued 21. Transaction counts remained generally in line with the past decade, the agencies said in the report.</p> \n<h3>A narrow band across a volatile decade</h3> \n<p>The decade of data in the report’s Appendix A tells a story of stability inside apparent volatility. Reported transactions swung from a pandemic low of 1,637 in fiscal year 2020 to a record 3,520 in fiscal year 2021, then settled back to about 2,000 per year from fiscal year 2023 forward. Second request counts moved far less. Across fiscal years 2016 through 2025, the agencies issued between 37 and 66 second requests annually, averaging about 51 per year. The rate oscillated between 1.6 percent and 3.0 percent of adjusted transactions, with a 10-year mean near 2.5 percent.</p> \n<p>That range is the pulse rate. Deal volume can double, as it did in fiscal year 2021, without doubling second request output. The fiscal year 2021 data point is instructive: transactions surged 115 percent over the prior year while the issuance rate fell to 1.9 percent, its second-lowest level of the decade, suggesting that agency capacity, enforcement priorities, and matter complexity may constrain second request output even when deal volume rises sharply. The fiscal year 2025 rate of 2.1 percent was a step down from 3.0 percent in fiscal year 2024.</p> \n<p>Enforcement intensity tells a parallel story. The agencies took 18 merger enforcement actions in fiscal year 2025, according to the FTC’s announcement of the report. An analysis by the American Action Forum, a policy group that favors lighter regulation, calculated that figure at 0.9 percent of adjusted transactions, the lowest share since 2005.</p> \n<hr> \n<h3><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/07/second-request-pulse-fy2026-header.jpg\" alt=\"\" width=\"1700\" height=\"800\"></h3> \n<hr> \n<h3>What one second request means for a provider</h3> \n<p>Each of those 41 investigations translated into one of the largest discrete eDiscovery engagements available in the legal services market. A second request obligates both merging parties to produce documents and data covering products, markets, and competitive effects, and the parties cannot close until they substantially comply. Compliance typically takes two to four months, can cost millions of dollars, and can extend deal timelines by 10 months or longer, according to guidance published by Thomson Reuters.</p> \n<p>Document volumes at this scale dwarf routine litigation. One global provider that markets second request services and reports over 100 completed merger deals has described, as an analogous merger-control example, a recent United Kingdom investigation involving Vodafone and Three that required collecting, reviewing, and producing millions of documents from both companies. Review economics are unforgiving at those volumes. The Winter 2026 eDiscovery Pricing Survey from ComplexDiscovery OÜ and EDRM found human review rates concentrated in the 50 cents to $1 per document range, with generative AI-assisted review most frequently reported at 26 to 50 cents per document and meaningful clustering down to 11 cents. On a review of several million documents, the spread between those price points is measured in seven figures, which explains why second requests have become the proving ground for AI-assisted review at scale.</p> \n<p>The scope of what must be reviewed keeps widening. Second requests now routinely reach collaboration platforms, chat applications, and other emerging data sources alongside email and shared drives, a shift that rewards merging parties with disciplined information governance programs and punishes those without defensible data maps when the clock starts.</p> \n<h3>Provider economics of a 40-to-65 pulse</h3> \n<p>For litigation support providers, the historical pulse creates a market that is simultaneously small in count and enormous in revenue concentration. Forty to 65 engagements per year, split across two agencies and dozens of merging parties, means a specialized provider that captures even five or six second requests in a fiscal year has anchored a material share of its annual revenue on antitrust work. A concentrated field of specialized providers markets dedicated second request practices, and the compressed timelines reward firms that maintain standing infrastructure: pre-negotiated review platforms, tested AI workflows, and surge review capacity that can scale to hundreds of reviewers within days.</p> \n<p>The lumpiness cuts both ways. A fiscal year like 2023, when the agencies issued 37 second requests, the lowest count of the decade, tightens competition for every engagement. A rebound year like fiscal year 2024, with 59, absorbs available capacity quickly. Providers that treat the annual HSR report as a planning document rather than a news item can calibrate hiring, platform licensing, and partner relationships against the pulse instead of against anecdote.</p> \n<h3>Fiscal year 2026 filings point higher</h3> \n<p>The forward indicator now flashing is transaction volume. Preliminary monthly data from the FTC’s Premerger Notification Program shows 1,665 transactions reported in the first eight months of fiscal year 2026: 215 in October 2025, 227 in November, 232 in December, 180 in January 2026, 188 in February, 203 in March, 185 in April, and 235 in May. That pace runs 29 percent ahead of the 1,292 transactions reported in the same eight months of fiscal year 2025, according to final figures in the annual report. Two cautions belong next to that comparison. First, fiscal year 2025’s spring months may have been depressed in part as filers adjusted to the expanded HSR form that took effect Feb. 10, 2025, so some of the year-over-year gap likely reflects a weak baseline rather than pure acceleration. Second, monthly figures are preliminary until finalized in the annual report, and they tend to revise downward: the FTC posted 1,362 preliminary transactions for the same fiscal year 2025 months that the annual report later finalized at 1,292, a 5.1 percent reduction. Measured preliminary to preliminary, the fiscal year 2026 pace runs 22 percent ahead.</p> \n<p>October through May has historically carried about two-thirds of full-year volume. In the seven years of the past decade without pandemic or merger-wave distortions, those eight months contributed between 62.4 percent and 68.3 percent of annual transactions. Applying that range to the fiscal year 2026 data yields a full-year projection of roughly 2,440 to 2,670 reported transactions, with a central planning estimate near 2,530, which would be the highest total since fiscal year 2022. After adjusting for transactions in which a second request could not be issued, historically about 96.7 percent of the reported total, fiscal year 2026 would produce roughly 2,450 adjusted transactions. If fiscal year 2026’s preliminary counts revise downward at the same 5.1 percent rate fiscal year 2025’s did, the projection shifts to roughly 2,310 to 2,530 reported transactions, with a central planning estimate near 2,400 and about 2,320 adjusted. Either basis would make fiscal year 2026 the busiest filing year since fiscal year 2022, if the projection holds.</p> \n<p>The second request arithmetic follows directly. At fiscal year 2025’s 2.1 percent rate, the as-posted volume implies about 51 second requests. At the decade average of about 2.5 percent, roughly 60. At the 3.0 percent rate recorded in fiscal years 2016, 2019, 2020, and 2024, about 73. On the revision-adjusted basis, those scenarios run about 49, the high 50s, and 70. Any outcome in that range would exceed fiscal year 2025’s count of 41, and the upper scenarios would surpass the decade high of 66 set during the fiscal year 2021 merger wave. This projection is a ComplexDiscovery estimate built on preliminary agency data and historical ratios, not an agency forecast, and a continuation of the current administration’s lighter enforcement posture would argue for the lower end of the range.</p> \n<p><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/07/second-request-pulse-fy2026-footer.jpg\" alt=\"\" width=\"1700\" height=\"800\"></p> \n<hr> \n<h3>The form fight complicates the forecast</h3> \n<p>One wildcard sits behind the filing surge. On Feb. 12, 2026, a federal district court in the Eastern District of Texas vacated the expanded HSR premerger notification form that had taken effect in February 2025, ruling the changes arbitrary and capricious under the Administrative Procedure Act. After the Fifth Circuit denied the FTC’s motion for a stay on March 19, the agencies returned to accepting the pre-2025 form, and client alerts from law firms including Kirkland &amp; Ellis, Dechert, and White &amp; Case advised merging parties that filing burdens had dropped substantially. A lighter filing burden lowers the cost of notification and may be one factor contributing to the fiscal year 2026 volume increase. The agencies opened a public comment period on the future of the premerger form March 25.</p> \n<p>For providers, the practical takeaways sit at both ends of the process. Lighter initial filings mean less front-end document work per notification, shifting the revenue weight of merger review even further toward the second request phase. Rising notification volume expands the base to which the pulse rate applies. Providers should track the FTC’s monthly transaction postings, which update the base in near real time, and watch the comment period’s outcome, since a rebuilt form could restore front-end burdens in fiscal year 2027.</p> \n<p>If the fiscal year 2026 projection holds and second requests climb back toward 60 or higher, will the litigation support market’s surge capacity, thinned by two quieter years, be ready when the next wave of clock-stopping demands arrives?</p> \n<hr> \n \n<hr> \n<p>News sources</p> \n<ul> \n<li><a href=\"https://www.ftc.gov/system/files/ftc_gov/pdf/fy_2025_hsr_annual_report_for_transmittal_to_congress.pdf\">Hart-Scott-Rodino Annual Report for Fiscal Year 2025</a> (Federal Trade Commission)</li> \n<li><a href=\"https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-doj-issue-fiscal-year-2025-hart-scott-rodino-annual-report\">FTC and DOJ Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report</a> (Federal Trade Commission)</li> \n<li><a href=\"https://www.justice.gov/opa/pr/doj-and-ftc-issue-fiscal-year-2025-hart-scott-rodino-annual-report\">DOJ and FTC Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report</a> (U.S. Department of Justice)</li> \n<li><a href=\"https://www.ftc.gov/enforcement/premerger-notification-program\">Premerger Notification Program: HSR Transactions by Month</a> (Federal Trade Commission)</li> \n<li><a href=\"https://www.kirkland.com/publications/kirkland-alert/2026/02/district-court-vacates-new-hsr-rules-setting-up-appellate-showdown\">District Court Vacates New HSR Rules, Fifth Circuit Denies Motion to Stay Order Pending Appeal</a> (Kirkland &amp; Ellis)</li> \n<li><a href=\"https://www.dechert.com/knowledge/onpoint/2026/3/breaking--fifth-circuit-denies-ftc-stay--pre-2025-hsr-rules-rein.html\">Breaking: Fifth Circuit Denies FTC Stay; Pre-2025 HSR Rules Reinstated</a> (Dechert)</li> \n<li><a href=\"https://complexdiscovery.com/the-pricing-pulse-document-review-insights-from-the-winter-2026-ediscovery-pricing-survey/\">The Pricing Pulse: Document Review Insights from the Winter 2026 eDiscovery Pricing Survey</a> (ComplexDiscovery)</li> \n<li><a href=\"https://legal.thomsonreuters.com/en/insights/articles/navigating-the-hart-scott-rodino-act-\">What You Should Know Before Filing the Hart-Scott-Rodino Act</a> (Thomson Reuters)</li> \n<li><a href=\"https://www.americanactionforum.org/insight/hsr-report-showed-early-terminations-are-almost-back/\">HSR Report Showed Early Terminations Are (Almost) Back</a> (American Action Forum)</li> \n</ul> \n<hr> \n<p><a href=\"https://complexdiscovery.com/generative-artificial-intelligence-and-large-language-model-policy/\"><span>Assisted by GAI and LLM Technologies</span></a></p> \n<p>Additional Reading</p> \n<ul> \n<li><a href=\"https://complexdiscovery.com/category/hsr-reporting/\">HSR Act Reporting: A ComplexDiscovery Chronology</a></li> \n<li><a href=\"https://www.ftc.gov/policy/reports/policy-reports/annual-competition-reports\">FTC Annual Competition Reports (Hart-Scott-Rodino Act Reports)</a></li> \n</ul> \n<p>Source: ComplexDiscovery OÜ</p> \n<p><img src=\"https://complexdiscovery.com/wp-content/uploads/2026/07/Second-Requests-Two.png\" alt=\"\" width=\"2550\" height=\"1200\"></p> \n<blockquote><p>ComplexDiscovery’s mission is to enable clarity for complex decisions by providing independent, data‑driven reporting, research, and commentary that make digital risk, legal technology, and regulatory change more legible for practitioners, policymakers, and business leaders.</p></blockquote> \n<div> \n<div> \n<div></div> \n</div> \n</div> \n<p>The post <a href=\"https://complexdiscovery.com/the-second-request-pulse-what-fy2025s-41-investigations-signal-for-fy2026/\">The second request pulse: what FY2025’s 41 investigations signal for FY2026</a> appeared first on <a href=\"https://complexdiscovery.com\">ComplexDiscovery</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "eDiscovery - Litigation",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991df617",
+      "title": "When 'Made by Humans' Becomes a Selling Point: Branding in an AI age",
+      "url": "https://www.jdsupra.com/legalnews/when-made-by-humans-becomes-a-selling-7243224/",
+      "author": "Ashurst Perkins Coie",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T17:54:01+00:00",
+      "updated_at": "",
+      "summary": "Faced with a deluge of AI generated works, consumers are increasingly valuing authenticity, originality and human creation, and designating products or content as 'human-made' or 'AI-free' is becoming a point of distinction....<br>By: <a href=\"https://www.jdsupra.com/profile/perkins_coie/\">Ashurst Perkins Coie</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991df615",
+      "title": "Canada’s AI for All Strategy: Building Trust, Innovation and Sovereignty in the Era of AI",
+      "url": "https://www.jdsupra.com/legalnews/canada-s-ai-for-all-strategy-building-6813080/",
+      "author": "Bennett Jones LLP",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T17:54:01+00:00",
+      "updated_at": "",
+      "summary": "On June 4th, 2026, the federal government released Canada’s National Artificial Intelligence Strategy: AI for All (the Strategy). The Strategy aims to ensure that artificial intelligence serves Canadians, strengthens businesses and communities and enhances Canada’s control over its technological future through six key pillars....<br>By: <a href=\"https://www.jdsupra.com/profile/bennett_jones/\">Bennett Jones LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991de80b",
+      "title": "Listening & Speaking with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=K-fYBO8t3-A",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T17:33:31+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=K-fYBO8t3-A\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>More about our next generation voice model here: <a href=\"https://openai.com/index/introducing-gpt-live/\">https://openai.com/index/introducing-gpt-live/</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991de807",
+      "title": "Natural Conversations with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=3bL6IpdgddQ",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T17:33:32+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=3bL6IpdgddQ\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>More about our next generation voice model here: <a href=\"https://openai.com/index/introducing-gpt-live/\">https://openai.com/index/introducing-gpt-live/</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991de804",
+      "title": "Discoverability widgets with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=QUOwyLwoykU",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T17:36:34+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=QUOwyLwoykU\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>More about our next generation voice model here: <a href=\"https://openai.com/index/introducing-gpt-live/\">https://openai.com/index/introducing-gpt-live/</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991de7ff",
+      "title": "Image interaction with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=KS4X-BPjxN8",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T17:37:19+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=KS4X-BPjxN8\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>More about our next generation voice model here: <a href=\"https://openai.com/index/introducing-gpt-live/\">https://openai.com/index/introducing-gpt-live/</a></p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991bfa2a",
+      "title": "AI Use in Health Care Investigations: Privilege Risks After Heppner",
+      "url": "https://www.jdsupra.com/legalnews/ai-use-in-health-care-investigations-1202640/",
+      "author": "Stevens &amp; Lee",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-08T17:35:42+00:00",
+      "updated_at": "",
+      "summary": "A recent federal decision, United States v. Heppner, offers a timely reminder for health care organizations experimenting with generative AI: using public AI tools in connection with legal or compliance issues may undermine privilege protections. The court held that a defendant’s communications with a public generative AI platform were not protected by attorney-client privilege or the work product doctrine....<br>By: <a href=\"https://www.jdsupra.com/profile/stevens_lee/\">Stevens &amp; Lee</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991a730c",
+      "title": "Trekking Through Compliance: Episode 37 – Corporate Governance Lessons from Star Trek’s “I, Mudd”",
+      "url": "https://www.jdsupra.com/legalnews/trekking-through-compliance-episode-37-06333/",
+      "author": "Thomas Fox - Compliance Evangelist",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-07-07T20:38:53+00:00",
+      "updated_at": "",
+      "summary": "Who could have imagined that “I, Mudd,” a quirky, comedic episode from Star Trek: TOS, would offer valuable lessons in corporate governance? Yet, here we are, boldly going where no compliance blogger has gone before, using the misadventures of Captain Kirk and the enigmatic Harry Mudd to distill governance wisdom for modern compliance practitioners.  In this episode, “I, Mudd,” the Enterprise crew encounters Harry Mudd once more, stranded on a planet ruled by androids who are both obsessed with...<br>By: <a href=\"https://www.jdsupra.com/profile/tomfoxlaw/\">Thomas Fox - Compliance Evangelist</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9919c687",
+      "title": "Real Estate & Construction News Roundup (7/8/26) &ndash; Data Centers Negotiate Flexibility for Speed, Hotel Deal Activities Focus on Luxury, and DC Sues Apartment Owners",
+      "url": "https://www.jdsupra.com/legalnews/real-estate-construction-news-roundup-7-9325761/",
+      "author": "Pillsbury - Gravel2Gavel Construction &amp; Real Estate Law",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T17:23:37+00:00",
+      "updated_at": "",
+      "summary": "In our latest roundup, rail projects gain steam across the U.S., AI optimizes building operations, a modular approach speeds data center construction, and more!...<br>By: <a href=\"https://www.jdsupra.com/profile/pillsbury_gavel2gavel/\">Pillsbury - Gravel2Gavel Construction &amp; Real</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991963ca",
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "author": "Sarah Perez",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-07-08T17:11:18+00:00",
+      "updated_at": "",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99175415",
+      "title": "Oz Benamram joins Pillsbury as chief AI officer",
+      "url": "https://legaltechnology.com/oz-benamram-joins-pillsbury-as-chief-ai-officer/",
+      "author": "Caroline Hill - Editor-in-Chief",
+      "source": "Legal IT Insider",
+      "published_at": "2026-07-08T14:39:11+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://legaltechnology.com/wp-content/uploads/2026/07/oz-pillsbury.png\" alt=\"oz-pillsbury.png\"></p><p>Oz Benamram has officially joined Pillsbury Winthrop Shaw Pittman as chief AI officer. Benamram is one of the legaltech industry’s best-known names, having advised law firm leaders, legaltech companies, and […]</p>  \n<p>The post <a href=\"https://legaltechnology.com/oz-benamram-joins-pillsbury-as-chief-ai-officer/\">Oz Benamram joins Pillsbury as chief AI officer</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9916b128",
+      "title": "PNC overhauls app",
+      "url": "https://www.finextra.com/pressarticle/110376/pnc-overhauls-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T15:31:00+00:00",
+      "updated_at": "",
+      "summary": "PNC today announced the launch of its new Mobile Banking app, a modernized platform that delivers a personalized, secure and high-performing digital experience to help retail clients seamlessly manage their financial lives.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99160732",
+      "title": "How Oregon and Washington Employers Can Reduce the Risk of Wage-and-Hour Class Actions in 2026",
+      "url": "https://www.jdsupra.com/legalnews/how-oregon-and-washington-employers-can-1507644/",
+      "author": "Schwabe, Williamson &amp; Wyatt PC",
+      "source": "Compliance | JD Supra Law News",
+      "published_at": "2026-07-08T16:59:09+00:00",
+      "updated_at": "",
+      "summary": "For employers with large hourly workforces, wage-and-hour compliance is not a back-office technicality. Wage-and-hour class actions remain one of the most common—and costly—legal threats facing employers today. Employers, especially those in the manufacturing and retail industries all share the same basic vulnerability: a single policy or practice applied across many employees, many shifts, and many locations....<br>By: <a href=\"https://www.jdsupra.com/profile/schwabe_williamson_wyatt/\">Schwabe, Williamson &amp; Wyatt PC</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99153ef6",
+      "title": "FCA Presses Ahead with Insurance Simplification: Key Points from Consultation Paper 26/22",
+      "url": "https://www.jdsupra.com/legalnews/fca-presses-ahead-with-insurance-6862193/",
+      "author": "Proskauer - Regulatory &amp; Compliance",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T16:53:53+00:00",
+      "updated_at": "",
+      "summary": "On 29 June 2026, the Financial Conduct Authority (FCA) published Consultation Paper CP26/22, Simplifying the insurance rules — A package of proposals on the scope of our rules, disclosure and advice. This is the second phase of the FCA’s insurance simplification programme, following Policy Statement PS25/21 in December 2025 and earlier exploratory work through Discussion Paper DP24/1 and Feedback Statement FS25/2....<br>By: <a href=\"https://www.jdsupra.com/profile/proskauer_regulatory_compliance/\">Proskauer - Regulatory &amp; Compliance</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9911ed6f",
+      "title": "Building a Case Chronology That Holds Up Throughout Discovery: eDiscovery Webinars",
+      "url": "https://ediscoverytoday.com/2026/07/08/building-a-case-chronology-that-holds-up-throughout-discovery-ediscovery-webinars/",
+      "author": "Doug Austin",
+      "source": "eDiscovery Today by Doug Austin",
+      "published_at": "2026-07-08T15:45:00+00:00",
+      "updated_at": "",
+      "summary": "<p>Want to learn about building a case chronology that holds up throughout discovery? Tune into this EDRM &amp; Nextpoint webinar next Tuesday!</p> \n<p>The post <a href=\"https://ediscoverytoday.com/2026/07/08/building-a-case-chronology-that-holds-up-throughout-discovery-ediscovery-webinars/\">Building a Case Chronology That Holds Up Throughout Discovery: eDiscovery Webinars</a> appeared first on <a href=\"https://ediscoverytoday.com\">eDiscovery Today by Doug Austin</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "eDiscovery - Litigation",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991133ad",
+      "title": "AI startup founder pleads guilty to receiving insider tips from BigLaw lawyers",
+      "url": "https://www.abajournal.com/news/article/ai-startup-founder-pleaded-guilty-to-receiving-insider-tips-from-biglaw-lawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+      "author": "webmaster@abajournal.com",
+      "source": "ABA Journal Daily News - Legal Technology",
+      "published_at": "2026-07-08T16:13:00+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.abajournal.com/images/main_images/insider_trading.jpg\" alt=\"insider_trading.jpg\"></p>The head of an artificial intelligence startup admitted his role last year in a scheme involving BigLaw attorneys informing traders about upcoming mergers that their…",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9910d533",
+      "title": "The next generation of ChatGPT Voice",
+      "url": "https://www.youtube.com/watch?v=9f-Ew_lDtxc",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T05:20:51+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=9f-Ew_lDtxc\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Join Kundan Kumar, Yuchen Zhang, Ehsan Asdar, and Rithesh Kumar as they introduce and demo a new generation of voice models.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b991056fb",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "author": "Marina Temkin",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-07-08T16:22:38+00:00",
+      "updated_at": "2026-07-08T16:51:24+00:00",
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b990b8713",
+      "title": "How East Bay Nonprofits Are Putting AI to Work | OpenAI Academy",
+      "url": "https://www.youtube.com/watch?v=Mz-hQsE3OWQ",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T15:24:54+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=Mz-hQsE3OWQ\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Description<br> \nAt an OpenAI Academy workshop in Oakland, nonprofit leaders from across the East Bay learned practical ways to use ChatGPT to support their work, from grant drafting and donor research to data analysis and day-to-day operations. Presented in partnership with TechSoup and Oakstop, the hands-on session gave participants step-by-step guidance, real-world examples, and dedicated time to build AI solutions tailored to their organizations.</p>",
       "content": "",
       "categories": [
         "reading-list",
         "AI General",
         "High-Signal",
         "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b990b8701",
+      "title": "OpenAI Academy x Veterans Forge | Building with ChatGPT: Practical AI Skills for Veterans",
+      "url": "https://www.youtube.com/watch?v=J2ZNjSplGd8",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T15:25:04+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=J2ZNjSplGd8\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>Veterans and active-duty service members gathered in Baltimore for a hands-on OpenAI Academy workshop focused on practical AI skills. Hosted in partnership with Veterans Forge and The AI Collective • Hampton Roads, the session combined guided instruction, real-world exercises, and peer learning to help participants build confidence using ChatGPT for career growth, professional development, and lifelong learning.<br> \n<br> \nYou can learn more about OpenAI Academy and take free AI literacy courses here: academy.openai.com</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "AI General",
+        "High-Signal",
+        "Noise",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b990b8707",
+      "title": "OpenAI Academy: Small Business Jam 2025",
+      "url": "https://www.youtube.com/watch?v=gjYqxEd0VPU",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T15:25:01+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=gjYqxEd0VPU\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>On November 20, OpenAI Academy partnered with DoorDash, SCORE, and local business-support organizations to bring small business owners together at five locations across the country — Detroit, Houston, Miami, New York City, and San Francisco — for a hands-on day of learning practical ways to build with AI. <br> \n<br> \nYou can find out more about the OpenAI Academy and take free AI literacy courses here: academy.openai.com</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b990b8710",
+      "title": "OpenAI Academy Abilene: Teaching AI literacy in the home of the first Stargate data center",
+      "url": "https://www.youtube.com/watch?v=ihnqxynwtYk",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T15:24:58+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=ihnqxynwtYk\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>OpenAI Academy traveled to Abilene, Texas, home of OpenAI’s first Stargate data center, to host hands-on AI training for local small business owners and educators. In partnership with the Development Corporation of Abilene and Texas State Technical College, participants learned practical ways to use ChatGPT and Codex to save time, improve workflows, and build confidence with AI tools.<br> \n<br> \nAs AI infrastructure expands, OpenAI is committed to helping communities build the skills needed to participate in the future of AI — not just live next to it.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b990b86f7",
+      "title": "OpenAI Academy: Parent-Coaches with the San Antonio Spurs",
+      "url": "https://www.youtube.com/watch?v=94cXnSu6kUQ",
+      "author": "OpenAI",
+      "source": "OpenAI",
+      "published_at": "2026-07-08T15:25:08+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=94cXnSu6kUQ\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>The San Antonio Spurs Community Impact organization, OpenAI Academy and the Positive Coaching Alliance teamed up to bring together coaches, parents, and community leaders on Sunday to explore how AI can support learning, coaching, and youth engagement—on and off the court.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b990978ec",
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "author": "Marina Temkin",
+      "source": "AI | TechCrunch",
+      "published_at": "2026-07-08T15:41:06+00:00",
+      "updated_at": "",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99062758",
+      "title": "Validating Models Under SR 26-2: What Changes for Regional and Community Banks?",
+      "url": "https://www.jdsupra.com/legalnews/validating-models-under-sr-26-2-what-5395888/",
+      "author": "Ankura",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T15:24:27+00:00",
+      "updated_at": "",
+      "summary": "The federal banking agencies’ revised model risk management guidance in SR 26-2 reflects a more explicitly risk-based approach to model governance, validation, and monitoring. Although the guidance is expected to be most relevant for organizations with more than $30 billion in assets, SR 26-2 is better understood as principles-based rather than purely scope-based......<br>By: <a href=\"https://www.jdsupra.com/profile/ankura/\">Ankura</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9906275b",
+      "title": "Recent Microsoft PTAB Ruling Signals the Key Role of Patent Specifications in AI Patent Eligibility",
+      "url": "https://www.jdsupra.com/legalnews/recent-microsoft-ptab-ruling-signals-5335656/",
+      "author": "International Lawyers Network",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T15:24:27+00:00",
+      "updated_at": "",
+      "summary": "In a continued development of patent eligibility policy following Ex parte Desjardins, the Patent Trial and Appeal Board (PTAB) reversed a subject-matter eligibility rejection under 35 U.S.C. § 101 for a Microsoft invention directed to AI-assisted code-editing tools, such as GitHub Copilot. Here, in Ex parte Ziegler, Appeal No. 2025-003643, decided May 29, 2026, the Board reversed the eligibility rejection in a 2-1 split decision, highlighting distinct perspectives on what constitutes an...<br>By: <a href=\"https://www.jdsupra.com/profile/InternationalLawyersNetwork/\">International Lawyers Network</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99043ecd",
+      "title": "Connecticut Data Privacy Act: 2026 Amendments",
+      "url": "https://www.jdsupra.com/legalnews/connecticut-data-privacy-act-2026-7597108/",
+      "author": "Snell &amp; Wilmer",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-08T15:02:45+00:00",
+      "updated_at": "",
+      "summary": "Connecticut’s consumer data privacy framework is expanding in 2026 through two separate legislative packages with staggered effective dates that will have significant impacts on many industries. The first, SB 1295, was enacted in June 2025 and took effect July 1, 2026.  SB 1295 expands the affected class and the requirements for sensitive data, consumer rights, privacy notices, and automated decision-making......<br>By: <a href=\"https://www.jdsupra.com/profile/snell_wilmer/\">Snell &amp; Wilmer</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b99043ed4",
+      "title": "New Jersey Moves to Ban Sensitive Data Sales: What Businesses Must Do Now",
+      "url": "https://www.jdsupra.com/legalnews/new-jersey-moves-to-ban-sensitive-data-5481187/",
+      "author": "Baker Donelson",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-08T14:18:56+00:00",
+      "updated_at": "",
+      "summary": "Last week, New Jersey (NJ) lawmakers enacted a new, game-changing privacy law that threatens to ensnare unsuspecting businesses of all sizes that fail to take immediate action. A5328 (1R) (NJ Sensitive Data Law) amends the New Jersey Data Privacy Act (NJDPA) to impose a blanket ban on the sale of sensitive data, a separate ban on the transmission of sensitive data by data brokers and \"data collectors,\" and a first-of-its-kind data broker registration-and-disclosure compliance regime – all backed...<br>By: <a href=\"https://www.jdsupra.com/profile/Baker_Donelson/\">Baker Donelson</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b9900ea37",
+      "title": "Defunding DEI Hits a Legal Wall: Courts Shield Federal Funding Recipients From Biased Artificial Intelligence (AI) Overreach",
+      "url": "https://www.jdsupra.com/legalnews/defunding-dei-hits-a-legal-wall-courts-7717208/",
+      "author": "Epstein Becker &amp; Green",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T18:23:45+00:00",
+      "updated_at": "2026-07-08T18:23:45+00:00",
+      "summary": "“BIPOC (Black, Indigenous, People of Color),” “Minorities,” “Native,” “Tribal,” “Indigenous,” “Immigrant,” “LGBTQ,” “Homosexual,” and “Gay.”     These were the search terms utilized by the federal government to eliminate Diversity, Equity, and Inclusion (DEI) in federal funding, all while using Artificial Intelligence (AI) to target those funds. In a stunning rebuke of such discriminatory practices, the District Court for the Southern District of New York found in American Council of Learned...<br>By: <a href=\"https://www.jdsupra.com/profile/epstein_becker_green/\">Epstein Becker &amp; Green</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98fe7d1c",
+      "title": "Legal AI Has a Prerequisite: Structure",
+      "url": "https://www.jdsupra.com/legalnews/legal-ai-has-a-prerequisite-structure-7819775/",
+      "author": "Array",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-08T14:29:17+00:00",
+      "updated_at": "",
+      "summary": "At Array, AI is already being pushed beyond document review and into the full litigation lifecycle. That’s not yet the market standard—but it’s where the market is heading.  The premise is straightforward, if uncomfortable: AI does not create order. It depends on it....<br>By: <a href=\"https://www.jdsupra.com/profile/array/\">Array</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98fe7d35",
+      "title": "Court Reaffirms Limits on Norwich Orders in Crypto Asset Disputes",
+      "url": "https://www.jdsupra.com/legalnews/court-reaffirms-limits-on-norwich-4787059/",
+      "author": "Bennett Jones LLP",
+      "source": "Electronic Discovery RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-08T13:51:41+00:00",
+      "updated_at": "",
+      "summary": "In Nivora Group LLC v. Ping et al., 2026 ONSC 2943, the Ontario Superior Court of Justice dismissed a motion for a Norwich order seeking third-party disclosure from two cryptocurrency exchanges in an alleged asset misappropriation dispute. The Court's decision stands as an important reminder that Norwich orders are exceptional remedies and cannot be invoked to circumvent the usual discovery process....<br>By: <a href=\"https://www.jdsupra.com/profile/bennett_jones/\">Bennett Jones LLP</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98fc2e90",
+      "title": "Snapshot on Manufacturing Industry: Mitigating AI Bias Risk in Hiring and Workforce Management",
+      "url": "https://www.jdsupra.com/legalnews/snapshot-on-manufacturing-industry-9996569/",
+      "author": "Fisher Phillips",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T14:22:56+00:00",
+      "updated_at": "",
+      "summary": "Production demands are up and you need to fill several key positions. At the same time, you need to quickly evaluate annual performance reviews to finalize merit pay increases. AI seems to be just the tool to get all this done efficiently and effectively, right? The Fisher Phillips AI, Data, and Analytics Team recently outlined 10 practical steps employers can take to mitigate bias and manage legal risk when using AI tools in hiring, promotion, and employee management. This Manufacturing...<br>By: <a href=\"https://www.jdsupra.com/profile/fisher_phillips/\">Fisher Phillips</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "read",
+        "Legal Tech Core",
+        "High-Signal",
+        "Noise"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98fc2e93",
+      "title": "Strict AI Safety Rules Coming to Illinois: 5 Key Takeaways for Businesses on New State Law",
+      "url": "https://www.jdsupra.com/legalnews/strict-ai-safety-rules-coming-to-6336007/",
+      "author": "Fisher Phillips",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T14:22:56+00:00",
+      "updated_at": "",
+      "summary": "Illinois will soon have the most rigorous safety standard when it comes to AI regulation, joining states like California and New York in attempting to set guardrails around emerging technology absent a federal regulatory framework. Governor Pritzker signed the Artificial Intelligence Safety Measures Act (SB 315) into law on July 6, creating multiple transparency requirements for AI developers and setting steep fines for noncompliance. The measure passed the state legislature with broad...<br>By: <a href=\"https://www.jdsupra.com/profile/fisher_phillips/\">Fisher Phillips</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98fc2e95",
+      "title": "[Ongoing Program] Judicial Perspectives on AI - July 22nd, 10:00 am PT",
+      "url": "https://www.jdsupra.com/legalnews/ongoing-program-judicial-perspectives-7976734/",
+      "author": "Association of Certified E-Discovery Specialists (ACEDS)",
+      "source": "Artificial Intelligence | JD Supra Law News",
+      "published_at": "2026-07-08T14:22:56+00:00",
+      "updated_at": "",
+      "summary": "Judges panel with David Horrigan of Relativity moderating a discussion centered on emerging issues and cases dealing with use of AI in the legal world.    The 2026 Midwest ACEDS Chapter Series is focused on AI tools and capabilities that are actually available and being used now. We aim to explore and discuss how legal practitioners are weaving Artificial Intelligence into their workflows and processes. We want to hear what is working, where there are marginal gains, and what practices are...<br>By: <a href=\"https://www.jdsupra.com/profile/association_of_certified_e-discovery_specialists_aceds/\">Association of Certified E-Discovery</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98fb77bc",
+      "title": "SEC’s New Retail Fraud Group Signals a Sharper Focus on Main Street Investor Cases",
+      "url": "https://www.legaltechmonitor.com/2026/07/secs-new-retail-fraud-group-signals-a-sharper-focus-on-main-street-investor-cases/",
+      "author": "brunoqueirozdocketalarm-com",
+      "source": "Legal Tech Monitor",
+      "published_at": "2026-07-08T09:58:39+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.legaltechmonitor.com/files/2019/08/lt-social-share.png\" alt=\"lt-social-share.png\"></p><p></p><p>The SEC has announced a new Retail Fraud Group within the Division of Enforcement, a structural change that offers an unusually clear signal about where the agency expects to devote investigative and prosecutorial resources in the near term. The group is designed to target fraud affecting everyday investors, including the kinds of schemes that often arise through digital marketing, affinity-based solicitations, misrepresentations in retail-facing products, and misconduct tied to investment advisers or broker channels.</p><p>For legal professionals, the significance is less about the creation of a new name and more about what it suggests operationally: specialization, centralized expertise, and potentially faster identification of recurring fraud patterns. Enforcement groups organized around a specific victim class or market segment often lead to more coordinated sweeps, increased data-driven investigations, and a stronger pipeline of referrals from examinations, tips, and whistleblower submissions. In that sense, the SEC’s move may foreshadow a rise in investigations involving products and practices marketed to non-institutional investors.</p><p>For defense counsel, this means retail-facing conduct may receive closer scrutiny even where the dollar amounts at issue are smaller than in headline-grabbing institutional matters. Marketing materials, social media outreach, disclosures around fees and risk, and supervision of registered representatives are likely areas of heightened interest. Firms that touch retail investors should expect the SEC to look closely at whether business practices are merely aggressive or potentially misleading.</p><p>In-house counsel and compliance teams should treat this development as a prompt to revisit controls that sit at the intersection of sales, disclosure, and supervision. That includes reviewing complaint trends, escalation procedures, training for front-line personnel, use of performance claims, and the documentation supporting suitability or best-interest determinations. Businesses in fintech, wealth management, and retail brokerage may face particular pressure to demonstrate that innovation has not outpaced compliance infrastructure.</p><p>The announcement also matters for litigators tracking downstream civil exposure. SEC retail-fraud investigations often generate parallel consequences: investor arbitrations, follow-on class actions, books-and-records disputes, and employment issues tied to supervisory responsibility. A more targeted enforcement posture can therefore create opportunities and risks across multiple practice areas at once.</p><p>At a broader level, the new group underscores how enforcement priorities can shift even while an agency retools other parts of its program. For the bar, the practical takeaway is straightforward: watch where the SEC is building internal capacity. Those organizational choices frequently reveal tomorrow’s investigative agenda before a wave of public cases arrives.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98fa5b8b",
+      "title": "Looming Class Action Litigation Risk and DOJ’s Bulk Sensitive Data Transfer Rule: Navigating an Unexpected Compliance Trap",
+      "url": "https://www.jdsupra.com/legalnews/looming-class-action-litigation-risk-7310077/",
+      "author": "Epstein Becker &amp; Green",
+      "source": "Privacy RSS Feed | JD Supra Law News",
+      "published_at": "2026-07-08T14:04:25+00:00",
+      "updated_at": "",
+      "summary": "The U.S. Department of Justice (DOJ) began implementing the Bulk Sensitive Data Transfer Rule (the “BSD Transfer Rule” or the “Rule”) on April 8, 2025, to prevent foreign adversaries from accessing and weaponizing large volumes of sensitive U.S. personal and government data that could be used for espionage, surveillance, or exploitation. However, class action plaintiffs’ attorneys are leveraging the BSD Transfer Rule’s prohibitions to support data privacy and wiretapping claims that carry...<br>By: <a href=\"https://www.jdsupra.com/profile/epstein_becker_green/\">Epstein Becker &amp; Green</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Information Governance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98f956c1",
+      "title": "AI liability clarified? UKJT says existing English Law provides the answer",
+      "url": "https://legaltechnology.com/ai-liability-clarified-ukjt-says-existing-english-law-provides-the-answer/",
+      "author": "Caroline Hill - Editor-in-Chief",
+      "source": "Legal IT Insider",
+      "published_at": "2026-07-08T11:16:11+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://legaltechnology.com/wp-content/uploads/2025/11/Trumper-2025-11-13T120037.490.png\" alt=\"Trumper-2025-11-13T120037.490.png\"></p><p>The UK Jurisdiction Taskforce (UKJT) – an industry-led initiative created by LawtechUK – has this week published a Legal Statement on Liability for AI Harms, which finds that professionals may […]</p>  \n<p>The post <a href=\"https://legaltechnology.com/ai-liability-clarified-ukjt-says-existing-english-law-provides-the-answer/\">AI liability clarified? UKJT says existing English Law provides the answer</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98f936f4",
+      "title": "Oz Joins Pillsbury For Top AI Role",
+      "url": "https://www.artificiallawyer.com/2026/07/08/oz-joins-pillsbury-for-top-ai-role/",
+      "author": "artificiallawyer",
+      "source": "Artificial Lawyer",
+      "published_at": "2026-07-08T14:06:05+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-15.02.59.png\" alt=\"Screenshot-2026-07-08-at-15.02.59.png\"></p>International man of mystery and legal AI guru, Oz Benamram, has joined US law firm Pillsbury as its first Chief AI Officer. It’s understood that <a href=\"https://www.artificiallawyer.com/2026/07/08/oz-joins-pillsbury-for-top-ai-role/\" title=\"Oz Joins Pillsbury For Top AI Role\">...</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98f920e8",
+      "title": "SBS embeds AI into core banking platform",
+      "url": "https://www.finextra.com/pressarticle/110374/sbs-embeds-ai-into-core-banking-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T14:05:46+00:00",
+      "updated_at": "",
+      "summary": "SBS, the global financial technology company that more than 1,500 financial institutions rely on to digitally transform the way they operate, is launching SBS AI Foundation, embedding enterprise AI directly into the core banking, lending, and digital banking products its clients already run.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98f60d93",
+      "title": "Centari Launches External Views, Enabling Firms to Share Deal Intelligence Dashboards Directly with Clients",
+      "url": "https://www.lawnext.com/2026/07/centari-launches-external-views-enabling-firms-to-share-deal-intelligence-dashboards-directly-with-clients.html",
+      "author": "Bob Ambrogi",
+      "source": "Robert Ambrogi's LawSites",
+      "published_at": "2026-07-08T13:00:55+00:00",
+      "updated_at": "",
+      "summary": "<img width=\"1024\" height=\"576\" src=\"https://www.lawnext.com/wp-content/uploads/2026/07/Centari-External-Views-Featured-7-8-26-1024x576.png\" alt=\"\" style=\"float:left;margin:0 15px 15px 0;\">Centari, an AI platform for managing complex transactions, today launched External Views, a capability that allows law firms to create white-labeled dashboards and share them directly with clients. The feature builds on Centari’s Views capability, introduced earlier this year, which enables firms to analyze transaction trends, benchmark market positions, and visualize deal data across their […]",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98f1d055",
+      "title": "Syntheia Slashes Token Costs With Novel Approach",
+      "url": "https://www.artificiallawyer.com/2026/07/08/syntheia-slashes-token-costs-with-novel-approach/",
+      "author": "artificiallawyer",
+      "source": "Artificial Lawyer",
+      "published_at": "2026-07-08T13:17:50+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-13.45.18.png\" alt=\"Screenshot-2026-07-08-at-13.45.18.png\"></p>Horace Wu’s Syntheia has found that by taking a different approach to how a contract is ‘sliced up’ before applying AI, to put it simply, <a href=\"https://www.artificiallawyer.com/2026/07/08/syntheia-slashes-token-costs-with-novel-approach/\" title=\"Syntheia Slashes Token Costs With Novel Approach\">...</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98ef91d9",
+      "title": "Equifax agrees $750m acquisition of Mexican credit bureau",
+      "url": "https://www.finextra.com/newsarticle/48056/equifax-agrees-750m-acquisition-of-mexican-credit-bureau?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T13:06:22+00:00",
+      "updated_at": "",
+      "summary": "Equifax has moved to gain a foothold in the fast-growing Mexican market through a $750 million deal to buy the country's fastest growing credit bureau, Círculo de Crédito.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98e1e337",
+      "title": "US Bank advances money moving capabilities for SMEs",
+      "url": "https://www.finextra.com/pressarticle/110373/us-bank-advances-money-moving-capabilities-for-smes?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T11:36:38+00:00",
+      "updated_at": "",
+      "summary": "U.S. Bank today announced the launch of Enhanced Payments, a new bundled solution that helps small business owners move money quickly and more affordably – directly within U.S. Bank online banking and the bank’s mobile app.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98e1de67",
+      "title": "One Thing We’re Getting Faster at with AI? Hallucinations in Cases: Artificial Intelligence Trends",
+      "url": "https://ediscoverytoday.com/2026/07/08/one-thing-were-getting-faster-at-with-ai-hallucinations-in-cases-artificial-intelligence-trends/",
+      "author": "Doug Austin",
+      "source": "eDiscovery Today by Doug Austin",
+      "published_at": "2026-07-08T11:30:00+00:00",
+      "updated_at": "",
+      "summary": "<p>Want to know one thing we’re getting faster at with AI? Sadly, it’s not a good thing – it’s hallucinations in cases per Damien Charlotin’s database.</p> \n<p>The post <a href=\"https://ediscoverytoday.com/2026/07/08/one-thing-were-getting-faster-at-with-ai-hallucinations-in-cases-artificial-intelligence-trends/\">One Thing We’re Getting Faster at with AI? Hallucinations in Cases: Artificial Intelligence Trends</a> appeared first on <a href=\"https://ediscoverytoday.com\">eDiscovery Today by Doug Austin</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "eDiscovery - Litigation",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98e02d33",
+      "title": "Adam Neumann: This Is How You Build Iconic Companies",
+      "url": "https://a16z.simplecast.com/episodes/adam-neumann-this-is-how-you-build-iconic-companies-_2mqt7jy",
+      "author": "content+a16zpodcast@a16z.com (Marc Andreessen, Ben Horowitz, Erik Torenberg, Adam Neumann)",
+      "source": "a16z",
+      "published_at": "2026-07-08T10:00:00+00:00",
+      "updated_at": "",
+      "summary": "<p>Adam Neumann joins Marc Andreessen, Ben Horowitz, and Erik Torenberg for a candid conversation about entrepreneurship, failure, and building Flow.</p> \n<p>Neumann reflects on his childhood, military service, immigration to the United States, the rise and fall of WeWork, and what he learned from one of the most scrutinized founder journeys in technology. He explains why Flow is focused on rethinking housing, community, and belonging, and why he believes technology can fundamentally improve how people live.</p> \n<p>The conversation explores resilience, company building, leadership, real estate, software, flexible living, and the global housing crisis. Along the way, Neumann discusses rebuilding trust, designing for community, and why some of the biggest entrepreneurial opportunities emerge from deeply personal experiences.</p> \n<p> </p> \n<p>Resources:</p> \n<p>Read Marc's blog post about Flow: https://a16z.com/announcement/flow/</p> \n<p>Marc on X: https://x.com/pmarca </p> \n<p>Marc’s Substack: https://pmarca.substack.com/ </p> \n<p>Ben on X: https://x.com/bhorowitz </p> \n<p>Erik on X: https://x.com/eriktorenberg </p> \n<p>Erik's Substack: https://eriktorenberg.substack.com/</p> \n<p></p><p><strong>Stay Updated:</strong></p><p>Find a16z on YouTube: <a href=\"https://www.youtube.com/@a16z\">YouTube</a></p><p>Find a16z on <a href=\"https://x.com/a16z\">X</a></p><p>Find a16z on<a href=\"https://www.linkedin.com/company/a16z\"> LinkedIn</a></p><p>Listen to the a16z Show on <a href=\"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX?si=3E8B3qT9TyiwAHJ7JnaKbg\">Spotify</a></p><p>Listen to the a16z Show on <a href=\"https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711\">Apple Podcasts</a></p><p>Follow our host: <a href=\"https://twitter.com/eriktorenberg\">https://twitter.com/eriktorenberg</a></p><p> </p><p>Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures.</p><br> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "AI General",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98dd13e0",
+      "title": "Kickoff acquires credit reporting technology",
+      "url": "https://www.finextra.com/pressarticle/110362/kickoff-acquires-credit-reporting-technology?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T11:07:06+00:00",
+      "updated_at": "",
+      "summary": "Kikoff, the fintech company on a mission to empower everyone to achieve financial security, today announced it has acquired technology, customer relationships, and other key assets of The Service Bureau (TSB), a leading provider of credit reporting and data furnishing solutions trusted by over 1,000 businesses across the credit ecosystem.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98dd1283",
+      "title": "The Inside View: From infrastructure to AI – How Shoosmiths is preparing for 2030",
+      "url": "https://legaltechnology.com/the-inside-view-from-infrastructure-to-ai-how-shoosmiths-is-preparing-for-2030/",
+      "author": "Caroline Hill - Editor-in-Chief",
+      "source": "Legal IT Insider",
+      "published_at": "2026-07-08T09:50:36+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://legaltechnology.com/wp-content/uploads/2026/07/Spotify-3.png\" alt=\"Spotify-3.png\"></p><p>In this latest episode of the Inside View podcast, Legal IT Insider’s editor Caroline Hill sits down with Shoosmiths’ chief operating officer Rachel Reid and director of IS Dawn Faulkner […]</p>  \n<p>The post <a href=\"https://legaltechnology.com/the-inside-view-from-infrastructure-to-ai-how-shoosmiths-is-preparing-for-2030/\">The Inside View: From infrastructure to AI – How Shoosmiths is preparing for 2030</a> appeared first on <a href=\"https://legaltechnology.com\">Legal IT Insider</a>.</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98da286b",
+      "title": "Legatics Data Rooms Launches as VDR Alternative",
+      "url": "https://www.artificiallawyer.com/2026/07/08/legatics-data-rooms-launches-as-vdr-alternative/",
+      "author": "artificiallawyer",
+      "source": "Artificial Lawyer",
+      "published_at": "2026-07-08T10:42:42+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-11.27.17.png\" alt=\"Screenshot-2026-07-08-at-11.27.17.png\"></p>Legatics has launched its own ‘Data Rooms’ capability, which enables law firms to manage transactions and share confidential documents within a single workflow, and as <a href=\"https://www.artificiallawyer.com/2026/07/08/legatics-data-rooms-launches-as-vdr-alternative/\" title=\"Legatics Data Rooms Launches as VDR Alternative\">...</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98d3d29b",
+      "title": "AI in Banking: What is Myth and What is Reality?",
+      "url": "https://www.finextra.com/videoarticle/3544/ai-in-banking-what-is-myth-and-what-is-reality?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T10:07:34+00:00",
+      "updated_at": "",
+      "summary": "At EBAday in Copenhagen, Tapan Agarwal, Head of Payments Solutions and Krishnan Srinivasan (KS), President and Region Head, Europe and CIS Markets, Intellect Design Arena, discussed the myths and truths surrounding AI with FinextraTV. KS began by listing the many ways he has experienced AI being used effectively within banking, firmly defining it as a 'reality' rather than a myth, but notes the constraints that must be navigated within the EU act. Tapan then explains his view on the three primary concerns within payment operations currently and where banks should look to solve these obstacles.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98d3d29d",
+      "title": "Profile releases AI orchestration platform for banks",
+      "url": "https://www.finextra.com/pressarticle/110372/profile-releases-ai-orchestration-platform-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T10:07:34+00:00",
+      "updated_at": "",
+      "summary": "Profile (ATH: PROF), a global financial technology leader with a presence in more than 50 countries, today announced the launch of ProfileOne, an enterprise-grade agentic AI orchestration platform designed to help financial institutions move from insight to controlled execution across banking and investment management.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal",
+        "Priority"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98d23e8b",
+      "title": "How Haynes Boone Makes Working with AI a Core Lawyering Skill",
+      "url": "https://www.artificiallawyer.com/2026/07/08/how-haynes-boone-makes-working-with-ai-a-core-lawyering-skill/",
+      "author": "artificiallawyer",
+      "source": "Artificial Lawyer",
+      "published_at": "2026-07-08T09:58:29+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-10.53.00.png\" alt=\"Screenshot-2026-07-08-at-10.53.00.png\"></p>By Ian Nelson, Co-Founder, Hotshot. At Haynes Boone, working with generative AI is treated as a core lawyering competency, not just a tool to roll <a href=\"https://www.artificiallawyer.com/2026/07/08/how-haynes-boone-makes-working-with-ai-a-core-lawyering-skill/\" title=\"How Haynes Boone Makes Working with AI a Core Lawyering Skill\">...</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98cf66ed",
+      "title": "Visa moves beyond payments to become international travel company",
+      "url": "https://www.finextra.com/newsarticle/48054/visa-moves-beyond-payments-to-become-international-travel-company?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T09:38:18+00:00",
+      "updated_at": "",
+      "summary": "Visa is expanding its remit beyond payments with the launch of a new mobile-first travel platform in ten international locations.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98c69a3f",
+      "title": "Axos to acquire Arc Technologies",
+      "url": "https://www.finextra.com/pressarticle/110366/axos-to-acquire-arc-technologies?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T08:38:50+00:00",
+      "updated_at": "",
+      "summary": "Axos Nevada Holding, LLC, a subsidiary of Axos Financial, Inc. (“Axos” or the “Company”) announced that it has entered into a definitive agreement to acquire Arc Technologies, Inc. (“Arc”), a financial technology platform serving technology and growth companies.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98c69a42",
+      "title": "BlockAPT launches AI-powered cyber defence for SMEs",
+      "url": "https://www.finextra.com/pressarticle/110365/blockapt-launches-ai-powered-cyber-defence-for-smes?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T08:38:50+00:00",
+      "updated_at": "",
+      "summary": "Cyber defence firm BlockAPT has launched Pivotra AI Essential, an AI-powered cyber defence solution built specifically for small and medium-sized enterprises (SME) in the financial services space to help them keep up and stay protected in the era of machine-speed cyber threats.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98c69a46",
+      "title": "Building the AI-First Bank: Why the CIO Agenda Must Move Beyond Channels",
+      "url": "https://www.finextra.com/blogposting/32223/building-the-ai-first-bank-why-the-cio-agenda-must-move-beyond-channels?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T08:15:41+00:00",
+      "updated_at": "",
+      "summary": "The banking industry has spent years perfecting the digital channel. Mobile apps became cleaner. Web...",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98c69a48",
+      "title": "AI Automation for Tax Compliance: A Governance-First Framework for the Intelligent Tax Function",
+      "url": "https://www.finextra.com/blogposting/32222/ai-automation-for-tax-compliance-a-governance-first-framework-for-the-intelligent-tax-function?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T06:54:54+00:00",
+      "updated_at": "",
+      "summary": "Tax compliance is undergoing a structural transformation. Historically, tax functions have relied on...",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98c69a4a",
+      "title": "Central Asian AI Infrastructure: Why Freedom Holding, NVIDIA, and Citi Are Partnering in Kazakhstan",
+      "url": "https://www.finextra.com/blogposting/32219/central-asian-ai-infrastructure-why-freedom-holding-nvidia-and-citi-are-partnering-in-kazakhstan?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-07T22:16:56+00:00",
+      "updated_at": "",
+      "summary": "Quick Answer: The competitive advantage in modern financial markets is rapidly shifting from front-e...",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98c69a3a",
+      "title": "Euroclear to acquire Uptevia",
+      "url": "https://www.finextra.com/pressarticle/110369/euroclear-to-acquire-uptevia?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T08:38:50+00:00",
+      "updated_at": "",
+      "summary": "Euroclear today announces that it has entered into exclusive negotiations to acquire Uptevia, a leading French corporate trust services provider.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98c69a3b",
+      "title": "Meniga integrates with bank AI assistants for conversational banking",
+      "url": "https://www.finextra.com/pressarticle/110368/meniga-integrates-with-bank-ai-assistants-for-conversational-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "author": "",
+      "source": "Finextra Research news",
+      "published_at": "2026-07-08T08:38:50+00:00",
+      "updated_at": "",
+      "summary": "Meniga has launched Fini, an advanced, standards-compliant MCP server that enables banks to bring agentic AI into their digital channels using Meniga's financial intelligence.",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Compliance",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98c51649",
+      "title": "Harvey Increases Token Use 14X in Just 6 Months",
+      "url": "https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/",
+      "author": "artificiallawyer",
+      "source": "Artificial Lawyer",
+      "published_at": "2026-07-08T08:25:09+00:00",
+      "updated_at": "",
+      "summary": "<p><img src=\"https://www.artificiallawyer.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-09.11.32.png\" alt=\"Screenshot-2026-07-08-at-09.11.32.png\"></p>Harvey’s co-founder and President, Gabe Pereyra, has announced that the number of tokens processed on the broad legal AI platform have increased by fourteen times <a href=\"https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/\" title=\"Harvey Increases Token Use 14X in Just 6 Months\">...</a>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
+      ]
+    },
+    {
+      "id": "tag:google.com,2005:reader/item/0000000b98c2f4c4",
+      "title": "AL TV Interview: Docusign’s Legal Tech Strategy With CLO, Jim Shaughnessy",
+      "url": "https://www.youtube.com/watch?v=6ScNScnvsfs",
+      "author": "Artificial Lawyer",
+      "source": "Artificial Lawyer",
+      "published_at": "2026-07-08T06:18:38+00:00",
+      "updated_at": "",
+      "summary": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.inoreader.com/yt-embed/?v=6ScNScnvsfs\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"width:100%;aspect-ratio:16/9;height:auto;display:block;border:0;\" frameborder=\"0\"></iframe></p><p>AL TV Interview: Docusign’s Legal Tech Strategy With CLO, Jim Shaughnessy <br> \n<br> \nDocusign is a $3.2 billion revenue company and is now focusing more than ever before on its legal tech offering. In this AL interview with CLO, Jim Shaughnessy, we explore where Docusign is today in terms of legal tech, such as its CLM capabilities, how it’s been deploying genAI, and where it’s heading. <br> \n<br> \nWe also look at aspects such as DocuSign providing legal customers with ‘certificates of agentic action’ to help reduce the black box effect of AI, and we also look to the future potential for automated contract negotiation and a new generation of smart contracts. <br> \n<br> \nVia Artificial Lawyer #legaltech #CLM #legalAI</p>",
+      "content": "",
+      "categories": [
+        "reading-list",
+        "Legal Tech Core",
+        "High-Signal"
       ]
     }
   ]
