@@ -1,7 +1,7 @@
 # Legal Tech Intelligence — Standing View
 **Audience:** President/GM and Head of Product, Epiq Global Legal Solutions
 **Purpose:** Cumulative strategic market memory, updated weekly
-**Last updated:** Week of June 27, 2026
+**Last updated:** Week of July 11, 2026
 
 ---
 
@@ -9,11 +9,11 @@
 
 | # | Hypothesis | Current Status | Confidence |
 |---|-----------|---------------|------------|
-| H1 | Value in legal AI is shifting from model capability to workflow orchestration and defensibility | Strengthened and contested simultaneously. Thomson Reuters re-platformed CoCounsel at the assistant/orchestration layer; Perplexity entered "powered by legal-tech integrations." Both confirm orchestration is the contested value surface — but frontier entry at the integration layer means integration breadth alone no longer differentiates. The durable perimeter narrows to auditable, jurisdiction-aware, human-accountable orchestration | High |
-| H2 | RelativityOne migration represents a structural margin reset for LSPs, not a temporary headwind | Stable — no new direct evidence. Casepoint's classified BPA is an indirect reminder that defensible federal spend concentrates around alternative-platform, security-cleared vendors | Medium |
-| H3 | AI will compress revenue per unit of discovery work without reducing overall demand | Reinforced indirectly. A re-platformed CoCounsel and a second frontier entrant both push downward on assistant-exposed research/review revenue | High |
-| H4 | The path to recurring revenue runs through investigation readiness and AI-ready data governance | Strengthened. TR's adoption-value gap data reframes recurring revenue as closing the deployment-to-value gap; BARBRI/Lega reinforces governance migrating to a services/enablement layer LSPs can own | High |
-| H5 | The primary disintermination risk comes from frontier AI vendors moving up the stack, not from LSP competitors | Strengthened materially. Perplexity's legal launch within weeks of Anthropic converts the platform-launch pathway from a single instance into a cadence, both entering at the orchestration layer | Very High |
+| H1 | Value in legal AI is shifting from model capability to workflow orchestration and defensibility | Strengthened and contested from a new direction. Relativity's repositioning as a "legal data intelligence" platform and Gavel integration put a platform incumbent into the orchestration/analytics tier — alongside frontier vendors (Perplexity, Anthropic) and forensic vendors (Exterro). Orchestration is now contested from platform, frontier, and forensic directions simultaneously. The durable perimeter remains: auditable, jurisdiction-aware, human-accountable orchestration. The governance-gap survey quantifies unmet demand for exactly this defensibility. | High |
+| H2 | RelativityOne migration represents a structural margin reset for LSPs, not a temporary headwind | Refined and escalated. The dependency risk is no longer only pricing/migration — Relativity's move up-stack into "legal data intelligence," contract review, and automation is scope encroachment into the differentiating tier LSPs rely on. Dependency now carries roadmap exposure, not just cost exposure. | Medium-High |
+| H3 | AI will compress revenue per unit of discovery work without reducing overall demand | Reinforced. Fourth consecutive rise in eDiscovery AI adoption; data diversity now the top market issue; Darrow distress suggests standalone tooling under pressure. Downward pressure on assistant/review-exposed revenue continues. | High |
+| H4 | The path to recurring revenue runs through investigation readiness and AI-ready data governance | Strengthened. The governance-gap survey (30% running production AI on inconsistent processes) quantifies a documentation/defensibility deficit that is an ongoing services opportunity, not a one-time fix. Exterro ARMOUR for FTK extends investigation-readiness automation into production. | High |
+| H5 | The primary disintermediation risk comes from frontier AI vendors moving up the stack, not from LSP competitors | Refined. Frontier-vendor cadence (Anthropic→Perplexity) remains the primary up-stack threat, but this week broadens the disintermediation picture: the platform incumbent LSPs already depend on is itself climbing into orchestration. Disintermediation pressure is now multi-source — frontier from above, platform from within. | Very High |
 
 ---
 
@@ -21,38 +21,39 @@
 
 ### LSP Margin Structure: Compression from Multiple Directions
 - **Status:** Core
-- **Claim:** Unchanged in structure. This week sharpens the threat side: a re-platformed incumbent assistant and a second frontier entrant both compress assistant-exposed research/review revenue, while TR's adoption-value gap data strengthens the case for pricing the offset (managed value-realization) on outcomes.
-- **Latest evidence:** TR CoCounsel rebuild (June 22); TR adoption-value survey (June 22); Perplexity legal launch (June 24); prior — EU CADA, GSA LLM clause.
+- **Claim:** Unchanged in structure; a new compression vector added this week. Beyond assistant-exposed revenue (frontier + incumbent assistants), the platform vendor's move up-stack threatens the analytics/automation margin available to LSPs building above hosting. The governance-gap survey sharpens the offset side: defensibility can be priced as risk reduction.
+- **Latest evidence:** Relativity "legal data intelligence" + Gavel (July 9); governance-gap survey (July 9); Darrow distress (July 9); prior — TR CoCounsel rebuild, Perplexity legal launch, TR adoption-value survey.
 - **Confidence:** High
 
 ### Relativity Dependency: Structural Risk, Not Just Pricing Friction
 - **Status:** Core
-- **Claim:** Unchanged. Casepoint's classified BPA is an indirect datapoint that defensible federal spend concentrates around alternative-platform, security-cleared vendors.
+- **Claim:** Escalated this week. Relativity elevated its product chief to president and repositioned as a "legal data intelligence" platform, integrating Gavel (document automation / contract review). Dependency risk shifts from pricing/migration to scope encroachment — the platform is climbing into the orchestration, analytics, and automation tier LSPs use to differentiate. Roadmap exposure now compounds cost exposure.
+- **Latest evidence:** Relativity/Brown/Gavel (July 9, dual-sourced); prior — Casepoint classified BPA.
 - **Confidence:** High
 
 ### Workflow Orchestration as the Emerging Competitive Moat
 - **Status:** Core
-- **Claim:** Refined this week. Orchestration is confirmed as the contested value surface — by both the dominant incumbent (CoCounsel rebuild) and a frontier entrant (Perplexity "powered by legal-tech integrations"). But frontier entry at the integration layer means integration breadth no longer differentiates on its own. The defensible perimeter narrows to: provable model-and-jurisdiction provenance, model/region swap without breaking the audit trail, access control, and human-accountable delivery. The jurisdiction-awareness rationale (CADA) and continuity rationale (Anthropic shutoff) both reinforce this narrowed perimeter.
-- **Latest evidence:** TR CoCounsel rebuild (June 22); Perplexity legal launch (June 24); prior — EU CADA, Anthropic shutoff, Consilio/Wordsmith embed, Exterro ARMOUR, Claude for Legal MCP, Harvey Legal Agent Bench.
+- **Claim:** Refined this week. Orchestration is now contested from three directions: platform incumbents (Relativity), frontier vendors (Perplexity, Anthropic), and forensic vendors (Exterro). Integration breadth and connectivity no longer differentiate. The defensible perimeter narrows further to provable governance and human accountability that software vendors cannot structurally deliver. The governance-gap survey shows demand for this defensibility is real and largely unmet (30% running production AI on inconsistent processes).
+- **Latest evidence:** Relativity repositioning (July 9); governance-gap survey (July 9); Exterro ARMOUR for FTK (July 9); prior — TR CoCounsel rebuild, Perplexity legal launch, EU CADA, Anthropic shutoff, Consilio/Wordsmith embed.
 - **Confidence:** High
-- **What to watch:** Whether buyers write multi-model continuity AND sovereignty-tier language into RFPs; whether frontier vendors name integration partners; whether incumbents continue the embed-the-vendor model.
+- **What to watch:** Whether Relativity packages automation/contract review as managed offerings; whether buyers write documentation/defensibility requirements into RFPs.
 
 ### Enterprise AI Adoption: Behind the Hype, Ahead of Comfort
 - **Status:** Core
-- **Claim:** Strengthened with quantified evidence. TR's "Future of Professionals" survey converts the adoption-value gap from anecdote to dual-sourced data with named costs (lost clients, departing talent, slower junior development). This is the empirical backbone of the LSP "we close the adoption-to-value gap" managed-delivery narrative.
-- **Latest evidence:** TR adoption-value survey (June 22; corroborated by Artificial Lawyer).
+- **Claim:** Strengthened with discovery-specific quantification. The governance-gap survey confirms high deployment (69%) but low documentation discipline (57%), with ~30% running production AI on inconsistent processes. This is the empirical backbone of the "we close the adoption-to-defensibility gap" managed-delivery narrative — now with an eDiscovery-specific statistic.
+- **Latest evidence:** Governance-gap survey (July 9); prior — TR adoption-value survey.
 - **Confidence:** High
 
 ### AI Governance Doctrine: Multi-Front Enforcement Reality
 - **Status:** Core
-- **Claim:** Unchanged this week. The enforcement/compliance surface established in prior weeks (court rulings, state statutes, federal export control, multi-state AG coalitions, EU sovereignty tiers, federal procurement LLM clause) carries forward. No new front this week.
+- **Claim:** Unchanged this week. The enforcement/compliance surface established in prior weeks carries forward. No new enforcement front this week; the governance-gap survey adds market (not regulatory) evidence of the defensibility deficit.
 - **State count:** Three states with enacted comprehensive AI governance (CA, NY, CT); Colorado transparency-only.
 - **Confidence:** High
 
 ### Frontier AI Vendors as Disintermediation Threat
 - **Status:** Core
-- **Claim:** Strengthened materially. The platform-launch pathway moved from a single instance to a cadence: Perplexity's "Computer for Counsel" launched within weeks of Anthropic's legal push, both entering at the orchestration/integration layer the LSP moat is built on. The four pathways remain; the platform-launch pathway is now the most active.
-- **Evidence:** Perplexity legal launch (June 24); prior — Anthropic legal push, Claude for Legal, BIS Anthropic shutoff, EU CADA, Consilio/Wordsmith embed, Carta Law, Exterro ARMOUR, Harvey, Manifest OS.
+- **Claim:** Broadened this week. The frontier-vendor cadence (Anthropic→Perplexity) remains the primary up-stack threat. But disintermediation is no longer solely frontier-driven: the platform incumbent LSPs depend on (Relativity) is climbing into orchestration/analytics itself. The threat picture is now multi-source — frontier from above, platform from within.
+- **Evidence:** Relativity repositioning (July 9); prior — Perplexity legal launch, Anthropic legal push, Claude for Legal, EU CADA, Consilio/Wordsmith embed, Carta Law.
 - **Confidence:** Very High
 
 ---
@@ -61,24 +62,23 @@
 
 ### Information Governance as a Growth Adjacency
 - **Status:** Emerging — strong candidate for promotion to Core
-- **Signal:** Modestly reinforced. Epiq/ClearPeople partnership extends Epiq into the knowledge/digital-workspace modernization layer; BARBRI/Lega suggests governance migrating to services/enablement. HaystackID COMET and prior evidence remain.
+- **Signal:** Reinforced. The governance-gap survey quantifies unmet demand for documented, defensible AI process — a recurring services opportunity. Exterro ARMOUR extends investigation-readiness automation. Epiq's own agentic AI roundtable positioning crystallizes the "governed orchestration + human accountability" narrative. Epiq/ClearPeople and BARBRI/Lega carry forward.
 - **Confidence:** Medium-High
+
+### AI Governance as Services/Enablement Layer vs. Standalone Product
+- **Status:** Emerging
+- **Signal:** Modestly reinforced. Darrow's layoffs (a standalone litigation-AI vendor cutting ~1/3 of staff) is an additional, low-confidence data point that standalone tooling struggles versus governed managed delivery. BARBRI/Lega carries forward.
+- **Early evidence:** Darrow distress (July 9); BARBRI/Lega (June 22).
+- **Confidence:** Low-Medium
 
 ### Upstream AI Model Provider Risk as LSP Compliance Variable
 - **Status:** Promoted toward Core — realized recently
-- **Signal:** Unchanged this week. CADA sovereign dimension and Anthropic shutoff continuity dimension both carry forward.
+- **Signal:** Unchanged this week.
 - **Confidence:** High
-
-### AI Governance as Services/Enablement Layer vs. Standalone Product
-- **Status:** Emerging — new sub-thread
-- **Signal:** BARBRI's acquisition of Lega — a startup that launched on LLM governance and pivoted to experiential AI training before being acquired — is a data point that standalone AI-governance tooling is hard to sustain, and that governance is migrating toward services, training, and enablement. Directly relevant to where LSPs position governance advisory.
-- **Early evidence:** BARBRI/Lega acquisition (June 22).
-- **What would confirm:** Additional governance-tooling startups pivoting to services or being absorbed; LSPs winning packaged governance-enablement mandates.
-- **Confidence:** Low-Medium
 
 ### Autonomous Agent Governance Gap
 - **Status:** Emerging
-- **Signal:** Unchanged this week. Estonia's agent digital-ID proposal remains the first national framework.
+- **Signal:** Unchanged this week.
 - **Confidence:** Medium
 
 ### Sovereign AI as Compliance Architecture
@@ -103,12 +103,12 @@
 
 ### Legal Services Absorption by Technology Platforms
 - **Status:** Emerging
-- **Signal:** Reinforced. Perplexity's vertical entry into legal — a search/frontier-AI platform building a legal offering from its own legal department's usage — is another instance of a technology platform absorbing legal-services capability.
+- **Signal:** Reinforced from a new angle. Relativity's move into "legal data intelligence" and contract/automation is a platform incumbent (not a frontier vendor) absorbing more of the legal-workflow stack.
 - **Confidence:** Medium
 
 ### OpenAI Vertical Deployment Capability
 - **Status:** Emerging
-- **Signal:** Unchanged this week. Watch whether OpenAI or Google follows Anthropic/Perplexity into a legal-vertical product.
+- **Signal:** Unchanged this week.
 - **Confidence:** Low
 
 ---
@@ -116,9 +116,9 @@
 ## 3. Weakening Themes
 
 ### LSP Differentiation Based on Technology
-- **Status:** Weakening — but partially counterbalanced
-- **Update:** Sharpened this week. Frontier entry at the integration layer (Perplexity) means integration breadth no longer differentiates. The counterbalancing exception narrows further to the auditable, jurisdiction-aware, human-accountable orchestration perimeter — not tool connectivity.
-- **Confidence:** High that the broad theme is weakening; the narrowed orchestration/governance dimension is the exception.
+- **Status:** Weakening
+- **Update:** Sharpened further this week. With the platform incumbent, frontier vendors, and forensic vendors all climbing into orchestration/automation, technology and integration breadth differentiate less than ever. The counterbalancing exception narrows to provable governance and human accountability — capabilities software vendors cannot structurally own.
+- **Confidence:** High that the broad theme is weakening; the governance/accountability dimension is the exception.
 
 ---
 
@@ -126,15 +126,15 @@
 
 - **Current patterns:**
   - All prior patterns unchanged
-  - **Continuity concern:** Reinforced — single-vendor model risk is a demonstrated event
-  - **Emerging sovereignty concern:** EU-exposed buyers may begin asking about jurisdiction tier and cloud/model sovereignty classification
-  - **Adoption-value gap now quantified:** TR's own survey gives buyers (and sellers) a named cost for deploying AI without realizing value
+  - **Continuity concern:** Reinforced
+  - **Documentation/defensibility deficit now quantified:** ~30% of eDiscovery deployers run production AI on inconsistent processes — a named, sellable risk buyers already carry
+  - **Emerging sovereignty concern:** carries forward
 - **Changes this week:**
-  - TR survey provides a vendor-neutral adoption-value statistic usable in managed-delivery procurement conversations
+  - The governance-gap survey provides a discovery-specific defensibility statistic usable in managed-delivery procurement conversations
 - **Open questions:**
   - All prior questions remain
-  - Will buyers write multi-model continuity AND sovereignty-tier requirements into RFPs?
-  - Will frontier-vendor legal offerings (Perplexity, Anthropic) pull buyers toward direct relationships, bypassing LSP delivery?
+  - Will buyers write documentation/defensibility requirements into RFPs?
+  - Will Relativity's up-stack move pull buyers toward the platform for analytics/automation, bypassing LSP orchestration?
 
 ---
 
@@ -142,27 +142,27 @@
 
 - **Current patterns:**
   - All prior patterns unchanged
-  - **Incumbents embedding frontier vendors:** Consilio/Wordsmith pattern remains the counter to disintermediation
-  - **Incumbents re-platforming the assistant layer:** TR's CoCounsel rebuild signals continued incumbent investment in the contested orchestration tier
-  - **Frontier vendors entering legal directly:** Perplexity follows Anthropic — a cadence, not a one-off, both at the integration layer
+  - **Platform incumbents moving up-stack:** Relativity repositioning as "legal data intelligence" and integrating Gavel — a new pattern distinct from frontier entry and incumbent-assistant rebuilds
+  - **Forensic vendors shipping agentic investigation tools:** Exterro ARMOUR for FTK
+  - **Standalone litigation-AI tooling under pressure:** Darrow layoffs
 - **Changes this week:**
-  - TR re-architected CoCounsel (early access, not GA)
-  - Perplexity launched "Computer for Counsel"
-  - Epiq extended into knowledge/workspace modernization (ClearPeople)
+  - Relativity elevated CPO to president; declared "legal data intelligence" strategy; folding in Gavel
+  - Exterro shipped agentic FTK forensic capability
+  - Darrow cut ~1/3 of staff (reported, unverified scope)
 - **Open questions:**
   - All prior questions remain
-  - Which legal-tech integration partners power frontier-vendor legal offerings?
-  - Will CoCounsel GA pricing/positioning narrow the LSP delivery role?
+  - Will Relativity package automation/contract review as managed offerings competing with LSP services?
+  - How does "legal data intelligence" coexist with partner-delivered orchestration?
 
 ---
 
 ## 6. Tensions / Contradictions
 
 ### AI as Margin Opportunity vs. AI as Margin Threat
-- **Tension:** Sharpened modestly. TR's adoption-value data strengthens the opportunity side (priceable value-realization advisory); the CoCounsel rebuild and Perplexity entry strengthen the threat side (assistant-exposed revenue compression).
+- **Tension:** Sharpened. The governance-gap survey strengthens the opportunity side (priceable defensibility advisory); Relativity's up-stack move and continued adoption strengthen the threat side (analytics/automation margin capture by the platform).
 
 ### Relativity as Dependency vs. Relativity as Partner
-- **Tension:** Unchanged directly; Casepoint's classified BPA reinforces by analogy that defensible federal spend concentrates around alternative-platform vendors.
+- **Tension:** Sharpened materially. Relativity's repositioning into "legal data intelligence," contract review, and automation makes the partner-versus-dependency question a scope/roadmap question, not just a pricing question. The platform LSPs sit on is now a declared competitor for the intelligence tier above it.
 
 ### Scale as Moat vs. Scale as Vulnerability
 - **Tension:** Unchanged this week.
@@ -171,22 +171,22 @@
 - **Tension:** Unchanged this week.
 
 ### Cautious Adoption Timeline vs. Frontier Capability Signals
-- **Tension:** Sharpened. TR's survey confirms slow, chaotic adoption even as two frontier vendors ship legal products — the capability/adoption divergence widens.
+- **Tension:** Sharpened. High deployment (69%) with low documentation (57%) confirms fast, undisciplined adoption — capability and defensibility diverge.
 
 ### State Governance Mandates vs. Federal Preemption Framework
-- **Tension:** Unchanged this week. The broadened multi-front compliance surface from prior weeks carries forward.
+- **Tension:** Unchanged this week.
 
 ### Orchestration Exclusivity vs. Multi-Party Competition
-- **Tension:** Sharpened materially. Frontier vendors (Perplexity) now compete directly at the integration/orchestration layer, alongside incumbents (TR). Orchestration is unambiguously a multi-party contest; LSP defensibility shifts from "we orchestrate" to "we orchestrate with provable governance and human accountability."
+- **Tension:** Sharpened. Orchestration is now contested by platform incumbents, frontier vendors, and forensic vendors simultaneously. LSP defensibility shifts decisively from "we orchestrate" to "we orchestrate with provable governance and human accountability."
 
 ### AI Privilege Protection vs. AI Privilege Risk
 - **Tension:** Unchanged this week.
 
 ### Agentic AI Capability vs. Agentic AI Governance
-- **Tension:** Unchanged this week.
+- **Tension:** Unchanged this week; Exterro's agentic forensic tool is an incremental capability data point.
 
 ### Frontier Vendor Partner vs. Frontier Vendor Disintermediator
-- **Tension:** Sharpened. Perplexity entering at the integration layer "powered by legal-tech integrations" raises the question of whether frontier vendors partner with or absorb the legal-tech layer LSPs depend on — resolution still favors model-agnostic governed delivery, but the partner-vs-disintermediator question is now live for the integration tier itself.
+- **Tension:** Unchanged directly; the parallel platform-incumbent question (Relativity partner vs. competitor) is now the more active variant.
 
 ---
 
@@ -194,31 +194,30 @@
 
 | Item | Trigger | Why It Matters | Status |
 |------|---------|---------------|--------|
-| Frontier-vendor legal entry cadence | A third frontier vendor (OpenAI, Google) launching a legal-vertical product | Confirms the Anthropic→Perplexity sequence as structural, not coincidental | Elevated — new this week |
-| Frontier-vendor integration partners | Perplexity/Anthropic naming which legal-tech integrations power their offerings | Reveals whether frontier vendors partner with or bypass the legal-tech layer LSPs depend on | Elevated — new this week |
-| CoCounsel next-gen GA | General availability with pricing/positioning | Determines whether the rebuild narrows or expands the LSP delivery role above the assistant | Elevated — new this week |
-| Governance-tooling consolidation | More AI-governance startups pivoting to services or being absorbed | Confirms governance as a services/enablement layer LSPs can own | Monitor — new this week |
-| EU CADA sovereignty-tier adoption | EU clients writing sovereignty-tier requirements into RFPs | Converts sovereign-AI concern into procurement criterion favoring jurisdiction-aware orchestration | Elevated |
-| GSA LLM data-safeguarding clause | Finalization and scope of GSAR clause 552.239-7001 | Federal-contractor AI data-handling compliance spec feeding advisory demand | Elevated |
+| Relativity scope encroachment | Brown's mandate expanding Relativity into contract/automation managed offerings | Converts platform dependency from pricing risk to direct service competition | Elevated — new this week |
+| Relativity "legal data intelligence" partner coexistence | Any statement on how the platform strategy coexists with partner-delivered orchestration | Determines whether the platform absorbs or leaves room for LSP orchestration margin | Elevated — new this week |
+| Documentation/defensibility in RFPs | Buyers writing documented-AI-process requirements into procurement | Converts the governance-gap statistic into a procurement criterion favoring governed delivery | Elevated — new this week |
+| Litigation-tech distress spread | A second standalone AI-tooling vendor cutting staff or failing | Strengthens the case that governed managed delivery outlasts point tools | Monitor — new this week |
+| Frontier-vendor legal entry cadence | A third frontier vendor (OpenAI, Google) launching a legal-vertical product | Confirms the Anthropic→Perplexity sequence as structural | Elevated |
+| Frontier-vendor integration partners | Perplexity/Anthropic naming which legal-tech integrations power their offerings | Reveals whether frontier vendors partner with or bypass the legal-tech layer | Elevated |
+| CoCounsel next-gen GA | General availability with pricing/positioning | Determines whether the rebuild narrows or expands the LSP delivery role | Elevated |
+| Governance-tooling consolidation | More AI-governance startups pivoting to services or being absorbed | Confirms governance as a services/enablement layer LSPs can own | Monitor |
+| EU CADA sovereignty-tier adoption | EU clients writing sovereignty-tier requirements into RFPs | Converts sovereign-AI concern into procurement criterion | Elevated |
+| GSA LLM data-safeguarding clause | Finalization and scope of GSAR clause 552.239-7001 | Federal AI data-handling compliance spec feeding advisory demand | Elevated |
 | National agent-identity frameworks | Other jurisdictions following Estonia on agent digital IDs | Converts autonomous-agent governance gap into concrete liability primitive | Monitor |
-| Claude-dependent tool continuity disclosure | Harvey, Everlaw MCP, or Claude for Legal disclosing outages/continuity gaps | Reveals downstream blast radius of frontier-vendor concentration | Elevated |
-| Multi-model continuity in RFPs | Buyers writing model-fallback/vendor-qualification language into procurement | Converts continuity concern into procurement criterion favoring governed orchestration | Elevated |
+| Claude-dependent tool continuity disclosure | Harvey, Everlaw MCP, or Claude for Legal disclosing outages | Reveals downstream blast radius of frontier-vendor concentration | Elevated |
+| Multi-model continuity in RFPs | Buyers writing model-fallback/vendor-qualification language into procurement | Converts continuity concern into procurement criterion | Elevated |
 | Multi-state OpenAI investigation scope | States named; health-data theory pulling in HIPAA-adjacent clients | Determines regulated-sector advisory demand | Elevated |
-| Embed-the-vendor LSP pattern | Other incumbent LSPs partnering to put frontier AI inside managed-services channels | Confirms absorption as dominant counter to disintermediation | Elevated |
-| Casepoint / classified federal awards | Parallel large classified legal-ops awards to alternative-platform vendors | Marks where defensible security-cleared federal spend concentrates | Monitor — new this week |
-| Epiq/ClearPeople repeatability | Whether the KM/workspace partnership converts to a repeatable governance/KM offering | Tests information-governance adjacency conversion to recurring revenue | Monitor — new this week |
+| Embed-the-vendor LSP pattern | Other incumbent LSPs partnering to put frontier AI inside managed channels | Confirms absorption as dominant counter to disintermediation | Elevated |
+| Casepoint / classified federal awards | Parallel large classified legal-ops awards to alternative-platform vendors | Marks where defensible security-cleared federal spend concentrates | Monitor |
+| Epiq/ClearPeople repeatability | Whether the KM/workspace partnership converts to a repeatable offering | Tests information-governance adjacency conversion to recurring revenue | Monitor |
 | BIS designation scope/reversal | Whether the export-control directive is narrowed, reversed, or extended | Determines durability of frontier-vendor continuity risk | Elevated |
 | Relativity Server sunset | Any official communication on 2028 deadline flexibility | Determines urgency of migration strategy | Monitor |
-| Harvey Spectre integration scope | Integration across firm technology stack | Feature vs. platform displacement | Elevated |
 | Harvey agentic product delivery | Managed review or workflow delivery capability | Direct LSP service competition | Elevated |
 | Claude for Legal adoption signals | Which firms adopt; shift of work from LSP review/research | Threat converting to revenue displacement | Elevated |
 | Technology platform ALSP acquisitions | Enterprise software companies acquiring ALSPs in ABS jurisdictions | Confirms Carta Law as structural trend | Elevated |
 | AI governance court rulings | Additional rulings creating governance requirements | Compliance moat accelerating | Elevated |
 | Outcome-based pricing emergence | Any LSP announcing per-outcome AI pricing | Validates new revenue model | Monitor |
-| Microsoft Purview managed service | Any LSP announcing Purview managed service | Validates information governance adjacency | Monitor |
-| Epiq Discovery adoption rate | Public signal on client migration rate | Relativity dependency reduction indicator | Monitor |
-| NY DFS rulemaking proceedings | Draft regulations under RAISE Act | Technical requirements become product specs | Elevated |
-| RAISE Act compliance readiness offerings | Any LSP/vendor launching packaged RAISE Act assessment | First mover captures advisory mandate | Elevated |
 | Manifest OS first client wins | Client engagements/service delivery specifics | AI-native law firm from thesis to reality | Elevated |
 
 ---
@@ -227,18 +226,16 @@
 
 | Area | Assessment | Evidence Quality |
 |------|-----------|-----------------|
-| LSP margin compression | High — assistant rebuild + frontier entry sharpen threat; adoption-value data sharpens offset | Very Strong |
-| Relativity dependency risk | High — cross-layer concentration lesson reinforces by analogy | Strong |
-| AI adoption pace in legal | High — now quantified (TR survey: slow, chaotic, costly) | Very Strong |
-| Workflow orchestration as moat | High — confirmed as contested surface; perimeter narrowed to governance/accountability | Strong |
-| Information governance adjacency | Medium-High — Epiq/ClearPeople and BARBRI/Lega add modest support | Moderate-Strong |
-| Frontier AI disintermediation | Very High — platform-launch pathway now a cadence (Anthropic→Perplexity) | Very Strong |
+| LSP margin compression | High — new platform up-stack vector; adoption/defensibility offset sharpened | Very Strong |
+| Relativity dependency risk | High — scope encroachment escalates the theme; dual-sourced | Very Strong |
+| AI adoption pace in legal | High — discovery-specific quantification (69% deploy, 57% document) | Very Strong |
+| Workflow orchestration as moat | High — now contested from three directions; perimeter narrowed to governance/accountability | Strong |
+| Information governance adjacency | Medium-High — governance-gap survey + Exterro + Epiq positioning add support | Moderate-Strong |
+| Frontier AI disintermediation | Very High — cadence plus new platform-from-within vector | Very Strong |
 | Upstream AI model provider risk | High — unchanged this week | Strong |
-| AI governance doctrine | High — unchanged this week; multi-front surface carries forward | Strong |
-| Governance as services vs. product | Low-Medium — single data point (BARBRI/Lega) | Moderate (single source) |
-| Sovereign AI as compliance architecture | Medium — unchanged | Moderate (single source) |
-| Legal services absorption by technology platforms | Medium — Perplexity reinforces | Moderate |
-| Autonomous agent governance gap | Medium — unchanged | Moderate |
+| AI governance doctrine | High — unchanged this week | Strong |
+| Governance as services vs. product | Low-Medium — Darrow adds a second, low-confidence data point | Moderate |
+| Legal services absorption by platforms | Medium — Relativity reinforces from platform-incumbent angle | Moderate |
 
 ---
 
@@ -247,12 +244,10 @@
 | Claim | Current View | Disconfirming Signal |
 |-------|-------------|---------------------|
 | AI compresses LSP revenue per unit | AI reduces per-matter revenue without reducing demand | Major LSP reporting AI-driven volume growth with stable pricing |
-| Relativity dependency is structural | LSPs cannot credibly threaten departure | Multiple large LSPs announcing accelerated alternative migration |
-| Enterprise AI adoption is 3-5 years from maturity | Profession moves slowly; TR data confirms slow, chaotic adoption | Am Law 50 firm announcing AI-primary review on a significant matter |
-| Workflow orchestration will be the durable moat | Value shifts to governed, model-agnostic, jurisdiction-aware, human-accountable orchestration — integration breadth alone no longer differentiates | Frontier-vendor legal products achieving dominant adoption with their own integration layer before governed orchestration scales; buyers indifferent to provenance/accountability |
-| Frontier AI vendors are a multi-vector risk | Up-stack disintermediation now a cadence (Anthropic→Perplexity) plus vendor-as-single-point-of-failure | Frontier legal launches stalling/failing to gain adoption; labs retreating from the legal vertical |
+| Relativity dependency is structural | LSPs cannot credibly threaten departure; platform now encroaching on orchestration tier | Relativity explicitly reaffirming a partner-only posture, ceding orchestration/automation to channel; multiple large LSPs announcing accelerated alternative migration |
+| Enterprise AI adoption is 3-5 years from maturity | Profession moves fast on deployment, slow on discipline (survey confirms) | Am Law 50 firm announcing AI-primary review on a significant matter |
+| Workflow orchestration will be the durable moat | Value shifts to governed, model-agnostic, human-accountable orchestration — integration breadth no longer differentiates | Platform/frontier legal products achieving dominant adoption with their own integration layer before governed orchestration scales; buyers indifferent to provenance/accountability |
+| Frontier AI vendors are a multi-vector risk | Up-stack disintermediation now a cadence, plus platform-from-within encroachment | Frontier legal launches stalling; Relativity retreating from "legal data intelligence" |
 | Information governance is the adjacency | Recurring revenue through data governance, KM, enablement | Off-channel capture and KM partnerships failing to convert to recurring contracts |
 | AI governance doctrine is building toward hard requirements | Courts, regulators, GSEs, export control, EU sovereignty, procurement clauses creating standards | Enforcement fronts dissolving |
-| Incumbents can absorb frontier vendors | Embed-the-vendor is a viable counter to disintermediation | Embedded-vendor partnerships failing or buyers preferring direct frontier-vendor relationships |
-
----
+| Incumbents can absorb frontier vendors | Embed-the-vendor is a viable counter | Embedded-vendor partnerships failing or buyers preferring direct relationships |
