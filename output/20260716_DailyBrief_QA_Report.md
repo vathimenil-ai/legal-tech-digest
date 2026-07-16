@@ -1,30 +1,28 @@
-I need to first determine the run mode.
+**Run Mode Determination:** The header reads "Thursday, July 16, 2026" and covers a single day's intake (July 15 development, "same-day alert," "Today's intake note"). This is a **DAILY brief**.
 
-**Run Mode Determination:** The header reads "Legal Tech Intelligence — Thursday, July 16, 2026." There is no "Week of" framing, no Market Implications section, and the Source Quality Feedback uses "Today's intake note" / "sources today" language. This is a **DAILY brief**.
+Applying daily-mode rules:
+- Gate 3 → N/A (daily briefs have no Market Implications section)
+- Gate 7 → daily standard (intake note bullet)
+- Gate 8 → daily ceilings
 
-Therefore:
-- Gate 3 → N/A (daily briefs omit Market Implications)
-- Gate 7 → apply daily standard (intake note bullet)
-- Gate 8 → apply daily ceiling (1 development → under 500 words)
-
-Let me evaluate.
+Note: Gate 2 (Strategic Depth) is anchored to the Market Implications section, which does not exist in a daily brief. The strategic-hypothesis awareness must instead be evaluated as it surfaces in the "Why it matters" analysis.
 
 ---
 
-### QA Report — Thursday, July 16, 2026 (Daily Brief)
+### QA Report — Week of Thursday, July 16, 2026 (DAILY)
 
 **Stakeholder Brief — Gates 1-6, 8, 9**
 
 | Gate | Verdict | Notes |
 |------|---------|-------|
-| Gate 1: Monday Morning Test | PASS | The single Bottom Line bullet is directional and consequential — it tells LSP leadership that the governed, model-agnostic evaluation layer is claimable by services peers, directly bearing on their competitive perimeter. |
-| Gate 2: Strategic Depth | PASS | Without naming any hypothesis, the analysis clearly reflects awareness of the workflow-orchestration/governed-selection thesis (H3-equivalent), platform-dependency/incumbent-climbing dynamics (H4-equivalent), and the recurring-revenue question (explicitly flags monetization as unproven). |
-| Gate 3: Market Implications Coverage | N/A | Daily brief — no Market Implications section expected. |
-| Gate 4: Newsletter Test | PASS | All company naming (Percipient, Certera.AI) is factual attribution; implications are filtered through the LSP "defensible ground" lens without prescribing action to the reader or using internal labels. |
-| Gate 5: Watch Next Specificity | PASS | Both items are trigger-based, name relevant actors (second alternative provider/managed-review operator; leaderboard adoption), specify timeframes, and explain why the trigger matters. |
-| Gate 6: Change Discipline | PASS | The single development carries a clear "What's new" statement distinguishing services-firm-built evaluation from prior benchmark/vendor-run comparisons. |
-| Gate 8: Concision | PASS | With one development, the What Changed + Watch Next total (~430 words) falls under the 500-word daily ceiling for a single development. |
-| Gate 9: Recency Discipline | PASS | The Certera.AI launch (July 13, 2026) falls within the coverage period for a July 16 brief and is genuinely new. |
+| Gate 1: Monday Morning Test | PASS | Both bullets are directional and consequential — they reframe a rebrand as a two-incumbent category pattern threatening the orchestration layer LSPs monetize, which would change what a President prioritizes. |
+| Gate 2: Strategic Depth | PASS | Analysis clearly reflects H3 (orchestration not model competition), H2 (recurring embedded ops via managed delivery), and H1 (margin compression as integration breadth commoditizes) embedded in the "Why it matters" reasoning without naming any scaffolding. |
+| Gate 3: Market Implications Coverage | N/A | Daily brief — no Market Implications section required. |
+| Gate 4: Newsletter Test | PASS | Implications are filtered through the LSP lens (defensible ground = auditable jurisdiction-aware process; governance advisory role) without prescribing action to the reader's company or using internal labels. |
+| Gate 5: Watch Next Specificity | PASS | Both items are trigger-based, name the actor (Litera / a third incumbent), tie to a dated event (ILTACON), and explain why each would matter. |
+| Gate 6: Change Discipline | PASS | The "What's new" statement explicitly distinguishes the shift from one-off (Relativity last week) to category pattern, and flags that near-term reality is messaging, not shipped capability. |
+| Gate 8: Concision | PASS | One development; What Changed + Watch Next totals roughly 430 words, under the 500-word single-development daily ceiling. |
+| Gate 9: Recency Discipline | PASS | The Litera relaunch is dated July 15, 2026, within the coverage period; the Relativity reference is correctly framed as prior context, not a new development. |
 
 ### Overall Verdict
 **APPROVED**
@@ -33,15 +31,15 @@ Let me evaluate.
 ### Operator QA: Source Quality Feedback
 (Evaluating Operator Brief — does not affect overall verdict)
 
-| Gate | Verdict | Notes |
-|------|---------|-------|
-| Gate 7: Source Quality Feedback | PASS | Applying the daily standard, the "Today's intake note" bullet gives a concise, specific operational observation (thin signal day, single-source dependency, need for a second confirmation before treating the claim as settled) — no TYPE A–F action is required for a daily brief. |
+| Gate 7: Source Quality Feedback | PASS | The "Today's intake note" gives a concise, specific operational observation (single Tier 1 item, high corroboration across four independent outlets) meeting the daily standard; no TYPE A–F action is required for a daily brief. |
 
 ### Fix Instructions (if any gates failed)
 None — all applicable gates passed.
 
+Minor advisory (non-blocking): The operator "intake note" uses the terms "Tier 1" and "high corroboration." These are permitted in the Source Quality Feedback section of the operator brief, but note that "Tier 1" also appears indirectly framed in the stakeholder brief's subtitle logic — verify no "Tier"/"high corroboration" scoring language leaks into any future reader-facing edit.
+
 ### Strongest Element This Week
-The "What's new" framing that a services firm is approaching the neutral-evaluation layer from the opposite direction to platform incumbents climbing up from hosting — this reframes model selection from a procurement input into an ownable service artifact, which is a genuinely sharp strategic reframe.
+The reframing in the second Bottom Line bullet — that the signal is *positioning cadence*, not a shipped product, and that "two in eight days" commoditizes the "we connect your tools" pitch faster than any single launch — is the insight most likely to change how a reader weighs the threat.
 
 ### Weakest Element This Week
-The Bottom Line's second sentence is dense and abstract ("the same governed, model-agnostic ground that the durable competitive perimeter depends on") — a senior reader skimming Monday morning may stall on the compressed phrasing before reaching the clearer payoff in the third sentence.
+The repeated verbatim vendor-claim lines ("Litera positions itself as the Legal AI provider best built...") embedded inside What Changed read as press-release residue and are the passages a senior reader is most likely to skim past, since the analysis already correctly discounts them as positioning.
